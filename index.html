@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cyber Pulse</title>
+  <style>
+    /* ── Reset & Base ─────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:          #0d1117;
+      --surface:     #161b22;
+      --border:      #21262d;
+      --text-muted:  #8b949e;
+      --text-body:   #e6edf3;
+      --text-head:   #f0f6fc;
+      --accent:      #58a6ff;
+      --accent-dim:  rgba(88, 166, 255, 0.12);
+      --font-sans:   -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;
+      --font-mono:   'Cascadia Code', 'Consolas', 'Courier New', monospace;
+      --radius:      6px;
+      --header-h:    56px;
+    }
+
+    html, body {
+      height: 100%;
+      background: var(--bg);
+      color: var(--text-body);
+      font-family: var(--font-sans);
+      font-size: 14px;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { color: inherit; text-decoration: none; }
+    a:hover { color: var(--text-head); }
+    button { cursor: pointer; font-family: inherit; }
+
+    /* ── Header ───────────────────────────────────────────────── */
+    #header {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: var(--header-h);
+      background: var(--bg);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 24px;
+      z-index: 100;
+      gap: 16px;
+    }
+
+    #wordmark {
+      font-family: var(--font-mono);
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--text-head);
+      letter-spacing: 0.04em;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    #wordmark span {
+      color: var(--accent);
+    }
+
+    #header-right {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    #last-updated {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+
+    /* ── View Switcher ────────────────────────────────────────── */
+    #view-switcher {
+      display: flex;
+      gap: 2px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 3px;
+      flex-shrink: 0;
+    }
+
+    .view-btn {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 12px;
+      padding: 4px 12px;
+      border-radius: 4px;
+      transition: background 0.15s, color 0.15s;
+      white-space: nowrap;
+    }
+
+    .view-btn:hover {
+      color: var(--text-body);
+      background: var(--border);
+    }
+
+    .view-btn.active {
+      background: var(--border);
+      color: var(--text-head);
+    }
+
+    .view-btn.active[data-view="bookmarks"] {
+      color: var(--accent);
+    }
+
+    /* ── Main Layout ──────────────────────────────────────────── */
+    #main {
+      margin-top: var(--header-h);
+      max-width: 860px;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 24px 16px 64px;
+    }
+
+    /* ── Section heading (by-source view) ────────────────────── */
+    .source-section { margin-bottom: 40px; }
+
+    .source-heading {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 4px;
+    }
+
+    .source-heading img {
+      width: 16px;
+      height: 16px;
+      border-radius: 3px;
+      flex-shrink: 0;
+    }
+
+    .source-heading-name {
+      font-family: var(--font-mono);
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text-muted);
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    .source-heading-count {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text-muted);
+      opacity: 0.5;
+    }
+
+    /* ── Article Card ─────────────────────────────────────────── */
+    .card {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      grid-template-rows: auto auto auto;
+      gap: 0;
+      padding: 14px 0;
+      border-bottom: 1px solid var(--border);
+      transition: background 0.1s;
+    }
+
+    .card:last-child { border-bottom: none; }
+
+    .card-meta {
+      grid-column: 1 / -1;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 6px;
+      flex-wrap: wrap;
+    }
+
+    .card-favicon {
+      width: 14px;
+      height: 14px;
+      border-radius: 2px;
+      flex-shrink: 0;
+      opacity: 0.85;
+    }
+
+    .card-source {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text-muted);
+      letter-spacing: 0.04em;
+    }
+
+    .card-dot {
+      width: 2px;
+      height: 2px;
+      border-radius: 50%;
+      background: var(--text-muted);
+      opacity: 0.4;
+      flex-shrink: 0;
+    }
+
+    .card-date {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text-muted);
+      opacity: 0.7;
+    }
+
+    .card-title {
+      grid-column: 1;
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-head);
+      line-height: 1.4;
+      margin-bottom: 5px;
+    }
+
+    .card-title a:hover {
+      color: var(--accent);
+    }
+
+    .card-summary {
+      grid-column: 1 / -1;
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.55;
+    }
+
+    .card-actions {
+      grid-column: 2;
+      grid-row: 2;
+      display: flex;
+      align-items: flex-start;
+      padding-left: 16px;
+      padding-top: 1px;
+    }
+
+    /* ── Bookmark Button ──────────────────────────────────────── */
+    .bookmark-btn {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      opacity: 0.4;
+      padding: 2px 4px;
+      border-radius: 4px;
+      transition: opacity 0.15s, color 0.15s;
+      line-height: 1;
+      flex-shrink: 0;
+    }
+
+    .bookmark-btn:hover {
+      opacity: 1;
+      color: var(--accent);
+    }
+
+    .bookmark-btn.saved {
+      opacity: 1;
+      color: var(--accent);
+    }
+
+    .bookmark-btn svg {
+      width: 15px;
+      height: 15px;
+      display: block;
+    }
+
+    /* ── Empty States ─────────────────────────────────────────── */
+    .empty-state {
+      text-align: center;
+      padding: 80px 24px;
+      color: var(--text-muted);
+    }
+
+    .empty-state-icon {
+      font-size: 32px;
+      margin-bottom: 16px;
+      opacity: 0.4;
+    }
+
+    .empty-state-title {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--text-body);
+      margin-bottom: 8px;
+    }
+
+    .empty-state-body {
+      font-size: 13px;
+      line-height: 1.6;
+      max-width: 320px;
+      margin: 0 auto;
+    }
+
+    /* ── Loading State ────────────────────────────────────────── */
+    #loading {
+      text-align: center;
+      padding: 80px 24px;
+      color: var(--text-muted);
+      font-family: var(--font-mono);
+      font-size: 13px;
+    }
+
+    /* ── Error State ──────────────────────────────────────────── */
+    #error-state {
+      display: none;
+      text-align: center;
+      padding: 80px 24px;
+    }
+
+    /* ── Article count ────────────────────────────────────────── */
+    #article-count {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+      opacity: 0.6;
+    }
+
+    /* ── Responsive ───────────────────────────────────────────── */
+    @media (max-width: 600px) {
+      #header { padding: 0 12px; }
+      #wordmark { font-size: 13px; }
+      #main { padding: 16px 12px 48px; }
+      .view-btn { padding: 4px 8px; font-size: 11px; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { transition: none !important; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ── Header ──────────────────────────────────────────────── -->
+  <header id="header">
+    <div id="wordmark">cyber<span>pulse</span></div>
+    <div id="header-right">
+      <div id="last-updated">—</div>
+      <div id="view-switcher">
+        <button class="view-btn active" data-view="chronological">Latest</button>
+        <button class="view-btn"        data-view="by-source">By Source</button>
+        <button class="view-btn"        data-view="bookmarks">Bookmarks</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ── Main Content ────────────────────────────────────────── -->
+  <main id="main">
+    <div id="loading">fetching articles…</div>
+    <div id="error-state" class="empty-state">
+      <div class="empty-state-icon">⚠</div>
+      <div class="empty-state-title">Could not load feeds</div>
+      <div class="empty-state-body">feeds-data.json could not be fetched. Make sure the GitHub Actions workflow has run at least once.</div>
+    </div>
+    <div id="content" style="display:none;">
+      <div id="article-count"></div>
+      <div id="articles-container"></div>
+    </div>
+  </main>
+
+  <script>
+    // ── State ───────────────────────────────────────────────────
+    let allArticles  = [];   // flat list of all articles across all feeds
+    let feedsData    = {};   // raw feeds object keyed by source name
+    let currentView  = 'chronological';
+    let bookmarks    = loadBookmarks();
+
+    // ── Favicon helper ──────────────────────────────────────────
+    function faviconUrl(articleUrl) {
+      try {
+        const origin = new URL(articleUrl).origin;
+        return `https://www.google.com/s2/favicons?domain=${encodeURIComponent(origin)}&sz=32`;
+      } catch {
+        return '';
+      }
+    }
+
+    // ── Date formatting ─────────────────────────────────────────
+    function formatDate(isoStr) {
+      if (!isoStr) return '';
+      try {
+        const d = new Date(isoStr);
+        if (isNaN(d)) return '';
+        const now  = new Date();
+        const diff = now - d;
+        const mins = Math.floor(diff / 60000);
+        const hrs  = Math.floor(diff / 3600000);
+        const days = Math.floor(diff / 86400000);
+        if (mins < 1)   return 'just now';
+        if (mins < 60)  return `${mins}m ago`;
+        if (hrs  < 24)  return `${hrs}h ago`;
+        if (days < 7)   return `${days}d ago`;
+        return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+      } catch { return ''; }
+    }
+
+    function formatTimestamp(isoStr) {
+      if (!isoStr) return 'never';
+      try {
+        const d = new Date(isoStr);
+        return d.toLocaleString('en-US', {
+          month: 'short', day: 'numeric',
+          hour: 'numeric', minute: '2-digit',
+          hour12: true
+        });
+      } catch { return isoStr; }
+    }
+
+    // ── Bookmarks ───────────────────────────────────────────────
+    const BOOKMARK_KEY = 'cyberpulse_bookmarks';
+
+    function loadBookmarks() {
+      try {
+        return JSON.parse(localStorage.getItem(BOOKMARK_KEY) || '{}');
+      } catch { return {}; }
+    }
+
+    function saveBookmarks() {
+      try {
+        localStorage.setItem(BOOKMARK_KEY, JSON.stringify(bookmarks));
+      } catch {}
+    }
+
+    function isBookmarked(link) {
+      return !!bookmarks[link];
+    }
+
+    function toggleBookmark(article) {
+      if (bookmarks[article.link]) {
+        delete bookmarks[article.link];
+      } else {
+        bookmarks[article.link] = article;
+      }
+      saveBookmarks();
+    }
+
+    // ── Render a single card ────────────────────────────────────
+    function renderCard(article) {
+      const saved    = isBookmarked(article.link);
+      const favicon  = faviconUrl(article.link);
+      const dateStr  = formatDate(article.date);
+      const safeTitle   = escHtml(article.title);
+      const safeSummary = escHtml(article.summary);
+      const safeSource  = escHtml(article.source);
+      const safeLink    = escHtml(article.link);
+
+      return `
+        <div class="card" data-link="${safeLink}">
+          <div class="card-meta">
+            ${favicon ? `<img class="card-favicon" src="${favicon}" alt="" loading="lazy" onerror="this.style.display='none'">` : ''}
+            <span class="card-source">${safeSource}</span>
+            ${dateStr ? `<span class="card-dot"></span><span class="card-date">${dateStr}</span>` : ''}
+          </div>
+          <div class="card-title">
+            <a href="${safeLink}" target="_blank" rel="noopener noreferrer">${safeTitle}</a>
+          </div>
+          <div class="card-actions">
+            <button class="bookmark-btn ${saved ? 'saved' : ''}"
+                    data-link="${safeLink}"
+                    title="${saved ? 'Remove bookmark' : 'Bookmark this article'}"
+                    aria-label="${saved ? 'Remove bookmark' : 'Bookmark this article'}">
+              ${bookmarkIcon(saved)}
+            </button>
+          </div>
+          ${safeSummary ? `<div class="card-summary">${safeSummary}</div>` : ''}
+        </div>
+      `;
+    }
+
+    function bookmarkIcon(filled) {
+      return filled
+        ? `<svg viewBox="0 0 16 16" fill="currentColor"><path d="M3 2.75C3 1.784 3.784 1 4.75 1h6.5c.966 0 1.75.784 1.75 1.75v11.5a.75.75 0 0 1-1.227.579L8 11.722l-3.773 3.107A.75.75 0 0 1 3 14.25Z"/></svg>`
+        : `<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 2.75C3 1.784 3.784 1 4.75 1h6.5c.966 0 1.75.784 1.75 1.75v11.5a.75.75 0 0 1-1.227.579L8 11.722l-3.773 3.107A.75.75 0 0 1 3 14.25Z"/></svg>`;
+    }
+
+    function escHtml(str) {
+      return String(str || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    // ── Render views ────────────────────────────────────────────
+    function renderChronological() {
+      const container = document.getElementById('articles-container');
+      const count     = document.getElementById('article-count');
+
+      if (!allArticles.length) {
+        container.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-state-icon">📡</div>
+            <div class="empty-state-title">No articles yet</div>
+            <div class="empty-state-body">The GitHub Actions workflow hasn't run yet, or no articles were found. Check back soon.</div>
+          </div>`;
+        count.textContent = '';
+        return;
+      }
+
+      count.textContent = `${allArticles.length} articles`;
+      container.innerHTML = allArticles.map(renderCard).join('');
+    }
+
+    function renderBySource() {
+      const container = document.getElementById('articles-container');
+      const count     = document.getElementById('article-count');
+
+      const sourceNames = Object.keys(feedsData);
+      if (!sourceNames.length) {
+        container.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-state-icon">📡</div>
+            <div class="empty-state-title">No articles yet</div>
+            <div class="empty-state-body">The GitHub Actions workflow hasn't run yet. Check back after the next scheduled run.</div>
+          </div>`;
+        count.textContent = '';
+        return;
+      }
+
+      let html   = '';
+      let total  = 0;
+
+      for (const name of sourceNames) {
+        const feed     = feedsData[name];
+        const articles = feed.articles || [];
+        if (!articles.length) continue;
+        total += articles.length;
+
+        const favicon = articles[0] ? faviconUrl(articles[0].link) : '';
+
+        html += `
+          <div class="source-section">
+            <div class="source-heading">
+              ${favicon ? `<img src="${favicon}" alt="" loading="lazy" onerror="this.style.display='none'">` : ''}
+              <span class="source-heading-name">${escHtml(name)}</span>
+              <span class="source-heading-count">${articles.length}</span>
+            </div>
+            ${articles.map(renderCard).join('')}
+          </div>`;
+      }
+
+      count.textContent = `${total} articles across ${sourceNames.length} sources`;
+      container.innerHTML = html;
+    }
+
+    function renderBookmarks() {
+      const container = document.getElementById('articles-container');
+      const count     = document.getElementById('article-count');
+      const saved     = Object.values(bookmarks);
+
+      if (!saved.length) {
+        container.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-state-icon">🔖</div>
+            <div class="empty-state-title">No bookmarks yet</div>
+            <div class="empty-state-body">Click the bookmark icon on any article to save it here. Bookmarks are stored in this browser only.</div>
+          </div>`;
+        count.textContent = '';
+        return;
+      }
+
+      // Sort bookmarks newest first
+      saved.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+      count.textContent = `${saved.length} saved article${saved.length !== 1 ? 's' : ''}`;
+      container.innerHTML = saved.map(renderCard).join('');
+    }
+
+    // ── Render dispatcher ───────────────────────────────────────
+    function render() {
+      if      (currentView === 'chronological') renderChronological();
+      else if (currentView === 'by-source')     renderBySource();
+      else if (currentView === 'bookmarks')     renderBookmarks();
+    }
+
+    // ── Bookmark click delegation ───────────────────────────────
+    document.getElementById('articles-container')?.addEventListener('click', handleBookmarkClick);
+
+    function handleBookmarkClick(e) {
+      const btn = e.target.closest('.bookmark-btn');
+      if (!btn) return;
+
+      const link    = btn.dataset.link;
+      const article = allArticles.find(a => a.link === link)
+                   || Object.values(bookmarks).find(a => a.link === link);
+      if (!article) return;
+
+      toggleBookmark(article);
+
+      // Update all bookmark buttons for this article on the page
+      document.querySelectorAll(`.bookmark-btn[data-link="${CSS.escape(link)}"]`).forEach(b => {
+        const saved = isBookmarked(link);
+        b.classList.toggle('saved', saved);
+        b.title      = saved ? 'Remove bookmark' : 'Bookmark this article';
+        b.ariaLabel  = saved ? 'Remove bookmark' : 'Bookmark this article';
+        b.innerHTML  = bookmarkIcon(saved);
+      });
+
+      // If in bookmarks view, re-render to remove unbookmarked article
+      if (currentView === 'bookmarks') render();
+    }
+
+    // ── View switcher ───────────────────────────────────────────
+    document.getElementById('view-switcher').addEventListener('click', e => {
+      const btn = e.target.closest('.view-btn');
+      if (!btn) return;
+
+      const view = btn.dataset.view;
+      if (view === currentView) return;
+
+      currentView = view;
+      document.querySelectorAll('.view-btn').forEach(b => {
+        b.classList.toggle('active', b.dataset.view === view);
+      });
+
+      render();
+    });
+
+    // ── Load data ───────────────────────────────────────────────
+    async function loadData() {
+      try {
+        const resp = await fetch('feeds-data.json?t=' + Date.now());
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        const data = await resp.json();
+
+        feedsData = data.feeds || {};
+
+        // Build flat article list sorted newest first
+        allArticles = [];
+        for (const feed of Object.values(feedsData)) {
+          for (const article of (feed.articles || [])) {
+            allArticles.push(article);
+          }
+        }
+        allArticles.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+
+        // Update last updated timestamp
+        const ts = data.generated_at;
+        document.getElementById('last-updated').textContent =
+          ts ? `updated ${formatTimestamp(ts)}` : 'never updated';
+
+        // Show content
+        document.getElementById('loading').style.display  = 'none';
+        document.getElementById('content').style.display  = 'block';
+
+        // Attach bookmark delegation now that container exists
+        document.getElementById('articles-container').addEventListener('click', handleBookmarkClick);
+
+        render();
+
+      } catch (err) {
+        console.error('Failed to load feeds-data.json:', err);
+        document.getElementById('loading').style.display     = 'none';
+        document.getElementById('error-state').style.display = 'block';
+      }
+    }
+
+    loadData();
+  </script>
+</body>
+</html>

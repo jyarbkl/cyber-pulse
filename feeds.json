@@ -1,0 +1,69 @@
+{
+  "feeds": [
+    {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Dark Reading",
+      "url": "https://www.darkreading.com/rss.xml",
+      "type": "rss"
+    },
+    {
+      "name": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Risky Biz Newsletters",
+      "url": "https://risky.biz/feeds/newsletters/",
+      "type": "rss"
+    },
+    {
+      "name": "SecurityWeek",
+      "url": "https://www.securityweek.com/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "The Hacker News",
+      "url": "https://feeds.feedburner.com/TheHackersNews",
+      "type": "rss"
+    },
+    {
+      "name": "CISA Advisories",
+      "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+      "type": "rss"
+    },
+    {
+      "name": "Microsoft Security Blog",
+      "url": "https://www.microsoft.com/en-us/security/blog/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Black Hills InfoSec",
+      "url": "https://www.blackhillsinfosec.com/blog/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Google Project Zero",
+      "url": "https://projectzero.google/feed.xml",
+      "type": "rss"
+    },
+    {
+      "name": "SANS ISC",
+      "url": "https://isc.sans.edu/rssfeed.xml",
+      "type": "rss"
+    },
+    {
+      "name": "SANS Blog",
+      "url": "https://www.sans.org/blog",
+      "type": "scrape"
+    },
+    {
+      "name": "Secure Ideas",
+      "url": "https://www.secureideas.com/blog/rss.xml",
+      "type": "rss"
+    }
+  ]
+}
