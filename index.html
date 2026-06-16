@@ -28,7 +28,7 @@
       background: var(--bg);
       color: var(--text-body);
       font-family: var(--font-sans);
-      font-size: 14px;
+      font-size: 16px;
       line-height: 1.6;
       -webkit-font-smoothing: antialiased;
     }
@@ -127,16 +127,20 @@
     }
 
     /* ── Section heading (by-source view) ────────────────────── */
-    .source-section { margin-bottom: 40px; }
+    .source-section { margin-bottom: 8px; }
 
     .source-heading {
       display: flex;
       align-items: center;
       gap: 10px;
-      padding-bottom: 10px;
+      padding: 12px 0;
       border-bottom: 1px solid var(--border);
-      margin-bottom: 4px;
+      cursor: pointer;
+      user-select: none;
+      transition: opacity 0.15s;
     }
+
+    .source-heading:hover { opacity: 0.8; }
 
     .source-heading img {
       width: 16px;
@@ -152,6 +156,7 @@
       color: var(--text-muted);
       letter-spacing: 0.06em;
       text-transform: uppercase;
+      flex: 1;
     }
 
     .source-heading-count {
@@ -159,6 +164,28 @@
       font-size: 11px;
       color: var(--text-muted);
       opacity: 0.5;
+    }
+
+    .source-chevron {
+      font-size: 10px;
+      color: var(--text-muted);
+      opacity: 0.5;
+      transition: transform 0.2s;
+      flex-shrink: 0;
+    }
+
+    .source-section.expanded .source-chevron {
+      transform: rotate(90deg);
+    }
+
+    .source-articles {
+      display: none;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 0;
+    }
+
+    .source-section.expanded .source-articles {
+      display: block;
     }
 
     /* ── Article Card ─────────────────────────────────────────── */
@@ -193,7 +220,7 @@
 
     .card-source {
       font-family: var(--font-mono);
-      font-size: 11px;
+      font-size: 12px;
       color: var(--text-muted);
       letter-spacing: 0.04em;
     }
@@ -209,14 +236,14 @@
 
     .card-date {
       font-family: var(--font-mono);
-      font-size: 11px;
+      font-size: 12px;
       color: var(--text-muted);
       opacity: 0.7;
     }
 
     .card-title {
       grid-column: 1;
-      font-size: 14px;
+      font-size: 16px;
       font-weight: 600;
       color: var(--text-head);
       line-height: 1.4;
@@ -229,7 +256,7 @@
 
     .card-summary {
       grid-column: 1 / -1;
-      font-size: 13px;
+      font-size: 15px;
       color: var(--text-muted);
       line-height: 1.55;
     }
@@ -525,8 +552,8 @@
         return;
       }
 
-      let html   = '';
-      let total  = 0;
+      let html  = '';
+      let total = 0;
 
       for (const name of sourceNames) {
         const feed     = feedsData[name];
@@ -535,20 +562,32 @@
         total += articles.length;
 
         const favicon = articles[0] ? faviconUrl(articles[0].link) : '';
+        const sectionId = 'src-' + name.replace(/\W+/g, '-');
 
         html += `
-          <div class="source-section">
-            <div class="source-heading">
+          <div class="source-section" id="${sectionId}">
+            <div class="source-heading" data-section="${sectionId}">
               ${favicon ? `<img src="${favicon}" alt="" loading="lazy" onerror="this.style.display='none'">` : ''}
               <span class="source-heading-name">${escHtml(name)}</span>
-              <span class="source-heading-count">${articles.length}</span>
+              <span class="source-heading-count">${articles.length} articles</span>
+              <span class="source-chevron">▶</span>
             </div>
-            ${articles.map(renderCard).join('')}
+            <div class="source-articles">
+              ${articles.map(renderCard).join('')}
+            </div>
           </div>`;
       }
 
-      count.textContent = `${total} articles across ${sourceNames.length} sources`;
+      count.textContent = `${sourceNames.length} sources · ${total} articles — click a source to expand`;
       container.innerHTML = html;
+
+      // Attach click handlers for collapsible sections
+      container.querySelectorAll('.source-heading').forEach(heading => {
+        heading.addEventListener('click', () => {
+          const section = document.getElementById(heading.dataset.section);
+          if (section) section.classList.toggle('expanded');
+        });
+      });
     }
 
     function renderBookmarks() {
