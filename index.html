@@ -4,6 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Cyber Pulse</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230d1117'/%3E%3Cpolyline points='3,16 7,16 10,7 13,25 16,11 19,21 22,16 29,16' fill='none' stroke='%2358a6ff' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
   <style>
     /* ── Reset & Base ─────────────────────────────────────────── */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -54,12 +55,15 @@
 
     #wordmark {
       font-family: var(--font-mono);
-      font-size: 15px;
+      font-size: 18px;
       font-weight: 600;
       color: var(--text-head);
       letter-spacing: 0.04em;
       white-space: nowrap;
       flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      gap: 8px;
     }
 
     #wordmark span {
@@ -76,7 +80,7 @@
 
     #last-updated {
       font-family: var(--font-mono);
-      font-size: 11px;
+      font-size: 14px;
       color: var(--text-muted);
       white-space: nowrap;
     }
@@ -96,8 +100,8 @@
       background: none;
       border: none;
       color: var(--text-muted);
-      font-size: 12px;
-      padding: 4px 12px;
+      font-size: 15px;
+      padding: 5px 14px;
       border-radius: 4px;
       transition: background 0.15s, color 0.15s;
       white-space: nowrap;
@@ -368,7 +372,14 @@
 
   <!-- ── Header ──────────────────────────────────────────────── -->
   <header id="header">
-    <div id="wordmark">cyber<span>pulse</span></div>
+    <div id="wordmark">
+      <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <rect width="22" height="22" rx="5" fill="#0d1117"/>
+        <polyline points="2,11 5,11 7,5 9,17 11,8 13,14 15,11 20,11"
+                  fill="none" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      cyber<span>pulse</span>
+    </div>
     <div id="header-right">
       <div id="last-updated">—</div>
       <div id="view-switcher">
