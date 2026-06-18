@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-06-18T14:15:29.226509+00:00",
+  "generated_at": "2026-06-18T18:22:27.963373+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+          "link": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
+          "summary": "Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
+          "date": "2026-06-18T16:20:06+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
+          "summary": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]",
+          "date": "2026-06-18T14:19:50+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
           "link": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
@@ -95,20 +109,6 @@
           "summary": "Microsoft is investigating a new issue preventing third-party applications from launching Microsoft Office applications or opening documents on up-to-date Windows systems. [...]",
           "date": "2026-06-17T11:54:21+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited in the wild. [...]",
-          "date": "2026-06-17T10:09:24+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
-          "summary": "Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago. [...]",
-          "date": "2026-06-17T08:32:29+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Salesforce Data Thefts Continue via Klue App Compromise",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/salesforce-data-thefts-klue-app-compromise",
+          "summary": "Klue's Battlecards is now the third integrated application that has been compromised to steal customers' Salesforce data, and victims include Huntress, the cybersecurity vendor.",
+          "date": "2026-06-18T16:49:04+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Get Out of Security Debt by Tackling the Exposure Problem",
           "link": "https://www.darkreading.com/cyber-risk/security-debt-tackle-exposure-problem",
@@ -458,13 +465,6 @@
           "summary": "A prompt injection flaw in Google Gemini's voice assistant let attackers hide malicious commands in notifications, enabling social engineering and more.",
           "date": "2026-06-03T12:01:00+00:00",
           "source": "Dark Reading"
-        },
-        {
-          "title": "Global Stock Exchange Hit by Monthslong Email Campaign",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign",
-          "summary": "A threat actor got a near-continuous view into an influential finance executive's email inbox, thanks to clever use of legitimate, native Windows tools.",
-          "date": "2026-06-03T10:01:00+00:00",
-          "source": "Dark Reading"
         }
       ]
     },
@@ -472,6 +472,13 @@
       "name": "Krebs on Security",
       "url": "https://krebsonsecurity.com/feed/",
       "articles": [
+        {
+          "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
+          "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+          "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet …",
+          "date": "2026-06-18T17:37:58+00:00",
+          "source": "Krebs on Security"
+        },
         {
           "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
           "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -533,13 +540,6 @@
           "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
           "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak…",
           "date": "2026-05-08T02:58:46+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
-          "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
-          "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive s…",
-          "date": "2026-04-30T14:04:26+00:00",
           "source": "Krebs on Security"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Majority of Internet-Accessible REDCap Servers Outdated",
+          "link": "https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/",
+          "summary": "These servers are regularly targeted by China-linked UNC6508 for initial access and backdoor deployment. The post Majority of Internet-Accessible REDCap Servers Outdated appeared first on SecurityWeek .",
+          "date": "2026-06-18T17:07:48+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push",
           "link": "https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/",
           "summary": "The deal values industrial cybersecurity giant Dragos at $3.25 billion, and runZero and NetRise will operate under Dragos. The post Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Kodak told SecurityWeek it believes there is no threat to its systems or operations as a result of the cybersecurity incident. The post Kodak Admits Data Breach After ShinyHunters Hack Claims appeared first on SecurityWeek .",
           "date": "2026-06-18T07:18:51+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Webinar Today: How Modern Breaches Bypass MFA and Evade Detection",
-          "link": "https://www.securityweek.com/webinar-today-how-modern-breaches-bypass-mfa-and-evade-detection/",
-          "summary": "Attendees will learn how attackers evade conventional detection methods, why legacy MFA alone is no longer sufficient, and how organizations can strengthen their defenses. The post Webinar Today: How Modern Breaches Bypass MFA and Evade Detection appeared first on SecurityWeek .",
-          "date": "2026-06-17T14:07:16+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -981,24 +981,45 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
-          "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
-          "link": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
-          "summary": "Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2) traffic inside Microsoft Teams relay infrastructure. According to findings from Broadcom-owned Symantec and Carbon B…",
-          "date": "2026-06-18T13:30:07+00:00",
-          "source": "The Hacker News"
-        },
-        {
           "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
           "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
           "summary": "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it? For most enterprises, the answer is a simple no. The rush to adopt internal AI tools has left a massive trail of administrative debt: orphaned…",
-          "date": "2026-06-18T11:58:00+00:00",
+          "date": "2026-06-18T15:33:49+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
+          "link": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
+          "summary": "The internet did not break this week. It got used exactly as designed, which is worse. Searches were siphoned through shady browser add-ons. AI chat links turned into malware delivery paths. macOS attacks ran in memory and left almost nothing behind. Cloud agents looked like helpers until attackers …",
+          "date": "2026-06-18T15:27:54+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
+          "link": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
+          "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026. \"The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor proxy and poll a hidden-service C2 [command-and-control] server…",
+          "date": "2026-06-18T14:30:42+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
+          "link": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html",
+          "summary": "Cybersecurity researchers have charted the evolution of INC from an nascent ransomware-as-a-service (RaaS) operation to one of the most prolific cybercrime groups in 2026, claiming no less than 830 victims since August 2023. \"The disruption of LockBit and the shutdown of BlackCat created opportuniti…",
+          "date": "2026-06-18T14:12:48+00:00",
           "source": "The Hacker News"
         },
         {
           "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
           "link": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
           "summary": "An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here → When a customer types their card number into your checkout, their browser is running far more than your code. Analytics tags, a tag manager, a support widget, a payment…",
-          "date": "2026-06-18T11:00:00+00:00",
+          "date": "2026-06-18T13:58:39+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
+          "link": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
+          "summary": "Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2) traffic inside Microsoft Teams relay infrastructure. According to findings from Broadcom-owned Symantec and Carbon B…",
+          "date": "2026-06-18T13:30:07+00:00",
           "source": "The Hacker News"
         },
         {
@@ -1307,27 +1328,6 @@
           "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
           "summary": "For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was straightforward enough; triage by severity, schedule the fix, validate, and move on. The buffer was what made that wor…",
           "date": "2026-06-11T11:30:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
-          "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
-          "summary": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER. The campaigns involve a prolonged cyber espionage operation aimed at a Vietnamese infrastructure and transpor…",
-          "date": "2026-06-11T09:45:58+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
-          "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
-          "summary": "GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats. The changes aim to combat attack techniques that abuse the \"npm install\" command to trigger the execution of malicious code us…",
-          "date": "2026-06-11T06:23:03+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
-          "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
-          "summary": "Cybersecurity researchers have warned of a \"resurgence and expansion\" of JDY, a covert network associated with China-nexus state-sponsored threat actors. \"The JDY botnet comprises over 1,500 SOHO [small office and home office] and IoT devices and operates as a centrally controlled, high-performance …",
-          "date": "2026-06-10T16:08:42+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1926,6 +1926,13 @@
       "url": "https://www.sans.org/blog",
       "articles": [
         {
+          "title": "The Trifecta: A Red Team Training Roadmap Blog Offensive Operations   18 Jun 2026     Jonathan Reiter",
+          "link": "https://www.sans.org/blog/trifecta-red-team-training-roadmap",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
           "title": "The Agent Identity Problem: Applying Zero Trust to AI Agents Blog Cyber Defense   15 Jun 2026     Ismael Valenzuela",
           "link": "https://www.sans.org/blog/the-agent-identity-problem-applying-zero-trust-to-ai-agents",
           "summary": "",
@@ -1998,13 +2005,6 @@
         {
           "title": "The Inflection Point: Key Takeaways from Secure Your Fortress 2026 Blog Cyber Defense   19 May 2026     SANS Institute",
           "link": "https://www.sans.org/blog/inflection-point-key-takeaways-secure-your-fortress-2026",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Your AI Agent Is an Easily Confused Deputy: Why Cloud Security Needs a Credential Broker Blog Cloud Security   15 May 2026     Kenneth G. Hartman",
-          "link": "https://www.sans.org/blog/your-ai-agent-easily-confused-deputy-why-cloud-security-needs-credential-broker",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
