@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-06-19T14:16:27.193771+00:00",
+  "generated_at": "2026-06-19T17:48:37.299003+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Texas govt data breach exposes over 3 million driver’s licenses",
+          "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+          "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
+          "date": "2026-06-19T16:12:41+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
           "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
           "summary": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
           "date": "2026-06-18T12:54:39+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
-          "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/",
-          "summary": "Apple has released security updates to patch a high-severity flaw affecting the Beats Studio Buds wireless earbuds that could allow attackers in Bluetooth range to spy on users' conversations. [...]",
-          "date": "2026-06-18T12:23:58+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum",
+          "link": "https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/",
+          "summary": "Other noteworthy stories that might have slipped under the radar: Android TV botnet Popa linked to Israeli firm, Velvet Ant maintained decade-long stealth, unpatched GCP Config Connector flaw enables takeover. The post In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStri…",
+          "date": "2026-06-19T15:23:36+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "CryptoBandits Malware Doubles as a Backdoor, Abuses Tor",
           "link": "https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/",
           "summary": "CryptoBandits uses a local SOCKS5 proxy for traffic routing, blending data theft with remote code execution. The post CryptoBandits Malware Doubles as a Backdoor, Abuses Tor appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Four decades of incident response experience suggest that exploits are often the symptom, not the root cause, of today’s cybersecurity failures. The post No Exploits Required appeared first on SecurityWeek .",
           "date": "2026-06-18T12:30:00+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Dream Raises $260 Million at $3 Billion Valuation",
-          "link": "https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/",
-          "summary": "The Israeli startup provides sovereign AI and cyber defenses for governments and critical infrastructure. The post Dream Raises $260 Million at $3 Billion Valuation appeared first on SecurityWeek .",
-          "date": "2026-06-18T11:55:07+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
+          "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
+          "summary": "Microsoft researchers have detailed an exploit chain, named AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution. Steer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn a pro…",
+          "date": "2026-06-19T15:30:47+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
+          "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
+          "summary": "Dutch law enforcement authorities, along with counterparts from Canada , Germany, and the U.S., have disrupted malicious infrastructure associated with SocGholish and cleaned up nearly 15,000 infected WordPress websites. \"With these actions we deprive cybercriminals of access to infected computer sy…",
+          "date": "2026-06-19T15:07:54+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
+          "link": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity aimed at thousands of internet-accessible devices. The sweeping campaign, believed to be the work of Russian-spea…",
+          "date": "2026-06-19T14:00:21+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
           "link": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
@@ -1307,27 +1328,6 @@
           "link": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html",
           "summary": "An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thursday. The effort, codenamed Operation Ramz, took place between October 2025 and February 2026, and saw authorities from 13 countries in the Middle Eas…",
           "date": "2026-06-12T08:52:55+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
-          "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
-          "summary": "Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks. Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a \"key financial pipeline used to wash hundreds of millions in illicit profits.\" The s…",
-          "date": "2026-06-12T06:38:41+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
-          "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
-          "summary": "The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities hardest. Google's Mandiant attributes it to the group it tracks as UNC6240, and dates the activity betwe…",
-          "date": "2026-06-11T20:29:23+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
-          "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
-          "summary": "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs. Imperva buried instructions inside shared contacts, vCards, and locatio…",
-          "date": "2026-06-11T17:46:32+00:00",
           "source": "The Hacker News"
         }
       ]
