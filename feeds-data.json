@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-06-19T17:48:37.299003+00:00",
+  "generated_at": "2026-06-20T12:54:06.747863+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
+          "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
+          "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the attack. [...]",
+          "date": "2026-06-19T22:31:04+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
+          "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
+          "date": "2026-06-19T20:25:02+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Texas govt data breach exposes over 3 million driver’s licenses",
           "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
           "summary": "International law enforcement agencies cleaned nearly 15,000 malware-infected WordPress websites and took down more than 100 servers linked to the SocGholish botnet and the Evil Corp Russian cybercrime group. [...]",
           "date": "2026-06-18T13:25:47+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "ShapedPlugin update flow hacked to infect WordPress sites",
-          "link": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
-          "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack that distributed infected releases to paying customers via the vendor's official update system. [...]",
-          "date": "2026-06-18T12:55:36+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
-          "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
-          "summary": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
-          "date": "2026-06-18T12:54:39+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation",
+          "link": "https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/",
+          "summary": "French President Emmanuel Macron urged the world’s wealthy democracies to work together on regulating advanced AI systems. The post French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation appeared first on SecurityWeek .",
+          "date": "2026-06-20T09:48:40+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum",
           "link": "https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/",
           "summary": "Other noteworthy stories that might have slipped under the radar: Android TV botnet Popa linked to Israeli firm, Velvet Ant maintained decade-long stealth, unpatched GCP Config Connector flaw enables takeover. The post In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStri…",
@@ -966,13 +973,6 @@
           "summary": "The deal values industrial cybersecurity giant Dragos at $3.25 billion, and runZero and NetRise will operate under Dragos. The post Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push appeared first on SecurityWeek .",
           "date": "2026-06-18T13:08:53+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "No Exploits Required",
-          "link": "https://www.securityweek.com/no-exploits-required/",
-          "summary": "Four decades of incident response experience suggest that exploits are often the symptom, not the root cause, of today’s cybersecurity failures. The post No Exploits Required appeared first on SecurityWeek .",
-          "date": "2026-06-18T12:30:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
+          "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
+          "summary": "Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites. The vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a medium-severity information disclosure flaw that can allow unauthenticated attackers t…",
+          "date": "2026-06-20T09:56:04+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+          "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+          "summary": "Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips. That code is burned into the silicon at manufacture. No software update can reach it. Affected devices will carry this …",
+          "date": "2026-06-19T18:37:41+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+          "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
+          "summary": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor. This mature portfolio of EDR-terminating tools is cente…",
+          "date": "2026-06-19T18:33:07+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
           "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
@@ -1308,27 +1329,6 @@
           "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted usin…",
           "date": "2026-06-12T12:04:33+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
-          "link": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
-          "summary": "For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR stepped in. It worked well enough. Until now. The threat landscape has c…",
-          "date": "2026-06-12T11:00:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
-          "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
-          "summary": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution. LangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent artifi…",
-          "date": "2026-06-12T09:50:36+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
-          "link": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html",
-          "summary": "An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thursday. The effort, codenamed Operation Ramz, took place between October 2025 and February 2026, and saw authorities from 13 countries in the Middle Eas…",
-          "date": "2026-06-12T08:52:55+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1356,7 +1356,7 @@
           "source": "Microsoft Security Blog"
         },
         {
-          "title": "From package to postinstall payload: Inside the Mastra npm supply chain compromise",
+          "title": "From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/",
           "summary": "A poisoned npm package infected 140+ projects with a hidden payload. This report highlights how to detect, hunt, and defend against supply chain attacks using Microsoft Defender and actionable threat intelligence. The post From package to postinstall payload: Inside the Mastra npm supply chain compr…",
           "date": "2026-06-18T03:43:04+00:00",
