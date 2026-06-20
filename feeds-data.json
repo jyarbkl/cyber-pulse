@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-06-20T12:54:06.747863+00:00",
+  "generated_at": "2026-06-20T17:17:24.048706+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
+          "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
+          "summary": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
+          "date": "2026-06-20T15:23:46+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+          "summary": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]",
+          "date": "2026-06-20T14:09:19+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
           "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
           "summary": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]",
           "date": "2026-06-18T14:19:50+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
-          "link": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
-          "summary": "Microsoft 365 helps keep services running, but protecting and recovering business data remains your responsibility. Acronis breaks down five gaps organizations should consider when evaluating Microsoft 365 data protection. [...]",
-          "date": "2026-06-18T13:48:56+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
-          "link": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
-          "summary": "International law enforcement agencies cleaned nearly 15,000 malware-infected WordPress websites and took down more than 100 servers linked to the SocGholish botnet and the Evil Corp Russian cybercrime group. [...]",
-          "date": "2026-06-18T13:25:47+00:00",
           "source": "BleepingComputer"
         }
       ]
