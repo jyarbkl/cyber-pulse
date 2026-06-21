@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-06-21T13:11:48.372238+00:00",
+  "generated_at": "2026-06-21T17:20:39.583881+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
+          "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+          "summary": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
+          "date": "2026-06-21T14:14:22+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
           "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
           "summary": "Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
           "date": "2026-06-18T16:20:06+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
-          "summary": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]",
-          "date": "2026-06-18T14:19:50+00:00",
           "source": "BleepingComputer"
         }
       ]
