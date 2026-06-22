@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-06-22T15:58:04.979243+00:00",
+  "generated_at": "2026-06-22T19:19:12.519646+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
+          "summary": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
+          "date": "2026-06-22T17:41:31+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+          "summary": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]",
+          "date": "2026-06-22T17:28:57+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
           "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
@@ -95,20 +109,6 @@
           "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed \"FortiBleed.\" [...]",
           "date": "2026-06-19T06:47:55+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
-          "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
-          "summary": "The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]",
-          "date": "2026-06-18T22:31:52+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
-          "link": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
-          "summary": "Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
-          "date": "2026-06-18T18:31:36+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Crypto Heist Fueled by Elaborate Fake Reputation-Boosting Campaign",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign",
+          "summary": "Attackers are using multiple online channels — including GitHub, YouTube, and VirusTotal — to build an illusion of trust to spread a cross-platform clipboard hijacker.",
+          "date": "2026-06-22T16:10:10+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Stressors, AI Forcing Changes to Cybersecurity Teams",
           "link": "https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat",
           "summary": "Despite broadly connected digital infrastructure, standard fare TTPs are enough to cause trouble for Afghanistan's porous cybersecurity.",
           "date": "2026-06-04T04:01:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Attackers Use AI to Automate EDR Evasion Testing",
-          "link": "https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing",
-          "summary": "Python scripts were used to test malware against endpoint detection and response agents from Sophos, CrowdStrike, and Windows Defender.",
-          "date": "2026-06-03T21:34:07+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,20 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+          "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+          "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code. \"Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin…",
+          "date": "2026-06-22T18:00:48+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+          "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+          "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring …",
+          "date": "2026-06-22T16:13:28+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
           "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
           "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug traces to a 1997 FTP-parsing change and is still live in Squid's default configura…",
@@ -1315,20 +1329,6 @@
           "summary": "Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight timeframe. That usually means sharing a temporary \"first-day\" password so employees can access systems for the first time. The issue is that these pas…",
           "date": "2026-06-15T11:30:00+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic",
-          "link": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
-          "summary": "Cybersecurity researchers have discovered a network of 152 Google Chrome extensions that act as new tab live wallpaper add-ons to distribute a potentially unwanted program (PUP) family. The cluster spans 38 separate Chrome Web Store publisher accounts and three brand backends: tabplugins[.]com, yowg…",
-          "date": "2026-06-15T11:07:50+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites",
-          "link": "https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html",
-          "summary": "An attacker tampered with trusted JavaScript files used by WordPress sites running PushEngage, OptinMonster, and TrustPulse, turning those files into a way to break into the sites. When a site administrator was logged in as the file loaded, the code created an admin account under the attacker's cont…",
-          "date": "2026-06-15T09:59:38+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "One intrusion, two cyberattackers: Uncovering parallel threat activity",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/",
+          "summary": "Ransomware case reveals two parallel threat actors, blending tactics and evasion—showing why isolated signals can often miss modern, overlapping cyberattacks. The post One intrusion, two cyberattackers: Uncovering parallel threat activity appeared first on Microsoft Security Blog .",
+          "date": "2026-06-22T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "AutoJack: How a single page can RCE the host running your AI agent",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/",
@@ -1402,13 +1409,6 @@
           "link": "https://commandline.microsoft.com/assert-written-intent-executable-evals/",
           "summary": "Adaptive Spec-driven Scoring for Evaluation and Regression Testing (ASSERT) is an open-source framework for converting natural language behavior requirements into executable evaluations of AI models and agents. The post Turn specs into evals for any agent with ASSERT appeared first on Microsoft Secu…",
           "date": "2026-06-10T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Reconstructing AI activity in investigations",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/",
-          "summary": "Learn how to investigate AI activity in Microsoft 365 Copilot and Azure AI services using a structured, telemetry-driven approach. This playbook helps security teams reconstruct events, assess data exposure, and detect potential threats faster. The post Reconstructing AI activity in investigations a…",
-          "date": "2026-06-09T17:35:06+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
