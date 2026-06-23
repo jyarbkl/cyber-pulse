@@ -1,10 +1,45 @@
 {
-  "generated_at": "2026-06-22T19:19:12.519646+00:00",
+  "generated_at": "2026-06-23T13:44:54.597686+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Webinar: Why email security teams are drowning in alerts",
+          "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+          "summary": "Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This webinar explores how behavioral AI can help automate detection and response workflows, reducing alert fatigue and improving operational efficiency. [...]",
+          "date": "2026-06-23T12:12:20+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
+          "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
+          "summary": "An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]",
+          "date": "2026-06-22T22:42:21+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
+          "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
+          "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
+          "date": "2026-06-22T21:52:18+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+          "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+          "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]",
+          "date": "2026-06-22T21:05:01+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+          "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+          "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
+          "date": "2026-06-22T20:01:02+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
@@ -74,41 +109,6 @@
           "summary": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance challenge. [...]",
           "date": "2026-06-19T13:10:19+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Webinar: How attackers bypass MFA and how defenders can respond",
-          "link": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
-          "summary": "Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without stealing passwords. This webinar explores how behavioral AI can help security teams detect compromised accounts faster and automate response workflows. [...…",
-          "date": "2026-06-19T12:12:20+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
-          "summary": "Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Recycle Bin. [...]",
-          "date": "2026-06-19T11:32:34+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
-          "summary": "CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]",
-          "date": "2026-06-19T10:39:58+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "NY man charged after harassing college student with AI-generated nudes",
-          "link": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
-          "summary": "A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media profiles to harass a Georgia college student. [...]",
-          "date": "2026-06-19T08:44:08+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed \"FortiBleed.\" [...]",
-          "date": "2026-06-19T06:47:55+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -117,10 +117,31 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "FortiBleed Attackers Turn Firewalls Into Credential Stealers as Heists Persist",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/fortibleed-attackers-firewalls-credentials-stealers",
+          "summary": "The threat actors engineered a Golang-based sniffer to target 430,000 FortiGate firewalls and identify 110 million credentials in the ongoing global campaign.",
+          "date": "2026-06-23T12:34:54+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "DifyTap Bugs Let Attackers 'Wiretap' AI Chat Histories",
+          "link": "https://www.darkreading.com/application-security/difytap-bugs-wiretap-ai-chat-histories",
+          "summary": "Four vulnerabilities allow attackers to exploit Dify, a platform for AI application building and management, to silently access and exfiltrate sensitive data.",
+          "date": "2026-06-22T21:14:11+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "Crypto Heist Fueled by Elaborate Fake Reputation-Boosting Campaign",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign",
           "summary": "Attackers are using multiple online channels — including GitHub, YouTube, and VirusTotal — to build an illusion of trust to spread a cross-platform clipboard hijacker.",
           "date": "2026-06-22T16:10:10+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "He Thought He Was Secure; His Phone Number Got Stolen Anyway",
+          "link": "https://www.darkreading.com/cyber-risk/how-a-sim-swap-attack-led-to-a-near-account-takeover",
+          "summary": "Threat actors can easily steal one-time passwords sent by text when they conduct a SIM swap attack. This can lead to account takeovers, so users must layer up their security measures.",
+          "date": "2026-06-22T14:12:11+00:00",
           "source": "Dark Reading"
         },
         {
@@ -443,27 +464,6 @@
           "link": "https://www.darkreading.com/threat-intelligence/china-ta4922-cybercrime-attacks-globally",
           "summary": "One of the world's most diverse, least-focused cybercrime groups is enlarging its footprint beyond East Asia.",
           "date": "2026-06-04T21:23:59+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "4 Critical Threats Where Attackers Have the Advantage",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/4-critical-threats-attackers-advantage",
-          "summary": "Gartner analysts issued a call to action to bolster defenses against several emerging critical threats, such as deepfakes and prompt injections.",
-          "date": "2026-06-04T21:08:16+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Bugcrowd Launches EU Data Residency Option For Evolving Data Sovereignty Needs",
-          "link": "https://www.darkreading.com/cyber-risk/bugcrowd-launches-eu-data-residency-option-for-evolving-data-sovereignty-needs",
-          "summary": "Organizations are growing serious about which nation's rules apply to their data. Experts point to geopolitical tensions as a main contributing factor.",
-          "date": "2026-06-04T14:22:20+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Pakistan Spies on Afghan Finance Ministry With Xeno RAT",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat",
-          "summary": "Despite broadly connected digital infrastructure, standard fare TTPs are enough to cause trouble for Afghanistan's porous cybersecurity.",
-          "date": "2026-06-04T04:01:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,73 +905,73 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks",
+          "link": "https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/",
+          "summary": "The high-severity use-after-free vulnerability in Samsung's KNOX security framework affected Android-powered Galaxy devices from the S9 through S25. The post Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks appeared first on SecurityWeek .",
+          "date": "2026-06-23T13:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "CISO Conversations: Carl Froggett – Combining CISO and CIO at Deep Instinct",
+          "link": "https://www.securityweek.com/ciso-conversations-carl-froggett-combining-ciso-and-cio-at-deep-instinct/",
+          "summary": "Carl Froggett combines CISO and CIO. He currently occupies both positions at Deep Instinct. Before then, he was CISO at Citi for almost 17 years. The post CISO Conversations: Carl Froggett – Combining CISO and CIO at Deep Instinct appeared first on SecurityWeek .",
+          "date": "2026-06-23T12:50:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Algerian Man Extradited to US for Running Cybercrime Marketplaces",
+          "link": "https://www.securityweek.com/algerian-man-extradited-to-us-for-running-cybercrime-marketplaces/",
+          "summary": "26-year-old Abdellah Belmili faces up to 30 years in prison for allegedly operating the marketplaces Market0Day and Spoxy. The post Algerian Man Extradited to US for Running Cybercrime Marketplaces appeared first on SecurityWeek .",
+          "date": "2026-06-23T12:06:15+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Appliances",
+          "link": "https://www.securityweek.com/ffmpeg-pixelsmash-flaw-allows-rce-on-video-players-media-servers-nas-appliances/",
+          "summary": "Attackers can send crafted media files to execute code in any application that uses FFmpeg’s libavcodec library. The post FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Appliances appeared first on SecurityWeek .",
+          "date": "2026-06-23T11:48:06+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery",
+          "link": "https://www.securityweek.com/openai-refocuses-cybersecurity-efforts-on-patching-over-discovery/",
+          "summary": "OpenAI has expanded its Daybreak cybersecurity initiative with a new suite of tools and partnerships. The post OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery appeared first on SecurityWeek .",
+          "date": "2026-06-23T11:07:02+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Russian Initial Access Broker Behind FortiBleed Campaign",
+          "link": "https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/",
+          "summary": "Using a custom sniffer, the threat actor has captured over 110 million credentials since at least February 2026. The post Russian Initial Access Broker Behind FortiBleed Campaign appeared first on SecurityWeek .",
+          "date": "2026-06-23T10:30:46+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Canadian Electricity Provider London Hydro Discloses Data Breach",
+          "link": "https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/",
+          "summary": "Hackers stole customers’ names, addresses, email addresses, phone numbers, and account information. The post Canadian Electricity Provider London Hydro Discloses Data Breach appeared first on SecurityWeek .",
+          "date": "2026-06-23T09:25:22+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration",
+          "link": "https://www.securityweek.com/trump-signs-executive-order-accelerating-post-quantum-cryptography-migration/",
+          "summary": "Federal agencies are required to transition high-value assets and high-impact systems to use PQC by the end of 2030 and 2031. The post Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration appeared first on SecurityWeek .",
+          "date": "2026-06-23T08:43:05+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Xsolis Data Breach Affects 1.4 Million Individuals",
+          "link": "https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/",
+          "summary": "Threat actors gained access to personal and protected health information that Xsolis received from its clients. The post Xsolis Data Breach Affects 1.4 Million Individuals appeared first on SecurityWeek .",
+          "date": "2026-06-23T06:20:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data",
           "link": "https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/",
           "summary": "Squidbleed, discovered with the aid of Claude Mythos Preview, has been described as a Heartbleed-style vulnerability. The post Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data appeared first on SecurityWeek .",
           "date": "2026-06-22T13:22:31+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data",
-          "link": "https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/",
-          "summary": "Vulnerable WordPress plugin iterations leak API keys, secrets, tokens, server information, and other data. The post Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data appeared first on SecurityWeek .",
-          "date": "2026-06-22T11:45:43+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "North Korean Hackers Blamed for Mastra NPM Supply Chain Attack",
-          "link": "https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/",
-          "summary": "A malicious dependency the attackers added to over 140 Mastra packages fetches a payload targeting cryptocurrency extensions. The post North Korean Hackers Blamed for Mastra NPM Supply Chain Attack appeared first on SecurityWeek .",
-          "date": "2026-06-22T11:10:06+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks",
-          "link": "https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/",
-          "summary": "Groups like ShinyHunters are demonstrating that attackers do not necessarily need malware or zero-day exploits to cause massive damage. The post What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks appeared first on SecurityWeek .",
-          "date": "2026-06-22T10:30:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPhones",
-          "link": "https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/",
-          "summary": "The vulnerability exploited by the Usbliter8 exploit cannot be patched and a PoC exploit has been released by researchers. The post New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPhones appeared first on SecurityWeek .",
-          "date": "2026-06-22T10:03:06+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Fortinet Responds to FortiBleed Campaign",
-          "link": "https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/",
-          "summary": "A database of over 86,000 confirmed working credentials was created during the credential-harvesting campaign. The post Fortinet Responds to FortiBleed Campaign appeared first on SecurityWeek .",
-          "date": "2026-06-22T09:34:59+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "More Cybersecurity Firms Disclose Impact From Klue Hack",
-          "link": "https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/",
-          "summary": "HackerOne, Huntress, Jamf, OneTrust, Recorded Future, Snyk, and Tanium are among the affected Klue customers. The post More Cybersecurity Firms Disclose Impact From Klue Hack appeared first on SecurityWeek .",
-          "date": "2026-06-22T09:03:08+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Texas Parks & Wildlife Data Breach Affects 3 Million Individuals",
-          "link": "https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/",
-          "summary": "Hackers stole personal information after breaching the systems of a third-party license vendor serving TPWD. The post Texas Parks & Wildlife Data Breach Affects 3 Million Individuals appeared first on SecurityWeek .",
-          "date": "2026-06-22T05:33:39+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation",
-          "link": "https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/",
-          "summary": "French President Emmanuel Macron urged the world’s wealthy democracies to work together on regulating advanced AI systems. The post French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation appeared first on SecurityWeek .",
-          "date": "2026-06-20T09:48:40+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum",
-          "link": "https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/",
-          "summary": "Other noteworthy stories that might have slipped under the radar: Android TV botnet Popa linked to Israeli firm, Velvet Ant maintained decade-long stealth, unpatched GCP Config Connector flaw enables takeover. The post In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStri…",
-          "date": "2026-06-19T15:23:36+00:00",
           "source": "SecurityWeek"
         }
       ]
@@ -981,6 +981,34 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+          "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
+          "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile beyond his sight, and the aircraft carried that death across oceans. At each turn, the distance bet…",
+          "date": "2026-06-23T11:30:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
+          "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
+          "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT). The list of identified packages, is below - aes-decode-runner-pro (145 downloads) postcss-minify-selector (256 downloads) postcss-minify-selector-parser …",
+          "date": "2026-06-23T08:54:32+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
+          "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
+          "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software. Per findings from Kaspersky, the active campaign is targeting users of WhatsApp Desktop and Whats…",
+          "date": "2026-06-23T05:38:40+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
+          "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
+          "summary": "OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative the artificial intelligence (AI) company announced last month. Calling GPT‑5.5‑Cyber its \"strongest model yet for finding and helping patch software vulnerabili…",
+          "date": "2026-06-23T03:56:58+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
           "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
           "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code. \"Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin…",
@@ -988,17 +1016,17 @@
           "source": "The Hacker News"
         },
         {
+          "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+          "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+          "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug traces to a 1997 FTP-parsing change and is still live in Squid's default configura…",
+          "date": "2026-06-22T16:29:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
           "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
           "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring …",
           "date": "2026-06-22T16:13:28+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-          "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-          "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug traces to a 1997 FTP-parsing change and is still live in Squid's default configura…",
-          "date": "2026-06-22T14:29:46+00:00",
           "source": "The Hacker News"
         },
         {
@@ -1301,34 +1329,6 @@
           "summary": "Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous Chollima, HexagonalRodent, and Void Dokkaebi). According to a report published by Proofpoint, the threat actor has be…",
           "date": "2026-06-15T19:32:52+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
-          "link": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
-          "summary": "A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed LiteLLM is a widely deployed open-source AI gateway that brokers calls to more than 100 model providers behind one OpenA…",
-          "date": "2026-06-15T16:39:01+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
-          "link": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html",
-          "summary": "A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search. Researchers at Varonis Threat Labs chained three bugs into a one-click exfiltration path they call SearchLeak. Because the link point…",
-          "date": "2026-06-15T15:09:05+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
-          "link": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
-          "summary": "Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod. This week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful bait, old login paths still fail, and forgotten soft…",
-          "date": "2026-06-15T13:49:29+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
-          "link": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html",
-          "summary": "Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight timeframe. That usually means sharing a temporary \"first-day\" password so employees can access systems for the first time. The issue is that these pas…",
-          "date": "2026-06-15T11:30:00+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "Guarding AI memory",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/",
+          "summary": "What happens when threat actors target what AI remembers? Microsoft breaks down the risks and the defenses. The post Guarding AI memory appeared first on Microsoft Security Blog .",
+          "date": "2026-06-22T19:07:28+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "One intrusion, two cyberattackers: Uncovering parallel threat activity",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/",
           "summary": "See how Microsoft Defender performed in one year of real-world email security benchmarking against SEG and ICES vendors. The post Microsoft Defender email security benchmarking: Key insights from one year of data appeared first on Microsoft Security Blog .",
           "date": "2026-06-15T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Turn specs into evals for any agent with ASSERT",
-          "link": "https://commandline.microsoft.com/assert-written-intent-executable-evals/",
-          "summary": "Adaptive Spec-driven Scoring for Evaluation and Regression Testing (ASSERT) is an open-source framework for converting natural language behavior requirements into executable evaluations of AI models and agents. The post Turn specs into evals for any agent with ASSERT appeared first on Microsoft Secu…",
-          "date": "2026-06-10T16:00:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
@@ -1850,6 +1850,20 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "CVE-2024-40766: The Patch Fixed the Bug. Nobody Fixed the Configuration., (Tue, Jun 23rd)",
+          "link": "https://isc.sans.edu/diary/rss/33094",
+          "summary": "The vulnerability",
+          "date": "2026-06-23T03:02:34+00:00",
+          "source": "SANS ISC"
+        },
+        {
+          "title": "ISC Stormcast For Tuesday, June 23rd, 2026 https://isc.sans.edu/podcastdetail/9982, (Tue, Jun 23rd)",
+          "link": "https://isc.sans.edu/diary/rss/33098",
+          "summary": "",
+          "date": "2026-06-23T02:00:03+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "Webshells Remain Popular, (Mon, Jun 22nd)",
           "link": "https://isc.sans.edu/diary/rss/33096",
           "summary": "Webshells have been popular for a long time. We already covered this topic across multiple diaries[1][2]. I spent some time to track them[3] and slighly paid less attention to them but today I found another one. It seems to be a new player (pushed on Github two months ago).",
@@ -1903,20 +1917,6 @@
           "link": "https://isc.sans.edu/diary/rss/33080",
           "summary": "Yesterday, a reader reported to us a malicious ZIP archive (SHA256: a0104921a2d37ab87482ac9a9f5c3713479c118846c3e999178e75b81620c094[1]). Once unzipped, it contains a VHDX file that discloses a malicious JavaScript after being mounted (which is automatic on modern Windows OSs):",
           "date": "2026-06-16T07:09:13+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Tuesday, June 16th, 2026 https://isc.sans.edu/podcastdetail/9974, (Tue, Jun 16th)",
-          "link": "https://isc.sans.edu/diary/rss/33078",
-          "summary": "",
-          "date": "2026-06-16T02:00:02+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Evil MSI Background: BASE64 Statistical Analysis, (Mon, Jun 15th)",
-          "link": "https://isc.sans.edu/diary/rss/33072",
-          "summary": "I like it when a fellow handler posts a diary entry about images with malicious content. Last one is Xavier: \"The Evil MSI Background is Back!\".",
-          "date": "2026-06-15T07:16:00+00:00",
           "source": "SANS ISC"
         }
       ]
