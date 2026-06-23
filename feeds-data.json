@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-06-23T13:44:54.597686+00:00",
+  "generated_at": "2026-06-23T17:46:09.079380+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Scattered Spider members plead guilty to hacking Transport for London",
+          "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
+          "summary": "Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]",
+          "date": "2026-06-23T15:31:59+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+          "link": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
+          "summary": "Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public exploit even exists. [...]",
+          "date": "2026-06-23T14:01:11+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "LastPass confirms data breach in Klue supply chain attack",
+          "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+          "summary": "LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]",
+          "date": "2026-06-23T13:58:25+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Webinar: Why email security teams are drowning in alerts",
           "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
@@ -88,27 +109,6 @@
           "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the attack. [...]",
           "date": "2026-06-19T22:31:04+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-          "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
-          "date": "2026-06-19T20:25:02+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Texas govt data breach exposes over 3 million driver’s licenses",
-          "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
-          "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
-          "date": "2026-06-19T16:12:41+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-          "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
-          "summary": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance challenge. [...]",
-          "date": "2026-06-19T13:10:19+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "SocGholish Takedown Highlights Malicious TDS Threats",
+          "link": "https://www.darkreading.com/cyber-risk/socgholish-takedown-malicious-tds-threats",
+          "summary": "SocGholish uses traffic distribution systems (TDSs) to provide initial access into victims' networks for cybercrime groups such as the notorious Evil Corp.",
+          "date": "2026-06-23T13:51:33+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "FortiBleed Attackers Turn Firewalls Into Credential Stealers as Heists Persist",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/fortibleed-attackers-firewalls-credentials-stealers",
@@ -458,13 +465,6 @@
           "summary": "Like Shai-Hulud, the campaign targets developers to steal credentials and reuses them to propagate across the software supply channel.",
           "date": "2026-06-04T21:47:06+00:00",
           "source": "Dark Reading"
-        },
-        {
-          "title": "China's TA4922 Expands Cybercrime Attacks Globally",
-          "link": "https://www.darkreading.com/threat-intelligence/china-ta4922-cybercrime-attacks-globally",
-          "summary": "One of the world's most diverse, least-focused cybercrime groups is enlarging its footprint beyond East Asia.",
-          "date": "2026-06-04T21:23:59+00:00",
-          "source": "Dark Reading"
         }
       ]
     },
@@ -472,6 +472,13 @@
       "name": "Krebs on Security",
       "url": "https://krebsonsecurity.com/feed/",
       "articles": [
+        {
+          "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+          "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+          "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as…",
+          "date": "2026-06-23T16:12:49+00:00",
+          "source": "Krebs on Security"
+        },
         {
           "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
           "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
@@ -533,13 +540,6 @@
           "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
           "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- in…",
           "date": "2026-05-12T21:46:45+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
-          "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-          "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak…",
-          "date": "2026-05-08T02:58:46+00:00",
           "source": "Krebs on Security"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Dragos Unveils AI for OT Security",
+          "link": "https://www.securityweek.com/dragos-unveils-ai-for-ot-security/",
+          "summary": "Named EmberAI, the new capability is built on Dragos’ massive operational technology cybersecurity dataset. The post Dragos Unveils AI for OT Security appeared first on SecurityWeek .",
+          "date": "2026-06-23T17:26:07+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps",
+          "link": "https://www.securityweek.com/data-exposure-flaws-threaten-dify-ai-platform-powering-over-1-million-apps/",
+          "summary": "Attackers could abuse Dify's multi-tenant cloud service to read private chats, preview other tenants' documents, and reach internal APIs. The post Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps appeared first on SecurityWeek .",
+          "date": "2026-06-23T15:36:24+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks",
           "link": "https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/",
           "summary": "The high-severity use-after-free vulnerability in Samsung's KNOX security framework affected Android-powered Galaxy devices from the S9 through S25. The post Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks appeared first on SecurityWeek .",
@@ -959,20 +973,6 @@
           "summary": "Federal agencies are required to transition high-value assets and high-impact systems to use PQC by the end of 2030 and 2031. The post Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration appeared first on SecurityWeek .",
           "date": "2026-06-23T08:43:05+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Xsolis Data Breach Affects 1.4 Million Individuals",
-          "link": "https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/",
-          "summary": "Threat actors gained access to personal and protected health information that Xsolis received from its clients. The post Xsolis Data Breach Affects 1.4 Million Individuals appeared first on SecurityWeek .",
-          "date": "2026-06-23T06:20:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data",
-          "link": "https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/",
-          "summary": "Squidbleed, discovered with the aid of Claude Mythos Preview, has been described as a Heartbleed-style vulnerability. The post Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data appeared first on SecurityWeek .",
-          "date": "2026-06-22T13:22:31+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
+          "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
+          "summary": "Security firm AIR built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate accounts. Every skill security scanner the firm tested it against marked it safe. The payload was harmless by desig…",
+          "date": "2026-06-23T15:16:43+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
+          "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
+          "summary": "President Trump signed an executive order on June 22 setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography. Key establishment must move by December 31, 2030; digital signatures by December 31, 2031. EO 14409 leaves national securit…",
+          "date": "2026-06-23T15:16:40+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+          "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+          "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to run malicious code with the workflow's full privileges. Effective June 18, 2026, the latest version of…",
+          "date": "2026-06-23T14:22:03+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
           "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
@@ -1307,27 +1328,6 @@
           "link": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
           "summary": "Cisco has released security updates for a medium-severity security flaw in Catalyst SD-WAN Manager that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-20262, carries a CVSS score of 6.5 out of 10.0. \"A vulnerability in the web UI of Cisco Catalyst SD-WAN Manag…",
           "date": "2026-06-16T06:05:58+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
-          "link": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting LiteSpeed cPanel Plugin to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 18, 2026. The vulnerability in que…",
-          "date": "2026-06-16T05:41:52+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
-          "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
-          "summary": "A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email. The way in was a backdoor on their REDCap research servers that stole login credentials. The exfiltration was the un…",
-          "date": "2026-06-15T19:44:06+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
-          "link": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
-          "summary": "Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous Chollima, HexagonalRodent, and Void Dokkaebi). According to a report published by Proofpoint, the threat actor has be…",
-          "date": "2026-06-15T19:32:52+00:00",
           "source": "The Hacker News"
         }
       ]
