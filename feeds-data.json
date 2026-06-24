@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-06-24T13:26:04.478107+00:00",
+  "generated_at": "2026-06-24T17:48:15.212078+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]",
+          "date": "2026-06-24T14:35:15+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
+          "link": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
+          "summary": "Microsoft, Europol, and international partners have disrupted infrastructure used by the Amadey and StealC malware operations as part of Operation Endgame, which targets cybercriminal services and ransomware gangs. [...]",
+          "date": "2026-06-24T14:35:11+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Securing the service desk: Why social engineering attacks keep succeeding",
+          "link": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
+          "summary": "Service desks have become a favored target for attackers seeking password resets, MFA changes, and access to corporate accounts. Specops Software breaks down how service desk social engineering attacks work and how organizations can defend against them. [...]",
+          "date": "2026-06-24T14:02:12+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
           "link": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
@@ -88,27 +109,6 @@
           "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
           "date": "2026-06-22T21:52:18+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
-          "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
-          "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]",
-          "date": "2026-06-22T21:05:01+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
-          "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
-          "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
-          "date": "2026-06-22T20:01:02+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
-          "summary": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
-          "date": "2026-06-22T17:41:31+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "More Malicious OpenClaw Skills Threaten AI Supply Chain",
+          "link": "https://www.darkreading.com/cyber-risk/malicious-openclaw-skills-clawhub-threaten-ai-supply-chain",
+          "summary": "OpenClaw removed five packages from ClawHub, its skills marketplace, that bypassed security checks even though they included infostealers and other threats.",
+          "date": "2026-06-24T16:56:49+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Apple's MacOS Gap Lets Users Disable Security Tools",
           "link": "https://www.darkreading.com/application-security/apple-macos-security-gap-users-disable-security-tools",
@@ -166,7 +173,7 @@
           "source": "Dark Reading"
         },
         {
-          "title": "He Thought He Was Secure; His Phone Number Got Stolen Anyway",
+          "title": "He Thought He Was Secure; His Phone Number Was Stolen Anyway",
           "link": "https://www.darkreading.com/cyber-risk/how-a-sim-swap-attack-led-to-a-near-account-takeover",
           "summary": "Threat actors can easily steal one-time passwords sent by text when they conduct a SIM swap attack. This can lead to account takeovers, so users must layer up their security measures.",
           "date": "2026-06-22T14:12:11+00:00",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/application-security/hades-campaign-pypi-shai-hulud",
           "summary": "The latest attacks, which hit 37 PyPI wheels and 19 code packages, show a continued evolution of the persistent software supply chain threat.",
           "date": "2026-06-08T16:13:41+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Exposed Fuel Tank Gauges Under Attack in the US",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us",
-          "summary": "Threat actors are taking advantage of Internet-exposed tank gauges by breaching gas stations, opening the door to disruption.",
-          "date": "2026-06-05T19:04:36+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,34 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "When Information Becomes the Attack Surface – Understanding AI Agent Traps",
+          "link": "https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/",
+          "summary": "From hidden content injections to cognitive state poisoning, attackers are turning trusted data sources into traps for autonomous AI. The post When Information Becomes the Attack Surface – Understanding AI Agent Traps appeared first on SecurityWeek .",
+          "date": "2026-06-24T17:37:57+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware",
+          "link": "https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/",
+          "summary": "Hundreds of C&C servers were disrupted in an operation involving law enforcement and several cybersecurity companies. The post Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware appeared first on SecurityWeek .",
+          "date": "2026-06-24T15:02:07+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Exclusive: Meet AIVEX, a New Triage Model Built to Reduce Supply Chain Threat and Risk",
+          "link": "https://www.securityweek.com/exclusive-meet-aivex-a-new-triage-model-built-to-reduce-supply-chain-threat-and-risk/",
+          "summary": "The new framework seeks to help security teams identify which software supply chain vulnerabilities pose the greatest operational, safety, and business risks in AI-driven environments. The post Exclusive: Meet AIVEX, a New Triage Model Built to Reduce Supply Chain Threat and Risk appeared first on S…",
+          "date": "2026-06-24T14:30:35+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "macOS Weaknesses Chained to Silently Disable Endpoint Security Agents",
+          "link": "https://www.securityweek.com/macos-weaknesses-chained-to-silently-disable-endpoint-security-agents/",
+          "summary": "A standard non-admin account is sufficient to conduct an attack that exploits legitimate OS behavior rather than software vulnerabilities. The post macOS Weaknesses Chained to Silently Disable Endpoint Security Agents appeared first on SecurityWeek .",
+          "date": "2026-06-24T13:50:53+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Third DraftKings Hacker Sentenced to 18 Months in Prison",
           "link": "https://www.securityweek.com/third-draftkings-hacker-sentenced-to-18-months-in-prison/",
           "summary": "Nathan Austad has been ordered to pay roughly $1.8 million in forfeiture and restitution, and the sentence also includes 3 years of supervised release. The post Third DraftKings Hacker Sentenced to 18 Months in Prison appeared first on SecurityWeek .",
@@ -945,34 +973,6 @@
           "summary": "Over a dozen Klue customers have confirmed that hackers stole data from their Salesforce instances. The post BeyondTrust, LastPass Impacted by Klue-Salesforce Incident appeared first on SecurityWeek .",
           "date": "2026-06-24T10:03:06+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Webinar Today: Modern Exposure Validation in the AI Era",
-          "link": "https://www.securityweek.com/webinar-today-modern-exposure-validation-in-the-ai-era/",
-          "summary": "The exploit timeline collapsed. Make sure your validation didn't. The post Webinar Today: Modern Exposure Validation in the AI Era appeared first on SecurityWeek .",
-          "date": "2026-06-24T08:04:37+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Hackers Exploiting Cisco Unified CM Vulnerability",
-          "link": "https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/",
-          "summary": "Cisco noted that a PoC had been available for CVE-2026-20230 when it announced patches in early June. The post Hackers Exploiting Cisco Unified CM Vulnerability appeared first on SecurityWeek .",
-          "date": "2026-06-24T05:44:15+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Anthropic’s Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says",
-          "link": "https://www.securityweek.com/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says/",
-          "summary": "Come vulnerabilities were found within hours, but that does not mean the model was able to exploit them within that time, the official said. The post Anthropic’s Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says appeared first on SecurityWeek .",
-          "date": "2026-06-24T03:29:58+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Dragos Unveils AI for OT Security",
-          "link": "https://www.securityweek.com/dragos-unveils-ai-for-ot-security/",
-          "summary": "Named EmberAI, the new capability is built on Dragos’ massive operational technology cybersecurity dataset. The post Dragos Unveils AI for OT Security appeared first on SecurityWeek .",
-          "date": "2026-06-23T17:26:07+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
+          "link": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
+          "summary": "A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure powering Amadey and StealC. \"The main common goal was to disrupt the 'assembly lines' cybercriminals us…",
+          "date": "2026-06-24T15:59:50+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
+          "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
+          "summary": "Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains. The \"critical exploitable pattern\" has been codenamed Cordyceps by Novee Security. The issue can allow full attacker control of repositori…",
+          "date": "2026-06-24T12:48:11+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Dawn of the Apex Agentic Adversary",
           "link": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html",
@@ -1315,20 +1329,6 @@
           "summary": "Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Huntress, respectively. Attacks involving BabaDeda Loader, observed in April 2026, h…",
           "date": "2026-06-16T17:41:28+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
-          "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
-          "summary": "Security researchers at Zimperium's zLabs have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands. Together, they give an operator near-total control of an infected phone: it lifts lock-screen PINs, reads and sends SMS, …",
-          "date": "2026-06-16T13:10:17+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
-          "link": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
-          "summary": "Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a growing ecosystem of vendors and platforms. Yet despite this abundance of information, many organizations continue…",
-          "date": "2026-06-16T11:30:00+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/",
+          "summary": "On June 24, 2026, Microsoft’s Digital Crimes Unit (DCU) facilitated the takedown, suspension, and blocking of domains that formed the backbone of the StealC and Amadey infrastructure. This blog is a technical breakdown of StealC and Amadey. The post StealC and Amadey: Breaking down infostealers and …",
+          "date": "2026-06-24T12:30:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "Guarding AI memory",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/",
@@ -1402,13 +1409,6 @@
           "link": "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592",
           "summary": "See how Microsoft unifies identity and security signals to help teams prevent, detect, and respond to AI-accelerated attacks faster. The post AI is accelerating cyberattacks—here’s how to stay ahead appeared first on Microsoft Security Blog .",
           "date": "2026-06-17T17:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Microsoft Defender email security benchmarking: Key insights from one year of data",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/",
-          "summary": "See how Microsoft Defender performed in one year of real-world email security benchmarking against SEG and ICES vendors. The post Microsoft Defender email security benchmarking: Key insights from one year of data appeared first on Microsoft Security Blog .",
-          "date": "2026-06-15T16:00:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
@@ -1926,6 +1926,13 @@
       "url": "https://www.sans.org/blog",
       "articles": [
         {
+          "title": "Stay Ahead of Ransomware: The Humans Behind Ransomware: Insights from a Threat Actor Researcher  Blog Digital Forensics and Incident Response   24 Jun 2026     Mari DeGrazia",
+          "link": "https://www.sans.org/blog/stay-ahead-of-ransomware-insights-threat-actor-researcher",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
           "title": "The Trifecta: A Red Team Training Roadmap Blog Offensive Operations   18 Jun 2026     Jonathan Reiter",
           "link": "https://www.sans.org/blog/trifecta-red-team-training-roadmap",
           "summary": "",
@@ -1998,13 +2005,6 @@
         {
           "title": "SANS Cyber Leaders Podcast Season 4: Thinking Globally, and Acting at Machine Speed Blog Cyber Defense   26 May 2026     SANS Institute",
           "link": "https://www.sans.org/blog/sans-cyber-leaders-podcast-season-4-thinking-globally-machine-speed",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "The Augmented Analyst: How AI is Reshaping Security Operations in 2026 Blog Cyber Defense   22 May 2026     John Hubbard",
-          "link": "https://www.sans.org/blog/augmented-analyst-how-ai-reshaping-security-operations-2026",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
