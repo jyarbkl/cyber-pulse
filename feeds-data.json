@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-06-25T13:23:04.919953+00:00",
+  "generated_at": "2026-06-25T18:04:08.028810+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
+          "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
+          "summary": "A newly discovered macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]",
+          "date": "2026-06-25T16:23:19+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "PirloTV sports piracy network disrupted as 44 domains seized",
+          "link": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
+          "summary": "A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]",
+          "date": "2026-06-25T15:36:56+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
+          "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
+          "summary": "The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [...]",
+          "date": "2026-06-25T15:00:00+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "The Four Elevations of Effective Fraud Prevention",
+          "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
+          "summary": "Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]",
+          "date": "2026-06-25T14:01:11+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
           "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
@@ -81,34 +109,6 @@
           "summary": "Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure. [...]",
           "date": "2026-06-23T21:06:32+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
-          "summary": "​​Microsoft has released the KB5095093 preview cumulative update for Windows 11 24H2 and 25H2, which fixes numerous bugs and begins rolling out new features, including the new Point-in-Time restore feature. [...]",
-          "date": "2026-06-23T20:22:21+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
-          "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
-          "summary": "Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromised in a phishing attack that gave attackers access to its network. [...]",
-          "date": "2026-06-23T19:59:12+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
-          "link": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
-          "summary": "A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files. [...]",
-          "date": "2026-06-23T18:30:16+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Scattered Spider members plead guilty to hacking Transport for London",
-          "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
-          "summary": "Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]",
-          "date": "2026-06-23T15:31:59+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -140,7 +140,7 @@
         {
           "title": "Do CISOs Need a Code of Ethics?",
           "link": "https://www.darkreading.com/cybersecurity-operations/ciso-code-of-ethics",
-          "summary": "Dark Reading Confidential Episode 19: Kickbacks, no-show jobs, \"dirty\" VCs, and shelf ware — industry expert Robert \"RSnake\" Hansen explains why he thinks its time for a CISO code of ethics to ensure cybersecurity bosses aren't engaged in self-dealing that could risk enterprise, and even national, s…",
+          "summary": "Dark Reading Confidential Episode 19: Kickbacks, no-show jobs, \"dirty\" VCs, and shelf ware — industry expert Robert \"RSnake\" Hansen explains why he thinks it's time for a CISO code of ethics. It could ensure cybersecurity bosses aren't engaged in self-dealing that could risk enterprise, and even nat…",
           "date": "2026-06-24T19:10:17+00:00",
           "source": "Dark Reading"
         },
@@ -912,9 +912,9 @@
           "source": "SecurityWeek"
         },
         {
-          "title": "Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply",
+          "title": "Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack",
           "link": "https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/",
-          "summary": "Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala. The post Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply appeared first on SecurityWeek .",
+          "summary": "Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala. The post Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack appeared first on SecurityWeek .",
           "date": "2026-06-25T12:07:00+00:00",
           "source": "SecurityWeek"
         },
@@ -937,6 +937,13 @@
           "link": "https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/",
           "summary": "The latest version of the open source data transfer tool resolves 18 medium and low-severity vulnerabilities. The post 25-Year-Old Vulnerability Patched in Curl appeared first on SecurityWeek .",
           "date": "2026-06-25T09:25:02+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition",
+          "link": "https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/",
+          "summary": "The 2026 Industrial Control Systems (ICS) Cybersecurity Conference takes place October 6-8, 2026, at the W Nashville. The post SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition appeared first on SecurityWeek .",
+          "date": "2026-06-25T09:00:00+00:00",
           "source": "SecurityWeek"
         },
         {
@@ -966,13 +973,6 @@
           "summary": "From hidden content injections to cognitive state poisoning, attackers are turning trusted data sources into traps for autonomous AI. The post When Information Becomes the Attack Surface – Understanding AI Agent Traps appeared first on SecurityWeek .",
           "date": "2026-06-24T17:37:57+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware",
-          "link": "https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/",
-          "summary": "Hundreds of C&C servers were disrupted in an operation involving law enforcement and several cybersecurity companies. The post Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware appeared first on SecurityWeek .",
-          "date": "2026-06-24T15:02:07+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,13 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
+          "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
+          "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has more than 10 million installs and carries a Featured badge o…",
+          "date": "2026-06-25T14:12:52+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
           "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
@@ -1322,13 +1329,6 @@
           "summary": "A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials. Ordinary stuff, until one move near the end. Before his command-and-control server went dark, he installed OpenSSH and Tailscale on a victim's machine, building a w…",
           "date": "2026-06-17T16:00:56+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
-          "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
-          "summary": "For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain. The problem is no longer visibility. It's validation. Security teams must decide which findings warrant action while operating under constant pressure and incomplete information. …",
-          "date": "2026-06-17T14:58:00+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/",
+          "summary": "Microsoft named a Leader in the Forrester Wave™: Endpoint Management Platforms, Q2 2026, with the highest scores in the current offering and strategy categories. The post Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms appeared first on Microsoft Security Blog .",
+          "date": "2026-06-25T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/24/cnapp-evolution-how-microsoft-aligns-with-leading-cloud-risk-management-platforms/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/",
           "summary": "Read how Microsoft Security has advanced its agentic vulnerability detection system, codename MDASH, integrating into real-world workflows across Windows, Azure, and identity systems. The post Beyond the benchmark: Advancing security at AI speed appeared first on Microsoft Security Blog .",
           "date": "2026-06-17T19:30:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/",
-          "summary": "Microsoft has been named a Leader in The Forrester Wave™: Extended Detection and Response Platforms, Q2 2026. The post ​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report appeared first on Microsoft Security Blog .",
-          "date": "2026-06-17T18:30:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
@@ -1926,6 +1926,13 @@
       "url": "https://www.sans.org/blog",
       "articles": [
         {
+          "title": "It Was Never Just the Main Stage: Reflections on the 2026 SANS ICS Security Summit Blog Industrial Control Systems Security   25 Jun 2026     Tim Conway",
+          "link": "https://www.sans.org/blog/it-was-never-just-main-stage-reflections-2026-sans-ics-security-summit-cyber-risk-during-middle-east-escalation-ics-perspective-security-leaders",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
           "title": "Stay Ahead of Ransomware: The Humans Behind Ransomware: Insights from a Threat Actor Researcher  Blog Digital Forensics and Incident Response   24 Jun 2026     Mari DeGrazia",
           "link": "https://www.sans.org/blog/stay-ahead-of-ransomware-insights-threat-actor-researcher",
           "summary": "",
@@ -1998,13 +2005,6 @@
         {
           "title": "Fixing the Treadmill of Pain: How AI is Helping to Change Vulnerability Management Blog Cyber Defense   26 May 2026     Dave Shackleford",
           "link": "https://www.sans.org/blog/fixing-treadmill-pain-how-ai-helping-change-vulnerability-management",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "SANS Cyber Leaders Podcast Season 4: Thinking Globally, and Acting at Machine Speed Blog Cyber Defense   26 May 2026     SANS Institute",
-          "link": "https://www.sans.org/blog/sans-cyber-leaders-podcast-season-4-thinking-globally-machine-speed",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
