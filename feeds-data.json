@@ -1,10 +1,45 @@
 {
-  "generated_at": "2026-06-24T17:48:15.212078+00:00",
+  "generated_at": "2026-06-25T13:23:04.919953+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
+          "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
+          "summary": "Account takeover attacks continue to challenge security teams because attackers often operate through legitimate accounts and trusted services. This webinar explores how behavioral AI can help organizations identify compromised accounts faster and automate response workflows. [...]",
+          "date": "2026-06-25T12:12:20+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Google releases new privacy controls for activity history, personalization",
+          "link": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
+          "summary": "Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations. [...]",
+          "date": "2026-06-24T23:46:17+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
+          "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
+          "summary": "A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack. [...]",
+          "date": "2026-06-24T21:55:43+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
+          "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
+          "summary": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]",
+          "date": "2026-06-24T21:29:10+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
+          "link": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
+          "summary": "A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]",
+          "date": "2026-06-24T20:58:22+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
           "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
@@ -74,41 +109,6 @@
           "summary": "Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]",
           "date": "2026-06-23T15:31:59+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
-          "link": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
-          "summary": "Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public exploit even exists. [...]",
-          "date": "2026-06-23T14:01:11+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "LastPass confirms data breach in Klue supply chain attack",
-          "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
-          "summary": "LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]",
-          "date": "2026-06-23T13:58:25+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Webinar: Why email security teams are drowning in alerts",
-          "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
-          "summary": "Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This webinar explores how behavioral AI can help automate detection and response workflows, reducing alert fatigue and improving operational efficiency. [...]",
-          "date": "2026-06-23T12:12:20+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
-          "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
-          "summary": "An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]",
-          "date": "2026-06-22T22:42:21+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
-          "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
-          "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
-          "date": "2026-06-22T21:52:18+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -117,9 +117,37 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "Europe Evolves Into Ransomware's Favorite Region",
+          "link": "https://www.darkreading.com/cybersecurity-analytics/europe-evolves-ransomware-favorite-region",
+          "summary": "After a global lull, ransomware gangs are setting sights on a rich new arena: attacking EU organizations and their suppliers.",
+          "date": "2026-06-25T10:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Attackers Hit Cisco SD-WAN Flaw 2 Months Before Disclosure",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-hit-cisco-sd-wan-flaw-2-months-before-disclosure",
+          "summary": "Researchers believe rogue peering was used to connect to the victim's SD-WAN devices to gain admin privileges and root-level access.",
+          "date": "2026-06-24T21:16:41+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "2026 FIFA World Cup Faces Surge in Cyber Threats",
+          "link": "https://www.darkreading.com/cybersecurity-operations/2026-fifa-world-cup-faces-surge-cyber-threats",
+          "summary": "Persistent cybercrime, social engineering, and infrastructure threats continue to plague the FIFA 2026 World Cup across the US, Canada, and Mexico.",
+          "date": "2026-06-24T20:29:08+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Do CISOs Need a Code of Ethics?",
+          "link": "https://www.darkreading.com/cybersecurity-operations/ciso-code-of-ethics",
+          "summary": "Dark Reading Confidential Episode 19: Kickbacks, no-show jobs, \"dirty\" VCs, and shelf ware — industry expert Robert \"RSnake\" Hansen explains why he thinks its time for a CISO code of ethics to ensure cybersecurity bosses aren't engaged in self-dealing that could risk enterprise, and even national, s…",
+          "date": "2026-06-24T19:10:17+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "More Malicious OpenClaw Skills Threaten AI Supply Chain",
           "link": "https://www.darkreading.com/cyber-risk/malicious-openclaw-skills-clawhub-threaten-ai-supply-chain",
-          "summary": "OpenClaw removed five packages from ClawHub, its skills marketplace, that bypassed security checks even though they included infostealers and other threats.",
+          "summary": "OpenClaw removed five packages from its ClawHub skills marketplace that bypassed security checks even though they included infostealers and other threats.",
           "date": "2026-06-24T16:56:49+00:00",
           "source": "Dark Reading"
         },
@@ -437,34 +465,6 @@
           "summary": "AI-generated content threatens credibility in cybersecurity. This \"Ask the Expert\" column explores why human oversight matters and how to maintain authentic narratives.",
           "date": "2026-06-08T22:05:49+00:00",
           "source": "Dark Reading"
-        },
-        {
-          "title": "Silent Ransom Group Hits US Law Firms in Escalating Extortion Attacks",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/silent-ransom-us-law-firms-extortion-attacks",
-          "summary": "The financially motivated group is combining vishing, IT impersonation, and in-person office intrusions to steal data and extort victims.",
-          "date": "2026-06-08T20:59:52+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Check Point VPN Flaw Exploited Since Early May",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/check-point-vpn-flaw-exploited-early-may",
-          "summary": "A newly discovered, critical zero-day vulnerability is under attack; a Qilin ransomware affiliate has been blamed for at least one incident.",
-          "date": "2026-06-08T20:28:35+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Iran Signed a Ceasefire — Its Hackers Didn't",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/iran-signed-ceasefire-hackers",
-          "summary": "An extension of the Geneva Conventions could impose restrictions on cyberwarfare under ceasefire conditions and close a major loophole in international conflict.",
-          "date": "2026-06-08T19:07:48+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "'Hades' Campaign Against PyPI Puts New Spin on Shai-Hulud",
-          "link": "https://www.darkreading.com/application-security/hades-campaign-pypi-shai-hulud",
-          "summary": "The latest attacks, which hit 37 PyPI wheels and 19 code packages, show a continued evolution of the persistent software supply chain threat.",
-          "date": "2026-06-08T16:13:41+00:00",
-          "source": "Dark Reading"
         }
       ]
     },
@@ -548,6 +548,13 @@
       "name": "Risky Biz Newsletters",
       "url": "https://risky.biz/feeds/newsletters/",
       "articles": [
+        {
+          "title": "Srsly Risky Biz: Open Weight Model Advances Make the Mythos Debate Moot",
+          "link": "https://risky.biz/srsly-risky-biz-open-weight-model-advances-make-the-mythos-debate-moot/",
+          "summary": "This week, the Five Eyes cyber security agencies issued a call-to-action , warning that AI is accelerating \"the speed, scale, and sophistication of cyber threats\". The thinking behind the call-to-action is clear, here. The Five Eyes believe it is no longer possible to limit AI's powerful, offensive …",
+          "date": "2026-06-25T08:42:31+00:00",
+          "source": "Risky Biz Newsletters"
+        },
         {
           "title": "Risky Bulletin: The FortiBleed incident is so much worse than a simple credentials leak",
           "link": "https://risky.biz/risky-bulletin-the-fortibleed-incident-is-so-much-worse-than-a-simple-credentials-leak/",
@@ -890,13 +897,6 @@
           "summary": "Apple has added a secret security feature to macOS to warn users about possible ClickFix attacks. The feature was silently added to macOS 26.4, released last week. It works by showing a popup on the screen whenever a user tries to copy-paste commands from a browser into the Terminal window.",
           "date": "2026-03-30T03:29:12+00:00",
           "source": "Risky Biz Newsletters"
-        },
-        {
-          "title": "Risky Bulletin: Russia to use custom crypto-algorithm for its 5G network",
-          "link": "https://risky.biz/risky-bulletin-russia-to-use-custom-crypto-algorithm-for-its-5g-network/",
-          "summary": "NOTE: This newsletter was (initially) sent to Seriously Risky Business subscribers instead of Risky Bulletin subscribers by accident. If you are receiving this newsletter for a second time, that's why. Sorry! The Russian government is working on a law that would require all mobile operators to use a…",
-          "date": "2026-03-27T03:00:00+00:00",
-          "source": "Risky Biz Newsletters"
         }
       ]
     },
@@ -904,6 +904,62 @@
       "name": "SecurityWeek",
       "url": "https://www.securityweek.com/feed/",
       "articles": [
+        {
+          "title": "Runlayer Raises $30 Million in Series A Funding",
+          "link": "https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/",
+          "summary": "The startup’s platform functions as a secure control layer, aiming to secure AI tools across enterprises. The post Runlayer Raises $30 Million in Series A Funding appeared first on SecurityWeek .",
+          "date": "2026-06-25T12:39:50+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply",
+          "link": "https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/",
+          "summary": "Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala. The post Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply appeared first on SecurityWeek .",
+          "date": "2026-06-25T12:07:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning",
+          "link": "https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/",
+          "summary": "The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project. The post Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning appeared first on SecurityWeek .",
+          "date": "2026-06-25T11:23:40+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "GitLab Patches Code Execution, Information Disclosure Vulnerabilities",
+          "link": "https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/",
+          "summary": "The latest GitLab CE/EE updates address 13 vulnerabilities, including three high-severity defects. The post GitLab Patches Code Execution, Information Disclosure Vulnerabilities appeared first on SecurityWeek .",
+          "date": "2026-06-25T11:10:04+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "25-Year-Old Vulnerability Patched in Curl",
+          "link": "https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/",
+          "summary": "The latest version of the open source data transfer tool resolves 18 medium and low-severity vulnerabilities. The post 25-Year-Old Vulnerability Patched in Curl appeared first on SecurityWeek .",
+          "date": "2026-06-25T09:25:02+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "NIST Opens Updated IoT Security Guidance to Public Review",
+          "link": "https://www.securityweek.com/nist-opens-updated-iot-security-guidance-to-public-review/",
+          "summary": "The guidance aims to establish product cybersecurity requirements for IoT devices integrated into federal agencies’ networks. The post NIST Opens Updated IoT Security Guidance to Public Review appeared first on SecurityWeek .",
+          "date": "2026-06-25T08:29:26+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Chrome 149 Update Resolves 18 Severe Vulnerabilities",
+          "link": "https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/",
+          "summary": "More than half of the bugs are use-after-free defects, which can potentially lead to remote code execution. The post Chrome 149 Update Resolves 18 Severe Vulnerabilities appeared first on SecurityWeek .",
+          "date": "2026-06-25T07:56:03+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Cisco SD-WAN Zero-Day Exploited Months Before Patching",
+          "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/",
+          "summary": "CVE-2026-20245, the 7th Cisco SD-WAN vulnerability exploited in 2026, was used for months prior to its disclosure and patching. The post Cisco SD-WAN Zero-Day Exploited Months Before Patching appeared first on SecurityWeek .",
+          "date": "2026-06-25T06:08:43+00:00",
+          "source": "SecurityWeek"
+        },
         {
           "title": "When Information Becomes the Attack Surface – Understanding AI Agent Traps",
           "link": "https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/",
@@ -917,62 +973,6 @@
           "summary": "Hundreds of C&C servers were disrupted in an operation involving law enforcement and several cybersecurity companies. The post Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware appeared first on SecurityWeek .",
           "date": "2026-06-24T15:02:07+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Exclusive: Meet AIVEX, a New Triage Model Built to Reduce Supply Chain Threat and Risk",
-          "link": "https://www.securityweek.com/exclusive-meet-aivex-a-new-triage-model-built-to-reduce-supply-chain-threat-and-risk/",
-          "summary": "The new framework seeks to help security teams identify which software supply chain vulnerabilities pose the greatest operational, safety, and business risks in AI-driven environments. The post Exclusive: Meet AIVEX, a New Triage Model Built to Reduce Supply Chain Threat and Risk appeared first on S…",
-          "date": "2026-06-24T14:30:35+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "macOS Weaknesses Chained to Silently Disable Endpoint Security Agents",
-          "link": "https://www.securityweek.com/macos-weaknesses-chained-to-silently-disable-endpoint-security-agents/",
-          "summary": "A standard non-admin account is sufficient to conduct an attack that exploits legitimate OS behavior rather than software vulnerabilities. The post macOS Weaknesses Chained to Silently Disable Endpoint Security Agents appeared first on SecurityWeek .",
-          "date": "2026-06-24T13:50:53+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Third DraftKings Hacker Sentenced to 18 Months in Prison",
-          "link": "https://www.securityweek.com/third-draftkings-hacker-sentenced-to-18-months-in-prison/",
-          "summary": "Nathan Austad has been ordered to pay roughly $1.8 million in forfeiture and restitution, and the sentence also includes 3 years of supervised release. The post Third DraftKings Hacker Sentenced to 18 Months in Prison appeared first on SecurityWeek .",
-          "date": "2026-06-24T12:52:40+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Critical Ubiquiti Vulnerabilities in Attackers’ Crosshairs",
-          "link": "https://www.securityweek.com/critical-ubiquiti-vulnerabilities-in-attackers-crosshairs/",
-          "summary": "The flaws allow remote, unauthenticated attackers to make system changes, access underlying accounts, and inject commands. The post Critical Ubiquiti Vulnerabilities in Attackers’ Crosshairs appeared first on SecurityWeek .",
-          "date": "2026-06-24T12:32:17+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Agentic AI Security: Wrong Context, Wrong Decisions at Machine Speed",
-          "link": "https://www.securityweek.com/agentic-ai-security-wrong-context-wrong-decisions-at-machine-speed/",
-          "summary": "Context is the central plank of AI in general, and agentic AI in particular. If an AI system doesn’t have the correct context, it cannot make the correct decisions. The post Agentic AI Security: Wrong Context, Wrong Decisions at Machine Speed appeared first on SecurityWeek .",
-          "date": "2026-06-24T12:00:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "New ‘Mistic’ RAT Opens Door to Several Ransomware Families",
-          "link": "https://www.securityweek.com/new-mistic-rat-opens-door-to-several-ransomware-families/",
-          "summary": "Mistic is used by Woodgnat, an initial access broker working with Qilin, Interlock, Rhysida, Akira, 8Base, and Black Basta. The post New ‘Mistic’ RAT Opens Door to Several Ransomware Families appeared first on SecurityWeek .",
-          "date": "2026-06-24T11:42:38+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Exploitable CI/CD Vulnerabilities Expose Millions of Repositories to Hijacking",
-          "link": "https://www.securityweek.com/exploitable-ci-cd-vulnerabilities-expose-millions-of-repositories-to-hijacking/",
-          "summary": "The security defects allow unauthenticated users to take control of the open source software supply chain. The post Exploitable CI/CD Vulnerabilities Expose Millions of Repositories to Hijacking appeared first on SecurityWeek .",
-          "date": "2026-06-24T10:55:05+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "BeyondTrust, LastPass Impacted by Klue-Salesforce Incident",
-          "link": "https://www.securityweek.com/beyondtrust-lastpass-impacted-by-klue-salesforce-incident/",
-          "summary": "Over a dozen Klue customers have confirmed that hackers stole data from their Salesforce instances. The post BeyondTrust, LastPass Impacted by Klue-Salesforce Incident appeared first on SecurityWeek .",
-          "date": "2026-06-24T10:03:06+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,48 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+          "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
+          "summary": "It’s dumb out there again. This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and “normal” workflows turning into phishing pipes because apparently email was no…",
+          "date": "2026-06-25T12:24:43+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
+          "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
+          "summary": "Despite the abundance of telemetry at analysts’ disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have? How do we know we’re seeing it all, in context? Answering these questions requires teams to go bey…",
+          "date": "2026-06-25T11:17:31+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
+          "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
+          "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into aborting or refusing an analysis of the artifact. The malware has been codenamed Ga…",
+          "date": "2026-06-25T09:23:03+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
+          "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
+          "summary": "A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services sectors since April 2026. According to Symantec and Carbon Black's Threat Hunter Team, the backdoor,…",
+          "date": "2026-06-25T08:54:37+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
+          "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
+          "summary": "An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new findings from Google-owned Mandiant. The vulnerability, tracked as CVE-2026-20245 (CVSS score: 7.8),…",
+          "date": "2026-06-25T05:46:54+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
+          "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 26, 2026. The vulnerability in questio…",
+          "date": "2026-06-24T17:19:18+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
           "link": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
@@ -1287,48 +1329,6 @@
           "summary": "For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain. The problem is no longer visibility. It's validation. Security teams must decide which findings warrant action while operating under constant pressure and incomplete information. …",
           "date": "2026-06-17T14:58:00+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
-          "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
-          "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin poses as an AI coding assistant built on DeepSeek and other larg…",
-          "date": "2026-06-17T13:51:58+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "The Top 10 Attack Surface Exposures in 2026",
-          "link": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
-          "summary": "Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop — like MongoBleed earlier this year, which let attackers pull credentials and session tokens from server memory without authentic…",
-          "date": "2026-06-17T10:30:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "145 Mastra npm Packages Compromised via Hijacked Contributor Account",
-          "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
-          "summary": "As many as 145 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from E…",
-          "date": "2026-06-17T07:38:24+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
-          "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026…",
-          "date": "2026-06-17T05:50:46+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
-          "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
-          "summary": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure. Palo Alto Networks Unit 42, which found and reported the bug through Google's bug bounty pro…",
-          "date": "2026-06-16T19:05:41+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
-          "link": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
-          "summary": "Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Huntress, respectively. Attacks involving BabaDeda Loader, observed in April 2026, h…",
-          "date": "2026-06-16T17:41:28+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/24/cnapp-evolution-how-microsoft-aligns-with-leading-cloud-risk-management-platforms/",
+          "summary": "Learn how CNAPP platforms are helping organizations prioritize exploitable risks, reduce exposure, and operationalize security across the application lifecycle. The post CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms appeared first on Microsoft Security Blog .",
+          "date": "2026-06-24T18:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/",
@@ -1403,13 +1410,6 @@
           "summary": "Microsoft has been named a Leader in The Forrester Wave™: Extended Detection and Response Platforms, Q2 2026. The post ​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report appeared first on Microsoft Security Blog .",
           "date": "2026-06-17T18:30:00+00:00",
           "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "AI is accelerating cyberattacks—here’s how to stay ahead",
-          "link": "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592",
-          "summary": "See how Microsoft unifies identity and security signals to help teams prevent, detect, and respond to AI-accelerated attacks faster. The post AI is accelerating cyberattacks—here’s how to stay ahead appeared first on Microsoft Security Blog .",
-          "date": "2026-06-17T17:00:00+00:00",
-          "source": "Microsoft Security Blog"
         }
       ]
     },
@@ -1417,6 +1417,13 @@
       "name": "Black Hills InfoSec",
       "url": "https://www.blackhillsinfosec.com/blog/feed/",
       "articles": [
+        {
+          "title": "Insufficient Egress Filtering: How Weak Outbound Controls Enable Attacks",
+          "link": "https://www.blackhillsinfosec.com/insufficient-egress-filtering/",
+          "summary": "Insufficient egress filtering is a commonly identified vulnerability found during BHIS penetration tests. The insufficient egress filtering finding indicates that network traffic leaving the organization’s environment is not properly restricted. The post Insufficient Egress Filtering: How Weak Outbo…",
+          "date": "2026-06-24T14:00:00+00:00",
+          "source": "Black Hills InfoSec"
+        },
         {
           "title": "The Art of the Badge: A Hard Truth About Physical Security",
           "link": "https://www.blackhillsinfosec.com/the-art-of-the-badge/",
@@ -1759,13 +1766,6 @@
           "summary": "Wireshark is an incredible tool used to read and analyze network traffic coming in and out of an endpoint. Additionally, it can load previously captured traffic to assist with troubleshooting network issues or analyze malicious traffic to help determine what a threat actor is doing on your network. …",
           "date": "2025-08-06T15:00:00+00:00",
           "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Hashcat Cheatsheet",
-          "link": "https://www.blackhillsinfosec.com/hashcat-cheatsheet/",
-          "summary": "Hashcat is a powerful tool for recovering lost passwords, and, thanks to GPU acceleration, it’s one of the fastest. It works by rapidly trying different password guesses to determine the original password from its scrambled (hashed) version. The post Hashcat Cheatsheet appeared first on Black Hills …",
-          "date": "2025-08-06T15:00:00+00:00",
-          "source": "Black Hills InfoSec"
         }
       ]
     },
@@ -1850,6 +1850,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "What do Ports Hear When Nobody's Listening&#x3f; An Assessment of Automated Cybercrime &#x5b;Guest Diary&#x5d;, (Wed, Jun 24th)",
+          "link": "https://isc.sans.edu/diary/rss/33104",
+          "summary": "[This is a Guest Diary by Nicole Phillips, an ISC intern as part of the SANS.edu BACS program]",
+          "date": "2026-06-25T10:01:19+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "Linux Process Name Masquerading, (Wed, Jun 24th)",
           "link": "https://isc.sans.edu/diary/rss/33102",
           "summary": "In a previous diary, I talked about stack strings&#;x26;#;x5b;1&#;x26;#;x5d; with a practical example of them. Since my SEC670 class, I&#;x26;#;xe2;&#;x26;#;x80;&#;x26;#;x99;m even more interested&#;x26;#;xc2;&#;x26;#;xa0;in malware obfuscation techniques. I had&#;x26;#;xc2;&#;x26;#;xa0;a look at pr…",
@@ -1910,13 +1917,6 @@
           "link": "https://isc.sans.edu/diary/rss/33086",
           "summary": "[This is a Guest Diary by Adam Nason, an ISC intern as part of the SANS.edu BACS program]",
           "date": "2026-06-18T01:49:29+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "The browser blind spot: Why your security tool may not be blocking what you think it is &#x5b;Guest Diary&#x5d;, (Wed, Jun 17th)",
-          "link": "https://isc.sans.edu/diary/rss/33084",
-          "summary": "[This is a guest diary submitted by Varun Murdula]",
-          "date": "2026-06-17T16:01:33+00:00",
           "source": "SANS ISC"
         }
       ]
