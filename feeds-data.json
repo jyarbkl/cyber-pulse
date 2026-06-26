@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-06-26T13:15:07.900550+00:00",
+  "generated_at": "2026-06-26T17:41:19.127002+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
+          "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
+          "summary": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation tasks. [...]",
+          "date": "2026-06-26T14:01:11+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
           "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
@@ -102,13 +109,6 @@
           "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]",
           "date": "2026-06-24T14:35:15+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
-          "link": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
-          "summary": "Microsoft, Europol, and international partners have disrupted infrastructure used by the Amadey and StealC malware operations as part of Operation Endgame, which targets cybercriminal services and ransomware gangs. [...]",
-          "date": "2026-06-24T14:35:11+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -117,10 +117,31 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "AI Won't Wipe-Out Entry-Level Cybersecurity Jobs",
+          "link": "https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs",
+          "summary": "Instead of eliminating jobs for early-career cyber pros, AI is creating new opportunities for candidates with strong human decision-making skills.",
+          "date": "2026-06-26T16:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex",
+          "link": "https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex",
+          "summary": "Getting accurate visibility into IT and OT systems will be compounded by multivendor environments, misaligned update life cycles, and interoperability gaps.",
+          "date": "2026-06-26T13:30:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up",
           "link": "https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder",
           "summary": "It might be taking a bit longer than usual to respond to your submissions — here's why.",
           "date": "2026-06-26T13:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Robinhood Cuts Access Approval Time to Support High-Velocity Development",
+          "link": "https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development",
+          "summary": "The fintech company's engineering-first application security team re-engineered the process for granting system access, making it easier and more secure for developers working on their projects. Here are the lessons learned from Robinhood's experience.",
+          "date": "2026-06-25T22:42:36+00:00",
           "source": "Dark Reading"
         },
         {
@@ -443,27 +464,6 @@
           "link": "https://www.darkreading.com/vulnerabilities-threats/bug-bounty-research-triggers-servicenow-security-alert",
           "summary": "Security research inadvertently led organizations to believe they were being breached through their ServiceNow instances.",
           "date": "2026-06-10T20:07:53+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "AI Risk Worries Insurers &amp; Businesses Alike",
-          "link": "https://www.darkreading.com/cyber-risk/ai-risk-worries-insurers-businesses-alike",
-          "summary": "As companies adopt AI, many insurance firms are explicitly excluding AI risks, while others are forging ahead to create the right framework. What risks can firms reasonably manage?",
-          "date": "2026-06-10T19:34:43+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Nightmare-Eclipse Drops Yet Another Microsoft Exploit, RoguePlanet",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-microsoft-exploit-rogueplanet",
-          "summary": "The disgruntled researcher released yet another PoC for a Windows Defender bug that allows for system takeover, showing no signs of abandoning their ongoing feud with Microsoft.",
-          "date": "2026-06-10T16:31:02+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "The Invisible Battlefield: How Cyberwar Is Reshaping Everyday Life",
-          "link": "https://www.darkreading.com/endpoint-security/invisible-battlefield-cyber-war-reshaping-everyday-life",
-          "summary": "Former National Cyber Director Chris Inglis warns that cyberattacks threaten hospitals, utilities, and essential services.",
-          "date": "2026-06-09T21:57:11+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,27 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories",
+          "link": "https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/",
+          "summary": "AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact. The post Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories appeared first on SecurityWeek .",
+          "date": "2026-06-26T15:23:46+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "More Klue Breach Victims Identified as Hackers Get Hacked",
+          "link": "https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/",
+          "summary": "Roughly two dozen companies have notified their customers of the Klue-Salesforce incident impact. The post More Klue Breach Victims Identified as Hackers Get Hacked appeared first on SecurityWeek .",
+          "date": "2026-06-26T15:01:33+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs",
+          "link": "https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/",
+          "summary": "Other noteworthy stories that might have slipped under the radar: Russia used Cellebrite to hack activist’s phone, Five Eyes issue urgent AI threat warning, macOS Gaslight backdoor, Scattered Spider guilty pleas. The post In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs a…",
+          "date": "2026-06-26T14:30:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Nebulock Raises $25 Million for AI-Native Contextual Security",
           "link": "https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/",
           "summary": "The cybersecurity startup provides threat hunting, proactive detection, and behavioral security analytics. The post Nebulock Raises $25 Million for AI-Native Contextual Security appeared first on SecurityWeek .",
@@ -952,27 +973,6 @@
           "summary": "Martin brings experience from Coinbase, Palantir, Amazon, and the U.S. Army to lead Uber's cybersecurity and enterprise security organization. The post Philip Martin Joins Uber as Chief Information Security Officer appeared first on SecurityWeek .",
           "date": "2026-06-26T05:13:00+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Runlayer Raises $30 Million in Series A Funding",
-          "link": "https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/",
-          "summary": "The startup’s platform functions as a secure control layer, aiming to secure AI tools across enterprises. The post Runlayer Raises $30 Million in Series A Funding appeared first on SecurityWeek .",
-          "date": "2026-06-25T12:39:50+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack",
-          "link": "https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/",
-          "summary": "Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala. The post Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack appeared first on SecurityWeek .",
-          "date": "2026-06-25T12:07:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning",
-          "link": "https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/",
-          "summary": "The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project. The post Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning appeared first on SecurityWeek .",
-          "date": "2026-06-25T11:23:40+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -981,10 +981,24 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
+          "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
+          "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia. The activity, particularly aimed at state-owned enterprises in the energy and governm…",
+          "date": "2026-06-26T16:21:25+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
           "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
           "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A public, working exploit appeared…",
-          "date": "2026-06-26T13:00:41+00:00",
+          "date": "2026-06-26T13:57:55+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+          "link": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
+          "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it. Tracked as CVE-2026-12957 (CVSS 8.5), the bug sat in …",
+          "date": "2026-06-26T13:53:00+00:00",
           "source": "The Hacker News"
         },
         {
@@ -1314,20 +1328,6 @@
           "link": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
           "summary": "Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users. The vulnerability, tracked as CVE-2025-20701 (CVSS score: 8.8), refers to a case of incorrect authorization impacting the Airoha Bluetooth …",
           "date": "2026-06-19T06:36:09+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
-          "link": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html",
-          "summary": "F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affected systems. The vulnerabilities are listed below - CVE-2026-42530 (CVSS v4 score: 9.2) - A use-after-free vulnerability in the ngx_http_v3_module th…",
-          "date": "2026-06-18T17:32:14+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
-          "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
-          "summary": "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it? For most enterprises, the answer is a simple no. The rush to adopt internal AI tools has left a massive trail of administrative debt: orphaned…",
-          "date": "2026-06-18T15:33:49+00:00",
           "source": "The Hacker News"
         }
       ]
