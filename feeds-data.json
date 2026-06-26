@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-06-25T18:04:08.028810+00:00",
+  "generated_at": "2026-06-26T13:15:07.900550+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
+          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
+          "summary": "Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]",
+          "date": "2026-06-25T22:53:32+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
+          "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
+          "summary": "Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks. [...]",
+          "date": "2026-06-25T22:37:42+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Order-tracking app Shop abused to push callback phishing attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
+          "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software. [...]",
+          "date": "2026-06-25T19:45:48+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
+          "summary": "Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until October 12, 2027. [...]",
+          "date": "2026-06-25T18:29:20+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
           "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
@@ -81,34 +109,6 @@
           "summary": "Microsoft, Europol, and international partners have disrupted infrastructure used by the Amadey and StealC malware operations as part of Operation Endgame, which targets cybercriminal services and ransomware gangs. [...]",
           "date": "2026-06-24T14:35:11+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Securing the service desk: Why social engineering attacks keep succeeding",
-          "link": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
-          "summary": "Service desks have become a favored target for attackers seeking password resets, MFA changes, and access to corporate accounts. Specops Software breaks down how service desk social engineering attacks work and how organizations can defend against them. [...]",
-          "date": "2026-06-24T14:02:12+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
-          "link": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
-          "summary": "A new backdoor dubbed Mistic has been observed in financially motivated attacks targeting organizations in the insurance, education, IT, and professional services sectors. [...]",
-          "date": "2026-06-24T10:41:51+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
-          "summary": "A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]",
-          "date": "2026-06-23T21:48:32+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Tata Electronics confirms cyberattack as hackers leak data",
-          "link": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
-          "summary": "Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure. [...]",
-          "date": "2026-06-23T21:06:32+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,41 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up",
+          "link": "https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder",
+          "summary": "It might be taking a bit longer than usual to respond to your submissions — here's why.",
+          "date": "2026-06-26T13:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/less-than-24-hours-attackers-weaponize-cisco-cucm-flaw",
+          "summary": "The flaw enables server-side request forgery (SSRF) and escalates privileges to root, impacting Cisco Unified CM and Unified CM SME deployments.",
+          "date": "2026-06-25T21:54:34+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Russian APT 'Gamaredon' Upgrades Its Arsenal, Requiring New Defenses",
+          "link": "https://www.darkreading.com/threat-intelligence/russia-apt-gamaredon-arsenal-defense",
+          "summary": "The FSB state-sponsored operation has gotten a lot better at loading its malware and hiding its servers.",
+          "date": "2026-06-25T21:12:01+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "EdTech Attackers Shift From Schools to Their Software Suppliers",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/edtech-attackers-shift-schools-software-suppliers",
+          "summary": "Educational institutions, the edtech companies they rely on, and, more concerningly, the challenges they pose for schools are the focus of the latest Reporters' Notebook video series.",
+          "date": "2026-06-25T20:34:14+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Local Police Collusion Hampers Crackdown on Asian Scam Centers",
+          "link": "https://www.darkreading.com/threat-intelligence/police-collusion-crackdown-asian-scam-centers",
+          "summary": "With tens of billions of dollars flowing into regional economies from cybercrime, scam centers continue to flourish, despite international and law-enforcement efforts.",
+          "date": "2026-06-25T19:07:41+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Europe Evolves Into Ransomware's Favorite Region",
           "link": "https://www.darkreading.com/cybersecurity-analytics/europe-evolves-ransomware-favorite-region",
@@ -430,41 +465,6 @@
           "summary": "Former National Cyber Director Chris Inglis warns that cyberattacks threaten hospitals, utilities, and essential services.",
           "date": "2026-06-09T21:57:11+00:00",
           "source": "Dark Reading"
-        },
-        {
-          "title": "Blame AI: Patch Tuesday Hits Record 206 CVEs",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/blame-ai-patch-tuesday-record-206-cves",
-          "summary": "Voluminous patch updates could soon be the norm, as artificial intelligence accelerates the speed and scale of vulnerability discovery.",
-          "date": "2026-06-09T21:42:57+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Microsoft Exchange Flaw Lets Attackers Spoof Any Email Address",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/exchange-flaw-attackers-spoof-email-address",
-          "summary": "“Ghost-Sender\" is the result of a widespread misconfiguration, according to researchers, and evidence indicates it's being actively abused in the wild.",
-          "date": "2026-06-09T20:20:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Miasma Supply Chain Worm Burrows Into 73 Microsoft Repositories",
-          "link": "https://www.darkreading.com/application-security/miasma-supply-chain-worm-73-microsoft-repositories",
-          "summary": "The attacks stemmed from a GitHub account that was also compromised in a previous Miasma attack on Microsoft last month.",
-          "date": "2026-06-09T19:33:45+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Russian Attackers Weaponize WinRAR Flaw Against Ukrainian Orgs",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/russian-groups-winrar-flaw-ukrainian-orgs",
-          "summary": "Two separate campaigns target CVE-2025-8088, fixed last July, to conduct data theft and cyberespionage against military and government targets in Ukraine.",
-          "date": "2026-06-09T15:37:02+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "AI Slop Will Kill Cybersecurity Storytelling If We Let It",
-          "link": "https://www.darkreading.com/cyber-risk/ai-slop-kill-cybersecurity-storytelling-we-let-it",
-          "summary": "AI-generated content threatens credibility in cybersecurity. This \"Ask the Expert\" column explores why human oversight matters and how to maintain authentic narratives.",
-          "date": "2026-06-08T22:05:49+00:00",
-          "source": "Dark Reading"
         }
       ]
     },
@@ -548,6 +548,13 @@
       "name": "Risky Biz Newsletters",
       "url": "https://risky.biz/feeds/newsletters/",
       "articles": [
+        {
+          "title": "Risky Bulletin: Law enforcement agencies and security firms take down Amadey and StealerC",
+          "link": "https://risky.biz/risky-bulletin-law-enforcement-agencies-and-security-firms-take-down-amadey-and-stealerc/",
+          "summary": "An Europol operation aimed at taking down cybercrime operations has added two new victims to its trophy wall in the Amadey malware loader and the StealC infostealer operation. ( Technically three, but we already covered the SocGolish botnet takedown last week, so we're gonna pretend it's two. ) The …",
+          "date": "2026-06-26T04:46:04+00:00",
+          "source": "Risky Biz Newsletters"
+        },
         {
           "title": "Srsly Risky Biz: Open Weight Model Advances Make the Mythos Debate Moot",
           "link": "https://risky.biz/srsly-risky-biz-open-weight-model-advances-make-the-mythos-debate-moot/",
@@ -890,13 +897,6 @@
           "summary": "A suspected Iranian APT group has conducted a wide-ranging password spray attack against the Microsoft 365 accounts of governments and private sector organizations across the Middle East. While password spraying campaigns are a dime a dozen, this one stood out to Check Point researchers because it t…",
           "date": "2026-04-01T05:53:15+00:00",
           "source": "Risky Biz Newsletters"
-        },
-        {
-          "title": "Risky Bulletin: Apple adds ClickFix warning to macOS terminal",
-          "link": "https://risky.biz/risky-bulletin-apple-adds-clickfix-warning-to-macos-terminal/",
-          "summary": "Apple has added a secret security feature to macOS to warn users about possible ClickFix attacks. The feature was silently added to macOS 26.4, released last week. It works by showing a popup on the screen whenever a user tries to copy-paste commands from a browser into the Terminal window.",
-          "date": "2026-03-30T03:29:12+00:00",
-          "source": "Risky Biz Newsletters"
         }
       ]
     },
@@ -904,6 +904,55 @@
       "name": "SecurityWeek",
       "url": "https://www.securityweek.com/feed/",
       "articles": [
+        {
+          "title": "Nebulock Raises $25 Million for AI-Native Contextual Security",
+          "link": "https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/",
+          "summary": "The cybersecurity startup provides threat hunting, proactive detection, and behavioral security analytics. The post Nebulock Raises $25 Million for AI-Native Contextual Security appeared first on SecurityWeek .",
+          "date": "2026-06-26T12:37:13+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Linux Foundation Unveils New Open Source Security Project Akrites",
+          "link": "https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/",
+          "summary": "It will provide the tools and channels to report, patch, and disclose open source software vulnerabilities. The post Linux Foundation Unveils New Open Source Security Project Akrites appeared first on SecurityWeek .",
+          "date": "2026-06-26T11:28:20+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "$3 Million Reportedly Stolen in Polymarket Hack",
+          "link": "https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/",
+          "summary": "The decentralized prediction market said hackers targeted some of its users through a compromise of a third-party vendor. The post $3 Million Reportedly Stolen in Polymarket Hack appeared first on SecurityWeek .",
+          "date": "2026-06-26T09:47:35+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets",
+          "link": "https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/",
+          "summary": "Turla has been using the backdoor against government and military organizations in Ukraine for espionage. The post Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets appeared first on SecurityWeek .",
+          "date": "2026-06-26T08:55:08+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild",
+          "link": "https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/",
+          "summary": "CISA has added the remote code execution flaw CVE-2026-12569 to its Known Exploited Vulnerabilities catalog. The post First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild appeared first on SecurityWeek .",
+          "date": "2026-06-26T08:15:21+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "New Enterprise-Ready MCP Specification Brings New Security Challenges",
+          "link": "https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/",
+          "summary": "A major overhaul of the Model Context Protocol shifts critical security responsibilities from the protocol itself to developers and platform operators. The post New Enterprise-Ready MCP Specification Brings New Security Challenges appeared first on SecurityWeek .",
+          "date": "2026-06-26T08:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Philip Martin Joins Uber as Chief Information Security Officer",
+          "link": "https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/",
+          "summary": "Martin brings experience from Coinbase, Palantir, Amazon, and the U.S. Army to lead Uber's cybersecurity and enterprise security organization. The post Philip Martin Joins Uber as Chief Information Security Officer appeared first on SecurityWeek .",
+          "date": "2026-06-26T05:13:00+00:00",
+          "source": "SecurityWeek"
+        },
         {
           "title": "Runlayer Raises $30 Million in Series A Funding",
           "link": "https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/",
@@ -924,55 +973,6 @@
           "summary": "The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project. The post Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning appeared first on SecurityWeek .",
           "date": "2026-06-25T11:23:40+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "GitLab Patches Code Execution, Information Disclosure Vulnerabilities",
-          "link": "https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/",
-          "summary": "The latest GitLab CE/EE updates address 13 vulnerabilities, including three high-severity defects. The post GitLab Patches Code Execution, Information Disclosure Vulnerabilities appeared first on SecurityWeek .",
-          "date": "2026-06-25T11:10:04+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "25-Year-Old Vulnerability Patched in Curl",
-          "link": "https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/",
-          "summary": "The latest version of the open source data transfer tool resolves 18 medium and low-severity vulnerabilities. The post 25-Year-Old Vulnerability Patched in Curl appeared first on SecurityWeek .",
-          "date": "2026-06-25T09:25:02+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition",
-          "link": "https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/",
-          "summary": "The 2026 Industrial Control Systems (ICS) Cybersecurity Conference takes place October 6-8, 2026, at the W Nashville. The post SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition appeared first on SecurityWeek .",
-          "date": "2026-06-25T09:00:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "NIST Opens Updated IoT Security Guidance to Public Review",
-          "link": "https://www.securityweek.com/nist-opens-updated-iot-security-guidance-to-public-review/",
-          "summary": "The guidance aims to establish product cybersecurity requirements for IoT devices integrated into federal agencies’ networks. The post NIST Opens Updated IoT Security Guidance to Public Review appeared first on SecurityWeek .",
-          "date": "2026-06-25T08:29:26+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Chrome 149 Update Resolves 18 Severe Vulnerabilities",
-          "link": "https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/",
-          "summary": "More than half of the bugs are use-after-free defects, which can potentially lead to remote code execution. The post Chrome 149 Update Resolves 18 Severe Vulnerabilities appeared first on SecurityWeek .",
-          "date": "2026-06-25T07:56:03+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Cisco SD-WAN Zero-Day Exploited Months Before Patching",
-          "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/",
-          "summary": "CVE-2026-20245, the 7th Cisco SD-WAN vulnerability exploited in 2026, was used for months prior to its disclosure and patching. The post Cisco SD-WAN Zero-Day Exploited Months Before Patching appeared first on SecurityWeek .",
-          "date": "2026-06-25T06:08:43+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "When Information Becomes the Attack Surface – Understanding AI Agent Traps",
-          "link": "https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/",
-          "summary": "From hidden content injections to cognitive state poisoning, attackers are turning trusted data sources into traps for autonomous AI. The post When Information Becomes the Attack Surface – Understanding AI Agent Traps appeared first on SecurityWeek .",
-          "date": "2026-06-24T17:37:57+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,62 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
+          "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
+          "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A public, working exploit appeared…",
+          "date": "2026-06-26T13:00:41+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
+          "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) software to its Known Exploited Vulnerabil…",
+          "date": "2026-06-26T12:31:56+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
+          "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
+          "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family. JFrog Security Research published a working exploit walkthrough for the flaw on June 25, the first public demonstration for this variant. Tracked as CVE-2026-43503 (CVSS 8.8), it lets a local user corrupt file-backed memo…",
+          "date": "2026-06-26T11:51:35+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Guardian Agents: The Next Layer of Identity Governance",
+          "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
+          "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to govern human access wasn't designed for autonomous actors, and the gap between what enterprises are …",
+          "date": "2026-06-26T11:30:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
+          "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
+          "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem. \"The latest activity includes malicious npm releases …",
+          "date": "2026-06-26T11:05:45+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
+          "link": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
+          "summary": "An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says. The company has not attributed the activity to a known threat act…",
+          "date": "2026-06-26T09:27:12+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
+          "link": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
+          "summary": "Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three months after Cellebrite said it would stop selling its tools and services to Russia and Belarus. The finding, published June 25 by the Citizen Lab, …",
+          "date": "2026-06-26T08:49:35+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
+          "link": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
+          "summary": "The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed against government and military organizations in Ukraine, and entities that have an interest in Italian foreign policy. Describing the Window…",
+          "date": "2026-06-26T07:15:46+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
           "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
@@ -1273,62 +1329,6 @@
           "summary": "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it? For most enterprises, the answer is a simple no. The rush to adopt internal AI tools has left a massive trail of administrative debt: orphaned…",
           "date": "2026-06-18T15:33:49+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
-          "link": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
-          "summary": "The internet did not break this week. It got used exactly as designed, which is worse. Searches were siphoned through shady browser add-ons. AI chat links turned into malware delivery paths. macOS attacks ran in memory and left almost nothing behind. Cloud agents looked like helpers until attackers …",
-          "date": "2026-06-18T15:27:54+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
-          "link": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
-          "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign codenamed CryptoBandits that has targeted users since February 2026 with clipboard-intercepting malware with self-spreading capabilities and using the Tor anonymity network to hide communication. \"The clipper in this …",
-          "date": "2026-06-18T14:30:42+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
-          "link": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html",
-          "summary": "Cybersecurity researchers have charted the evolution of INC from an nascent ransomware-as-a-service (RaaS) operation to one of the most prolific cybercrime groups in 2026, claiming no less than 830 victims since August 2023. \"The disruption of LockBit and the shutdown of BlackCat created opportuniti…",
-          "date": "2026-06-18T14:12:48+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
-          "link": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
-          "summary": "An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here → When a customer types their card number into your checkout, their browser is running far more than your code. Analytics tags, a tag manager, a support widget, a payment…",
-          "date": "2026-06-18T13:58:39+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
-          "link": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
-          "summary": "Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2) traffic inside Microsoft Teams relay infrastructure. According to findings from Broadcom-owned Symantec and Carbon B…",
-          "date": "2026-06-18T13:30:07+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
-          "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
-          "summary": "An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point Research. The threat actor also has at their disposal a dedicated WordPress phishing page that acts as the central hub, …",
-          "date": "2026-06-17T18:14:24+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
-          "link": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html",
-          "summary": "Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet. The vulnerability has now been assigned the CVE identifier CVE-2026-50656 (CVSS score: 7.8), with the tech giant describing it as a privilege escalation flaw. \"Microsoft is awa…",
-          "date": "2026-06-17T17:36:28+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
-          "link": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html",
-          "summary": "A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials. Ordinary stuff, until one move near the end. Before his command-and-control server went dark, he installed OpenSSH and Tailscale on a victim's machine, building a w…",
-          "date": "2026-06-17T16:00:56+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/",
+          "summary": "Microsoft Threat Intelligence identified an active multi-stage intrusion campaign targeting hospitality organizations in Europe and Asia. The campaign uses photo-themed ZIP archives and fake image shortcut files to deliver a persistent Node.js implant and evade detection. The post Photo ZIP campaign…",
+          "date": "2026-06-25T22:30:29+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/",
           "summary": "Microsoft Threat Intelligence analyzed a cryptocurrency clipper campaign that combines clipboard theft, wallet replacement, Tor-based communications, and worm-like propagation. Beyond stealing cryptocurrency transactions, the malware establishes persistent access and enables follow-on activity throu…",
           "date": "2026-06-17T23:11:43+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Beyond the benchmark: Advancing security at AI speed",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/",
-          "summary": "Read how Microsoft Security has advanced its agentic vulnerability detection system, codename MDASH, integrating into real-world workflows across Windows, Azure, and identity systems. The post Beyond the benchmark: Advancing security at AI speed appeared first on Microsoft Security Blog .",
-          "date": "2026-06-17T19:30:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
