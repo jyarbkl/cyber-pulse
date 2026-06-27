@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-06-26T17:41:19.127002+00:00",
+  "generated_at": "2026-06-27T12:11:55.127859+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "FBI: Russian hackers now target Signal backup recovery keys",
+          "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+          "summary": "The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messages. [...]",
+          "date": "2026-06-26T22:06:17+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]",
+          "date": "2026-06-26T19:43:06+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Polymarket customers lose $3 million in supply-chain attack",
+          "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
+          "summary": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]",
+          "date": "2026-06-26T18:04:12+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
+          "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
+          "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects. [...]",
+          "date": "2026-06-26T17:49:07+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
           "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
@@ -81,34 +109,6 @@
           "summary": "Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations. [...]",
           "date": "2026-06-24T23:46:17+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
-          "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
-          "summary": "A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack. [...]",
-          "date": "2026-06-24T21:55:43+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
-          "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
-          "summary": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]",
-          "date": "2026-06-24T21:29:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
-          "link": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
-          "summary": "A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]",
-          "date": "2026-06-24T20:58:22+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]",
-          "date": "2026-06-24T14:35:15+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,27 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "AI Decline? Confidence in Autonomous Penetration Testing Falls",
+          "link": "https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing",
+          "summary": "Companies are still experimenting with automated AI systems to find security weaknesses, but fewer are relying on the technology.",
+          "date": "2026-06-26T19:11:02+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions",
+          "link": "https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield",
+          "summary": "Cisco joins a growing list of security platform providers that are betting that securing the agentic workforce means turning identity into the primary control plane.",
+          "date": "2026-06-26T17:31:04+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "New Initiative Tackles Security for End-of-Life Open Source Software",
+          "link": "https://www.darkreading.com/application-security/initiative-tackles-security-end-of-life-open-source",
+          "summary": "The Open Source Sustainability Initiative's goal is to help enterprises manage and secure aging open source projects while maintaining regulatory compliance.",
+          "date": "2026-06-26T16:32:30+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "AI Won't Wipe-Out Entry-Level Cybersecurity Jobs",
           "link": "https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs",
@@ -140,7 +161,7 @@
         {
           "title": "Robinhood Cuts Access Approval Time to Support High-Velocity Development",
           "link": "https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development",
-          "summary": "The fintech company's engineering-first application security team re-engineered the process for granting system access, making it easier and more secure for developers working on their projects. Here are the lessons learned from Robinhood's experience.",
+          "summary": "The fintech company's engineering-first application security team reengineered the process for granting system access, making it easier and more secure for developers working on their projects. Here are the lessons learned from Robinhood's experience.",
           "date": "2026-06-25T22:42:36+00:00",
           "source": "Dark Reading"
         },
@@ -443,27 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/segmentation-works-for-ot-if-operators-are-paying-attention",
           "summary": "Even the best segmentation strategy will fall apart without constant oversight and disciplined operations.",
           "date": "2026-06-11T14:51:48+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Chinese, N. Korean Threat Groups Build on Asia-Pacific Success",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-korean-threat-groups-asia-pacific-success",
-          "summary": "North Korea's gross domestic product (GDP) has grown, in part because of the nation's state-sponsored cybercrime groups, which target financial firms and other businesses.",
-          "date": "2026-06-11T00:01:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "CISA Rewrites Federal Patching Requirements for AI Threat Era",
-          "link": "https://www.darkreading.com/cyber-risk/cisa-rewrites-federal-patching-requirements-ai-threat-era",
-          "summary": "The new directive gives federal agencies three days to fix the most dangerous flaws, while less severe issues can be deferred.",
-          "date": "2026-06-10T21:17:12+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Bug Bounty Research Triggers ServiceNow Security Alert",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/bug-bounty-research-triggers-servicenow-security-alert",
-          "summary": "Security research inadvertently led organizations to believe they were being breached through their ServiceNow instances.",
-          "date": "2026-06-10T20:07:53+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,20 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
+          "link": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
+          "summary": "The FBI and CISA have updated their March warning about Russian intelligence phishing Signal accounts, and the operators have added a step: they now coax targets into handing over their Signal Backup Recovery Key. Hand it over once, and the attacker can restore the account's backup, read the private…",
+          "date": "2026-06-26T19:38:29+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
+          "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
+          "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts. Kaspersky, which is tracking the activity under the moniker StrikeShark, said the campaign …",
+          "date": "2026-06-26T18:17:46+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
           "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
           "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia. The activity, particularly aimed at state-owned enterprises in the energy and governm…",
@@ -1314,20 +1328,6 @@
           "link": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
           "summary": "The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention rules. That response made sense at the time. It doesn't fit the problem anymore. Sha…",
           "date": "2026-06-19T10:30:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
-          "link": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
-          "summary": "Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on June 11, 2026. To that end, organizations will be unable to connect to Salesforce via the app until further notice, t…",
-          "date": "2026-06-19T09:03:57+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
-          "link": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
-          "summary": "Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users. The vulnerability, tracked as CVE-2025-20701 (CVSS score: 8.8), refers to a case of incorrect authorization impacting the Airoha Bluetooth …",
-          "date": "2026-06-19T06:36:09+00:00",
           "source": "The Hacker News"
         }
       ]
