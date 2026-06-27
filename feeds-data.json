@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-06-27T12:11:55.127859+00:00",
+  "generated_at": "2026-06-27T16:59:38.208250+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Clean GitHub repo tricks AI coding agents into running malware",
+          "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+          "summary": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
+          "date": "2026-06-27T14:22:36+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "FBI: Russian hackers now target Signal backup recovery keys",
           "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
@@ -102,13 +109,6 @@
           "summary": "Account takeover attacks continue to challenge security teams because attackers often operate through legitimate accounts and trusted services. This webinar explores how behavioral AI can help organizations identify compromised accounts faster and automate response workflows. [...]",
           "date": "2026-06-25T12:12:20+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Google releases new privacy controls for activity history, personalization",
-          "link": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
-          "summary": "Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations. [...]",
-          "date": "2026-06-24T23:46:17+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk",
+          "link": "https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk",
+          "summary": "Rising threats from third-party actors are forcing institutions to play defense to protect student data from ransomware and other attacks.",
+          "date": "2026-06-27T11:48:05+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "AI Decline? Confidence in Autonomous Penetration Testing Falls",
           "link": "https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours",
           "summary": "Initial methods suggest attackers had likely mapped out Ivanti's asset landscape upfront and acted quickly once the exploit became public.",
           "date": "2026-06-11T18:43:57+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Segmentation Works for OT If Operators Are Paying Attention",
-          "link": "https://www.darkreading.com/cybersecurity-operations/segmentation-works-for-ot-if-operators-are-paying-attention",
-          "summary": "Even the best segmentation strategy will fall apart without constant oversight and disciplined operations.",
-          "date": "2026-06-11T14:51:48+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Chinese Framework Powers 200,000 Scam Sites",
+          "link": "https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/",
+          "summary": "Threat actors are selling investment scam templates created using the legitimate DCloud Uni-App toolkit. The post Chinese Framework Powers 200,000 Scam Sites appeared first on SecurityWeek .",
+          "date": "2026-06-27T12:13:51+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories",
           "link": "https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/",
           "summary": "AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact. The post Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "A major overhaul of the Model Context Protocol shifts critical security responsibilities from the protocol itself to developers and platform operators. The post New Enterprise-Ready MCP Specification Brings New Security Challenges appeared first on SecurityWeek .",
           "date": "2026-06-26T08:00:00+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Philip Martin Joins Uber as Chief Information Security Officer",
-          "link": "https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/",
-          "summary": "Martin brings experience from Coinbase, Palantir, Amazon, and the U.S. Army to lead Uber's cybersecurity and enterprise security organization. The post Philip Martin Joins Uber as Chief Information Security Officer appeared first on SecurityWeek .",
-          "date": "2026-06-26T05:13:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,13 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
+          "link": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
+          "summary": "OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S. government. While Sol is the latest flagship model and the most powerful, Terra strikes a balance between efficiency an…",
+          "date": "2026-06-27T12:19:37+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
           "link": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
@@ -1321,13 +1328,6 @@
           "link": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
           "summary": "Introduction The average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in siloes, generating (overlapping) alerts and data. And yet, breach dwell times remain stubbornly long (~43 days), r…",
           "date": "2026-06-19T11:58:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
-          "link": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
-          "summary": "The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention rules. That response made sense at the time. It doesn't fit the problem anymore. Sha…",
-          "date": "2026-06-19T10:30:00+00:00",
           "source": "The Hacker News"
         }
       ]
