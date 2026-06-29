@@ -1,10 +1,45 @@
 {
-  "generated_at": "2026-06-28T16:59:51.804722+00:00",
+  "generated_at": "2026-06-29T14:50:14.251494+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Agentic AI Has an Identity Problem and Attackers Know It",
+          "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
+          "summary": "AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security. [...]",
+          "date": "2026-06-29T14:01:11+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
+          "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux. [...]",
+          "date": "2026-06-29T14:00:00+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
+          "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
+          "date": "2026-06-29T13:46:17+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Webinar: Why business email compromise attacks keep succeeding",
+          "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
+          "summary": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI can help identify sophisticated email threats and automate response workflows. [...]",
+          "date": "2026-06-29T12:14:22+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
+          "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
+          "summary": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
+          "date": "2026-06-29T11:21:03+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
           "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
@@ -73,41 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
           "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software. [...]",
           "date": "2026-06-25T19:45:48+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
-          "summary": "Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until October 12, 2027. [...]",
-          "date": "2026-06-25T18:29:20+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
-          "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
-          "summary": "A newly discovered macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]",
-          "date": "2026-06-25T16:23:19+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "PirloTV sports piracy network disrupted as 44 domains seized",
-          "link": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
-          "summary": "A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]",
-          "date": "2026-06-25T15:36:56+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
-          "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
-          "summary": "The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [...]",
-          "date": "2026-06-25T15:00:00+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "The Four Elevations of Effective Fraud Prevention",
-          "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
-          "summary": "Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]",
-          "date": "2026-06-25T14:01:11+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -549,6 +549,13 @@
       "url": "https://risky.biz/feeds/newsletters/",
       "articles": [
         {
+          "title": "Risky Bulletin: Microsoft disrupts StegoAd operation",
+          "link": "https://risky.biz/risky-bulletin-microsoft-disrupts-stegoad-operation/",
+          "summary": "Microsoft's security team has removed 119 malicious Edge extensions from the official Microsoft Edge Add-ons store that were part of a coordinated operation that sought to steal user credentials, backdoor browsers, and engage in advertising and search affiliate fraud. The extensions were published t…",
+          "date": "2026-06-29T02:02:21+00:00",
+          "source": "Risky Biz Newsletters"
+        },
+        {
           "title": "Risky Bulletin: Law enforcement agencies and security firms take down Amadey and StealerC",
           "link": "https://risky.biz/risky-bulletin-law-enforcement-agencies-and-security-firms-take-down-amadey-and-stealerc/",
           "summary": "An Europol operation aimed at taking down cybercrime operations has added two new victims to its trophy wall in the Amadey malware loader and the StealC infostealer operation. ( Technically three, but we already covered the SocGolish botnet takedown last week, so we're gonna pretend it's two. ) The …",
@@ -890,13 +897,6 @@
           "summary": "Computers are now incredibly good at finding and exploiting vulnerabilities. While we expect this will cause cyber chaos in industry , from a US government perspective, cyber organisations like NSA and Cyber Command need access to models from all domestic AI companies. Anthropic may be the 0day maes…",
           "date": "2026-04-02T03:16:49+00:00",
           "source": "Risky Biz Newsletters"
-        },
-        {
-          "title": "Risky Bulletin: Iranian password sprays came first, then came the missiles",
-          "link": "https://risky.biz/risky-bulletin-iranian-password-sprays-came-first-then-came-the-missiles/",
-          "summary": "A suspected Iranian APT group has conducted a wide-ranging password spray attack against the Microsoft 365 accounts of governments and private sector organizations across the Middle East. While password spraying campaigns are a dime a dozen, this one stood out to Check Point researchers because it t…",
-          "date": "2026-04-01T05:53:15+00:00",
-          "source": "Risky Biz Newsletters"
         }
       ]
     },
@@ -904,6 +904,55 @@
       "name": "SecurityWeek",
       "url": "https://www.securityweek.com/feed/",
       "articles": [
+        {
+          "title": "Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines",
+          "link": "https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/",
+          "summary": "Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer’s machine. The post Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines appeared first on SecurityWeek .",
+          "date": "2026-06-29T14:28:40+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Straiker Raises $64 Million for AI Security Platform",
+          "link": "https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/",
+          "summary": "The startup’s platform can identify AI agents and provide visibility into their access, behavior, and risks. The post Straiker Raises $64 Million for AI Security Platform appeared first on SecurityWeek .",
+          "date": "2026-06-29T14:07:34+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack",
+          "link": "https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/",
+          "summary": "The ShinyHunters extortion group claims to have stolen 3.1 TB of data from the organization. The post Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack appeared first on SecurityWeek .",
+          "date": "2026-06-29T13:42:28+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access",
+          "link": "https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/",
+          "summary": "A variant of DirtyFrag, the flaw allows unprivileged local users to manipulate the Linux page cache and gain root privileges. The post ‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access appeared first on SecurityWeek .",
+          "date": "2026-06-29T11:20:13+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review",
+          "link": "https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/",
+          "summary": "ChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trump’s administration. The post OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review appeared first on SecurityWeek …",
+          "date": "2026-06-29T10:14:01+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve",
+          "link": "https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/",
+          "summary": "UNC5792 and UNC4221 have been targeting US government officials, military leaders, and allied personnel. The post US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve appeared first on SecurityWeek .",
+          "date": "2026-06-29T09:29:34+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI",
+          "link": "https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/",
+          "summary": "The company says Sol matches competing systems like Mythos Preview while using only a third of the output tokens. The post OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI appeared first on SecurityWeek .",
+          "date": "2026-06-29T07:45:57+00:00",
+          "source": "SecurityWeek"
+        },
         {
           "title": "Chinese Framework Powers 200,000 Scam Sites",
           "link": "https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/",
@@ -924,55 +973,6 @@
           "summary": "Roughly two dozen companies have notified their customers of the Klue-Salesforce incident impact. The post More Klue Breach Victims Identified as Hackers Get Hacked appeared first on SecurityWeek .",
           "date": "2026-06-26T15:01:33+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs",
-          "link": "https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/",
-          "summary": "Other noteworthy stories that might have slipped under the radar: Russia used Cellebrite to hack activist’s phone, Five Eyes issue urgent AI threat warning, macOS Gaslight backdoor, Scattered Spider guilty pleas. The post In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs a…",
-          "date": "2026-06-26T14:30:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Nebulock Raises $25 Million for AI-Native Contextual Security",
-          "link": "https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/",
-          "summary": "The cybersecurity startup provides threat hunting, proactive detection, and behavioral security analytics. The post Nebulock Raises $25 Million for AI-Native Contextual Security appeared first on SecurityWeek .",
-          "date": "2026-06-26T12:37:13+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Linux Foundation Unveils New Open Source Security Project Akrites",
-          "link": "https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/",
-          "summary": "It will provide the tools and channels to report, patch, and disclose open source software vulnerabilities. The post Linux Foundation Unveils New Open Source Security Project Akrites appeared first on SecurityWeek .",
-          "date": "2026-06-26T11:28:20+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "$3 Million Reportedly Stolen in Polymarket Hack",
-          "link": "https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/",
-          "summary": "The decentralized prediction market said hackers targeted some of its users through a compromise of a third-party vendor. The post $3 Million Reportedly Stolen in Polymarket Hack appeared first on SecurityWeek .",
-          "date": "2026-06-26T09:47:35+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets",
-          "link": "https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/",
-          "summary": "Turla has been using the backdoor against government and military organizations in Ukraine for espionage. The post Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets appeared first on SecurityWeek .",
-          "date": "2026-06-26T08:55:08+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild",
-          "link": "https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/",
-          "summary": "CISA has added the remote code execution flaw CVE-2026-12569 to its Known Exploited Vulnerabilities catalog. The post First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild appeared first on SecurityWeek .",
-          "date": "2026-06-26T08:15:21+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "New Enterprise-Ready MCP Specification Brings New Security Challenges",
-          "link": "https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/",
-          "summary": "A major overhaul of the Model Context Protocol shifts critical security responsibilities from the protocol itself to developers and platform operators. The post New Enterprise-Ready MCP Specification Brings New Security Challenges appeared first on SecurityWeek .",
-          "date": "2026-06-26T08:00:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,55 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+          "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+          "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open. The noise is not all noise, either. Forums are talking, researchers are finding easy cracks, and defenders have more cleanup waiting. Here’s…",
+          "date": "2026-06-29T14:41:07+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
+          "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
+          "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud Uni-App. The templates power bogus cryptocurrency exchanges, multi-language pig-but…",
+          "date": "2026-06-29T11:57:40+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Why Post-Quantum Cryptography Starts With Credentials",
+          "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
+          "summary": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break elliptic curve cryptography or RSA, quantum hardware is advancing rapidly and w…",
+          "date": "2026-06-29T11:42:16+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
+          "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
+          "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025. Slovakian cybersecurity company ESET said it observed 35 distinct spear-phishing campaigns mounted by Gamaredon against new …",
+          "date": "2026-06-29T11:40:24+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
+          "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
+          "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud. The company calls it StegoAd, a mash-up of steganography and adware, and t…",
+          "date": "2026-06-29T08:32:31+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
+          "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
+          "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No credentials, no user interaction. The bug affects every release up to and including 1…",
+          "date": "2026-06-29T07:06:34+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
+          "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
+          "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts. \"This attack avoids the most common npm execution paths through lifecycle scripts, perhaps in…",
+          "date": "2026-06-29T05:36:06+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
           "link": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
@@ -1279,55 +1328,6 @@
           "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
           "summary": "A new malware family is turning forgotten home routers into a distributed reconnaissance and proxy network, not the DDoS botnet these devices usually end up in. QiAnXin's XLab calls it AryStinger and counts at least 4,300 infected routers, a total it says is still rising. The distinction matters. Ar…",
           "date": "2026-06-22T06:57:44+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
-          "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
-          "summary": "A new report from INTERPOL has revealed a \"dramatic increase\" in cybercrime in Asia and the South Pacific, fueled by rapid digitalization, internet penetration, new technologies, organized criminal networks, and a disparity in cybersecurity maturity. According to INTERPOL's 2025/2026 Asia and South …",
-          "date": "2026-06-22T06:06:53+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
-          "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
-          "summary": "Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites. The vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a medium-severity information disclosure flaw that can allow unauthenticated attackers t…",
-          "date": "2026-06-20T09:56:04+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
-          "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
-          "summary": "Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips. That code is burned into the silicon at manufacture. No software update can reach it. Affected devices will carry this …",
-          "date": "2026-06-19T18:37:41+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
-          "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
-          "summary": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor. This mature portfolio of EDR-terminating tools is cente…",
-          "date": "2026-06-19T18:33:07+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
-          "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
-          "summary": "Microsoft researchers have detailed an exploit chain, named AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution. Steer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn a pro…",
-          "date": "2026-06-19T15:30:47+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
-          "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
-          "summary": "Dutch law enforcement authorities, along with counterparts from Canada , Germany, and the U.S., have disrupted malicious infrastructure associated with SocGholish and cleaned up nearly 15,000 infected WordPress websites. \"With these actions we deprive cybercriminals of access to infected computer sy…",
-          "date": "2026-06-19T15:07:54+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
-          "link": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity aimed at thousands of internet-accessible devices. The sweeping campaign, believed to be the work of Russian-spea…",
-          "date": "2026-06-19T14:00:21+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1850,6 +1850,20 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Adding some Automation to the favicon.ico method of Host Recon, (Mon, Jun 29th)",
+          "link": "https://isc.sans.edu/diary/rss/33110",
+          "summary": "I&#;x26;#;39;m in the throes of target host recon for another pentest, and thought I&#;x26;#;39;d share some workflow / automation stuff.",
+          "date": "2026-06-29T12:00:54+00:00",
+          "source": "SANS ISC"
+        },
+        {
+          "title": "ISC Stormcast For Monday, June 29th, 2026 https://isc.sans.edu/podcastdetail/9986, (Mon, Jun 29th)",
+          "link": "https://isc.sans.edu/diary/rss/33108",
+          "summary": "",
+          "date": "2026-06-29T02:00:02+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "YARA-X 1.18.0 and 1.19.0 Release, (Sun, Jun 28th)",
           "link": "https://isc.sans.edu/diary/rss/33106",
           "summary": "YARA-X&#;x26;#;39;s 1.18.0 release brings 3 improvements and 2 bugfixes.",
@@ -1903,20 +1917,6 @@
           "link": "https://isc.sans.edu/diary/rss/33092",
           "summary": "",
           "date": "2026-06-22T02:00:02+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "eBanking Phishing Delivered Through IPv4-Mapped IPv6 Address, (Fri, Jun 19th)",
-          "link": "https://isc.sans.edu/diary/rss/33090",
-          "summary": "I detected an interesting phishing email this morning. It targets a major Belgian bank:",
-          "date": "2026-06-19T08:37:34+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Thursday, June 18th, 2026 https://isc.sans.edu/podcastdetail/9978, (Thu, Jun 18th)",
-          "link": "https://isc.sans.edu/diary/rss/33088",
-          "summary": "",
-          "date": "2026-06-18T02:00:02+00:00",
           "source": "SANS ISC"
         }
       ]
@@ -2016,6 +2016,13 @@
       "url": "https://www.secureideas.com/blog/rss.xml",
       "articles": [
         {
+          "title": "Creating an Encrypted File Container with LUKS",
+          "link": "https://www.secureideas.com/blog/creating-an-encrypted-file-container-with-luks",
+          "summary": "In our previous blog post , we covered how to create an encrypted flash drive using LUKS (Linux Unified Key Setup) to provide data at rest security. However, it is possible to create an encrypted partition and file system on a file container that can be mounted thanks to the loop device system in Li…",
+          "date": "2026-06-29T13:00:02+00:00",
+          "source": "Secure Ideas"
+        },
+        {
           "title": "ESC8 - The Coerced Crown",
           "link": "https://www.secureideas.com/blog/esc8-the-coerced-crown",
           "summary": "In Part 5, ESC6 - Under a False Sigil , the focus shifted to identity interpretation. The attack path no longer depended on how certificates were requested, but on how the domain controller resolved identity during authentication.",
@@ -2076,13 +2083,6 @@
           "link": "https://www.secureideas.com/blog/i-built-the-droid-i-was-looking-for",
           "summary": "Blog 1 of 4: Introduction",
           "date": "2026-05-04T13:00:05+00:00",
-          "source": "Secure Ideas"
-        },
-        {
-          "title": "Is Your Incident Response Program Built for GLBA Breach Notifications?",
-          "link": "https://www.secureideas.com/blog/is-your-incident-response-program-built-for-glba-breach-notifications",
-          "summary": "Most security and compliance conversations about the Gramm-Leach-Bliley Act (GLBA) focus on the Safeguards Rule requirements that govern ongoing operations: the written information security program, the risk assessment, the technical controls. The breach notification requirement gets less attention,…",
-          "date": "2026-04-27T13:00:06+00:00",
           "source": "Secure Ideas"
         }
       ]
