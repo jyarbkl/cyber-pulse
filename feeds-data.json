@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-06-29T14:50:14.251494+00:00",
+  "generated_at": "2026-06-29T18:04:08.464146+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "WhatsApp rolls out usernames to help users hide their phone number",
+          "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
+          "summary": "WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]",
+          "date": "2026-06-29T17:48:28+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft extends Windows Server 2022 hotpatching until October 2027",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/",
+          "summary": "Microsoft has extended Windows Server 2022 hotpatching until October 2027, one year after the mainstream end date of October 2026. [...]",
+          "date": "2026-06-29T17:11:15+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
+          "link": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
+          "summary": "The U.S. Department of State is offering up to $10 million for information that helps identify or locate members of the UNC5792 and UNC4221 hacker groups, which are linked to Russia's intelligence and military services. [...]",
+          "date": "2026-06-29T15:09:43+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Agentic AI Has an Identity Problem and Attackers Know It",
           "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
@@ -87,27 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
           "summary": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation tasks. [...]",
           "date": "2026-06-26T14:01:11+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
-          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
-          "summary": "Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]",
-          "date": "2026-06-25T22:53:32+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
-          "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
-          "summary": "Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks. [...]",
-          "date": "2026-06-25T22:37:42+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Order-tracking app Shop abused to push callback phishing attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
-          "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software. [...]",
-          "date": "2026-06-25T19:45:48+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy",
+          "link": "https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/",
+          "summary": "An optional ‘username key’ adds another layer by requiring a secondary credential before someone can message users. The post WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy appeared first on SecurityWeek .",
+          "date": "2026-06-29T16:00:01+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines",
           "link": "https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/",
           "summary": "Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer’s machine. The post Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact. The post Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories appeared first on SecurityWeek .",
           "date": "2026-06-26T15:23:46+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "More Klue Breach Victims Identified as Hackers Get Hacked",
-          "link": "https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/",
-          "summary": "Roughly two dozen companies have notified their customers of the Klue-Salesforce incident impact. The post More Klue Breach Victims Identified as Hackers Get Hacked appeared first on SecurityWeek .",
-          "date": "2026-06-26T15:01:33+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
+          "link": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
+          "summary": "WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform. The optional feature is designed to help users connect with someone on the service through usernames, as opposed to dir…",
+          "date": "2026-06-29T16:09:21+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
+          "link": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
+          "summary": "The China-aligned espionage group Mustang Panda is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud service into its command channel. Acronis Threat Research Unit found active compromises inside Indian government network…",
+          "date": "2026-06-29T15:03:40+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
           "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
@@ -1315,20 +1329,6 @@
           "summary": "It’s Monday again. This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control. The annoying part is how little of this feels new. Weak credentials, sketc…",
           "date": "2026-06-22T10:55:10+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
-          "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
-          "summary": "Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets. The Federal Court released a public version of the ruling on June 15. It is the first time the Canadian Security Intelligence Serv…",
-          "date": "2026-06-22T09:11:37+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
-          "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
-          "summary": "A new malware family is turning forgotten home routers into a distributed reconnaissance and proxy network, not the DDoS botnet these devices usually end up in. QiAnXin's XLab calls it AryStinger and counts at least 4,300 infected routers, a total it says is still rising. The distinction matters. Ar…",
-          "date": "2026-06-22T06:57:44+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "Chromium extension uses AI‑related branding to redirect browser search",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/",
+          "summary": "A malicious Chromium-based extension that spoofs the AI-powered answer engine Perplexity AI redirects browser search traffic using MV3 APIs and intermediary infrastructure. The post Chromium extension uses AI‑related branding to redirect browser search appeared first on Microsoft Security Blog .",
+          "date": "2026-06-29T16:27:46+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/",
           "summary": "A poisoned npm package infected 140+ projects with a hidden payload. This report highlights how to detect, hunt, and defend against supply chain attacks using Microsoft Defender and actionable threat intelligence. The post From package to postinstall payload: Inside the Mastra npm supply chain compr…",
           "date": "2026-06-18T03:43:04+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Crypto Clipper uses Tor and worm-like propagation for persistence and control",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/",
-          "summary": "Microsoft Threat Intelligence analyzed a cryptocurrency clipper campaign that combines clipboard theft, wallet replacement, Tor-based communications, and worm-like propagation. Beyond stealing cryptocurrency transactions, the malware establishes persistent access and enables follow-on activity throu…",
-          "date": "2026-06-17T23:11:43+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
@@ -1926,6 +1926,13 @@
       "url": "https://www.sans.org/blog",
       "articles": [
         {
+          "title": "Agentic AI: The Weapon That No Longer Needs a Warrior Blog Artificial Intelligence   29 Jun 2026     Foster Nethercott",
+          "link": "https://www.sans.org/blog/agentic-ai-weapon-that-no-longer-needs-warrior",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
           "title": "It Was Never Just the Main Stage: Reflections on the 2026 SANS ICS Security Summit Blog Industrial Control Systems Security   25 Jun 2026     Tim Conway",
           "link": "https://www.sans.org/blog/it-was-never-just-main-stage-reflections-2026-sans-ics-security-summit-cyber-risk-during-middle-east-escalation-ics-perspective-security-leaders",
           "summary": "",
@@ -1998,13 +2005,6 @@
         {
           "title": "Stay Ahead of Ransomware: What the 2026 Threat Reports Are Telling Us Blog Digital Forensics and Incident Response   1 Jun 2026     Ryan Chapman",
           "link": "https://www.sans.org/blog/stay-ahead-ransomware-what-2026-threat-reports-are-telling-us",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Fixing the Treadmill of Pain: How AI is Helping to Change Vulnerability Management Blog Cyber Defense   26 May 2026     Dave Shackleford",
-          "link": "https://www.sans.org/blog/fixing-treadmill-pain-how-ai-helping-change-vulnerability-management",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
