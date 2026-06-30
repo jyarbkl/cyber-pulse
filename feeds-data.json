@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-06-30T13:10:50.941138+00:00",
+  "generated_at": "2026-06-30T17:47:23.818646+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
+          "link": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
+          "summary": "A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing information. [...]",
+          "date": "2026-06-30T15:46:19+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Lessons from the Underground: How to Combat Business Email Compromise",
+          "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
+          "summary": "Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC attacks are planned and executed. [...]",
+          "date": "2026-06-30T14:00:10+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
           "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
@@ -14,7 +28,7 @@
         },
         {
           "title": "Microsoft adds smarter bot protection to Teams meetings",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
           "summary": "Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]",
           "date": "2026-06-30T10:52:26+00:00",
           "source": "BleepingComputer"
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
           "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
           "date": "2026-06-29T13:46:17+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Webinar: Why business email compromise attacks keep succeeding",
-          "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
-          "summary": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI can help identify sophisticated email threats and automate response workflows. [...]",
-          "date": "2026-06-29T12:14:22+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
-          "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
-          "summary": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
-          "date": "2026-06-29T11:21:03+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "BlueHammer Vulnerability Exploited in Ransomware Attacks",
+          "link": "https://www.securityweek.com/bluehammer-vulnerability-exploited-in-ransomware-attacks/",
+          "summary": "The Microsoft Defender vulnerability CVE-2026-33825 was exploited in the wild as a zero-day before patches were released. The post BlueHammer Vulnerability Exploited in Ransomware Attacks appeared first on SecurityWeek .",
+          "date": "2026-06-30T13:56:07+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks",
           "link": "https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/",
           "summary": "Decades-old Bash shell tricks can bypass safeguards in most open source AI coding agents, potentially turning malicious repositories into supply chain attack vectors. The post Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Quantifind will accelerate international expansion and extend its platform’s localized risk intelligence capabilities. The post Quantifind Raises $200 Million for AI-Native Risk Intelligence appeared first on SecurityWeek .",
           "date": "2026-06-30T06:40:02+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking",
-          "link": "https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/",
-          "summary": "CISA has published an advisory to inform organizations about three vulnerabilities found by a researcher in Daktronics controllers. The post New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking appeared first on SecurityWeek .",
-          "date": "2026-06-30T05:04:15+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,34 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
+          "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
+          "summary": "Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner. The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthenticated remote code execution (RCE) vulnerability in Langflow, i…",
+          "date": "2026-06-30T15:47:20+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
+          "link": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
+          "summary": "Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction. The cryptocurrency clipper activity has been codenamed Silent Swap by McAfee Labs. \"The campai…",
+          "date": "2026-06-30T15:40:18+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
+          "link": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
+          "summary": "The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades. New research from Adversa AI, which is named the bypass GuardFall, found it works against ten of the eleven popular open-sou…",
+          "date": "2026-06-30T14:26:15+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
+          "link": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
+          "summary": "Researchers tested 444 AI chatbot apps for iPhone and found that 282 of them, nearly two-thirds, exposed paid AI access through their network traffic. In many cases, the path in was visible just by watching what the app sent: a plaintext API key, a reusable token, or a backend server that accepted r…",
+          "date": "2026-06-30T13:49:34+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
           "link": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
@@ -1200,7 +1228,7 @@
         {
           "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
           "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
-          "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has more than 10 million installs and carries a Featured badge o…",
+          "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock for YouTube, has more than 10 million installs and carries a Featured badge on the Chrome Web Store. The extension (…",
           "date": "2026-06-25T14:12:52+00:00",
           "source": "The Hacker News"
         },
@@ -1301,34 +1329,6 @@
           "summary": "President Trump signed an executive order on June 22 setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography. Key establishment must move by December 31, 2030; digital signatures by December 31, 2031. EO 14409 leaves national securit…",
           "date": "2026-06-23T15:16:40+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
-          "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
-          "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to run malicious code with the workflow's full privileges. Effective June 18, 2026, the latest version of…",
-          "date": "2026-06-23T14:22:03+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
-          "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
-          "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile beyond his sight, and the aircraft carried that death across oceans. At each turn, the distance bet…",
-          "date": "2026-06-23T11:30:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
-          "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
-          "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT). The list of identified packages, is below - aes-decode-runner-pro (145 downloads) postcss-minify-selector (256 downloads) postcss-minify-selector-parser …",
-          "date": "2026-06-23T08:54:32+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
-          "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
-          "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software. Per findings from Kaspersky, the active campaign is targeting users of WhatsApp Desktop and Whats…",
-          "date": "2026-06-23T05:38:40+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,20 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "​​What’s new in Microsoft Security: June 2026",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/",
+          "summary": "This month’s updates help security and IT teams strengthen identity and multicloud foundations, protect data wherever it lives, and secure the developer workflows powering AI innovation. The post ​​What’s new in Microsoft Security: June 2026 appeared first on Microsoft Security Blog .",
+          "date": "2026-06-30T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "Securing AI agents: When AI tools move from reading to acting",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/",
+          "summary": "MCP tool poisoning turns trusted AI agents into a control plane for data loss. Learn how threat actors manipulate tool descriptions to trigger unauthorized actions, and how to detect, contain, and prevent it. The post Securing AI agents: When AI tools move from reading to acting appeared first on Mi…",
+          "date": "2026-06-30T15:57:11+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "Chromium extension uses AI‑related branding to redirect browser search",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/",
@@ -1395,20 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/",
           "summary": "AutoJack is a novel exploit chain showing how a single malicious webpage can turn an AI browsing agent into a remote code execution vector on the host machine. By abusing trust in localhost, missing authentication, and unsafe parameter handling, attackers can trigger arbitrary process execution thro…",
           "date": "2026-06-19T00:17:54+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "New Forrester Total Economic Impact™ study projects a 124% ROI from unifying with Microsoft Security",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/",
-          "summary": "New Forrester Total Economic Impact™ study shows Microsoft Security consolidation delivers ROI, lowers risk, and prepares organizations to secure AI. The post New Forrester Total Economic Impact™ study projects a 124% ROI from unifying with Microsoft Security appeared first on Microsoft Security Blo…",
-          "date": "2026-06-18T19:36:08+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/",
-          "summary": "A poisoned npm package infected 140+ projects with a hidden payload. This report highlights how to detect, hunt, and defend against supply chain attacks using Microsoft Defender and actionable threat intelligence. The post From package to postinstall payload: Inside the Mastra npm supply chain compr…",
-          "date": "2026-06-18T03:43:04+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
@@ -1926,6 +1926,13 @@
       "url": "https://www.sans.org/blog",
       "articles": [
         {
+          "title": "Investigating AI Tools and Modern Linux Intrusions Blog Digital Forensics and Incident Response   30 Jun 2026     Tarot (Taz) Wake",
+          "link": "https://www.sans.org/blog/investigating-ai-tools-modern-linux-intrusions",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
           "title": "Agentic AI: The Weapon That No Longer Needs a Warrior Blog Artificial Intelligence   29 Jun 2026     Foster Nethercott",
           "link": "https://www.sans.org/blog/agentic-ai-weapon-that-no-longer-needs-warrior",
           "summary": "",
@@ -1998,13 +2005,6 @@
         {
           "title": "SANS Threat Analysis Rundown in Review: Identity, Geopolitics, and a Passing of the Torch Blog Digital Forensics and Incident Response   3 Jun 2026     Sean O'Connor",
           "link": "https://www.sans.org/blog/sans-threat-analysis-rundown-review-identity-geopolitics-passing-torch",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Stay Ahead of Ransomware: What the 2026 Threat Reports Are Telling Us Blog Digital Forensics and Incident Response   1 Jun 2026     Ryan Chapman",
-          "link": "https://www.sans.org/blog/stay-ahead-ransomware-what-2026-threat-reports-are-telling-us",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
