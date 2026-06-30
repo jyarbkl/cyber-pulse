@@ -1,10 +1,59 @@
 {
-  "generated_at": "2026-06-29T18:04:08.464146+00:00",
+  "generated_at": "2026-06-30T13:10:50.941138+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
+          "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
+          "summary": "American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information. [...]",
+          "date": "2026-06-30T11:12:18+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft adds smarter bot protection to Teams meetings",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/",
+          "summary": "Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]",
+          "date": "2026-06-30T10:52:26+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
+          "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
+          "summary": "Kali Linux 2026.2, the second release of the year, is now available for download, featuring 9 new tools and numerous Kali NetHunter improvements. [...]",
+          "date": "2026-06-30T09:46:39+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
+          "link": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
+          "summary": "The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications. [...]",
+          "date": "2026-06-30T09:41:05+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
+          "summary": "CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]",
+          "date": "2026-06-30T08:53:13+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
+          "summary": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group. [...]",
+          "date": "2026-06-29T20:40:44+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
+          "link": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
+          "summary": "The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems by exploiting a zero-day vulnerability in an Oracle PeopleSoft server. [...]",
+          "date": "2026-06-29T20:30:28+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "WhatsApp rolls out usernames to help users hide their phone number",
           "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
@@ -60,55 +109,6 @@
           "summary": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
           "date": "2026-06-29T11:21:03+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
-          "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-          "summary": "Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]",
-          "date": "2026-06-28T14:13:46+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Clean GitHub repo tricks AI coding agents into running malware",
-          "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-          "summary": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
-          "date": "2026-06-27T14:22:36+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "FBI: Russian hackers now target Signal backup recovery keys",
-          "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
-          "summary": "The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messages. [...]",
-          "date": "2026-06-26T22:06:17+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]",
-          "date": "2026-06-26T19:43:06+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Polymarket customers lose $3 million in supply-chain attack",
-          "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
-          "summary": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]",
-          "date": "2026-06-26T18:04:12+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
-          "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
-          "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects. [...]",
-          "date": "2026-06-26T17:49:07+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
-          "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
-          "summary": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation tasks. [...]",
-          "date": "2026-06-26T14:01:11+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,41 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "'Djinn' Stealer Targets Cloud, AI Credentials",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials",
+          "summary": "The infostealer was delivered via CVE-2026-48558, a critical authentication bypass vulnerability in SimpleHelp, targeting credentials linking development and admin environments to wider enterprise systems.",
+          "date": "2026-06-29T21:29:15+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Vulnerabilities Expose Private Data in Indian Government Systems",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems",
+          "summary": "One critical vulnerability, among many discovered by a researcher, could have allowed anyone to walk in and take over a national government portal.",
+          "date": "2026-06-29T21:05:29+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Can Clothes Make You Invisible to Facial Recognition?",
+          "link": "https://www.darkreading.com/cyber-risk/clothes-invisible-facial-recognition",
+          "summary": "Does life feel Orwellian sometimes? One researcher has a solution for you: graphic tees that confuse the neural networks in surveillance cameras.",
+          "date": "2026-06-29T19:38:04+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Iran, Russia, China Target Water Systems for Sabotage",
+          "link": "https://www.darkreading.com/ics-ot-security/iran-russia-china-target-water-systems-sabotage",
+          "summary": "Nation-state attackers breach water systems through weak passwords, exposed PLCs, and poor segmentation — not sophisticated malware.",
+          "date": "2026-06-29T19:12:08+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Amazon Q VS Extension Flaw Leads to Cloud Credential Theft",
+          "link": "https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft",
+          "summary": "Adversaries could plant a malicious repository that can execute arbitrary code and steal cloud credentials by exploiting the vulnerability, which showcases growing MCP risk.",
+          "date": "2026-06-29T11:44:42+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk",
           "link": "https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk",
@@ -429,41 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/beginning-end-social-engineering",
           "summary": "AI-native operating systems are shifting the responsibility to stay vigilant against social engineering cyberattacks from the user onto the system itself.",
           "date": "2026-06-15T15:08:32+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "US Cracks Down on Anthropic AI Models Amid Abuse Concerns",
-          "link": "https://www.darkreading.com/cyber-risk/us-cracks-down-anthropic-ai-models-abuse-concerns",
-          "summary": "Anthropic abruptly suspended all access to Fable 5 and Mythos 5 after receiving an export control directive that banned foreign nationals from using the technology.",
-          "date": "2026-06-15T12:17:22+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed",
-          "summary": "A major bug in Oracle's ERP software disproportionately affected American universities, and hackers have capitalized by stealing gobs of data.",
-          "date": "2026-06-12T20:26:32+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story",
-          "summary": "Stay cool: Mythos 5 is an upgrade over Mythos Preview while Fable 5 is Mythos \"made safe for general use,\" Anthropic explains.",
-          "date": "2026-06-12T13:01:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Phishing Attack Volume Down 20%, But Risk Still Rising",
-          "link": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
-          "summary": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiply them.",
-          "date": "2026-06-12T00:58:07+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Max-Severity Ivanti Flaw Exploited 24 Hours After Disclosure",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours",
-          "summary": "Initial methods suggest attackers had likely mapped out Ivanti's asset landscape upfront and acted quickly once the exploit became public.",
-          "date": "2026-06-11T18:43:57+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,73 +905,73 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
-          "title": "WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy",
-          "link": "https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/",
-          "summary": "An optional ‘username key’ adds another layer by requiring a secondary credential before someone can message users. The post WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy appeared first on SecurityWeek .",
-          "date": "2026-06-29T16:00:01+00:00",
+          "title": "Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks",
+          "link": "https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/",
+          "summary": "Decades-old Bash shell tricks can bypass safeguards in most open source AI coding agents, potentially turning malicious repositories into supply chain attack vectors. The post Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks appeared first on SecurityWeek .",
+          "date": "2026-06-30T13:00:00+00:00",
           "source": "SecurityWeek"
         },
         {
-          "title": "Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines",
-          "link": "https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/",
-          "summary": "Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer’s machine. The post Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines appeared first on SecurityWeek .",
-          "date": "2026-06-29T14:28:40+00:00",
+          "title": "Aflac Japan Data Breach Impacts 4.38 Million",
+          "link": "https://www.securityweek.com/aflac-japan-data-breach-impacts-4-38-million/",
+          "summary": "Hackers accessed the insurance giant’s policyholder portal multiple times between June 15 and June 25. The post Aflac Japan Data Breach Impacts 4.38 Million appeared first on SecurityWeek .",
+          "date": "2026-06-30T12:52:33+00:00",
           "source": "SecurityWeek"
         },
         {
-          "title": "Straiker Raises $64 Million for AI Security Platform",
-          "link": "https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/",
-          "summary": "The startup’s platform can identify AI agents and provide visibility into their access, behavior, and risks. The post Straiker Raises $64 Million for AI Security Platform appeared first on SecurityWeek .",
-          "date": "2026-06-29T14:07:34+00:00",
+          "title": "Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat",
+          "link": "https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/",
+          "summary": "Chris Thompson's journey took him from hacking game controls as a teenager to founding IBM’s X-Force Red team. The post Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat appeared first on SecurityWeek .",
+          "date": "2026-06-30T12:00:00+00:00",
           "source": "SecurityWeek"
         },
         {
-          "title": "Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack",
-          "link": "https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/",
-          "summary": "The ShinyHunters extortion group claims to have stolen 3.1 TB of data from the organization. The post Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack appeared first on SecurityWeek .",
-          "date": "2026-06-29T13:42:28+00:00",
+          "title": "Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History",
+          "link": "https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/",
+          "summary": "The ruling was made in the case of a bank robber whose identity was discovered through a geofence warrant. The post Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History appeared first on SecurityWeek .",
+          "date": "2026-06-30T11:48:40+00:00",
           "source": "SecurityWeek"
         },
         {
-          "title": "‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access",
-          "link": "https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/",
-          "summary": "A variant of DirtyFrag, the flaw allows unprivileged local users to manipulate the Linux page cache and gain root privileges. The post ‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access appeared first on SecurityWeek .",
-          "date": "2026-06-29T11:20:13+00:00",
+          "title": "Exploitation of Recent Oracle E-Business Suite Vulnerability Begins",
+          "link": "https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/",
+          "summary": "The critical-severity defect allows unauthenticated attackers to take over the E-Business Suite’s Payments product. The post Exploitation of Recent Oracle E-Business Suite Vulnerability Begins appeared first on SecurityWeek .",
+          "date": "2026-06-30T11:29:48+00:00",
           "source": "SecurityWeek"
         },
         {
-          "title": "OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review",
-          "link": "https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/",
-          "summary": "ChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trump’s administration. The post OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review appeared first on SecurityWeek …",
-          "date": "2026-06-29T10:14:01+00:00",
+          "title": "The AI Token Costs That Can Break Cybersecurity",
+          "link": "https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/",
+          "summary": "As cybersecurity platforms embrace agentic AI, organizations must balance detection performance against the escalating costs of token consumption, deployment architecture, and AI credits. The post The AI Token Costs That Can Break Cybersecurity appeared first on SecurityWeek .",
+          "date": "2026-06-30T10:00:00+00:00",
           "source": "SecurityWeek"
         },
         {
-          "title": "US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve",
-          "link": "https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/",
-          "summary": "UNC5792 and UNC4221 have been targeting US government officials, military leaders, and allied personnel. The post US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve appeared first on SecurityWeek .",
-          "date": "2026-06-29T09:29:34+00:00",
+          "title": "Nissan Employee Data Breached in Oracle PeopleSoft Hack",
+          "link": "https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/",
+          "summary": "Only a handful of the 100 organizations targeted in the PeopleSoft campaign have been confirmed. The post Nissan Employee Data Breached in Oracle PeopleSoft Hack appeared first on SecurityWeek .",
+          "date": "2026-06-30T09:25:50+00:00",
           "source": "SecurityWeek"
         },
         {
-          "title": "OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI",
-          "link": "https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/",
-          "summary": "The company says Sol matches competing systems like Mythos Preview while using only a third of the output tokens. The post OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI appeared first on SecurityWeek .",
-          "date": "2026-06-29T07:45:57+00:00",
+          "title": "Critical SimpleHelp Vulnerability Exploited for Malware Delivery",
+          "link": "https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/",
+          "summary": "The threat actor is focused on collecting credentials, SSH keys, cryptocurrency wallets, and development tooling. The post Critical SimpleHelp Vulnerability Exploited for Malware Delivery appeared first on SecurityWeek .",
+          "date": "2026-06-30T08:43:10+00:00",
           "source": "SecurityWeek"
         },
         {
-          "title": "Chinese Framework Powers 200,000 Scam Sites",
-          "link": "https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/",
-          "summary": "Threat actors are selling investment scam templates created using the legitimate DCloud Uni-App toolkit. The post Chinese Framework Powers 200,000 Scam Sites appeared first on SecurityWeek .",
-          "date": "2026-06-27T12:13:51+00:00",
+          "title": "Quantifind Raises $200 Million for AI-Native Risk Intelligence",
+          "link": "https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/",
+          "summary": "Quantifind will accelerate international expansion and extend its platform’s localized risk intelligence capabilities. The post Quantifind Raises $200 Million for AI-Native Risk Intelligence appeared first on SecurityWeek .",
+          "date": "2026-06-30T06:40:02+00:00",
           "source": "SecurityWeek"
         },
         {
-          "title": "Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories",
-          "link": "https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/",
-          "summary": "AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact. The post Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories appeared first on SecurityWeek .",
-          "date": "2026-06-26T15:23:46+00:00",
+          "title": "New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking",
+          "link": "https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/",
+          "summary": "CISA has published an advisory to inform organizations about three vulnerabilities found by a researcher in Daktronics controllers. The post New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking appeared first on SecurityWeek .",
+          "date": "2026-06-30T05:04:15+00:00",
           "source": "SecurityWeek"
         }
       ]
@@ -981,10 +981,66 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
+          "link": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
+          "summary": "The FIFA World Cup 2026 opened on June 11. By that date, according to Check Point Research, the fraud infrastructure targeting it had already been built, staged, and partially deployed. Threat actor activity was pre-planned, months out, across three sectors and at least ten languages. Check Point Ex…",
+          "date": "2026-06-30T11:30:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
+          "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
+          "summary": "An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unreported malware families, TaskWeaver and Djinn Stealer. The intrusion involves the exploitation of CVE-2026-48558 (CVSS score: 10.0), a critical authent…",
+          "date": "2026-06-30T11:18:47+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
+          "link": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
+          "summary": "Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network. An attacker within wireless range, with just a laptop and no prior connection, can crash the sharing service on a Mac or iPhone set…",
+          "date": "2026-06-30T09:27:58+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
+          "link": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
+          "summary": "Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind BioShocking, a technique from security firm LayerX that tricked six AI browsers and assistants into copying a user's credentials and sending them to an attacker. The targets included…",
+          "date": "2026-06-30T08:37:19+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
+          "link": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
+          "summary": "A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sending a crafted request to its API. The flaw, tracked as CVE-2026-8037, carries a CVSS score of 9.8 according to ZDI. A patch is available. If you run Loa…",
+          "date": "2026-06-30T07:38:07+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
+          "link": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
+          "summary": "A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber. The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an improper privilege management and authentication flaw in Oracle Payments that could be a…",
+          "date": "2026-06-30T05:04:06+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
           "link": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
           "summary": "WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform. The optional feature is designed to help users connect with someone on the service through usernames, as opposed to dir…",
           "date": "2026-06-29T16:09:21+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
+          "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
+          "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server before redirecting users to real results. Microsoft s…",
+          "date": "2026-06-29T15:40:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+          "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
+          "summary": "Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) tools like Anthropic Claude and OpenAI Codex Security. The WebKit vulnerabilities a…",
+          "date": "2026-06-29T15:30:00+00:00",
           "source": "The Hacker News"
         },
         {
@@ -1272,62 +1328,6 @@
           "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
           "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software. Per findings from Kaspersky, the active campaign is targeting users of WhatsApp Desktop and Whats…",
           "date": "2026-06-23T05:38:40+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
-          "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
-          "summary": "OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative the artificial intelligence (AI) company announced last month. Calling GPT‑5.5‑Cyber its \"strongest model yet for finding and helping patch software vulnerabili…",
-          "date": "2026-06-23T03:56:58+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
-          "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
-          "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code. \"Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin…",
-          "date": "2026-06-22T18:00:48+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-          "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-          "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug traces to a 1997 FTP-parsing change and is still live in Squid's default configura…",
-          "date": "2026-06-22T16:29:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
-          "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
-          "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring …",
-          "date": "2026-06-22T16:13:28+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
-          "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
-          "summary": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER. According to Elastic Security Labs, the campaign leverages malicious Google Ads as a starting point to distribute the malware. Evidence i…",
-          "date": "2026-06-22T13:20:12+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
-          "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
-          "summary": "Google has set September 30, 2026, as the day it begins enforcing Android developer verification in the first four countries, and the major device-maker app stores are in from the start. On that date, certified Android phones in Brazil, Indonesia, Singapore, and Thailand will block normal installs o…",
-          "date": "2026-06-22T12:45:08+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
-          "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
-          "summary": "Earlier this month, I spoke at the Gartner Security & Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using legacy infrastructure to hijack AI agents. AI adoption is moving faster than security pr…",
-          "date": "2026-06-22T11:58:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
-          "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
-          "summary": "It’s Monday again. This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control. The annoying part is how little of this feels new. Weak credentials, sketc…",
-          "date": "2026-06-22T10:55:10+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1850,6 +1850,20 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "June 2026 Apple Updates, (Tue, Jun 30th)",
+          "link": "https://isc.sans.edu/diary/rss/33114",
+          "summary": "Apple released updates for iOS/iPadOS, macOS, and Safari on Monday. There have been no updates for other Apple operating systems (visionOS, watchOS, tvOS). Usually, Apple updates all products at the same time.",
+          "date": "2026-06-30T09:31:27+00:00",
+          "source": "SANS ISC"
+        },
+        {
+          "title": "ISC Stormcast For Tuesday, June 30th, 2026 https://isc.sans.edu/podcastdetail/9988, (Tue, Jun 30th)",
+          "link": "https://isc.sans.edu/diary/rss/33112",
+          "summary": "",
+          "date": "2026-06-30T02:25:12+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "Adding some Automation to the favicon.ico method of Host Recon, (Mon, Jun 29th)",
           "link": "https://isc.sans.edu/diary/rss/33110",
           "summary": "I&#;x26;#;39;m in the throes of target host recon for another pentest, and thought I&#;x26;#;39;d share some workflow / automation stuff.",
@@ -1903,20 +1917,6 @@
           "link": "https://isc.sans.edu/diary/rss/33098",
           "summary": "",
           "date": "2026-06-23T02:00:03+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Webshells Remain Popular, (Mon, Jun 22nd)",
-          "link": "https://isc.sans.edu/diary/rss/33096",
-          "summary": "Webshells have been popular for a long time. We already covered this topic across multiple diaries[1][2]. I spent some time to track them[3] and slighly paid less attention to them but today I found another one. It seems to be a new player (pushed on Github two months ago).",
-          "date": "2026-06-22T14:10:27+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Monday, June 22nd, 2026 https://isc.sans.edu/podcastdetail/9980, (Mon, Jun 22nd)",
-          "link": "https://isc.sans.edu/diary/rss/33092",
-          "summary": "",
-          "date": "2026-06-22T02:00:02+00:00",
           "source": "SANS ISC"
         }
       ]
