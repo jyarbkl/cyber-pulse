@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-07-01T13:36:51.747216+00:00",
+  "generated_at": "2026-07-01T17:47:29.015516+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "DHS confirms hackers breached HSIN info-sharing platform",
+          "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
+          "summary": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners. [...]",
+          "date": "2026-07-01T17:32:22+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Webinar: Why traditional email security is no longer enough",
+          "link": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
+          "summary": "Modern phishing, business email compromise, and account takeover attacks increasingly exploit trusted identities and legitimate business workflows, making them harder for traditional email defenses to detect. This webinar explores how behavioral AI can help organizations automate detection and respo…",
+          "date": "2026-07-01T16:54:22+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
+          "summary": "An aggressive password-spraying campaign targeting Microsoft 365 environments generated more than 81 million login attempts over a two-week period. [...]",
+          "date": "2026-07-01T16:38:01+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
+          "link": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
+          "summary": "Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]",
+          "date": "2026-07-01T14:01:11+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
           "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
@@ -81,34 +109,6 @@
           "summary": "Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC attacks are planned and executed. [...]",
           "date": "2026-06-30T14:00:10+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
-          "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
-          "summary": "American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information of 4.38 million customers. [...]",
-          "date": "2026-06-30T11:12:18+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft adds smarter bot protection to Teams meetings",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
-          "summary": "Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]",
-          "date": "2026-06-30T10:52:26+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
-          "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
-          "summary": "Kali Linux 2026.2, the second release of the year, is now available for download, featuring 9 new tools and numerous Kali NetHunter improvements. [...]",
-          "date": "2026-06-30T09:46:39+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
-          "link": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
-          "summary": "The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications. [...]",
-          "date": "2026-06-30T09:41:05+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "'Phantom Squatting': An Emerging AI-Driven Supply Chain Threat",
+          "link": "https://www.darkreading.com/endpoint-security/phantom-squatting-ai-driven-supply-chain-threat",
+          "summary": "LLMs consistently hallucinate Web domains for legitimate brands that attackers can register for malicious activity in a difficult-to-detect attack vector.",
+          "date": "2026-07-01T15:17:14+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Safe Events Start With Threat Intel and Digital Security",
           "link": "https://www.darkreading.com/threat-intelligence/safe-events-threat-intel-digital-security",
@@ -138,7 +145,7 @@
           "source": "Dark Reading"
         },
         {
-          "title": "Attackers Hijack Exposed AI Endpoints to Power Offensive Ops",
+          "title": "Attackers Seize Exposed AI Endpoints to Power Offensive Ops",
           "link": "https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops",
           "summary": "Threat actors don't need any special authentication to reach a target endpoint — they just need to know where it is.",
           "date": "2026-06-30T21:01:58+00:00",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/fileless-phantom-stealer-targets-browser-credentials",
           "summary": "In addition to executing entirely in memory, the malware's infection chain incorporates other anti-analysis techniques designed to evade detection.",
           "date": "2026-06-16T22:26:34+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Security Community Slams US Ban on Exporting Mythos, Fable",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/security-community-slams-us-ban-on-exporting-mythos-fable",
-          "summary": "An open letter signed by dozens of security experts asked the government to reverse export restrictions on Anthropic's Claude Fable 5 and Mythos 5 models.",
-          "date": "2026-06-16T22:00:06+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,41 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
+          "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
+          "summary": "A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal. Fortinet's FortiGuard Labs identified the campaign in May 2026. It opens with a phishing PDF disguised as a corrupted file, checks that the visitor is really in Spain or Portugal, and hides its rea…",
+          "date": "2026-07-01T15:26:55+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+          "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
+          "summary": "Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic. The ColdFusion updates \"resolves critical and important vulnerabilities that could lead to arbitrary code execution, privilege escalation, arbitrary file system read, and se…",
+          "date": "2026-07-01T15:25:46+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+          "link": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
+          "summary": "Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval box to ignore. Cato AI Labs found the pair and named them DuneSlide. They are trac…",
+          "date": "2026-07-01T14:42:54+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+          "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
+          "summary": "A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU). The Canadian cybersecurity company said it identified exploitation attempts targeting CVE-2026-8037 (CVSS score:…",
+          "date": "2026-07-01T13:56:18+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+          "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
+          "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware technique that runs entirely inside the browser on both Win…",
+          "date": "2026-07-01T12:59:19+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
           "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
           "summary": "Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the case, as this year's findings reveal a series of surprising contradictions. Here ar…",
@@ -1294,41 +1329,6 @@
           "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock for YouTube, has more than 10 million installs and carries a Featured badge on the Chrome Web Store. The extension (…",
           "date": "2026-06-25T14:12:52+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
-          "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
-          "summary": "It’s dumb out there again. This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and “normal” workflows turning into phishing pipes because apparently email was no…",
-          "date": "2026-06-25T12:24:43+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
-          "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
-          "summary": "Despite the abundance of telemetry at analysts’ disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have? How do we know we’re seeing it all, in context? Answering these questions requires teams to go bey…",
-          "date": "2026-06-25T11:17:31+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
-          "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
-          "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into aborting or refusing an analysis of the artifact. The malware has been codenamed Ga…",
-          "date": "2026-06-25T09:23:03+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
-          "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
-          "summary": "A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services sectors since April 2026. According to Symantec and Carbon Black's Threat Hunter Team, the backdoor,…",
-          "date": "2026-06-25T08:54:37+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
-          "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
-          "summary": "An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new findings from Google-owned Mandiant. The vulnerability, tracked as CVE-2026-20245 (CVSS score: 7.8),…",
-          "date": "2026-06-25T05:46:54+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "Microsoft named a leader in the Frost Radar for cloud and application runtime security",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/",
+          "summary": "Frost & Sullivan names Microsoft a leader as cloud and application security converge into unified, runtime risk reduction. The post Microsoft named a leader in the Frost Radar for cloud and application runtime security appeared first on Microsoft Security Blog .",
+          "date": "2026-07-01T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "Accelerating the quantum-safe timeline",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/",
           "summary": "What happens when threat actors target what AI remembers? Microsoft breaks down the risks and the defenses. The post Guarding AI memory appeared first on Microsoft Security Blog .",
           "date": "2026-06-22T19:07:28+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "One intrusion, two cyberattackers: Uncovering parallel threat activity",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/",
-          "summary": "Ransomware case reveals two parallel threat actors, blending tactics and evasion—showing why isolated signals can often miss modern, overlapping cyberattacks. The post One intrusion, two cyberattackers: Uncovering parallel threat activity appeared first on Microsoft Security Blog .",
-          "date": "2026-06-22T16:00:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
