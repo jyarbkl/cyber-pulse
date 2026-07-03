@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-07-03T13:00:36.727219+00:00",
+  "generated_at": "2026-07-03T17:15:02.316501+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
+          "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
+          "summary": "A new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Microsoft 365. [...]",
+          "date": "2026-07-03T14:12:22+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
           "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
           "summary": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners. [...]",
           "date": "2026-07-01T17:32:22+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Webinar: Why traditional email security is no longer enough",
-          "link": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
-          "summary": "Modern phishing, business email compromise, and account takeover attacks increasingly exploit trusted identities and legitimate business workflows, making them harder for traditional email defenses to detect. This webinar explores how behavioral AI can help organizations automate detection and respo…",
-          "date": "2026-07-01T16:54:22+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting",
+          "link": "https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/",
+          "summary": "Noteworthy stories that might have slipped under the radar: Anonymous-linked Canadian hacker jailed, researcher drops zero-days in open source projects, Venezuelans sentenced in the US over ATM jackpotting. The post In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM …",
+          "date": "2026-07-03T15:10:42+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Agentic AI Used to Conduct Ransomware Attack via Langflow",
           "link": "https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/",
           "summary": "Attack demonstrates how LLM agents can combine known exploitation techniques with real-time reasoning to automate complex, multi-stage intrusions. The post Agentic AI Used to Conduct Ransomware Attack via Langflow appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Anthropic said Tuesday night that its AI model called Claude Fable 5 is now widely available. The post Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm appeared first on SecurityWeek .",
           "date": "2026-07-02T11:01:48+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability",
-          "link": "https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/",
-          "summary": "A PoC exploit has been available since public disclosure, and the first exploitation attempts were observed last week. The post Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability appeared first on SecurityWeek .",
-          "date": "2026-07-02T10:48:43+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
+          "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
+          "summary": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft. According to JFrog, the packages \"rollup-packages-polyfill-core\" and \"rollup-runtime-polyfill-core\" mimic the legiti…",
+          "date": "2026-07-03T16:07:15+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
+          "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
+          "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan. \"Armored Likho blends financially motivated campaigns targeting private individuals with targeted cybe…",
+          "date": "2026-07-03T13:36:33+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
           "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
@@ -1314,20 +1328,6 @@
           "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
           "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud. The company calls it StegoAd, a mash-up of steganography and adware, and t…",
           "date": "2026-06-29T08:32:31+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-          "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
-          "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No credentials, no user interaction. The bug affects every release up to and including 1…",
-          "date": "2026-06-29T07:06:34+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
-          "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
-          "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts. \"This attack avoids the most common npm execution paths through lifecycle scripts, perhaps in…",
-          "date": "2026-06-29T05:36:06+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1924,92 +1924,7 @@
     "SANS Blog": {
       "name": "SANS Blog",
       "url": "https://www.sans.org/blog",
-      "articles": [
-        {
-          "title": "Cloud Security and AI Service Architecture: What’s New in SEC549 Blog Cloud Security   2 Jul 2026     SANS Institute",
-          "link": "https://www.sans.org/blog/cloud-security-ai-service-architecture-whats-new-sec549",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Investigating AI Tools and Modern Linux Intrusions Blog Digital Forensics and Incident Response   30 Jun 2026     Tarot (Taz) Wake",
-          "link": "https://www.sans.org/blog/investigating-ai-tools-modern-linux-intrusions",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Agentic AI: The Weapon That No Longer Needs a Warrior Blog Artificial Intelligence   29 Jun 2026     Foster Nethercott",
-          "link": "https://www.sans.org/blog/agentic-ai-weapon-that-no-longer-needs-warrior",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "It Was Never Just the Main Stage: Reflections on the 2026 SANS ICS Security Summit Blog Industrial Control Systems Security   25 Jun 2026     Tim Conway",
-          "link": "https://www.sans.org/blog/it-was-never-just-main-stage-reflections-2026-sans-ics-security-summit-cyber-risk-during-middle-east-escalation-ics-perspective-security-leaders",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Stay Ahead of Ransomware: The Humans Behind Ransomware: Insights from a Threat Actor Researcher  Blog Digital Forensics and Incident Response   24 Jun 2026     Mari DeGrazia",
-          "link": "https://www.sans.org/blog/stay-ahead-of-ransomware-insights-threat-actor-researcher",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "The Trifecta: A Red Team Training Roadmap Blog Offensive Operations   18 Jun 2026     Jonathan Reiter",
-          "link": "https://www.sans.org/blog/trifecta-red-team-training-roadmap",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "You Can’t Detect What You Can’t See: Closing the Gaps in Detection Engineering Blog Cyber Defense   18 Jun 2026     Nick Mitropoulos",
-          "link": "https://www.sans.org/blog/you-cant-detect-what-you-cant-see-closing-gaps-detection-engineering",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "The Agent Identity Problem: Applying Zero Trust to AI Agents Blog Cyber Defense   15 Jun 2026     Ismael Valenzuela",
-          "link": "https://www.sans.org/blog/the-agent-identity-problem-applying-zero-trust-to-ai-agents",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "The AI-enabled Source Code Vulnerability Analysis Loop: SEC543 and Anthropic’s Guidance Blog Artificial Intelligence   11 Jun 2026     SANS Institute",
-          "link": "https://www.sans.org/blog/ai-enabled-source-code-vulnerability-analysis-loop-sec543-and-anthropics-guidance",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Heightened Cyber Risk During Middle East Escalation: An ICS Perspective for Security Leaders Blog Industrial Control Systems Security   11 Jun 2026     Michael Hoffman",
-          "link": "https://www.sans.org/blog/heightened-cyber-risk-during-middle-east-escalation-ics-perspective-security-leaders",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Learning to See the Whole Board Blog Cyber Defense   8 Jun 2026     Rich Greene",
-          "link": "https://www.sans.org/blog/learning-to-see-whole-board",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "One Day in a Room, and the Vulnerability Playbook Everyone's Been Using Quietly Broke Blog Cybersecurity Leadership   5 Jun 2026     Frank Kim",
-          "link": "https://www.sans.org/blog/one-day-room-vulnerability-playbook-everyones-using-quietly-broke",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        }
-      ]
+      "articles": []
     },
     "Secure Ideas": {
       "name": "Secure Ideas",
