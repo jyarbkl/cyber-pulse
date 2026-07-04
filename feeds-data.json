@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-07-03T17:15:02.316501+00:00",
+  "generated_at": "2026-07-04T12:10:29.616550+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
+          "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+          "summary": "A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]",
+          "date": "2026-07-03T17:50:04+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
           "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
           "summary": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]",
           "date": "2026-07-01T20:08:13+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "DHS confirms hackers breached HSIN info-sharing platform",
-          "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
-          "summary": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners. [...]",
-          "date": "2026-07-01T17:32:22+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -981,6 +981,34 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
+          "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
+          "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome as part of an ongoing activity referred to as PolinRider. \"The campaign remains active, and new malic…",
+          "date": "2026-07-04T11:17:24+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+          "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+          "summary": "Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs security cameras, dr…",
+          "date": "2026-07-03T20:19:31+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+          "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+          "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out. Bad Epoll sits in the same small stretch of kernel code where Anthropic's most…",
+          "date": "2026-07-03T19:40:01+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
+          "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
+          "summary": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls. Avalon combines credential collection, lateral movement, remote access, recov…",
+          "date": "2026-07-03T18:55:24+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
           "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
           "summary": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft. According to JFrog, the packages \"rollup-packages-polyfill-core\" and \"rollup-runtime-polyfill-core\" mimic the legiti…",
@@ -1300,34 +1328,6 @@
           "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
           "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open. The noise is not all noise, either. Forums are talking, researchers are finding easy cracks, and defenders have more cleanup waiting. Here’s…",
           "date": "2026-06-29T14:41:07+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
-          "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
-          "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud Uni-App. The templates power bogus cryptocurrency exchanges, multi-language pig-but…",
-          "date": "2026-06-29T11:57:40+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Why Post-Quantum Cryptography Starts With Credentials",
-          "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
-          "summary": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break elliptic curve cryptography or RSA, quantum hardware is advancing rapidly and w…",
-          "date": "2026-06-29T11:42:16+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
-          "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
-          "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025. Slovakian cybersecurity company ESET said it observed 35 distinct spear-phishing campaigns mounted by Gamaredon against new …",
-          "date": "2026-06-29T11:40:24+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-          "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
-          "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud. The company calls it StegoAd, a mash-up of steganography and adware, and t…",
-          "date": "2026-06-29T08:32:31+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1924,7 +1924,92 @@
     "SANS Blog": {
       "name": "SANS Blog",
       "url": "https://www.sans.org/blog",
-      "articles": []
+      "articles": [
+        {
+          "title": "Cloud Security and AI Service Architecture: What’s New in SEC549 Blog Cloud Security   2 Jul 2026     SANS Institute",
+          "link": "https://www.sans.org/blog/cloud-security-ai-service-architecture-whats-new-sec549",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "Investigating AI Tools and Modern Linux Intrusions Blog Digital Forensics and Incident Response   30 Jun 2026     Tarot (Taz) Wake",
+          "link": "https://www.sans.org/blog/investigating-ai-tools-modern-linux-intrusions",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "Agentic AI: The Weapon That No Longer Needs a Warrior Blog Artificial Intelligence   29 Jun 2026     Foster Nethercott",
+          "link": "https://www.sans.org/blog/agentic-ai-weapon-that-no-longer-needs-warrior",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "It Was Never Just the Main Stage: Reflections on the 2026 SANS ICS Security Summit Blog Industrial Control Systems Security   25 Jun 2026     Tim Conway",
+          "link": "https://www.sans.org/blog/it-was-never-just-main-stage-reflections-2026-sans-ics-security-summit-cyber-risk-during-middle-east-escalation-ics-perspective-security-leaders",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "Stay Ahead of Ransomware: The Humans Behind Ransomware: Insights from a Threat Actor Researcher  Blog Digital Forensics and Incident Response   24 Jun 2026     Mari DeGrazia",
+          "link": "https://www.sans.org/blog/stay-ahead-of-ransomware-insights-threat-actor-researcher",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "The Trifecta: A Red Team Training Roadmap Blog Offensive Operations   18 Jun 2026     Jonathan Reiter",
+          "link": "https://www.sans.org/blog/trifecta-red-team-training-roadmap",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "You Can’t Detect What You Can’t See: Closing the Gaps in Detection Engineering Blog Cyber Defense   18 Jun 2026     Nick Mitropoulos",
+          "link": "https://www.sans.org/blog/you-cant-detect-what-you-cant-see-closing-gaps-detection-engineering",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "The Agent Identity Problem: Applying Zero Trust to AI Agents Blog Cyber Defense   15 Jun 2026     Ismael Valenzuela",
+          "link": "https://www.sans.org/blog/the-agent-identity-problem-applying-zero-trust-to-ai-agents",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "The AI-enabled Source Code Vulnerability Analysis Loop: SEC543 and Anthropic’s Guidance Blog Artificial Intelligence   11 Jun 2026     SANS Institute",
+          "link": "https://www.sans.org/blog/ai-enabled-source-code-vulnerability-analysis-loop-sec543-and-anthropics-guidance",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "Heightened Cyber Risk During Middle East Escalation: An ICS Perspective for Security Leaders Blog Industrial Control Systems Security   11 Jun 2026     Michael Hoffman",
+          "link": "https://www.sans.org/blog/heightened-cyber-risk-during-middle-east-escalation-ics-perspective-security-leaders",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "Learning to See the Whole Board Blog Cyber Defense   8 Jun 2026     Rich Greene",
+          "link": "https://www.sans.org/blog/learning-to-see-whole-board",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "One Day in a Room, and the Vulnerability Playbook Everyone's Been Using Quietly Broke Blog Cybersecurity Leadership   5 Jun 2026     Frank Kim",
+          "link": "https://www.sans.org/blog/one-day-room-vulnerability-playbook-everyones-using-quietly-broke",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        }
+      ]
     },
     "Secure Ideas": {
       "name": "Secure Ideas",
