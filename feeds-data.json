@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T16:54:58.534599+00:00",
+  "generated_at": "2026-07-05T12:21:20.283241+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
@@ -1418,6 +1418,13 @@
       "url": "https://www.blackhillsinfosec.com/blog/feed/",
       "articles": [
         {
+          "title": "Finding and Addressing Vulnerable and Outdated Web Application Components",
+          "link": "https://www.blackhillsinfosec.com/vulnerable-and-outdated-web-application-components/",
+          "summary": "Vulnerable and outdated software components are one of the most common issues encountered by BHIS during web application penetration tests. The vast majority of web applications use third-party components such as jQuery, Angular, Bootstrap, or countless other libraries. The post Finding and Addressi…",
+          "date": "2026-07-01T14:00:00+00:00",
+          "source": "Black Hills InfoSec"
+        },
+        {
           "title": "Insufficient Egress Filtering: How Weak Outbound Controls Enable Attacks",
           "link": "https://www.blackhillsinfosec.com/insufficient-egress-filtering/",
           "summary": "Insufficient egress filtering is a commonly identified vulnerability found during BHIS penetration tests. The insufficient egress filtering finding indicates that network traffic leaving the organization’s environment is not properly restricted. The post Insufficient Egress Filtering: How Weak Outbo…",
@@ -1757,13 +1764,6 @@
           "title": "Impacket Cheatsheet",
           "link": "https://www.blackhillsinfosec.com/impacket-cheatsheet/",
           "summary": "Impacket is an extremely useful tool for post exploitation. It is a collection of Python scripts that provides low-level programmatic access to the packets and for some protocols, such as DCOM, Kerberos, SMB1, and MSRPC, the protocol implementation itself. The post Impacket Cheatsheet appeared first…",
-          "date": "2025-08-06T15:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Wireshark Cheatsheet",
-          "link": "https://www.blackhillsinfosec.com/wireshark-cheatsheet/",
-          "summary": "Wireshark is an incredible tool used to read and analyze network traffic coming in and out of an endpoint. Additionally, it can load previously captured traffic to assist with troubleshooting network issues or analyze malicious traffic to help determine what a threat actor is doing on your network. …",
           "date": "2025-08-06T15:00:00+00:00",
           "source": "Black Hills InfoSec"
         }
