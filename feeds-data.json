@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-07-05T16:57:49.704743+00:00",
+  "generated_at": "2026-07-06T14:31:17.340963+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
+          "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
+          "summary": "Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it also removes many of the moments where security decisions have traditionally taken place. [...]",
+          "date": "2026-07-06T14:00:10+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
+          "summary": "Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, according to vulnerability intelligence company KEVIntel. [...]",
+          "date": "2026-07-06T13:18:37+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Flipper Zero firmware development continues with community help",
           "link": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
@@ -95,20 +109,6 @@
           "summary": "A dual United States and Estonian citizen has been extradited to the U.S. to face charges alleging he was a member of the Scattered Spider hacking collective. [...]",
           "date": "2026-07-02T08:58:25+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
-          "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
-          "summary": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]",
-          "date": "2026-07-02T04:25:42+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
-          "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
-          "summary": "The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials were intended to fuel future network intrusions. [...]",
-          "date": "2026-07-01T21:37:24+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -154,7 +154,7 @@
         {
           "title": "Anthropic's AI Finds Bugs. IBM Bets $5B It Can Fix Them.",
           "link": "https://www.darkreading.com/vulnerabilities-threats/anthropic-s-ai-finds-bugs-ibm-bets-5b-it-can-fix-them-",
-          "summary": "IBM and Red Hat assign 20,000 engineers to the new Project Lightwell service as Anthropic's Mythos findings ignite debate over how to secure the open-source software supply chain.",
+          "summary": "IBM and Red Hat assign 20,000 engineers to the new Project Lightwell service as Anthropic's Mythos findings ignite debate over how to secure the open source software supply chain.",
           "date": "2026-07-02T12:33:57+00:00",
           "source": "Dark Reading"
         },
@@ -173,7 +173,7 @@
           "source": "Dark Reading"
         },
         {
-          "title": "When Too Much Security Data Became the Risk",
+          "title": "When Too Much Security Data Becomes the Risk",
           "link": "https://www.darkreading.com/cyber-risk/too-much-security-data-risk",
           "summary": "Rapid growth turned routine firewall logs into a security and budget liability. One CISO used artificial intelligence to filter what data truly belongs in the SIEM.",
           "date": "2026-07-01T15:44:41+00:00",
@@ -549,6 +549,13 @@
       "url": "https://risky.biz/feeds/newsletters/",
       "articles": [
         {
+          "title": "Risky Bulletin: Android drops PIN guessing limit from 1,800 attempts to just 20",
+          "link": "https://risky.biz/risky-bulletin-android-drops-pin-guessing-limit-from-1-800-attempts-to-just-20/",
+          "summary": "Android 17 , released last month, has shipped with stricter protections against lockscreen PIN and password guessing attacks. Google has reduced the maximum number of failed attempts from 1,800 to just 20 , and the timeouts between failed attempts are now way more aggressive. The previous Android 16…",
+          "date": "2026-07-06T04:33:53+00:00",
+          "source": "Risky Biz Newsletters"
+        },
+        {
           "title": "Risky Bulletin: FatFs bugs enable physical access attacks on a load of devices",
           "link": "https://risky.biz/risky-bulletin-fatfs-bugs-enable-physical-access-attacks-on-a-load-of-devices/",
           "summary": "The developers of a lot of industrial gear and smart devices will have their work cut out for them over the coming months and years to deploy protections against a set of newly discovered and unpatched bugs in the FatFs filesystem driver. The seven bugs, discovered by security firm runZero , can all…",
@@ -890,13 +897,6 @@
           "summary": "US Secretary of State Marco Rubio has called for the State Department to push back against foreign state-backed propaganda and disinformation. Unfortunately for Rubio, he also dismantled the State Department's counter-propaganda office last year. It won't be recreated easily. When it shut down its c…",
           "date": "2026-04-09T02:10:09+00:00",
           "source": "Risky Biz Newsletters"
-        },
-        {
-          "title": "Risky Bulletin: Cybercrime losses passed $20 billion last year",
-          "link": "https://risky.biz/risky-bulletin-cybercrime-losses-passed-20-billion-last-year/",
-          "summary": "Americans have lost almost $21 billion to cybercrime last year, more than any other since the FBI began tracking cybercrime data 25 years ago, the FBI said in its yearly Internet Crime Report [ PDF ]. Investment scams were again the top category in terms of losses, with $8.6 billion reported stolen,…",
-          "date": "2026-04-08T05:31:55+00:00",
-          "source": "Risky Biz Newsletters"
         }
       ]
     },
@@ -904,6 +904,27 @@
       "name": "SecurityWeek",
       "url": "https://www.securityweek.com/feed/",
       "articles": [
+        {
+          "title": "North Korean Hackers Target Open Source Developers in Supply Chain Attacks",
+          "link": "https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/",
+          "summary": "The PolinRider campaign has compromised more than 100 legitimate open source packages and repositories to deliver a backdoor and information stealer to developers. The post North Korean Hackers Target Open Source Developers in Supply Chain Attacks appeared first on SecurityWeek .",
+          "date": "2026-07-06T13:11:16+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Proof-of-Concept Exploit Released for Linux ‘Bad Epoll’ Root Access Vulnerability",
+          "link": "https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/",
+          "summary": "Organizations are urged to patch after proof-of-concept code makes the Linux root escalation flaw easier to exploit. The post Proof-of-Concept Exploit Released for Linux ‘Bad Epoll’ Root Access Vulnerability appeared first on SecurityWeek .",
+          "date": "2026-07-06T12:48:01+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments",
+          "link": "https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/",
+          "summary": "Researchers uncovered two campaigns embedding indirect prompt injections in malicious websites to exploit autonomous AI agents browsing the web. The post Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments appeared first on SecurityWeek .",
+          "date": "2026-07-06T11:19:47+00:00",
+          "source": "SecurityWeek"
+        },
         {
           "title": "In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting",
           "link": "https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/",
@@ -952,27 +973,6 @@
           "summary": "Hackers are targeting NetScaler appliances using public PoC code to retrieve arbitrary memory content in the HTTP response. The post New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure appeared first on SecurityWeek .",
           "date": "2026-07-02T15:04:22+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "How to Conduct a Successful Audit of AI-Driven Software Development",
-          "link": "https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/",
-          "summary": "As AI-generated code becomes commonplace, CISOs need new audit strategies to measure developer practices, govern AI tool usage, and identify software risks before they reach production. The post How to Conduct a Successful Audit of AI-Driven Software Development appeared first on SecurityWeek .",
-          "date": "2026-07-02T13:15:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks",
-          "link": "https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/",
-          "summary": "Researchers say credentials harvested from hundreds of thousands of FortiGate firewalls are being used to facilitate ransomware attacks by the INC and Lynx operations. The post FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks appeared first on SecurityWeek .",
-          "date": "2026-07-02T12:34:29+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm",
-          "link": "https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
-          "summary": "Anthropic said Tuesday night that its AI model called Claude Fable 5 is now widely available. The post Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm appeared first on SecurityWeek .",
-          "date": "2026-07-02T11:01:48+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,55 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
+          "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
+          "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary. Home devices became a routing cover. Clean code pulled dirt from a dependency. Identity s…",
+          "date": "2026-07-06T13:01:14+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
+          "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
+          "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolted onto a legacy SIEM to agent platforms that run detection, triage, investigation, …",
+          "date": "2026-07-06T11:30:02+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
+          "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
+          "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from compromised hosts. The multi-stage campaign, codenamed Operation DragonReturn by Seqrit…",
+          "date": "2026-07-06T10:58:16+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
+          "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
+          "summary": "Researchers at Shandong University have shown a fast new way to pull data off computers that are cut off from every network. The technique, called TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable carrying them radiates a faint radio signal a nearby receiver can de…",
+          "date": "2026-07-06T08:50:54+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
+          "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
+          "summary": "Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments. According to LevelBlue, the cross-platform malware is advertised under a malware-as-a-service (MaaS) model, costing anywhere betwee…",
+          "date": "2026-07-06T08:13:33+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
+          "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
+          "summary": "Researchers found a flaw in Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits. In a proof of concept, they reconstructed a signed-in user's full Gmail address from …",
+          "date": "2026-07-06T07:27:50+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+          "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
+          "summary": "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a new study from researchers at the Hong Kong University of Science and Technology. Their strongest trick slipped past every scanner tested more t…",
+          "date": "2026-07-06T06:33:56+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
           "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
@@ -1279,55 +1328,6 @@
           "link": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
           "summary": "Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network. An attacker within wireless range, with just a laptop and no prior connection, can crash the sharing service on a Mac or iPhone set…",
           "date": "2026-06-30T09:27:58+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
-          "link": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
-          "summary": "Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind BioShocking, a technique from security firm LayerX that tricked six AI browsers and assistants into copying a user's credentials and sending them to an attacker. The targets included…",
-          "date": "2026-06-30T08:37:19+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
-          "link": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
-          "summary": "A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sending a crafted request to its API. The flaw, tracked as CVE-2026-8037, carries a CVSS score of 9.8 according to ZDI. A patch is available. If you run Loa…",
-          "date": "2026-06-30T07:38:07+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
-          "link": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
-          "summary": "A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber. The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an improper privilege management and authentication flaw in Oracle Payments that could be a…",
-          "date": "2026-06-30T05:04:06+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
-          "link": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
-          "summary": "WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform. The optional feature is designed to help users connect with someone on the service through usernames, as opposed to dir…",
-          "date": "2026-06-29T16:09:21+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
-          "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
-          "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server before redirecting users to real results. Microsoft s…",
-          "date": "2026-06-29T15:40:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
-          "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
-          "summary": "Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) tools like Anthropic Claude and OpenAI Codex Security. The WebKit vulnerabilities a…",
-          "date": "2026-06-29T15:30:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
-          "link": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
-          "summary": "The China-aligned espionage group Mustang Panda is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud service into its command channel. Acronis Threat Research Unit found active compromises inside Indian government network…",
-          "date": "2026-06-29T15:03:40+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1850,6 +1850,20 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "RCS and DNS: The NAPTR Record, (Mon, Jul 6th)",
+          "link": "https://isc.sans.edu/diary/rss/33124",
+          "summary": "Over the last year, with recent updates to iOS and Android, RCS (Rich Communication Services) has become an increasingly used protocol [1]. RCS is supposed to eventually replace SMS, and in addition to richer formatting, provides added (but optional) security. RCS messages may be end-to-end encrypte…",
+          "date": "2026-07-06T13:35:58+00:00",
+          "source": "SANS ISC"
+        },
+        {
+          "title": "ISC Stormcast For Monday, July 6th, 2026 https://isc.sans.edu/podcastdetail/9994, (Mon, Jul 6th)",
+          "link": "https://isc.sans.edu/diary/rss/33122",
+          "summary": "",
+          "date": "2026-07-06T11:36:06+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Thursday, July 2nd, 2026 https://isc.sans.edu/podcastdetail/9992, (Thu, Jul 2nd)",
           "link": "https://isc.sans.edu/diary/rss/33120",
           "summary": "",
@@ -1904,117 +1918,25 @@
           "summary": "YARA-X&#;x26;#;39;s 1.18.0 release brings 3 improvements and 2 bugfixes.",
           "date": "2026-06-28T07:56:44+00:00",
           "source": "SANS ISC"
-        },
-        {
-          "title": "What do Ports Hear When Nobody's Listening&#x3f; An Assessment of Automated Cybercrime &#x5b;Guest Diary&#x5d;, (Wed, Jun 24th)",
-          "link": "https://isc.sans.edu/diary/rss/33104",
-          "summary": "[This is a Guest Diary by Nicole Phillips, an ISC intern as part of the SANS.edu BACS program]",
-          "date": "2026-06-25T10:01:19+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Linux Process Name Masquerading, (Wed, Jun 24th)",
-          "link": "https://isc.sans.edu/diary/rss/33102",
-          "summary": "In a previous diary, I talked about stack strings&#;x26;#;x5b;1&#;x26;#;x5d; with a practical example of them. Since my SEC670 class, I&#;x26;#;xe2;&#;x26;#;x80;&#;x26;#;x99;m even more interested&#;x26;#;xc2;&#;x26;#;xa0;in malware obfuscation techniques. I had&#;x26;#;xc2;&#;x26;#;xa0;a look at pr…",
-          "date": "2026-06-24T06:29:03+00:00",
-          "source": "SANS ISC"
         }
       ]
     },
     "SANS Blog": {
       "name": "SANS Blog",
       "url": "https://www.sans.org/blog",
-      "articles": [
-        {
-          "title": "Cloud Security and AI Service Architecture: What’s New in SEC549 Blog Cloud Security   2 Jul 2026     SANS Institute",
-          "link": "https://www.sans.org/blog/cloud-security-ai-service-architecture-whats-new-sec549",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Investigating AI Tools and Modern Linux Intrusions Blog Digital Forensics and Incident Response   30 Jun 2026     Tarot (Taz) Wake",
-          "link": "https://www.sans.org/blog/investigating-ai-tools-modern-linux-intrusions",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Agentic AI: The Weapon That No Longer Needs a Warrior Blog Artificial Intelligence   29 Jun 2026     Foster Nethercott",
-          "link": "https://www.sans.org/blog/agentic-ai-weapon-that-no-longer-needs-warrior",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "It Was Never Just the Main Stage: Reflections on the 2026 SANS ICS Security Summit Blog Industrial Control Systems Security   25 Jun 2026     Tim Conway",
-          "link": "https://www.sans.org/blog/it-was-never-just-main-stage-reflections-2026-sans-ics-security-summit-cyber-risk-during-middle-east-escalation-ics-perspective-security-leaders",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Stay Ahead of Ransomware: The Humans Behind Ransomware: Insights from a Threat Actor Researcher  Blog Digital Forensics and Incident Response   24 Jun 2026     Mari DeGrazia",
-          "link": "https://www.sans.org/blog/stay-ahead-of-ransomware-insights-threat-actor-researcher",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "The Trifecta: A Red Team Training Roadmap Blog Offensive Operations   18 Jun 2026     Jonathan Reiter",
-          "link": "https://www.sans.org/blog/trifecta-red-team-training-roadmap",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "You Can’t Detect What You Can’t See: Closing the Gaps in Detection Engineering Blog Cyber Defense   18 Jun 2026     Nick Mitropoulos",
-          "link": "https://www.sans.org/blog/you-cant-detect-what-you-cant-see-closing-gaps-detection-engineering",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "The Agent Identity Problem: Applying Zero Trust to AI Agents Blog Cyber Defense   15 Jun 2026     Ismael Valenzuela",
-          "link": "https://www.sans.org/blog/the-agent-identity-problem-applying-zero-trust-to-ai-agents",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "The AI-enabled Source Code Vulnerability Analysis Loop: SEC543 and Anthropic’s Guidance Blog Artificial Intelligence   11 Jun 2026     SANS Institute",
-          "link": "https://www.sans.org/blog/ai-enabled-source-code-vulnerability-analysis-loop-sec543-and-anthropics-guidance",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Heightened Cyber Risk During Middle East Escalation: An ICS Perspective for Security Leaders Blog Industrial Control Systems Security   11 Jun 2026     Michael Hoffman",
-          "link": "https://www.sans.org/blog/heightened-cyber-risk-during-middle-east-escalation-ics-perspective-security-leaders",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Learning to See the Whole Board Blog Cyber Defense   8 Jun 2026     Rich Greene",
-          "link": "https://www.sans.org/blog/learning-to-see-whole-board",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "One Day in a Room, and the Vulnerability Playbook Everyone's Been Using Quietly Broke Blog Cybersecurity Leadership   5 Jun 2026     Frank Kim",
-          "link": "https://www.sans.org/blog/one-day-room-vulnerability-playbook-everyones-using-quietly-broke",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        }
-      ]
+      "articles": []
     },
     "Secure Ideas": {
       "name": "Secure Ideas",
       "url": "https://www.secureideas.com/blog/rss.xml",
       "articles": [
+        {
+          "title": "Building an AI Pit Droid: Hardware, Electronics & 3D Printing | Secure Ideas",
+          "link": "https://www.secureideas.com/blog/building-the-body",
+          "summary": "Blog 3 of 4: Hardware, Electronics and Making It Real",
+          "date": "2026-07-06T13:21:00+00:00",
+          "source": "Secure Ideas"
+        },
         {
           "title": "Creating an Encrypted File Container with LUKS",
           "link": "https://www.secureideas.com/blog/creating-an-encrypted-file-container-with-luks",
@@ -2076,13 +1998,6 @@
           "link": "https://www.secureideas.com/blog/beyond-the-browser-the-questions-that-expanded-the-attack-surface",
           "summary": "After presenting this research at security conferences this year, I was expecting the usual post-talk questions like \" what tools did you use? \", \" does this also work on mobile? \", or a compliance officer asking if PDF forms are covered under their DLP policy. What the audience did instead was take…",
           "date": "2026-05-06T15:22:49+00:00",
-          "source": "Secure Ideas"
-        },
-        {
-          "title": "I Built the Droid I Was Looking For | Secure Ideas",
-          "link": "https://www.secureideas.com/blog/i-built-the-droid-i-was-looking-for",
-          "summary": "Blog 1 of 4: Introduction",
-          "date": "2026-05-04T13:00:05+00:00",
           "source": "Secure Ideas"
         }
       ]
