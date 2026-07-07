@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-07-07T13:23:36.967184+00:00",
+  "generated_at": "2026-07-07T17:52:44.882952+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Hidden backdoor in Tenda router firmware grants admin access",
+          "link": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
+          "summary": "A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]",
+          "date": "2026-07-07T17:27:22+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
+          "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
+          "summary": "The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]",
+          "date": "2026-07-07T15:21:21+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
+          "link": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
+          "summary": "ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their CI/CD workflows. [...]",
+          "date": "2026-07-07T14:01:11+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Webinar tomorrow: Why modern email attacks require a new approach to defense",
           "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/",
@@ -88,27 +109,6 @@
           "summary": "Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]",
           "date": "2026-07-04T14:16:38+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
-          "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
-          "summary": "A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]",
-          "date": "2026-07-03T17:50:04+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
-          "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
-          "summary": "A new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Microsoft 365. [...]",
-          "date": "2026-07-03T14:12:22+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
-          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
-          "summary": "Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]",
-          "date": "2026-07-03T01:37:09+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -117,7 +117,14 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
-          "title": "'BusySnake' Infostealer Slithers into Critical Infrastructure Networks",
+          "title": "'GitLost' Flaw Leaks Private Data From GitHub's Agentic Workflows",
+          "link": "https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows",
+          "summary": "The flaw allows an unauthenticated attacker to craft a GitHub Issue in an org's public repository and then silently pull data from its private repos, too.",
+          "date": "2026-07-07T15:24:30+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "'BusySnake' Infostealer Slithers Into Critical Infrastructure Networks",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks",
           "summary": "A threat group researchers call \"Armored Likho\" has gained access to government agencies and electrical power entities in Russia, Brazil, and Kazakhstan.",
           "date": "2026-07-06T21:37:56+00:00",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/application-security/difytap-bugs-wiretap-ai-chat-histories",
           "summary": "Four vulnerabilities allow attackers to exploit Dify, a platform for AI application building and management, to silently access and exfiltrate sensitive data.",
           "date": "2026-06-22T21:14:11+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Crypto Heist Fueled by Elaborate Fake Reputation-Boosting Campaign",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign",
-          "summary": "Attackers are using multiple online channels — including GitHub, YouTube, and VirusTotal — to build an illusion of trust to spread a cross-platform clipboard hijacker.",
-          "date": "2026-06-22T16:10:10+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "County Government Reportedly Paid $1 Million to Cyber Extortion Group",
+          "link": "https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/",
+          "summary": "The alleged victim, believed to be a small Ohio county, reportedly paid the extortion group to prevent the public release of sensitive stolen data. The post County Government Reportedly Paid $1 Million to Cyber Extortion Group appeared first on SecurityWeek .",
+          "date": "2026-07-07T17:31:54+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Critical Gitea Flaw Under Active Exploitation, Researchers Warn",
+          "link": "https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/",
+          "summary": "Attackers are exploiting the critical Gitea vulnerability CVE-2026-20896 to bypass authentication with a single HTTP header and access vulnerable repositories and secrets. The post Critical Gitea Flaw Under Active Exploitation, Researchers Warn appeared first on SecurityWeek .",
+          "date": "2026-07-07T17:17:19+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws",
           "link": "https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/",
           "summary": "The audits are reportedly being spearheaded by CISA’s Attack Surface Evaluation team, a specialized unit tasked with conducting digital defense assessments and simulated hacking exercises. The post CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws appeared first on Secur…",
@@ -959,20 +973,6 @@
           "summary": "Moving from isolated, technical data to a continuous risk lifecycle can help organizations align security controls with actual business consequences. The post The Shift Toward Business-Aligned Risk Management appeared first on SecurityWeek .",
           "date": "2026-07-06T15:20:42+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Armored Likho APT Targeting Government, Electric Power Entities",
-          "link": "https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/",
-          "summary": "The threat actor uses modular RATs and information stealers in financially motivated and cyber espionage campaigns. The post Armored Likho APT Targeting Government, Electric Power Entities appeared first on SecurityWeek .",
-          "date": "2026-07-06T15:10:39+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "North Korean Hackers Target Open Source Developers in Supply Chain Attacks",
-          "link": "https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/",
-          "summary": "The PolinRider campaign has compromised more than 100 legitimate open source packages and repositories to deliver a backdoor and information stealer to developers. The post North Korean Hackers Target Open Source Developers in Supply Chain Attacks appeared first on SecurityWeek .",
-          "date": "2026-07-06T13:11:16+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,34 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+          "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
+          "summary": "A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBEC. \"The campaign did not depend on a fake Microsoft password page. It used a malici…",
+          "date": "2026-07-07T15:14:14+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+          "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
+          "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown. The attacker needs only to open a normal-looking issue on a public repository, with no stolen credentials and no access to the organization.…",
+          "date": "2026-07-07T14:04:50+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
+          "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
+          "summary": "U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint. Microsoft records tied that ID first to the account the attackers used to keep access during the May 2025 intru…",
+          "date": "2026-07-07T13:27:20+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+          "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
+          "summary": "Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result in cross-tenant compromise. The one-click vulnerability has been codenamed WriteOut by the Sand Secu…",
+          "date": "2026-07-07T13:27:09+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
           "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
@@ -1300,34 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
           "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process. The activity, per Huntress, originates from an IPv6 address range (2a0a:d683::/32) controlled by int…",
           "date": "2026-07-01T05:46:03+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
-          "link": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
-          "summary": "ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office. New research shows the malicious commands behind its fake \"prove you're human\" pages are now handed out by API-driven servers that give each visitor the same malware in a different disguise. The same…",
-          "date": "2026-07-01T05:32:12+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
-          "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
-          "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigger a denial-of-service (DoS) condition. The vulnerabilities a…",
-          "date": "2026-07-01T03:54:22+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-          "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
-          "summary": "New Microsoft research shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider. The trick is that the agent never breaks a rule. Every step looks routine, so in a default…",
-          "date": "2026-06-30T17:46:07+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-          "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
-          "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline. Researchers at QiAnXin's XLab have tracked it since February 2026, and say the real…",
-          "date": "2026-06-30T17:45:25+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1924,7 +1924,92 @@
     "SANS Blog": {
       "name": "SANS Blog",
       "url": "https://www.sans.org/blog",
-      "articles": []
+      "articles": [
+        {
+          "title": "Cloud Security and AI Service Architecture: What’s New in SEC549 Blog Cloud Security   2 Jul 2026     SANS Institute",
+          "link": "https://www.sans.org/blog/cloud-security-ai-service-architecture-whats-new-sec549",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "Investigating AI Tools and Modern Linux Intrusions Blog Digital Forensics and Incident Response   30 Jun 2026     Tarot (Taz) Wake",
+          "link": "https://www.sans.org/blog/investigating-ai-tools-modern-linux-intrusions",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "Agentic AI: The Weapon That No Longer Needs a Warrior Blog Artificial Intelligence   29 Jun 2026     Foster Nethercott",
+          "link": "https://www.sans.org/blog/agentic-ai-weapon-that-no-longer-needs-warrior",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "It Was Never Just the Main Stage: Reflections on the 2026 SANS ICS Security Summit Blog Industrial Control Systems Security   25 Jun 2026     Tim Conway",
+          "link": "https://www.sans.org/blog/it-was-never-just-main-stage-reflections-2026-sans-ics-security-summit-cyber-risk-during-middle-east-escalation-ics-perspective-security-leaders",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "Stay Ahead of Ransomware: The Humans Behind Ransomware: Insights from a Threat Actor Researcher  Blog Digital Forensics and Incident Response   24 Jun 2026     Mari DeGrazia",
+          "link": "https://www.sans.org/blog/stay-ahead-of-ransomware-insights-threat-actor-researcher",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "The Trifecta: A Red Team Training Roadmap Blog Offensive Operations   18 Jun 2026     Jonathan Reiter",
+          "link": "https://www.sans.org/blog/trifecta-red-team-training-roadmap",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "You Can’t Detect What You Can’t See: Closing the Gaps in Detection Engineering Blog Cyber Defense   18 Jun 2026     Nick Mitropoulos",
+          "link": "https://www.sans.org/blog/you-cant-detect-what-you-cant-see-closing-gaps-detection-engineering",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "The Agent Identity Problem: Applying Zero Trust to AI Agents Blog Cyber Defense   15 Jun 2026     Ismael Valenzuela",
+          "link": "https://www.sans.org/blog/the-agent-identity-problem-applying-zero-trust-to-ai-agents",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "The AI-enabled Source Code Vulnerability Analysis Loop: SEC543 and Anthropic’s Guidance Blog Artificial Intelligence   11 Jun 2026     SANS Institute",
+          "link": "https://www.sans.org/blog/ai-enabled-source-code-vulnerability-analysis-loop-sec543-and-anthropics-guidance",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "Heightened Cyber Risk During Middle East Escalation: An ICS Perspective for Security Leaders Blog Industrial Control Systems Security   11 Jun 2026     Michael Hoffman",
+          "link": "https://www.sans.org/blog/heightened-cyber-risk-during-middle-east-escalation-ics-perspective-security-leaders",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "Learning to See the Whole Board Blog Cyber Defense   8 Jun 2026     Rich Greene",
+          "link": "https://www.sans.org/blog/learning-to-see-whole-board",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "One Day in a Room, and the Vulnerability Playbook Everyone's Been Using Quietly Broke Blog Cybersecurity Leadership   5 Jun 2026     Frank Kim",
+          "link": "https://www.sans.org/blog/one-day-room-vulnerability-playbook-everyones-using-quietly-broke",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        }
+      ]
     },
     "Secure Ideas": {
       "name": "Secure Ideas",
