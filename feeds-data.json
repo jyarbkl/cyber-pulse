@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-07-08T12:25:41.451170+00:00",
+  "generated_at": "2026-07-08T17:20:57.553904+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
+          "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
+          "summary": "A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey. [...]",
+          "date": "2026-07-08T16:47:25+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
+          "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
+          "summary": "Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verification. [...]",
+          "date": "2026-07-08T14:01:11+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "DuckDuckGo browser now blocks YouTube video ads",
           "link": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
@@ -95,20 +109,6 @@
           "summary": "Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems after upgrading to Windows 11 26H2. [...]",
           "date": "2026-07-07T09:41:19+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "BeyondTrust warns of critical flaws in remote access software",
-          "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
-          "summary": "BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]",
-          "date": "2026-07-07T08:12:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
-          "summary": "Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]",
-          "date": "2026-07-07T07:37:38+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Vidar Infostealer Hammers SMBs via Malvertising Campaign",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign",
+          "summary": "A financially motivated operation uses lures of cracked or pirated software to deliver a malware two-for-one combo for data theft and cryptomining.",
+          "date": "2026-07-08T16:45:54+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "State IDs for AI Agents: Will Estonia Set a Precedent?",
           "link": "https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia",
@@ -458,13 +465,6 @@
           "summary": "More victims have emerged after attackers breached application vendor Klue and used its OAuth tokens to steal customers' Salesforce data.",
           "date": "2026-06-23T20:44:09+00:00",
           "source": "Dark Reading"
-        },
-        {
-          "title": "'Cordyceps': Mushrooming Malicious Pull Requests Threaten Developer Workflows",
-          "link": "https://www.darkreading.com/application-security/cordyceps-malicious-pull-requests-developer-workflows",
-          "summary": "The CI/CD workflow weakness affects Microsoft's Azure Sentinel, Google's AI Agent Development Kit, Apache's Doris analytics database, Cloudflare's Workers SDK, and Python Software Foundation's Black.",
-          "date": "2026-06-23T19:16:42+00:00",
-          "source": "Dark Reading"
         }
       ]
     },
@@ -472,6 +472,13 @@
       "name": "Krebs on Security",
       "url": "https://krebsonsecurity.com/feed/",
       "articles": [
+        {
+          "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+          "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+          "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform t…",
+          "date": "2026-07-08T12:31:39+00:00",
+          "source": "Krebs on Security"
+        },
         {
           "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
           "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
@@ -533,13 +540,6 @@
           "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
           "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. Krebs…",
           "date": "2026-05-21T21:50:25+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-          "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-          "summary": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive …",
-          "date": "2026-05-18T20:48:21+00:00",
           "source": "Krebs on Security"
         }
       ]
@@ -905,6 +905,27 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Accenture Confirms Data Breach After Hacker Claims Source Code Theft",
+          "link": "https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/",
+          "summary": "The professional services giant says it contained the incident, remediated its source, and experienced no operational or service delivery impact. The post Accenture Confirms Data Breach After Hacker Claims Source Code Theft appeared first on SecurityWeek .",
+          "date": "2026-07-08T16:09:15+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "China-Linked APT Expands Arsenal With New ‘Leash’ Backdoors",
+          "link": "https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/",
+          "summary": "Cisco says the threat actor behind the LapDogs campaign has expanded its SOHO router malware toolkit with LongLeash, DogLeash, and JarLeash backdoors. The post China-Linked APT Expands Arsenal With New ‘Leash’ Backdoors appeared first on SecurityWeek .",
+          "date": "2026-07-08T15:42:11+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Webinar Today: Why Email Security Keeps Failing",
+          "link": "https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/",
+          "summary": "Join the webinar as we break down why email-layer defenses alone can’t keep pace with the modern phishing ecosystem. The post Webinar Today: Why Email Security Keeps Failing appeared first on SecurityWeek .",
+          "date": "2026-07-08T13:16:28+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations",
           "link": "https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/",
           "summary": "The \"Rogue Agent\" vulnerability could have enabled attackers to silently manipulate AI conversations, exfiltrate data, and compromise every Dialogflow CX agent within the same Google Cloud project. The post Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations appeared first on Secur…",
@@ -952,27 +973,6 @@
           "summary": "Hackers are exploiting a recently patched critical vulnerability (CVE-2026-48282) in Adobe ColdFusion that carries a CVSS score of 10/10. The post Critical Adobe ColdFusion Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
           "date": "2026-07-07T12:38:34+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Iran-Linked Hackers Using Modular C&C Framework in Cyberattacks",
-          "link": "https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/",
-          "summary": "Researchers say the Iran-linked threat actor used an adaptable modular malware framework and compromised IT service providers to reach high-value targets in Israel. The post Iran-Linked Hackers Using Modular C&C Framework in Cyberattacks appeared first on SecurityWeek .",
-          "date": "2026-07-07T12:21:56+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker",
-          "link": "https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/",
-          "summary": "Tarah Wheeler is CISO at TPO Group, a firm that provides cybersecurity consultancy for high-stakes organizations. But despite this elevated position, her journey was far from typical. The post CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker appeared first…",
-          "date": "2026-07-07T12:00:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems",
-          "link": "https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/",
-          "summary": "The 16-year-old Januscape flaw affects Linux's KVM hypervisor, allowing attackers to escape virtual machines and potentially execute code on the underlying host. The post Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems appeared first on SecurityWeek .",
-          "date": "2026-07-07T10:00:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,34 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+          "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
+          "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist. New research, which its authors call HalluSquatting, turns that habit into an attack: work out the fake names an AI reliably…",
+          "date": "2026-07-08T15:07:24+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+          "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
+          "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command execution. The list of vulnerabilities is as follows - CVE-2026-50746 (CVSS score: 1…",
+          "date": "2026-07-08T14:38:05+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
+          "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
+          "summary": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it decrypts and comes to life inside the victim’s browser. For security leaders, the risk is clear: traditiona…",
+          "date": "2026-07-08T13:00:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
+          "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
+          "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures. The activity cluster, tracked by Elastic Security Labs under the moniker REF6045, involves infecting victims through fake CAPTCHA verification p…",
+          "date": "2026-07-08T12:52:15+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
           "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
@@ -1300,34 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
           "summary": "A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S. Department of Justice announced on July 1. Peter Stokes, 19, a dual U.S. and Estonian citizen, appeared in a Chicago fede…",
           "date": "2026-07-01T19:28:07+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
-          "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
-          "summary": "Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT. Kaspersky said the activity is part of a \"massive, multi-domain, multi-language\" campaign that distributes malicious installer archives hosted on spoofed websites. These installers masq…",
-          "date": "2026-07-01T17:53:06+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
-          "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
-          "summary": "Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs. The activity has been codenamed VEIL#DROP by Securonix. It's suspected that the initial payloads are distributed ei…",
-          "date": "2026-07-01T17:18:50+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
-          "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
-          "summary": "A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal. Fortinet's FortiGuard Labs identified the campaign in May 2026. It opens with a phishing PDF disguised as a corrupted file, checks that the visitor is really in Spain or Portugal, and hides its rea…",
-          "date": "2026-07-01T15:26:55+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
-          "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
-          "summary": "Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic. The ColdFusion updates \"resolves critical and important vulnerabilities that could lead to arbitrary code execution, privilege escalation, arbitrary file system read, and se…",
-          "date": "2026-07-01T15:25:46+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1924,92 +1924,7 @@
     "SANS Blog": {
       "name": "SANS Blog",
       "url": "https://www.sans.org/blog",
-      "articles": [
-        {
-          "title": "SANS Threat Analysis Rundown in Review: Stopping the Poison Before It Reaches the Water Supply  Blog Digital Forensics and Incident Response   8 Jul 2026     Sean O'Connor",
-          "link": "https://www.sans.org/blog/sans-threat-analysis-rundown-stopping-poison-before-reaches-water-supply",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Cloud Security and AI Service Architecture: What’s New in SEC549 Blog Cloud Security   2 Jul 2026     SANS Institute",
-          "link": "https://www.sans.org/blog/cloud-security-ai-service-architecture-whats-new-sec549",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Investigating AI Tools and Modern Linux Intrusions Blog Digital Forensics and Incident Response   30 Jun 2026     Tarot (Taz) Wake",
-          "link": "https://www.sans.org/blog/investigating-ai-tools-modern-linux-intrusions",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Agentic AI: The Weapon That No Longer Needs a Warrior Blog Artificial Intelligence   29 Jun 2026     Foster Nethercott",
-          "link": "https://www.sans.org/blog/agentic-ai-weapon-that-no-longer-needs-warrior",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "It Was Never Just the Main Stage: Reflections on the 2026 SANS ICS Security Summit Blog Industrial Control Systems Security   25 Jun 2026     Tim Conway",
-          "link": "https://www.sans.org/blog/it-was-never-just-main-stage-reflections-2026-sans-ics-security-summit-cyber-risk-during-middle-east-escalation-ics-perspective-security-leaders",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Stay Ahead of Ransomware: The Humans Behind Ransomware: Insights from a Threat Actor Researcher  Blog Digital Forensics and Incident Response   24 Jun 2026     Mari DeGrazia",
-          "link": "https://www.sans.org/blog/stay-ahead-of-ransomware-insights-threat-actor-researcher",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "The Trifecta: A Red Team Training Roadmap Blog Offensive Operations   18 Jun 2026     Jonathan Reiter",
-          "link": "https://www.sans.org/blog/trifecta-red-team-training-roadmap",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "You Can’t Detect What You Can’t See: Closing the Gaps in Detection Engineering Blog Cyber Defense   18 Jun 2026     Nick Mitropoulos",
-          "link": "https://www.sans.org/blog/you-cant-detect-what-you-cant-see-closing-gaps-detection-engineering",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "The Agent Identity Problem: Applying Zero Trust to AI Agents Blog Cyber Defense   15 Jun 2026     Ismael Valenzuela",
-          "link": "https://www.sans.org/blog/the-agent-identity-problem-applying-zero-trust-to-ai-agents",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "The AI-enabled Source Code Vulnerability Analysis Loop: SEC543 and Anthropic’s Guidance Blog Artificial Intelligence   11 Jun 2026     SANS Institute",
-          "link": "https://www.sans.org/blog/ai-enabled-source-code-vulnerability-analysis-loop-sec543-and-anthropics-guidance",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Heightened Cyber Risk During Middle East Escalation: An ICS Perspective for Security Leaders Blog Industrial Control Systems Security   11 Jun 2026     Michael Hoffman",
-          "link": "https://www.sans.org/blog/heightened-cyber-risk-during-middle-east-escalation-ics-perspective-security-leaders",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Learning to See the Whole Board Blog Cyber Defense   8 Jun 2026     Rich Greene",
-          "link": "https://www.sans.org/blog/learning-to-see-whole-board",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        }
-      ]
+      "articles": []
     },
     "Secure Ideas": {
       "name": "Secure Ideas",
