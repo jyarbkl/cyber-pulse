@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-07-09T13:51:52.695868+00:00",
+  "generated_at": "2026-07-09T17:48:44.607482+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "New Helix vishing group emerges in SharePoint data theft attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
+          "summary": "A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [...]",
+          "date": "2026-07-09T17:08:29+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+          "summary": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]",
+          "date": "2026-07-09T17:00:00+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
+          "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
+          "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]",
+          "date": "2026-07-09T14:39:51+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "The Hidden Security Risks of Reduced Summer IT Coverage",
+          "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
+          "summary": "Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations and reduce reliance on manual processes year-round. [...]",
+          "date": "2026-07-09T14:02:12+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Microsoft to retire the OWA Light client in Exchange Server",
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
@@ -81,34 +109,6 @@
           "summary": "Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the country. [...]",
           "date": "2026-07-08T11:24:16+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
-          "date": "2026-07-08T09:58:11+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
-          "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
-          "summary": "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks. [...]",
-          "date": "2026-07-08T08:15:20+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by Friday. [...]",
-          "date": "2026-07-08T07:16:55+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Accenture confirms breach after hacker offers stolen data for sale",
-          "link": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
-          "summary": "IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company. [...]",
-          "date": "2026-07-07T22:06:07+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "As Global Conflicts Go Digital, Businesses Need Wartime Gameplans",
+          "link": "https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans",
+          "summary": "The fate of a Ukrainian tax software company shows how modern cyberwarfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.",
+          "date": "2026-07-09T14:31:20+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "AI Gateways Offer Attackers the Keys to the Kingdom",
           "link": "https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-analytics/europe-evolves-ransomware-favorite-region",
           "summary": "After a global lull, ransomware gangs are setting sights on a rich new arena: attacking EU organizations and their suppliers.",
           "date": "2026-06-25T10:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Attackers Hit Cisco SD-WAN Flaw 2 Months Before Disclosure",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-hit-cisco-sd-wan-flaw-2-months-before-disclosure",
-          "summary": "Researchers believe rogue peering was used to connect to the victim's SD-WAN devices to gain admin privileges and root-level access.",
-          "date": "2026-06-24T21:16:41+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "QIZ Security Raises $17 Million for Cryptographic Governance Platform",
+          "link": "https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/",
+          "summary": "The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform. The post QIZ Security Raises $17 Million for Cryptographic Governance Platform appeared first on SecurityWeek .",
+          "date": "2026-07-09T15:03:51+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge",
+          "link": "https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/",
+          "summary": "Two announcements on July 7, 2026, demonstrate the government’s determination to improve the level of cybersecurity within the UK. The post UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge appeared first on SecurityWeek .",
+          "date": "2026-07-09T14:19:53+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Palo Alto Networks Patches 13 Vulnerabilities",
           "link": "https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/",
           "summary": "Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS software. The post Palo Alto Networks Patches 13 Vulnerabilities appeared first on SecurityWeek .",
@@ -959,20 +973,6 @@
           "summary": "The Spanish startup has closed an extended pre-seed funding round two months after launching its digital identity protection platform. The post 8Layers Raises $2.9 Million for Identity Security Platform appeared first on SecurityWeek .",
           "date": "2026-07-09T06:45:22+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices",
-          "link": "https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/",
-          "summary": "Tracked as CVE-2026-11405, the vulnerability allows unauthenticated attackers to access a device's web management interface. The post Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices appeared first on SecurityWeek .",
-          "date": "2026-07-09T05:00:41+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Accenture Confirms Data Breach After Hacker Claims Source Code Theft",
-          "link": "https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/",
-          "summary": "The professional services giant says it contained the incident, remediated its source, and experienced no operational or service delivery impact. The post Accenture Confirms Data Breach After Hacker Claims Source Code Theft appeared first on SecurityWeek .",
-          "date": "2026-07-08T16:09:15+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+          "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
+          "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA). The Microsoft-owned subsidiary noted that the following npm install behaviors that used to …",
+          "date": "2026-07-09T16:49:02+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+          "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
+          "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch it. This week is full of that kind of damage. Not loud. Not clever. Just small gaps doing big jobs. The worst part is how normal it all lo…",
+          "date": "2026-07-09T15:09:28+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
           "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
@@ -1315,20 +1329,6 @@
           "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legit…",
           "date": "2026-07-03T08:03:37+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
-          "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
-          "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG) said this week it had reduced the network's pool of usable devices by millio…",
-          "date": "2026-07-02T18:54:06+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-          "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-          "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Mo…",
-          "date": "2026-07-02T18:30:33+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/",
+          "summary": "GigaWiper is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance to help defenders detect and defend agai…",
+          "date": "2026-07-09T15:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "Protecting Microsoft at AI speed: How SFI proactively hardens our cloud",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/",
           "summary": "Microsoft Threat Intelligence identified an active multi-stage intrusion campaign targeting hospitality organizations in Europe and Asia. The campaign uses photo-themed ZIP archives and fake image shortcut files to deliver a persistent Node.js implant and evade detection. The post Photo ZIP campaign…",
           "date": "2026-06-25T22:30:29+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/",
-          "summary": "Microsoft named a Leader in the Forrester Wave™: Endpoint Management Platforms, Q2 2026, with the highest scores in the current offering and strategy categories. The post Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms appeared first on Microsoft Security Blog .",
-          "date": "2026-06-25T16:00:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
@@ -1924,7 +1924,92 @@
     "SANS Blog": {
       "name": "SANS Blog",
       "url": "https://www.sans.org/blog",
-      "articles": []
+      "articles": [
+        {
+          "title": "Core NetWars V12 Is Here: AI, Automation, and Hidden Agendas  Blog Offensive Operations   9 Jul 2026     Chris Elgee",
+          "link": "https://www.sans.org/blog/core-netwars-v12-is-here-ai-automation-hidden-agendas",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "SANS Threat Analysis Rundown in Review: Stopping the Poison Before It Reaches the Water Supply  Blog Digital Forensics and Incident Response   8 Jul 2026     Sean O'Connor",
+          "link": "https://www.sans.org/blog/sans-threat-analysis-rundown-stopping-poison-before-reaches-water-supply",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "When Time Lies: The Hidden Risk of Time Zones, DST, and Log Analysis Blog Cyber Defense   6 Jul 2026     Bryan Simon",
+          "link": "https://www.sans.org/blog/when-time-lies-hidden-risk-time-zones-dst-log-analysis",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "Cloud Security and AI Service Architecture: What’s New in SEC549 Blog Cloud Security   2 Jul 2026     SANS Institute",
+          "link": "https://www.sans.org/blog/cloud-security-ai-service-architecture-whats-new-sec549",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "Investigating AI Tools and Modern Linux Intrusions Blog Digital Forensics and Incident Response   30 Jun 2026     Tarot (Taz) Wake",
+          "link": "https://www.sans.org/blog/investigating-ai-tools-modern-linux-intrusions",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "Agentic AI: The Weapon That No Longer Needs a Warrior Blog Artificial Intelligence   29 Jun 2026     Foster Nethercott",
+          "link": "https://www.sans.org/blog/agentic-ai-weapon-that-no-longer-needs-warrior",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "It Was Never Just the Main Stage: Reflections on the 2026 SANS ICS Security Summit Blog Industrial Control Systems Security   25 Jun 2026     Tim Conway",
+          "link": "https://www.sans.org/blog/it-was-never-just-main-stage-reflections-2026-sans-ics-security-summit-cyber-risk-during-middle-east-escalation-ics-perspective-security-leaders",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "Stay Ahead of Ransomware: The Humans Behind Ransomware: Insights from a Threat Actor Researcher  Blog Digital Forensics and Incident Response   24 Jun 2026     Mari DeGrazia",
+          "link": "https://www.sans.org/blog/stay-ahead-of-ransomware-insights-threat-actor-researcher",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "The Trifecta: A Red Team Training Roadmap Blog Offensive Operations   18 Jun 2026     Jonathan Reiter",
+          "link": "https://www.sans.org/blog/trifecta-red-team-training-roadmap",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "You Can’t Detect What You Can’t See: Closing the Gaps in Detection Engineering Blog Cyber Defense   18 Jun 2026     Nick Mitropoulos",
+          "link": "https://www.sans.org/blog/you-cant-detect-what-you-cant-see-closing-gaps-detection-engineering",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "The Agent Identity Problem: Applying Zero Trust to AI Agents Blog Cyber Defense   15 Jun 2026     Ismael Valenzuela",
+          "link": "https://www.sans.org/blog/the-agent-identity-problem-applying-zero-trust-to-ai-agents",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "The AI-enabled Source Code Vulnerability Analysis Loop: SEC543 and Anthropic’s Guidance Blog Artificial Intelligence   11 Jun 2026     SANS Institute",
+          "link": "https://www.sans.org/blog/ai-enabled-source-code-vulnerability-analysis-loop-sec543-and-anthropics-guidance",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        }
+      ]
     },
     "Secure Ideas": {
       "name": "Secure Ideas",
