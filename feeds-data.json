@@ -1,10 +1,45 @@
 {
-  "generated_at": "2026-07-10T13:15:39.633972+00:00",
+  "generated_at": "2026-07-10T17:41:24.104210+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Police suspects Dutch hackers were involved in Odido breach",
+          "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
+          "summary": "The Dutch National Police (Politie) says it has found \"strong indications\" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]",
+          "date": "2026-07-10T16:37:01+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
+          "link": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
+          "summary": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targeting the on-premises secure file-sharing software. [...]",
+          "date": "2026-07-10T16:26:10+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers exploit critical auth bypass in Gitea Docker image",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
+          "summary": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]",
+          "date": "2026-07-10T15:48:38+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Money launderer accused of stealing seized crypto while in prison",
+          "link": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
+          "summary": "A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [...]",
+          "date": "2026-07-10T15:30:19+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
+          "link": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
+          "summary": "AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and identity governance are essential as AI expands the enterprise attack surface. [...]",
+          "date": "2026-07-10T14:00:10+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Zimbra urges customers to patch critical web client XSS flaw",
           "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
@@ -74,41 +109,6 @@
           "summary": "Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries. [...]",
           "date": "2026-07-09T09:47:28+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
-          "link": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
-          "summary": "American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year. [...]",
-          "date": "2026-07-09T07:47:16+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-          "summary": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday. [...]",
-          "date": "2026-07-09T05:42:49+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Mount Royal University confirms breach as hackers claim attack",
-          "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
-          "summary": "Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]",
-          "date": "2026-07-08T21:26:59+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
-          "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
-          "summary": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]",
-          "date": "2026-07-08T19:54:59+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
-          "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]",
-          "date": "2026-07-08T18:56:02+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,27 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Cybercriminals Flock to Healthcare Businesses as Attacks Surge",
+          "link": "https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge",
+          "summary": "While cyberattacks against hospitals and clinics grew modestly in the first half of 2026, attacks on service providers and other healthcare businesses more than doubled.",
+          "date": "2026-07-10T16:51:34+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Fresh ATM Crypto Software Bugs: Jackpot or Bust?",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust",
+          "summary": "Organizations, and possibly ATMs, are at risk of compromise, thanks to holes in a Microsoft BitLocker security wrapper.",
+          "date": "2026-07-10T14:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "More Countries Jump on the Social Media Ban Wagon",
+          "link": "https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon",
+          "summary": "Age restrictions on accounts may be more of a ban(d) aid, because industry compliance is already falling short. Tech giants are struggling to follow the laws without affecting users.",
+          "date": "2026-07-10T13:50:24+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "AI Coding: Do Security Risks Outweigh Productivity Gains?",
           "link": "https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains",
@@ -443,27 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex",
           "summary": "Getting accurate visibility into IT and OT systems will be compounded by multivendor environments, misaligned update life cycles, and interoperability gaps.",
           "date": "2026-06-26T13:30:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up",
-          "link": "https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder",
-          "summary": "It might be taking a bit longer than usual to respond to your submissions — here's why.",
-          "date": "2026-06-26T13:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Robinhood Cuts Access Approval Time to Support High-Velocity Development",
-          "link": "https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development",
-          "summary": "The fintech company's engineering-first application security team reengineered the process for granting system access, making it easier and more secure for developers working on their projects. Here are the lessons learned from Robinhood's experience.",
-          "date": "2026-06-25T22:42:36+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/less-than-24-hours-attackers-weaponize-cisco-cucm-flaw",
-          "summary": "The flaw enables server-side request forgery (SSRF) and escalates privileges to root, impacting Cisco Unified CM and Unified CM SME deployments.",
-          "date": "2026-06-25T21:54:34+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops",
+          "link": "https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/",
+          "summary": "Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO. The post In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops appeared first on Secur…",
+          "date": "2026-07-10T15:01:19+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Third US Security Expert Sentenced to Prison for Helping Ransomware Gang",
           "link": "https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/",
           "summary": "Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group. The post Third US Security Expert Sentenced to Prison for Helping Ransomware Gang appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS software. The post Palo Alto Networks Patches 13 Vulnerabilities appeared first on SecurityWeek .",
           "date": "2026-07-09T13:49:42+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "12 Million Impacted by Data Breach at Japanese Telco KDDI",
-          "link": "https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/",
-          "summary": "Hackers exploited a zero-day vulnerability in a third-party system to access a KDDI email system for ISPs. The post 12 Million Impacted by Data Breach at Japanese Telco KDDI appeared first on SecurityWeek .",
-          "date": "2026-07-09T12:18:46+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,41 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+          "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+          "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases. The compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with f…",
+          "date": "2026-07-10T17:29:28+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+          "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+          "summary": "Researchers at firmware security firm Binarly have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers. Four of the bugs can crash a device. The other two could let an attacker who slip…",
+          "date": "2026-07-10T15:57:14+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+          "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+          "summary": "Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks. No old password. No backup card. Once it is reset, whoever did it controls the wallet and ca…",
+          "date": "2026-07-10T14:51:49+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+          "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+          "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host. A brief description of the high-severity vulnera…",
+          "date": "2026-07-10T14:19:50+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+          "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
+          "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may appear like a low-sophistication, high-activity operation that propagates malware vi…",
+          "date": "2026-07-10T13:15:23+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
           "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
@@ -1016,7 +1051,7 @@
           "source": "The Hacker News"
         },
         {
-          "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+          "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
           "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
           "summary": "Security firm Coinspect has disclosed a crypto wallet flaw it calls Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. When that phrase is made with weak randomness, an attacker can work it out and t…",
           "date": "2026-07-10T09:00:05+00:00",
@@ -1294,41 +1329,6 @@
           "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolted onto a legacy SIEM to agent platforms that run detection, triage, investigation, …",
           "date": "2026-07-06T11:30:02+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-          "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-          "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from compromised hosts. The multi-stage campaign, codenamed Operation DragonReturn by Seqrit…",
-          "date": "2026-07-06T10:58:16+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-          "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
-          "summary": "Researchers at Shandong University have shown a fast new way to pull data off computers that are cut off from every network. The technique, called TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable carrying them radiates a faint radio signal a nearby receiver can de…",
-          "date": "2026-07-06T08:50:54+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
-          "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
-          "summary": "Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments. According to LevelBlue, the cross-platform malware is advertised under a malware-as-a-service (MaaS) model, costing anywhere betwee…",
-          "date": "2026-07-06T08:13:33+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-          "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
-          "summary": "Researchers found a flaw in Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits. In a proof of concept, they reconstructed a signed-in user's full Gmail address from …",
-          "date": "2026-07-06T07:27:50+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
-          "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
-          "summary": "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a new study from researchers at the Hong Kong University of Science and Technology. Their strongest trick slipped past every scanner tested more t…",
-          "date": "2026-07-06T06:33:56+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/",
+          "summary": "Microsoft’s latest Secure Future Initiative report outlines progress on secure foundations, AI-powered defense, and future-ready cybersecurity. The post Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative appeared first on Microsoft Security Blog .",
+          "date": "2026-07-10T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/",
           "summary": "A malicious Chromium-based extension that spoofs the AI-powered answer engine Perplexity AI redirects browser search traffic using MV3 APIs and intermediary infrastructure. The post Chromium extension uses AI‑related branding to redirect browser search appeared first on Microsoft Security Blog .",
           "date": "2026-06-29T16:27:46+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/",
-          "summary": "Microsoft Threat Intelligence identified an active multi-stage intrusion campaign targeting hospitality organizations in Europe and Asia. The campaign uses photo-themed ZIP archives and fake image shortcut files to deliver a persistent Node.js implant and evade detection. The post Photo ZIP campaign…",
-          "date": "2026-06-25T22:30:29+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
@@ -1850,6 +1850,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "My Stack Simulator, (Wed, Jul 8th)",
+          "link": "https://isc.sans.edu/diary/rss/33138",
+          "summary": "The stack is a memory region where a program stores temporary data -&#;x26;#;xc2;&#;x26;#;xa0;like local variables and return addresses. Think of the stack as a pile of plates in your kitchen: you can only add a new plate to the top, and you can only take one away from the top too. Programs use this…",
+          "date": "2026-07-10T15:52:27+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "\"Comment stuffing\" in an HTML phishing attachment as a mechanism for evading AI-based detection&#x3f;, (Fri, Jul 10th)",
           "link": "https://isc.sans.edu/diary/rss/33144",
           "summary": "Anyone who deals with phishing messages caught by basic security filters knows that most phishing samples tend to blend into one another, since only a small set of techniques and approaches keeps reappearing in them. That is precisely why it is worth pausing on the occasional message that does somet…",
@@ -1875,13 +1882,6 @@
           "link": "https://isc.sans.edu/diary/rss/33130",
           "summary": "[This is a Guest Diary by Jason Callahan, an ISC intern as part of the SANS.edu BACS program]",
           "date": "2026-07-09T01:20:02+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "My Stack Simulator, (Wed, Jul 8th)",
-          "link": "https://isc.sans.edu/diary/rss/33138",
-          "summary": "The stack is a memory region where a program stores temporary data -&#;x26;#;xc2;&#;x26;#;xa0;like local variables and return addresses. Think of the stack as a pile of plates in your kitchen: you can only add a new plate to the top, and you can only take one away from the top too. Programs use this…",
-          "date": "2026-07-08T08:09:03+00:00",
           "source": "SANS ISC"
         },
         {
