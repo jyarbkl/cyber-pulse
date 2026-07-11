@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-07-11T11:57:18.042958+00:00",
+  "generated_at": "2026-07-11T16:44:20.652202+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
+          "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+          "summary": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
+          "date": "2026-07-11T14:18:23+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
           "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
           "summary": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]",
           "date": "2026-07-09T17:00:00+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
-          "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
-          "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]",
-          "date": "2026-07-09T14:39:51+00:00",
           "source": "BleepingComputer"
         }
       ]
