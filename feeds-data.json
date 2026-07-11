@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-07-10T17:41:24.104210+00:00",
+  "generated_at": "2026-07-11T11:57:18.042958+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
+          "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+          "summary": "A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all, then convinced a coding agent to read a repo's .env and write every secret into th…",
+          "date": "2026-07-11T09:03:57+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "New U-Boot flaws could enable stealthy firmware attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
+          "summary": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install persistent malware. [...]",
+          "date": "2026-07-10T21:59:02+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
+          "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
+          "summary": "A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
+          "date": "2026-07-10T17:46:10+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Police suspects Dutch hackers were involved in Odido breach",
           "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
@@ -88,27 +109,6 @@
           "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]",
           "date": "2026-07-09T14:39:51+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "The Hidden Security Risks of Reduced Summer IT Coverage",
-          "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
-          "summary": "Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations and reduce reliance on manual processes year-round. [...]",
-          "date": "2026-07-09T14:02:12+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft to retire the OWA Light client in Exchange Server",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
-          "summary": "Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exchange Server update. [...]",
-          "date": "2026-07-09T11:00:35+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
-          "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
-          "summary": "Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries. [...]",
-          "date": "2026-07-09T09:47:28+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Jen Ellis: Connecting Cyber Community With Political Machinery",
+          "link": "https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery",
+          "summary": "Security Pro File: On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Jen Ellis' advocacy on behalf of security researchers.",
+          "date": "2026-07-10T19:08:04+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Cybercriminals Flock to Healthcare Businesses as Attacks Surge",
           "link": "https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge",
@@ -131,9 +138,9 @@
           "source": "Dark Reading"
         },
         {
-          "title": "More Countries Jump on the Social Media Ban Wagon",
+          "title": "More Countries Jump on the Social Media 'Ban Wagon'",
           "link": "https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon",
-          "summary": "Age restrictions on accounts may be more of a ban(d) aid, because industry compliance is already falling short. Tech giants are struggling to follow the laws without affecting users.",
+          "summary": "Age restrictions on accounts may be more of a stopgap because industry compliance is already falling short. Tech giants are struggling to follow the laws without affecting users.",
           "date": "2026-07-10T13:50:24+00:00",
           "source": "Dark Reading"
         },
@@ -159,16 +166,16 @@
           "source": "Dark Reading"
         },
         {
-          "title": "AI Agents Are a New Kind of Identity &amp; Most Organizations Aren't Ready",
+          "title": "AI Agents Are a New Kind of Identity — and Most Organizations Aren't Ready",
           "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready",
-          "summary": "If you're handling them like a service account or API token, consider yourself behind. AI agents need a fundamentally different approach.",
+          "summary": "If you're handling AI agents like a service account or API token, consider yourself behind. AI agents need a fundamentally different approach.",
           "date": "2026-07-09T19:16:02+00:00",
           "source": "Dark Reading"
         },
         {
-          "title": "As Global Conflicts Go Digital, Businesses Need Wartime Gameplans",
+          "title": "As Global Conflicts Go Digital, Businesses Need Wartime Game Plans",
           "link": "https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans",
-          "summary": "The fate of a Ukrainian tax software company shows how modern cyberwarfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.",
+          "summary": "The fate of a Ukrainian tax software company shows how modern cyber warfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.",
           "date": "2026-07-09T14:31:20+00:00",
           "source": "Dark Reading"
         },
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs",
           "summary": "Instead of eliminating jobs for early-career cyber pros, AI is creating new opportunities for candidates with strong human decision-making skills.",
           "date": "2026-06-26T16:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex",
-          "link": "https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex",
-          "summary": "Getting accurate visibility into IT and OT systems will be compounded by multivendor environments, misaligned update life cycles, and interoperability gaps.",
-          "date": "2026-06-26T13:30:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,10 +981,24 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
+          "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
+          "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to ex…",
+          "date": "2026-07-11T06:45:55+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+          "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+          "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The company has temporarily disabled access to the affected accounts, a step it says i…",
+          "date": "2026-07-10T16:30:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
           "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
           "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases. The compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with f…",
-          "date": "2026-07-10T17:29:28+00:00",
+          "date": "2026-07-10T16:29:00+00:00",
           "source": "The Hacker News"
         },
         {
@@ -1314,20 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
           "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig. The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the DevOps platform trusting the \"X-WEBAUTH-USER\" header fr…",
           "date": "2026-07-06T16:28:59+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
-          "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
-          "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary. Home devices became a routing cover. Clean code pulled dirt from a dependency. Identity s…",
-          "date": "2026-07-06T13:01:14+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-          "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
-          "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolted onto a legacy SIEM to agent platforms that run detection, triage, investigation, …",
-          "date": "2026-07-06T11:30:02+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1850,6 +1850,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Wireshark 4.6.7 Released, (Sat, Jul 11th)",
+          "link": "https://isc.sans.edu/diary/rss/33146",
+          "summary": "Wireshark release 4.6.7 fixes 12 vulnerabilities and 16 bugs.",
+          "date": "2026-07-11T09:07:06+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "My Stack Simulator, (Wed, Jul 8th)",
           "link": "https://isc.sans.edu/diary/rss/33138",
           "summary": "The stack is a memory region where a program stores temporary data -&#;x26;#;xc2;&#;x26;#;xa0;like local variables and return addresses. Think of the stack as a pile of plates in your kitchen: you can only add a new plate to the top, and you can only take one away from the top too. Programs use this…",
@@ -1910,13 +1917,6 @@
           "link": "https://isc.sans.edu/diary/rss/33124",
           "summary": "Over the last year, with recent updates to iOS and Android, RCS (Rich Communication Services) has become an increasingly used protocol [1]. RCS is supposed to eventually replace SMS, and in addition to richer formatting, provides added (but optional) security. RCS messages may be end-to-end encrypte…",
           "date": "2026-07-06T13:35:58+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Monday, July 6th, 2026 https://isc.sans.edu/podcastdetail/9994, (Mon, Jul 6th)",
-          "link": "https://isc.sans.edu/diary/rss/33122",
-          "summary": "",
-          "date": "2026-07-06T11:36:06+00:00",
           "source": "SANS ISC"
         }
       ]
