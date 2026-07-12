@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-07-12T12:03:22.553706+00:00",
+  "generated_at": "2026-07-12T16:49:25.580558+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "RedHook Android malware now uses Wireless ADB for shell access",
+          "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+          "summary": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
+          "date": "2026-07-12T14:27:32+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
           "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
           "summary": "A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [...]",
           "date": "2026-07-09T17:08:29+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
-          "summary": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]",
-          "date": "2026-07-09T17:00:00+00:00",
           "source": "BleepingComputer"
         }
       ]
