@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-07-13T13:32:17.923614+00:00",
+  "generated_at": "2026-07-13T17:49:01.451182+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads. [...]",
+          "date": "2026-07-13T15:20:16+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Lidl discloses online shop breach after service provider hack",
+          "link": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
+          "summary": "German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]",
+          "date": "2026-07-13T14:19:43+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
+          "link": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
+          "summary": "Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realistic scenarios. [...]",
+          "date": "2026-07-13T14:01:11+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "UK charges suspects linked to Russian Coms call spoofing platform",
           "link": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
@@ -88,27 +109,6 @@
           "summary": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targeting the on-premises secure file-sharing software. [...]",
           "date": "2026-07-10T16:26:10+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers exploit critical auth bypass in Gitea Docker image",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
-          "summary": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]",
-          "date": "2026-07-10T15:48:38+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Money launderer accused of stealing seized crypto while in prison",
-          "link": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
-          "summary": "A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [...]",
-          "date": "2026-07-10T15:30:19+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
-          "link": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
-          "summary": "AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and identity governance are essential as AI expands the enterprise attack surface. [...]",
-          "date": "2026-07-10T14:00:10+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "GigaWiper Lets Threat Actors Choose Their Own Destructive Attack",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack",
+          "summary": "A modular implant borrows from various malware families to combine both backdoor and wiper activities to maximize impact and minimize operational output.",
+          "date": "2026-07-13T16:50:54+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Turning the Tables on Email Scammers With 'ScamBuster'",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster",
@@ -458,13 +465,6 @@
           "summary": "Cisco joins a growing list of security platform providers that are betting that securing the agentic workforce means turning identity into the primary control plane.",
           "date": "2026-06-26T17:31:04+00:00",
           "source": "Dark Reading"
-        },
-        {
-          "title": "New Initiative Tackles Security for End-of-Life Open Source Software",
-          "link": "https://www.darkreading.com/application-security/initiative-tackles-security-end-of-life-open-source",
-          "summary": "The Open Source Sustainability Initiative's goal is to help enterprises manage and secure aging open source projects while maintaining regulatory compliance.",
-          "date": "2026-06-26T16:32:30+00:00",
-          "source": "Dark Reading"
         }
       ]
     },
@@ -472,6 +472,13 @@
       "name": "Krebs on Security",
       "url": "https://krebsonsecurity.com/feed/",
       "articles": [
+        {
+          "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+          "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+          "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Exper…",
+          "date": "2026-07-13T15:03:28+00:00",
+          "source": "Krebs on Security"
+        },
         {
           "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
           "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
@@ -533,13 +540,6 @@
           "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
           "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account…",
           "date": "2026-05-22T16:34:24+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-          "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-          "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. Krebs…",
-          "date": "2026-05-21T21:50:25+00:00",
           "source": "Krebs on Security"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption",
+          "link": "https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/",
+          "summary": "Once a notorious blackhat hacker, McGraw shares his journey from high school hacking and prison to redemption as a cybersecurity advocate. The post Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption appeared first on SecurityWeek .",
+          "date": "2026-07-13T14:30:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Cybersecurity M&A Roundup: 37 Deals Announced in June 2026",
           "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/",
           "summary": "Significant cybersecurity M&A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint. The post Cybersecurity M&A Roundup: 37 Deals Announced in June 2026 appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO. The post In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops appeared first on Secur…",
           "date": "2026-07-10T15:01:19+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Third US Security Expert Sentenced to Prison for Helping Ransomware Gang",
-          "link": "https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/",
-          "summary": "Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group. The post Third US Security Expert Sentenced to Prison for Helping Ransomware Gang appeared first on SecurityWeek .",
-          "date": "2026-07-10T12:58:39+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
+          "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
+          "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets. That's the shape of this week. Trusted code turns on the peop…",
+          "date": "2026-07-13T15:05:57+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
+          "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
+          "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide the change, and quietly steer its answers in later sessions. When it works, the per…",
+          "date": "2026-07-13T13:49:48+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
           "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
@@ -1090,13 +1104,6 @@
           "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
           "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch. FoxIO researcher Sébastien Féry disclosed the flaw on July 8 and nicknamed it XRING. He says it needs no login a…",
           "date": "2026-07-10T11:47:43+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
-          "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
-          "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of organizations consolidate their asset and exposure data into a single view, and every d…",
-          "date": "2026-07-10T11:39:40+00:00",
           "source": "The Hacker News"
         },
         {
@@ -1321,13 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
           "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown. The attacker needs only to open a normal-looking issue on a public repository, with no stolen credentials and no access to the organization.…",
           "date": "2026-07-07T14:04:50+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
-          "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
-          "summary": "U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint. Microsoft records tied that ID first to the account the attackers used to keep access during the May 2025 intru…",
-          "date": "2026-07-07T13:27:20+00:00",
           "source": "The Hacker News"
         }
       ]
