@@ -1,10 +1,45 @@
 {
-  "generated_at": "2026-07-14T12:19:13.900258+00:00",
+  "generated_at": "2026-07-14T17:04:41.643272+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
+          "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
+          "summary": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]",
+          "date": "2026-07-14T16:08:47+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "LastPass, Bitwarden users targeted with fake security alerts",
+          "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
+          "summary": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
+          "date": "2026-07-14T15:31:52+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
+          "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
+          "summary": "Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine exploitability by validating the attack techniques an exploit depends on, without launc…",
+          "date": "2026-07-14T14:00:10+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft Entra ID gets passkeys default authentication starting September",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
+          "summary": "Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]",
+          "date": "2026-07-14T12:49:56+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
+          "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+          "summary": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]",
+          "date": "2026-07-14T12:49:00+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
           "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
@@ -74,41 +109,6 @@
           "summary": "UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1.8 million scam calls. [...]",
           "date": "2026-07-13T13:23:30+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "EU sanctions Russian GRU military hackers over cyberattacks",
-          "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
-          "summary": "The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Europe. [...]",
-          "date": "2026-07-13T11:19:05+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "US and allies warn of Russian critical infrastructure attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
-          "summary": "Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure networks. [...]",
-          "date": "2026-07-13T09:32:23+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
-          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
-          "summary": "OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]",
-          "date": "2026-07-13T00:44:44+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
-          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
-          "summary": "Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]",
-          "date": "2026-07-12T19:39:12+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "RedHook Android malware now uses Wireless ADB for shell access",
-          "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
-          "summary": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
-          "date": "2026-07-12T14:27:32+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -117,9 +117,30 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "Frontier AI: The Genie's Out of the Bottle, But Where's the Rulebook?",
+          "link": "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook",
+          "summary": "Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use.",
+          "date": "2026-07-14T16:02:39+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "ClickFix's Mushrooming Ecosystem Demands New Defense Tactics",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense",
+          "summary": "The attack vector is available for rent at scale, and evades AV and EDR, leaving YARA analysis as the best detection option.",
+          "date": "2026-07-14T15:53:54+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Cursor IDE Auto-Executes Malicious Code in Poisoned Repos",
+          "link": "https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos",
+          "summary": "Researchers reported the vulnerability to Cursor in December, but it still remains in the popular AI coding platform and can be exploited in poisoned repository attacks.",
+          "date": "2026-07-14T13:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "Weak Security Continues to Fuel Russian Cyberattacks",
           "link": "https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks",
-          "summary": "In a first, the UK and the EU jointly impose sanctions on Russian individuals and entities for cyberattacks and disinformation campaigns in the region.",
+          "summary": "In a first, the UK and the EU jointly imposed sanctions on Russian individuals and entities for cyberattacks and disinformation campaigns in the region.",
           "date": "2026-07-13T21:24:59+00:00",
           "source": "Dark Reading"
         },
@@ -443,27 +464,6 @@
           "link": "https://www.darkreading.com/cyber-risk/clothes-invisible-facial-recognition",
           "summary": "Does life feel Orwellian sometimes? One researcher has a solution for you: graphic tees that confuse the neural networks in surveillance cameras.",
           "date": "2026-06-29T19:38:04+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Iran, Russia, China Target Water Systems for Sabotage",
-          "link": "https://www.darkreading.com/ics-ot-security/iran-russia-china-target-water-systems-sabotage",
-          "summary": "Nation-state attackers breach water systems through weak passwords, exposed PLCs, and poor segmentation — not sophisticated malware.",
-          "date": "2026-06-29T19:12:08+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Amazon Q VS Extension Flaw Leads to Cloud Credential Theft",
-          "link": "https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft",
-          "summary": "Adversaries could plant a malicious repository that can execute arbitrary code and steal cloud credentials by exploiting the vulnerability, which showcases growing MCP risk.",
-          "date": "2026-06-29T11:44:42+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk",
-          "link": "https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk",
-          "summary": "Rising threats from third-party actors are forcing institutions to play defense to protect student data from ransomware and other attacks.",
-          "date": "2026-06-27T11:48:05+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "7 Severe Vulnerabilities Patched in VMware Avi Load Balancer",
+          "link": "https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/",
+          "summary": "The flaws can be exploited for authentication bypass, remote code execution, privilege escalation, and directory traversal. The post 7 Severe Vulnerabilities Patched in VMware Avi Load Balancer appeared first on SecurityWeek .",
+          "date": "2026-07-14T13:55:41+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar",
+          "link": "https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/",
+          "summary": "A ClaudeBleed-linked vulnerability reportedly persists across eight patches, exposing potentially sensitive data to other extensions. The post Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar appeared first on SecurityWeek .",
+          "date": "2026-07-14T13:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud",
           "link": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/",
           "summary": "The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization. The post SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud appeared first on SecurityWeek .",
@@ -959,20 +973,6 @@
           "summary": "Unauthenticated attackers could obtain the broker's confidential OAuth client secret, allowing them to take control of the broker. The post RabbitMQ Vulnerability Threatens Enterprise Systems appeared first on SecurityWeek .",
           "date": "2026-07-13T12:00:00+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Zimbra Patches Critical Code Execution Vulnerability",
-          "link": "https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/",
-          "summary": "The flaw results in malicious code embedded in crafted emails being executed when the emails are opened. The post Zimbra Patches Critical Code Execution Vulnerability appeared first on SecurityWeek .",
-          "date": "2026-07-13T10:03:47+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign",
-          "link": "https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/",
-          "summary": "The move targeted people and entities accused of links to an online spying network that the EU claims targeted governments and carried out sabotage operations against critical infrastructure. The post EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign appea…",
-          "date": "2026-07-13T10:00:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,41 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+          "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+          "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries. Miggo's security tea…",
+          "date": "2026-07-14T13:48:07+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+          "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+          "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard. \"An attacker exploiting one of these vulnerable applications can execute untrus…",
+          "date": "2026-07-14T12:46:18+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
+          "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+          "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them. The way these wallets talk to websites and blockchain servers can tie a person's separate addresses together…",
+          "date": "2026-07-14T11:55:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+          "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+          "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severity scores, threat intelligence, configuration findings, and e…",
+          "date": "2026-07-14T11:30:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+          "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+          "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users to enumerate user accounts and validate stolen credentials in Microsoft Entra ID environments, without ever gener…",
+          "date": "2026-07-14T11:21:35+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
           "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
@@ -1293,41 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
           "summary": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it decrypts and comes to life inside the victim’s browser. For security leaders, the risk is clear: traditiona…",
           "date": "2026-07-08T13:00:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
-          "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
-          "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures. The activity cluster, tracked by Elastic Security Labs under the moniker REF6045, involves infecting victims through fake CAPTCHA verification p…",
-          "date": "2026-07-08T12:52:15+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
-          "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
-          "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with the same files, author, and date, and a valid signature, GitHub still stamps \"Veri…",
-          "date": "2026-07-08T11:51:24+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "The Verification Step Is the New ATO Battleground in 2026",
-          "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
-          "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for defenders, relatively well understood. That era is ending. Not because attackers ga…",
-          "date": "2026-07-08T11:30:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-          "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-          "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is the finding of a new study of GitHub Copilot by researchers Abhishek Kumar and Carsten Maple. The mode…",
-          "date": "2026-07-08T11:21:07+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
-          "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
-          "summary": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices. According to findings from Cisco Talos, UAT-7810 is an advanced persistent threat (APT) actor that's responsible …",
-          "date": "2026-07-08T09:04:33+00:00",
           "source": "The Hacker News"
         }
       ]
