@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-07-15T12:19:39.843806+00:00",
+  "generated_at": "2026-07-15T17:07:12.645789+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "​    ​AsyncAPI npm packages infected with credential-stealing malware",
+          "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+          "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
+          "date": "2026-07-15T15:37:27+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+          "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+          "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already un…",
+          "date": "2026-07-15T14:01:11+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "CISA warns admins to patch actively exploited SharePoint flaws",
           "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
@@ -50,7 +64,7 @@
         {
           "title": "Microsoft releases Windows 10 KB5099539 extended security update",
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
-          "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [...]",
+          "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements. [...]",
           "date": "2026-07-14T18:49:28+00:00",
           "source": "BleepingComputer"
         },
@@ -95,20 +109,6 @@
           "summary": "Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]",
           "date": "2026-07-14T12:49:56+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
-          "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
-          "summary": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]",
-          "date": "2026-07-14T12:49:00+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
-          "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
-          "summary": "SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]",
-          "date": "2026-07-14T11:42:21+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -117,10 +117,31 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "Claude Flaw Automatically Sends Malicious Prompts to AI Agents",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/claude-flaw-malicious-prompts-ai-agents",
+          "summary": "When combined with another exploit, the \"PromptFiction\" vulnerability, which has been fixed, could have enabled an end-to-end attack on a targeted system.",
+          "date": "2026-07-15T15:27:35+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "2-Click Cursor Exploit Enables Dev Environment Takeover",
+          "link": "https://www.darkreading.com/application-security/2-click-cursor-exploit-dev-environment-takeover",
+          "summary": "Simple age-old bugs give bad actors access to developers' secrets and source code-rich environments.",
+          "date": "2026-07-15T13:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits",
           "link": "https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits",
           "summary": "The West African country advanced rules to force organizations to disclose cyberattacks, joining other nations in a shift to mandated transparency.",
           "date": "2026-07-15T08:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Cribl Adds Agentic Detection Engineering &amp; Boosts SecOps With CardinalOps Deal",
+          "link": "https://www.darkreading.com/cybersecurity-operations/cribl-adds-agentic-detection-engineering-boosts-secops-with-cardinalops-deal",
+          "summary": "CardinalOps will give Cribl customers the ability to map detection rules and security controls to the MITRE ATT&CK framework. SecOps teams can identify coverage gaps and operationalize threat intelligence.",
+          "date": "2026-07-15T00:05:31+00:00",
           "source": "Dark Reading"
         },
         {
@@ -443,27 +464,6 @@
           "link": "https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops",
           "summary": "Threat actors don't need any special authentication to reach a target endpoint — they just need to know where it is.",
           "date": "2026-06-30T21:01:58+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Why Identity Security Is Your Cyber Career Entry Point",
-          "link": "https://www.darkreading.com/cybersecurity-operations/identity-security-cyber-career-entry-point",
-          "summary": "In this \"Heard it From a CISO\" video, Silverfort CISO John Paul Cunningham explains that AI in cybersecurity workflows is creating opportunities rather than eliminating jobs — and there are more ways than ever to break into this essential field.",
-          "date": "2026-06-30T19:11:40+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Phishers Gain Persistence at EU, Asia Hospitality Orgs",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/phishers-persistence-eu-asia-hospitality-orgs",
-          "summary": "Separate but similar campaigns described by Microsoft and Trend Micro use malicious zip files to spread malware via social engineering and obsfucation, including blockchain abuse.",
-          "date": "2026-06-30T18:59:46+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "AI-Generated Workflows Are a Silent Security Disaster",
-          "link": "https://www.darkreading.com/cyber-risk/ai-generated-workflows-silent-security-disaster",
-          "summary": "Teams are dealing with a truly dangerous problem — automation that works, but that no one understands.",
-          "date": "2026-06-30T13:00:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,34 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
+          "link": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
+          "summary": "An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically. The post Unpatched Cursor Vulnerability Exposes Users to Code Execution appeared first on SecurityWeek .",
+          "date": "2026-07-15T14:37:13+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
+          "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
+          "summary": "Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days. The post CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities appeared first on SecurityWeek .",
+          "date": "2026-07-15T14:07:44+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
+          "link": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
+          "summary": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products. The post Windows Bind Link Attacks Can Hide Malware From EDR Tools appeared first on SecurityWeek .",
+          "date": "2026-07-15T13:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Virtual Event Today: Cloud & Data Security Summit",
+          "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
+          "summary": "Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments. The post Virtual Event Today: Cloud & Data Security Summit appeared first on SecurityWeek .",
+          "date": "2026-07-15T12:52:10+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "US Charges Russian Individuals and Firms for Running Cybercrime Services",
           "link": "https://www.securityweek.com/us-charges-russian-individuals-and-firms-for-running-cybercrime-services/",
           "summary": "The suspects and their companies were previously sanctioned by the United States and its allies. The post US Charges Russian Individuals and Firms for Running Cybercrime Services appeared first on SecurityWeek .",
@@ -945,34 +973,6 @@
           "summary": "Public exploit code targeting the Firefox flaws exists, but no in-the-wild exploitation has been observed. The post Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates appeared first on SecurityWeek .",
           "date": "2026-07-15T07:24:52+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
-          "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/",
-          "summary": "SonicWall SMA1000 zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 can be exploited for remote code execution. The post SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits appeared first on SecurityWeek .",
-          "date": "2026-07-15T05:19:42+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days",
-          "link": "https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/",
-          "summary": "Two flaws in Active Directory and SharePoint Server have been exploited as zero-days, and a BitLocker bug was publicly disclosed. The post Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days appeared first on SecurityWeek .",
-          "date": "2026-07-14T18:50:20+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims",
-          "link": "https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/",
-          "summary": "The D1R cybercrime group claimed to have stolen valuable data from Synopsys and Bosch, threatening to leak it unless a ransom is paid. The post Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims appeared first on SecurityWeek .",
-          "date": "2026-07-14T18:18:45+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Adobe Patches Critical ColdFusion Vulnerabilities",
-          "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/",
-          "summary": "The ColdFusion security defects could allow attackers to execute arbitrary code or elevate their privileges. The post Adobe Patches Critical ColdFusion Vulnerabilities appeared first on SecurityWeek .",
-          "date": "2026-07-14T17:06:35+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,41 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+          "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+          "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug t…",
+          "date": "2026-07-15T15:30:30+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+          "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+          "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component CVE-2026-15719, a site isolation in the DOM: Navigation c…",
+          "date": "2026-07-15T13:18:53+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
+          "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
+          "summary": "For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up. Enterprise workflows now live across SaaS applications, browsers, and an expanding ecosystem of generative AI tools, unsanctioned br…",
+          "date": "2026-07-15T11:50:01+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
+          "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
+          "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as Pr…",
+          "date": "2026-07-15T11:07:07+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
+          "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
+          "summary": "A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages. This on-demand webinar reveals how this Approval Gap forms, and gives your team the blueprint to close it before an auditor, re…",
+          "date": "2026-07-15T11:06:57+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
           "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
@@ -1293,41 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
           "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch it. This week is full of that kind of damage. Not loud. Not clever. Just small gaps doing big jobs. The worst part is how normal it all lo…",
           "date": "2026-07-09T15:09:28+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
-          "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
-          "summary": "AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your team clears the first alert. That is the gap, and it is not your fault. The tool…",
-          "date": "2026-07-09T12:26:58+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Summer of Clearinghouses",
-          "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
-          "summary": "Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built quietly months earlier, heads down, taking findings and shipping fixes, because cust…",
-          "date": "2026-07-09T11:00:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
-          "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
-          "summary": "Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy. According to a new report published by the Threat Hunter Team from Symantec, the ransomware was first publicly…",
-          "date": "2026-07-09T10:43:09+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-          "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
-          "summary": "Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public. The vulnerability, tracked as CVE-2026-50656 (CVSS score: 7.8), is a privilege escalation issue in the Microsoft Malware Protection Engine (\"mpengine.dll…",
-          "date": "2026-07-09T08:48:48+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
-          "link": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
-          "summary": "Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content, and it's enabled by default. \"You can also @-mention Instagram accounts in the Meta AI app to bring specific Instagram profiles right into your image…",
-          "date": "2026-07-09T07:21:06+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1926,6 +1926,13 @@
       "url": "https://www.sans.org/blog",
       "articles": [
         {
+          "title": "Why Sounil Yu and I built the AI Defense Matrix Blog Artificial Intelligence   15 Jul 2026     Lenny Zeltser",
+          "link": "https://www.sans.org/blog/why-sounil-yu-i-built-ai-defense-matrix",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
           "title": "A Guide to OT Security Best Practices Blog Industrial Control Systems Security   13 Jul 2026     SANS Institute",
           "link": "https://www.sans.org/blog/guide-ot-security-best-practices",
           "summary": "",
@@ -1998,13 +2005,6 @@
         {
           "title": "The Trifecta: A Red Team Training Roadmap Blog Offensive Operations   18 Jun 2026     Jonathan Reiter",
           "link": "https://www.sans.org/blog/trifecta-red-team-training-roadmap",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "You Can’t Detect What You Can’t See: Closing the Gaps in Detection Engineering Blog Cyber Defense   18 Jun 2026     Nick Mitropoulos",
-          "link": "https://www.sans.org/blog/you-cant-detect-what-you-cant-see-closing-gaps-detection-engineering",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
