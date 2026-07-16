@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-07-16T12:24:00.500387+00:00",
+  "generated_at": "2026-07-16T17:05:08.553347+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
+          "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
+          "summary": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams the flexibility to create workflows tailored to their own environments. [...]",
+          "date": "2026-07-16T14:00:10+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "23andMe to pay $18 million in new genetics data breach settlement",
+          "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
+          "summary": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
+          "date": "2026-07-16T13:47:23+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Scattered Spider members behind TfL hack get five years in prison",
+          "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
+          "summary": "Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]",
+          "date": "2026-07-16T12:31:29+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
           "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
@@ -87,27 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
           "summary": "U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims worldwide. [...]",
           "date": "2026-07-15T07:45:50+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
-          "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
-          "summary": "SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates. [...]",
-          "date": "2026-07-14T21:23:24+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
-          "link": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
-          "summary": "The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]",
-          "date": "2026-07-14T20:23:09+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Nearly 300 GitHub repos pose as legit software to push malware",
-          "link": "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/",
-          "summary": "A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]",
-          "date": "2026-07-14T19:15:17+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,34 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Legacy Systems, Real-World Impacts: The Reality of OT Security",
+          "link": "https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/",
+          "summary": "Legacy systems, safety concerns, and critical infrastructure risks make OT vulnerability disclosure one of cybersecurity's most challenging balancing acts. The post Legacy Systems, Real-World Impacts: The Reality of OT Security appeared first on SecurityWeek .",
+          "date": "2026-07-16T15:15:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Two Scattered Spider Hackers Sentenced to Jail in UK",
+          "link": "https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/",
+          "summary": "Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL). The post Two Scattered Spider Hackers Sentenced to Jail in UK appeared first on SecurityWeek .",
+          "date": "2026-07-16T13:21:12+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "AI Data Centers Are Being Built Faster Than They Can Be Secured",
+          "link": "https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/",
+          "summary": "AI infrastructure introduces new security risks that traditional data center designs were never built to handle. The post AI Data Centers Are Being Built Faster Than They Can Be Secured appeared first on SecurityWeek .",
+          "date": "2026-07-16T13:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing",
+          "link": "https://www.securityweek.com/clicklock-stealer-bypasses-macos-security-with-social-engineering-process-killing/",
+          "summary": "The new macOS malware has targeted at least 100 users to steal their passwords and cryptocurrency. The post ‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing appeared first on SecurityWeek .",
+          "date": "2026-07-16T12:43:59+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Oak Emerges From Stealth Mode With $60 Million in Funding",
           "link": "https://www.securityweek.com/oak-emerges-from-stealth-mode-with-60-million-in-funding/",
           "summary": "The startup has built an AI-powered Identity Operating System that governs all identities across an organization’s environment. The post Oak Emerges From Stealth Mode With $60 Million in Funding appeared first on SecurityWeek .",
@@ -945,34 +973,6 @@
           "summary": "The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability. The post Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day appeared first on SecurityWeek .",
           "date": "2026-07-16T06:48:40+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Trend Micro, Tanium, ESET and Tenable Patch Severe Product Vulnerabilities",
-          "link": "https://www.securityweek.com/trend-micro-tanium-eset-and-tenable-patch-severe-product-vulnerabilities/",
-          "summary": "The cybersecurity companies patched critical and high-severity vulnerabilities in some of their products. The post Trend Micro, Tanium, ESET and Tenable Patch Severe Product Vulnerabilities appeared first on SecurityWeek .",
-          "date": "2026-07-16T06:08:08+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
-          "link": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
-          "summary": "An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically. The post Unpatched Cursor Vulnerability Exposes Users to Code Execution appeared first on SecurityWeek .",
-          "date": "2026-07-15T14:37:13+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
-          "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
-          "summary": "Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days. The post CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities appeared first on SecurityWeek .",
-          "date": "2026-07-15T14:07:44+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
-          "link": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
-          "summary": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products. The post Windows Bind Link Attacks Can Hide Malware From EDR Tools appeared first on SecurityWeek .",
-          "date": "2026-07-15T13:00:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,55 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
+          "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
+          "summary": "A lot of this week’s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage moves faster than the explanation. Old bugs are back, weak defaults are earning …",
+          "date": "2026-07-16T15:41:15+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+          "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
+          "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the sub claim alone and ignored iss. A valid token from issuer A carrying a sub that belongs t…",
+          "date": "2026-07-16T13:33:25+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
+          "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
+          "summary": "Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026. \"The malware is full-featured, lightweight, and modular,\" Elastic Security Labs researcher Cyril François said in a technical…",
+          "date": "2026-07-16T12:50:13+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
+          "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
+          "summary": "ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behind a fake system dialog, and when the victim cancels, installs two LaunchAgents and …",
+          "date": "2026-07-16T12:33:42+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "20+ Hijacked Government Websites Became an Attack Channel",
+          "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
+          "summary": "More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of interactive malware analysis and threat intelligence solutions. The investigation revealed previously undocumented backdo…",
+          "date": "2026-07-16T11:58:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
+          "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
+          "summary": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment can make it run a stranger's command on your computer. Neither trick hijacks the ag…",
+          "date": "2026-07-16T11:32:28+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
+          "link": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
+          "summary": "An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbed Stupig. Daxin (\"srt64.sys\"), as the kernel-mode rootkit is referred to, was first documented by Br…",
+          "date": "2026-07-16T11:17:23+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
           "link": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
@@ -1279,55 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
           "summary": "Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks. No old password. No backup card. Once it is reset, whoever did it controls the wallet and ca…",
           "date": "2026-07-10T14:51:49+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
-          "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
-          "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host. A brief description of the high-severity vulnera…",
-          "date": "2026-07-10T14:19:50+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
-          "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
-          "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may appear like a low-sophistication, high-activity operation that propagates malware vi…",
-          "date": "2026-07-10T13:15:23+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
-          "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
-          "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch. FoxIO researcher Sébastien Féry disclosed the flaw on July 8 and nicknamed it XRING. He says it needs no login a…",
-          "date": "2026-07-10T11:47:43+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
-          "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
-          "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 million websites. Far fewer were actually broken into, but the exposed files showed rese…",
-          "date": "2026-07-10T11:30:02+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
-          "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
-          "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic private and secure. The apps flagged with at least one problem have been installed more than 2.4 bi…",
-          "date": "2026-07-10T10:56:23+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
-          "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
-          "summary": "A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion attacks. The threat actor, tracked by Okta under the moniker O-UNC-066, has deployed…",
-          "date": "2026-07-10T10:30:20+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
-          "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
-          "summary": "Security firm Coinspect has disclosed a crypto wallet flaw it calls Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. When that phrase is made with weak randomness, an attacker can work it out and t…",
-          "date": "2026-07-10T09:00:05+00:00",
           "source": "The Hacker News"
         }
       ]
