@@ -1,12 +1,61 @@
 {
-  "generated_at": "2026-07-15T17:07:12.645789+00:00",
+  "generated_at": "2026-07-16T12:24:00.500387+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
         {
-          "title": "​    ​AsyncAPI npm packages infected with credential-stealing malware",
+          "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
+          "summary": "Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]",
+          "date": "2026-07-16T11:59:24+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
+          "summary": "CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]",
+          "date": "2026-07-16T10:56:03+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
+          "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
+          "summary": "A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT. [...]",
+          "date": "2026-07-16T10:19:34+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "New Spirals ransomware encrypts victim network in under 24 hours",
+          "link": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
+          "summary": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
+          "date": "2026-07-16T10:00:00+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Dutch police bust investment fraud ring stealing over €100 million",
+          "link": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
+          "summary": "The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims. [...]",
+          "date": "2026-07-15T21:55:50+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Zoom warns of critical account takeover vulnerability",
+          "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
+          "summary": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
+          "date": "2026-07-15T20:16:02+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+          "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
+          "summary": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
+          "date": "2026-07-15T18:33:48+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "AsyncAPI npm packages infected with credential-stealing malware",
           "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
           "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
           "date": "2026-07-15T15:37:27+00:00",
@@ -60,55 +109,6 @@
           "summary": "A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]",
           "date": "2026-07-14T19:15:17+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft releases Windows 10 KB5099539 extended security update",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
-          "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements. [...]",
-          "date": "2026-07-14T18:49:28+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
-          "summary": "Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed. [...]",
-          "date": "2026-07-14T18:01:36+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Windows 11 KB5101650 & KB5099414 cumulative updates released",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
-          "summary": "Microsoft has released Windows 11's June 2026 Update for version 25H2, 24H2, and 23H2, bringing fixes for over 570 security issues. [...]",
-          "date": "2026-07-14T17:41:16+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
-          "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-          "summary": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]",
-          "date": "2026-07-14T16:08:47+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "LastPass, Bitwarden users targeted with fake security alerts",
-          "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
-          "summary": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
-          "date": "2026-07-14T15:31:52+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
-          "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
-          "summary": "Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine exploitability by validating the attack techniques an exploit depends on, without launc…",
-          "date": "2026-07-14T14:00:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft Entra ID gets passkeys default authentication starting September",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
-          "summary": "Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]",
-          "date": "2026-07-14T12:49:56+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,41 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Police Disrupt a €140M Cyber Fraud Ring in Spain",
+          "link": "https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain",
+          "summary": "Iberian hackers carried out a variety of cyberattacks and laundered the winnings through complex financial networks.",
+          "date": "2026-07-16T07:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Forgotten Bootloaders Expose Secure Boot Blind Spot",
+          "link": "https://www.darkreading.com/cyber-risk/forgotten-bootloaders-expose-secure-boot-blind-spot",
+          "summary": "Nearly a dozen vulnerable and now revoked UEFI shim bootloaders remained trusted for years, giving attackers a path to bypass Secure Boot.",
+          "date": "2026-07-15T21:19:19+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Identity Attacks Overtake Exploits as Top Ransomware Cause",
+          "link": "https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause",
+          "summary": "Email attacks overtook exploits as the top ransomware root cause last year. Multifactor authentication (MFA) was deployed in 97% of credential-based attacks but failed to prevent compromise.",
+          "date": "2026-07-15T20:16:13+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Guten Tag, Bonjour, Hola to Our European Cyber Defenders!",
+          "link": "https://www.darkreading.com/threat-intelligence/guten-tag-bonjour-hola-european-cyber-defenders",
+          "summary": "We're thrilled to unveil the latest evolution of Dark Reading's DR Global section — your go-to source for region-specific cybersecurity intelligence beyond North America.",
+          "date": "2026-07-15T18:08:56+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Is 'Tech-xit' Imminent? UK Steps Up Sovereignty Push Amid AI Strife",
+          "link": "https://www.darkreading.com/cybersecurity-operations/tech-xit-uk-sovereignty-push-amid-ai-strife",
+          "summary": "The US government's restrictions on Anthropic and OpenAI frontier models have intensified calls in the UK and other countries to reduce their reliance on US tech companies, with significant cyber implications.",
+          "date": "2026-07-15T17:03:23+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Claude Flaw Automatically Sends Malicious Prompts to AI Agents",
           "link": "https://www.darkreading.com/vulnerabilities-threats/claude-flaw-malicious-prompts-ai-agents",
@@ -430,41 +465,6 @@
           "summary": "Rapid growth turned routine firewall logs into a security and budget liability. One CISO used artificial intelligence to filter what data truly belongs in the SIEM.",
           "date": "2026-07-01T15:44:41+00:00",
           "source": "Dark Reading"
-        },
-        {
-          "title": "'Phantom Squatting': An Emerging AI-Driven Supply Chain Threat",
-          "link": "https://www.darkreading.com/endpoint-security/phantom-squatting-ai-driven-supply-chain-threat",
-          "summary": "LLMs consistently hallucinate Web domains for legitimate brands that attackers can register for malicious activity in a difficult-to-detect attack vector.",
-          "date": "2026-07-01T15:17:14+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Safe Events Start With Threat Intel &amp; Digital Security",
-          "link": "https://www.darkreading.com/threat-intelligence/safe-events-threat-intel-digital-security",
-          "summary": "Planning ahead to defend against cyber threats is the work that keeps events uneventful.",
-          "date": "2026-07-01T13:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "China-Linked Group Targets Southeast Asia Critical Systems",
-          "link": "https://www.darkreading.com/threat-intelligence/china-linked-group-targets-southeast-asia-critical-systems",
-          "summary": "The group compromised at least 10 regional organizations, including two state-owned entities, and deployed a new backdoor.",
-          "date": "2026-07-01T01:00:01+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Fake Bug Report Hijacks AI Coding Agents at Scale",
-          "link": "https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents",
-          "summary": "\"Agentjacking\" is the latest demonstration of how easily attackers can exploit an AI agent's inability to differentiate between content and instructions.",
-          "date": "2026-06-30T21:37:50+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Attackers Seize Exposed AI Endpoints to Power Offensive Ops",
-          "link": "https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops",
-          "summary": "Threat actors don't need any special authentication to reach a target endpoint — they just need to know where it is.",
-          "date": "2026-06-30T21:01:58+00:00",
-          "source": "Dark Reading"
         }
       ]
     },
@@ -548,6 +548,13 @@
       "name": "Risky Biz Newsletters",
       "url": "https://risky.biz/feeds/newsletters/",
       "articles": [
+        {
+          "title": "Srsly Risky Biz: Ransomware Uses AI To Amp Up Negotiations",
+          "link": "https://risky.biz/srsly-risky-biz-ransomware-uses-ai-to-amp-up-negotiations/",
+          "summary": "It's commonly thought that ransomware operators are simply using AI to hack more companies. However, some operators are employing AI to generate leverage so they can extract more money in negotiations with victims. A leading example is FulcrumSec, a data extortion group that started operating around…",
+          "date": "2026-07-16T07:32:27+00:00",
+          "source": "Risky Biz Newsletters"
+        },
         {
           "title": "Risky Bulletin: India bans app used to hack e-rickshaws in viral videos",
           "link": "https://risky.biz/risky-bulletin-india-bans-app-used-to-hack-e-rickshaws-in-viral-videos/",
@@ -890,13 +897,6 @@
           "summary": "A recent deep dive into the American adtech surveillance system, Webloc, highlights the national security and privacy risks of pervasive and easily obtainable geolocation data. It brings home, once again, that the US needs to clamp down on the collection and sale of geolocation data. The report , fr…",
           "date": "2026-04-16T05:03:57+00:00",
           "source": "Risky Biz Newsletters"
-        },
-        {
-          "title": "Risky Bulletin: Malicious LLM proxy routers found in the wild",
-          "link": "https://risky.biz/risky-bulletin-malicious-llm-proxy-routers-found-in-the-wild/",
-          "summary": "A recently published academic paper has studied the emerging ecosystem of LLM routers , a type of proxy that sits between AI agents and the AI provider to help with load-balancing and cost tracking and limiting. The research team tested 28 paid routers available on marketplaces like Taobao, Xianyu, …",
-          "date": "2026-04-15T05:18:11+00:00",
-          "source": "Risky Biz Newsletters"
         }
       ]
     },
@@ -904,6 +904,55 @@
       "name": "SecurityWeek",
       "url": "https://www.securityweek.com/feed/",
       "articles": [
+        {
+          "title": "Oak Emerges From Stealth Mode With $60 Million in Funding",
+          "link": "https://www.securityweek.com/oak-emerges-from-stealth-mode-with-60-million-in-funding/",
+          "summary": "The startup has built an AI-powered Identity Operating System that governs all identities across an organization’s environment. The post Oak Emerges From Stealth Mode With $60 Million in Funding appeared first on SecurityWeek .",
+          "date": "2026-07-16T11:23:56+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Splunk, Zoom Patch Critical Vulnerabilities",
+          "link": "https://www.securityweek.com/splunk-zoom-patch-critical-vulnerabilities/",
+          "summary": "The flaws could allow attackers to access credentials and data, take over accounts, and escalate their privileges. The post Splunk, Zoom Patch Critical Vulnerabilities appeared first on SecurityWeek .",
+          "date": "2026-07-16T10:54:34+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "F5 Patches Multiple NGINX, BIG-IP Vulnerabilities",
+          "link": "https://www.securityweek.com/f5-patches-multiple-nginx-big-ip-vulnerabilities/",
+          "summary": "Attackers could exploit the bugs to modify configurations, terminate or restart processes, cross security boundaries, leak memory, and execute code. The post F5 Patches Multiple NGINX, BIG-IP Vulnerabilities appeared first on SecurityWeek .",
+          "date": "2026-07-16T09:20:10+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans",
+          "link": "https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/",
+          "summary": "Chinese cybersecurity firms are facing action from the country’s military, but it’s not due to product or technical failures. The post China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans appeared first on SecurityWeek .",
+          "date": "2026-07-16T08:49:27+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Old UEFI Shims Expose Systems to Secure Boot Bypass",
+          "link": "https://www.securityweek.com/old-uefi-shims-expose-systems-to-secure-boot-bypass/",
+          "summary": "Signed by Microsoft, the vulnerable UEFI shim bootloaders could be abused on any system, regardless of the OS. The post Old UEFI Shims Expose Systems to Secure Boot Bypass appeared first on SecurityWeek .",
+          "date": "2026-07-16T07:59:22+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day",
+          "link": "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/",
+          "summary": "The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability. The post Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day appeared first on SecurityWeek .",
+          "date": "2026-07-16T06:48:40+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Trend Micro, Tanium, ESET and Tenable Patch Severe Product Vulnerabilities",
+          "link": "https://www.securityweek.com/trend-micro-tanium-eset-and-tenable-patch-severe-product-vulnerabilities/",
+          "summary": "The cybersecurity companies patched critical and high-severity vulnerabilities in some of their products. The post Trend Micro, Tanium, ESET and Tenable Patch Severe Product Vulnerabilities appeared first on SecurityWeek .",
+          "date": "2026-07-16T06:08:08+00:00",
+          "source": "SecurityWeek"
+        },
         {
           "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
           "link": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
@@ -924,55 +973,6 @@
           "summary": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products. The post Windows Bind Link Attacks Can Hide Malware From EDR Tools appeared first on SecurityWeek .",
           "date": "2026-07-15T13:00:00+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Virtual Event Today: Cloud & Data Security Summit",
-          "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
-          "summary": "Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments. The post Virtual Event Today: Cloud & Data Security Summit appeared first on SecurityWeek .",
-          "date": "2026-07-15T12:52:10+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "US Charges Russian Individuals and Firms for Running Cybercrime Services",
-          "link": "https://www.securityweek.com/us-charges-russian-individuals-and-firms-for-running-cybercrime-services/",
-          "summary": "The suspects and their companies were previously sanctioned by the United States and its allies. The post US Charges Russian Individuals and Firms for Running Cybercrime Services appeared first on SecurityWeek .",
-          "date": "2026-07-15T11:58:05+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow",
-          "link": "https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/",
-          "summary": "A critical security defect in the ServiceNow AI platform could allow remote attackers to execute arbitrary code. The post Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow appeared first on SecurityWeek .",
-          "date": "2026-07-15T11:02:57+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "White House Launches AI-Driven ‘Gold Eagle’ Vulnerability Coordination Initiative",
-          "link": "https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/",
-          "summary": "The new program stems from an AI-focused Executive Order signed by President Trump on June 2. The post White House Launches AI-Driven ‘Gold Eagle’ Vulnerability Coordination Initiative appeared first on SecurityWeek .",
-          "date": "2026-07-15T10:18:25+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption",
-          "link": "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/",
-          "summary": "The company has rolled out a fix and is restoring access for Storage Zones Controller customers who apply it. The post Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption appeared first on SecurityWeek .",
-          "date": "2026-07-15T09:48:29+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell",
-          "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/",
-          "summary": "The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT. The post ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell appeared first on SecurityWeek .",
-          "date": "2026-07-15T09:19:58+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates",
-          "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/",
-          "summary": "Public exploit code targeting the Firefox flaws exists, but no in-the-wild exploitation has been observed. The post Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates appeared first on SecurityWeek .",
-          "date": "2026-07-15T07:24:52+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,41 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
+          "link": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
+          "summary": "Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate payloads, summarize attack surfaces, explain unfamiliar APIs, and run repetitive …",
+          "date": "2026-07-16T10:10:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
+          "link": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
+          "summary": "Pull the certificate off the flash of a Shark RV2320EDUS robot vacuum, and you can run root commands on other people's Shark vacuums across the same AWS region: watch the camera, drive the robot, read the map of the house, and take the Wi-Fi password in plaintext. A researcher publishing under the h…",
+          "date": "2026-07-16T09:23:19+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
+          "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
+          "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT‑Red is a strong red-teamer, and our previous models are highly vulnerable to its prompt injection…",
+          "date": "2026-07-16T08:42:31+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
+          "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
+          "summary": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Desktop Client for Windows, Zoom VDI Client for Windows, and Zoom Meeting SDK for …",
+          "date": "2026-07-16T07:22:44+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
+          "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
+          "summary": "Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language model (LLM), albeit with not so successful results. \"While the AI complied with t…",
+          "date": "2026-07-15T18:43:08+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
           "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
@@ -1294,41 +1329,6 @@
           "summary": "Security firm Coinspect has disclosed a crypto wallet flaw it calls Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. When that phrase is made with weak randomness, an attacker can work it out and t…",
           "date": "2026-07-10T09:00:05+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
-          "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
-          "summary": "A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to extort multiple victims and working with two other cybersecurity professionals to target additi…",
-          "date": "2026-07-10T08:10:12+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
-          "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
-          "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub API. \"Operators rely on automated scraping tooling with custom or legitimate-sounding user agents, leveraging Git…",
-          "date": "2026-07-09T18:38:49+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
-          "link": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
-          "summary": "Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can choose from. Each is a different way to break a machine: wipe the whole disk, overw…",
-          "date": "2026-07-09T18:08:07+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
-          "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
-          "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA). The Microsoft-owned subsidiary noted that the following npm install behaviors that used to …",
-          "date": "2026-07-09T16:49:02+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
-          "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
-          "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch it. This week is full of that kind of damage. Not loud. Not clever. Just small gaps doing big jobs. The worst part is how normal it all lo…",
-          "date": "2026-07-09T15:09:28+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,20 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/",
+          "summary": "Threat actors compromised AsyncAPI packages and weaponized trusted CI/CD workflows to distribute malware through npm. This analysis breaks down the attack chain, payload delivery, and recommended defenses. The post Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery a…",
+          "date": "2026-07-16T01:36:21+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "Turning threat intelligence into decisive action with Defender Experts",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts/",
+          "summary": "Security teams have never had more visibility, yet rarely have they felt more uncertain. Signal pours in from endpoints, identities, cloud workloads, and a sprawling mix of third-party tools. The post Turning threat intelligence into decisive action with Defender Experts appeared first on Microsoft …",
+          "date": "2026-07-15T16:00:35+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/",
@@ -1396,20 +1410,6 @@
           "summary": "Frost & Sullivan names Microsoft a leader as cloud and application security converge into unified, runtime risk reduction. The post Microsoft named a leader in the Frost Radar for cloud and application runtime security appeared first on Microsoft Security Blog .",
           "date": "2026-07-01T16:00:00+00:00",
           "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Accelerating the quantum-safe timeline",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/",
-          "summary": "We’re accelerating quantum-safe readiness—and sharing what organizations can do now to transition earlier and with confidence. The post Accelerating the quantum-safe timeline appeared first on Microsoft Security Blog .",
-          "date": "2026-06-30T19:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "​​What’s new in Microsoft Security: June 2026",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/",
-          "summary": "This month’s updates help security and IT teams strengthen identity and multicloud foundations, protect data wherever it lives, and secure the developer workflows powering AI innovation. The post ​​What’s new in Microsoft Security: June 2026 appeared first on Microsoft Security Blog .",
-          "date": "2026-06-30T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
         }
       ]
     },
@@ -1417,6 +1417,13 @@
       "name": "Black Hills InfoSec",
       "url": "https://www.blackhillsinfosec.com/blog/feed/",
       "articles": [
+        {
+          "title": "KAPE 101: A Kroll Artifact Parser and Extractor Cheatsheet",
+          "link": "https://www.blackhillsinfosec.com/kape-cheatsheet/",
+          "summary": "Spend time performing forensic analysis on the Windows Operating System and you'll see a host of artifacts that can be used to identify adversary activity. From changes to the registry to the System Resource Utilization Monitor, Windows artifacts run deep. The challenge is locating, extracting, and …",
+          "date": "2026-07-15T14:00:00+00:00",
+          "source": "Black Hills InfoSec"
+        },
         {
           "title": "Finding the “Goldilocks” Zone: A Practical Approach to Alert Triage",
           "link": "https://www.blackhillsinfosec.com/the-goldilocks-zone/",
@@ -1759,13 +1766,6 @@
           "summary": "GraphRunner is a collection of post-exploitation PowerShell modules for interacting with the Microsoft Graph API. It provides modules for enumeration, exfiltration, persistence, and more! The post GraphRunner Cheatsheet appeared first on Black Hills Information Security, Inc. .",
           "date": "2025-08-06T15:00:00+00:00",
           "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Burp Suite Cheatsheet",
-          "link": "https://www.blackhillsinfosec.com/burp-suite-cheatsheet/",
-          "summary": "Burp Suite is an intercepting HTTP proxy that can also scan a web-based service for vulnerabilities. A tool like this is indispensable for testing web applications. Burp Suite is written in Java and comes bundled with a JVM, so it works on any operating system you're likely to use. The post Burp Sui…",
-          "date": "2025-08-06T15:00:00+00:00",
-          "source": "Black Hills InfoSec"
         }
       ]
     },
@@ -1850,6 +1850,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "ISC Stormcast For Thursday, July 16th, 2026 https://isc.sans.edu/podcastdetail/10010, (Thu, Jul 16th)",
+          "link": "https://isc.sans.edu/diary/rss/33160",
+          "summary": "",
+          "date": "2026-07-16T02:40:10+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Wednesday, July 15th, 2026 https://isc.sans.edu/podcastdetail/10008, (Wed, Jul 15th)",
           "link": "https://isc.sans.edu/diary/rss/33158",
           "summary": "",
@@ -1910,13 +1917,6 @@
           "link": "https://isc.sans.edu/diary/rss/33144",
           "summary": "Anyone who deals with phishing messages caught by basic security filters knows that most phishing samples tend to blend into one another, since only a small set of techniques and approaches keeps reappearing in them. That is precisely why it is worth pausing on the occasional message that does somet…",
           "date": "2026-07-10T09:09:29+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Friday, July 10th, 2026 https://isc.sans.edu/podcastdetail/10002, (Fri, Jul 10th)",
-          "link": "https://isc.sans.edu/diary/rss/33142",
-          "summary": "",
-          "date": "2026-07-10T02:00:03+00:00",
           "source": "SANS ISC"
         }
       ]
