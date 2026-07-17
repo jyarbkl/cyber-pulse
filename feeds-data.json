@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-07-17T12:14:55.071989+00:00",
+  "generated_at": "2026-07-17T17:02:23.663805+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Ernst & Young discloses data breach after support system hack",
+          "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
+          "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
+          "date": "2026-07-17T14:55:28+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
+          "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
+          "summary": "Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek \"clean\" residential proxies and combine them with browser fingerprints, device profiles, and other identity signals to evade modern fraud detection. [...]",
+          "date": "2026-07-17T14:00:10+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
           "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
@@ -95,20 +109,6 @@
           "summary": "CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]",
           "date": "2026-07-16T10:56:03+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
-          "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
-          "summary": "A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT. [...]",
-          "date": "2026-07-16T10:19:34+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "New Spirals ransomware encrypts victim network in under 24 hours",
-          "link": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
-          "summary": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
-          "date": "2026-07-16T10:00:00+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,20 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
+          "summary": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
+          "date": "2026-07-17T13:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Google Bets 'Agentic Defense' Strategy Can Outpace Attackers",
+          "link": "https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers",
+          "summary": "Google Cloud incorporates key Wiz capabilities into an agentic defense platform to automate threat detection and remediation against AI attacks.",
+          "date": "2026-07-17T11:50:25+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Agentic AI: Taming the Unpredictable",
           "link": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions",
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses",
           "summary": "The ransomware campaign relies on basic social engineering and stretches across multiple regions, including the US, Europe, Middle East, and elsewhere.",
           "date": "2026-07-02T18:07:40+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Anthropic's AI Finds Bugs. IBM Bets $5B It Can Fix Them.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/anthropic-s-ai-finds-bugs-ibm-bets-5b-it-can-fix-them-",
-          "summary": "IBM and Red Hat assign 20,000 engineers to the new Project Lightwell service as Anthropic's Mythos findings ignite debate over how to secure the open source software supply chain.",
-          "date": "2026-07-02T12:33:57+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS",
-          "link": "https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os",
-          "summary": "Attackers fingerprint victims through user-agent data to deliver OS-specific payloads, increasing compromise rates and campaign profitability.",
-          "date": "2026-07-01T20:31:21+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint",
+          "link": "https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/",
+          "summary": "Noteworthy stories that might have slipped under the radar: OpenClaw AI agents exploited via WhatsApp, ransomware hits naval defense firm TKMS, Lidl discloses data breach. The post In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint appeared first on SecurityWeek…",
+          "date": "2026-07-17T14:27:54+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive",
           "link": "https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/",
           "summary": "(Video) Artificial intelligence is transforming cybersecurity, but are governance, compliance, and security practices evolving fast enough to keep up? The post Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL). The post Two Scattered Spider Hackers Sentenced to Jail in UK appeared first on SecurityWeek .",
           "date": "2026-07-16T13:21:12+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "AI Data Centers Are Being Built Faster Than They Can Be Secured",
-          "link": "https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/",
-          "summary": "AI infrastructure introduces new security risks that traditional data center designs were never built to handle. The post AI Data Centers Are Being Built Faster Than They Can Be Secured appeared first on SecurityWeek .",
-          "date": "2026-07-16T13:00:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,13 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+          "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
+          "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload ali…",
+          "date": "2026-07-17T13:48:56+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
           "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
@@ -1322,13 +1329,6 @@
           "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it: python3 -m http.server 8080, was still sitting in the readable .bash_history. From that one lapse, French security firm Lexfo l…",
           "date": "2026-07-13T07:30:00+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
-          "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation in the wild. The vulnerabilities, both …",
-          "date": "2026-07-13T05:36:02+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/",
+          "summary": "Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception. The post Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks appeared first on Microsoft Security Blog .",
+          "date": "2026-07-17T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "ACR Stealer: Two observed intrusion chains amid increased threat activity",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/",
           "summary": "At Microsoft we encompass these security requirements, along with threat knowledge, and operational frameworks in our Secure Future Initiative (SFI), to guide what a well-defended cloud service looks like. But defining the requirements is only the start. Meeting the requirements means continuously e…",
           "date": "2026-07-08T17:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "5 insights from Frost & Sullivan’s 2025 Frost Radar™ for Cloud Security Posture Management",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/",
-          "summary": "Read five key learnings from the Frost & Sullivan 2025 Frost Radar™ for CSPM to learn how CSPM is evolving from point-in-time compliance to continuous risk management. The post 5 insights from Frost & Sullivan’s 2025 Frost Radar™ for Cloud Security Posture Management appeared first on Microsoft Secu…",
-          "date": "2026-07-06T16:00:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
