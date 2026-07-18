@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-07-17T17:02:23.663805+00:00",
+  "generated_at": "2026-07-18T11:57:08.164782+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Abbott probes two cyber incidents amid extortion claims",
+          "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+          "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers breached its LabCentral portal and stole company data.…",
+          "date": "2026-07-17T20:45:52+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+          "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+          "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
+          "date": "2026-07-17T17:56:21+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Ernst & Young discloses data breach after support system hack",
           "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
@@ -95,20 +109,6 @@
           "summary": "Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]",
           "date": "2026-07-16T12:31:29+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
-          "summary": "Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]",
-          "date": "2026-07-16T11:59:24+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
-          "summary": "CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]",
-          "date": "2026-07-16T10:56:03+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -117,7 +117,21 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
-          "title": "Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear",
+          "title": "Inc Ransomware Exploits SonicWall SMA Zero-Days",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days",
+          "summary": "When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.",
+          "date": "2026-07-17T20:01:13+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "The Real AI Threat Is Blind Trust",
+          "link": "https://www.darkreading.com/application-security/real-ai-threat-blind-trust",
+          "summary": "AI models left to both interpret and execute commands eliminate critical cybersecurity oversight.",
+          "date": "2026-07-17T16:43:13+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Gold Eagle Clearinghouse Targets Security Gap, but How Is Unclear",
           "link": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
           "summary": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
           "date": "2026-07-17T13:00:00+00:00",
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai",
           "summary": "Expect more compressed patching cycles from Apple going forward, as attackers leverage artificial intelligence to reduce time to exploit.",
           "date": "2026-07-02T19:31:58+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs",
-          "link": "https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs",
-          "summary": "After gaining a foothold in thousands of Fortinet firewalls, the attackers are starting to monetize that access, and are also piling on a Nextcloud zero-day bug.",
-          "date": "2026-07-02T19:11:33+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Ransomware Thugs Masquerade as Interpol to Entice Small Biz",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses",
-          "summary": "The ransomware campaign relies on basic social engineering and stretches across multiple regions, including the US, Europe, Middle East, and elsewhere.",
-          "date": "2026-07-02T18:07:40+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,41 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+          "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+          "summary": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it. An anonymous HTTP request can run code on a WordPress site. The bug is in cor…",
+          "date": "2026-07-17T21:20:10+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+          "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+          "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no changelog entry pointing…",
+          "date": "2026-07-17T20:20:53+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+          "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+          "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed ViteVenom by Checkmarx, marks an expansion of ChainVeil, which was observed using an …",
+          "date": "2026-07-17T18:54:51+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+          "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+          "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and w…",
+          "date": "2026-07-17T17:12:23+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+          "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+          "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog (aka APT-Q-27, Dragon Breath, and Miuuti Group), a …",
+          "date": "2026-07-17T16:39:16+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
           "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
           "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload ali…",
@@ -1293,41 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
           "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide the change, and quietly steer its answers in later sessions. When it works, the per…",
           "date": "2026-07-13T13:49:48+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
-          "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
-          "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation, and post-compromise mailbox operations targeting Microsoft 365 accounts. Distribu…",
-          "date": "2026-07-13T13:03:33+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
-          "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
-          "summary": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read. Each read gets pinned to the moment it happened: the time, your location, what you were doing, even …",
-          "date": "2026-07-13T11:54:46+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
-          "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
-          "summary": "A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connected Claude to a few detection tools and were seeing real value in specific investigations. But as we…",
-          "date": "2026-07-13T11:37:05+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
-          "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
-          "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration. \"The script looked for the Domain Controller (DC) and mapped users, computers, and domains, before creating a directory and exporting o…",
-          "date": "2026-07-13T11:02:33+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
-          "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
-          "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it: python3 -m http.server 8080, was still sitting in the readable .bash_history. From that one lapse, French security firm Lexfo l…",
-          "date": "2026-07-13T07:30:00+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1933,8 +1933,8 @@
           "source": "SANS Blog"
         },
         {
-          "title": "Why Sounil Yu and I Built the AI Defense Matrix Blog Artificial Intelligence   15 Jul 2026     Lenny Zeltser",
-          "link": "https://www.sans.org/blog/why-sounil-yu-i-built-ai-defense-matrix",
+          "title": "Why We Built the AI Defense Matrix, and What We Need from You Now Blog Artificial Intelligence   15 Jul 2026     Lenny Zeltser",
+          "link": "https://www.sans.org/blog/why-we-built-the-ai-defense-matrix-and-what-we-need-from-you-now",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
