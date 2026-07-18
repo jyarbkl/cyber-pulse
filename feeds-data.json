@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-07-18T11:57:08.164782+00:00",
+  "generated_at": "2026-07-18T16:45:29.871763+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
+          "summary": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
+          "date": "2026-07-18T14:17:19+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
+          "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
+          "summary": "As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode explains how on-device age estimation verifies age without transmitting or storing facial images, reducing biometric privacy risks while supporting c…",
+          "date": "2026-07-18T13:15:24+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Abbott probes two cyber incidents amid extortion claims",
           "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
           "summary": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams the flexibility to create workflows tailored to their own environments. [...]",
           "date": "2026-07-16T14:00:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "23andMe to pay $18 million in new genetics data breach settlement",
-          "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
-          "summary": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
-          "date": "2026-07-16T13:47:23+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Scattered Spider members behind TfL hack get five years in prison",
-          "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
-          "summary": "Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]",
-          "date": "2026-07-16T12:31:29+00:00",
           "source": "BleepingComputer"
         }
       ]
