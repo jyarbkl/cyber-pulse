@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-07-19T12:02:13.144783+00:00",
+  "generated_at": "2026-07-19T16:46:59.620091+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Hackers abuse ViPNet software to target Russian govt agencies",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+          "summary": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
+          "date": "2026-07-19T14:23:46+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
           "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
           "summary": "The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]",
           "date": "2026-07-16T21:09:41+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
-          "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
-          "summary": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. [...]",
-          "date": "2026-07-16T19:26:07+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -981,6 +981,20 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+          "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+          "summary": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer Emergency Response Team of Ukraine (CERT-UA), the activity has been attributed to UAC-…",
+          "date": "2026-07-19T13:30:55+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+          "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+          "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. Cybersecurity company Volexity is tracking the activity under the monik…",
+          "date": "2026-07-19T13:18:56+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
           "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
           "summary": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it. An anonymous HTTP request can run code on a WordPress site. The bug is in cor…",
@@ -1314,20 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
           "summary": "Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its official store version. The collector was dormant. An empty allow-list kept it switched …",
           "date": "2026-07-13T17:17:24+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
-          "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
-          "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets. That's the shape of this week. Trusted code turns on the peop…",
-          "date": "2026-07-13T15:05:57+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
-          "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
-          "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide the change, and quietly steer its answers in later sessions. When it works, the per…",
-          "date": "2026-07-13T13:49:48+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1850,6 +1850,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Scans for Hikvision Intelligent Security API, (Sun, Jul 19th)",
+          "link": "https://isc.sans.edu/diary/rss/33164",
+          "summary": "We have been following issues with Hikvision cameras for a long, long time. Like many similar products, Hikvision cameras have a long history of vulnerabilities and are often targeted by internet-wide scans that our honeypot network detects.",
+          "date": "2026-07-19T15:00:38+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Friday, July 17th, 2026 https://isc.sans.edu/podcastdetail/10012, (Fri, Jul 17th)",
           "link": "https://isc.sans.edu/diary/rss/33162",
           "summary": "",
@@ -1910,13 +1917,6 @@
           "link": "https://isc.sans.edu/diary/rss/33146",
           "summary": "Wireshark release 4.6.7 fixes 12 vulnerabilities and 16 bugs.",
           "date": "2026-07-11T09:07:06+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "My Stack Simulator, (Wed, Jul 8th)",
-          "link": "https://isc.sans.edu/diary/rss/33138",
-          "summary": "The stack is a memory region where a program stores temporary data -&#;x26;#;xc2;&#;x26;#;xa0;like local variables and return addresses. Think of the stack as a pile of plates in your kitchen: you can only add a new plate to the top, and you can only take one away from the top too. Programs use this…",
-          "date": "2026-07-10T15:52:27+00:00",
           "source": "SANS ISC"
         }
       ]
