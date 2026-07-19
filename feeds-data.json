@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-07-18T16:45:29.871763+00:00",
+  "generated_at": "2026-07-19T12:02:13.144783+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
+          "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
+          "summary": "7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
+          "date": "2026-07-18T19:32:02+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
+          "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
+          "summary": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]",
+          "date": "2026-07-18T17:22:47+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
           "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
           "summary": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. [...]",
           "date": "2026-07-16T19:26:07+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
-          "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
-          "summary": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]",
-          "date": "2026-07-16T19:09:35+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
-          "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
-          "summary": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams the flexibility to create workflows tailored to their own environments. [...]",
-          "date": "2026-07-16T14:00:10+00:00",
           "source": "BleepingComputer"
         }
       ]
