@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-07-20T13:11:00.722625+00:00",
+  "generated_at": "2026-07-20T17:27:24.544169+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "An AI SOC Evaluation Guide for Security Leaders",
+          "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
+          "summary": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC solutions, including how to validate accuracy, operating models, long-term reliability, and production rea…",
+          "date": "2026-07-20T14:01:11+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Hugging Face warns an autonomous AI agent hacked its network",
           "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
@@ -102,13 +109,6 @@
           "summary": "A security researcher using the \"Nightmare Eclipse\" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
           "date": "2026-07-17T11:05:30+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Windows Server 2022 reach end of mainstream support in 90 days",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
-          "summary": "Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]",
-          "date": "2026-07-17T09:10:15+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Cybersecurity Keeps Events 'Uneventful'",
+          "link": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
+          "summary": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security demands.",
+          "date": "2026-07-20T14:00:00+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Inc Ransomware Exploits SonicWall SMA Zero-Days",
           "link": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs",
           "summary": "Improved institutional safeguards and stricter regulations have pushed the burdens of protection and risk reduction on to Australian businesses.",
           "date": "2026-07-02T23:01:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Apple Reverses Age-Old Patch Policy to Keep Up With AI",
-          "link": "https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai",
-          "summary": "Expect more compressed patching cycles from Apple going forward, as attackers leverage artificial intelligence to reduce time to exploit.",
-          "date": "2026-07-02T19:31:58+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software",
+          "link": "https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/",
+          "summary": "Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others. The post Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software appeared first on SecurityWeek .",
+          "date": "2026-07-20T14:54:03+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch",
+          "link": "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/",
+          "summary": "The zero-days CVE-2026-15409 and CVE-2026-15410 were exploited by a threat actor tracked by Volexity as UTA0533. The post SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch appeared first on SecurityWeek .",
+          "date": "2026-07-20T14:11:05+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "OpenSSL Silently Fixes ‘HollowByte’ DoS Vulnerability",
           "link": "https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/",
           "summary": "Attackers could send waves of malicious payloads to trigger buffer pre-allocations that are not freed, exhausting server memory. The post OpenSSL Silently Fixes ‘HollowByte’ DoS Vulnerability appeared first on SecurityWeek .",
@@ -959,20 +973,6 @@
           "summary": "Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure. The post WP2Shell WordPress Vulnerabilities Exploited in the Wild appeared first on SecurityWeek .",
           "date": "2026-07-20T05:21:29+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint",
-          "link": "https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/",
-          "summary": "Noteworthy stories that might have slipped under the radar: OpenClaw AI agents exploited via WhatsApp, ransomware hits naval defense firm TKMS, Lidl discloses data breach. The post In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint appeared first on SecurityWeek…",
-          "date": "2026-07-17T14:27:54+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive",
-          "link": "https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/",
-          "summary": "(Video) Artificial intelligence is transforming cybersecurity, but are governance, compliance, and security practices evolving fast enough to keep up? The post Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive appeared first on SecurityWeek .",
-          "date": "2026-07-17T12:11:22+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+          "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
+          "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050. Group-IB, which named the malware HollowGraph, says the approach moves…",
+          "date": "2026-07-20T14:33:43+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+          "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
+          "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bugs we…",
+          "date": "2026-07-20T13:32:26+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
           "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
@@ -1314,20 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
           "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard. \"An attacker exploiting one of these vulnerable applications can execute untrus…",
           "date": "2026-07-14T12:46:18+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
-          "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
-          "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them. The way these wallets talk to websites and blockchain servers can tie a person's separate addresses together…",
-          "date": "2026-07-14T11:55:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "How Pentera Turns AI Security Workflows into Validation Engines",
-          "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-          "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severity scores, threat intelligence, configuration findings, and e…",
-          "date": "2026-07-14T11:30:00+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -2016,6 +2016,13 @@
       "url": "https://www.secureideas.com/blog/rss.xml",
       "articles": [
         {
+          "title": "Loot Drops & Learning Points: Measuring What Matters",
+          "link": "https://www.secureideas.com/blog/loot-drops-learning-points-measuring-what-matters",
+          "summary": "This is the sixth, and closing, post in this series addressing my perspective on the current state of Cybersecurity Incident Response (IR) and an approach to improve interest, participation, and expanded learning.",
+          "date": "2026-07-20T16:55:47+00:00",
+          "source": "Secure Ideas"
+        },
+        {
           "title": "Building an AI Pit Droid: Hardware, Electronics & 3D Printing | Secure Ideas",
           "link": "https://www.secureideas.com/blog/building-the-body",
           "summary": "Blog 3 of 4: Hardware, Electronics and Making It Real",
@@ -2076,13 +2083,6 @@
           "link": "https://www.secureideas.com/blog/encrypting-a-flash-drive-in-linux-using-luks",
           "summary": "Portable devices that store information are both a wonderful convenience and a data security nightmare. Any device that is small and mobile has an increased risk of being lost or stolen, where the data on it would be in the hands of whoever recovers the device. The best defense against this threat i…",
           "date": "2026-05-12T13:24:38+00:00",
-          "source": "Secure Ideas"
-        },
-        {
-          "title": "Beyond the Browser: The Questions That Expanded the Attack Surface",
-          "link": "https://www.secureideas.com/blog/beyond-the-browser-the-questions-that-expanded-the-attack-surface",
-          "summary": "After presenting this research at security conferences this year, I was expecting the usual post-talk questions like \" what tools did you use? \", \" does this also work on mobile? \", or a compliance officer asking if PDF forms are covered under their DLP policy. What the audience did instead was take…",
-          "date": "2026-05-06T15:22:49+00:00",
           "source": "Secure Ideas"
         }
       ]
