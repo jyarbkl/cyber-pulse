@@ -1,10 +1,80 @@
 {
-  "generated_at": "2026-07-20T17:28:26.476672+00:00",
+  "generated_at": "2026-07-21T12:26:22.719171+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
+          "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
+          "summary": "The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]",
+          "date": "2026-07-21T11:07:07+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
+          "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+          "summary": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
+          "date": "2026-07-21T10:12:24+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
+          "summary": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]",
+          "date": "2026-07-21T09:05:50+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
+          "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+          "summary": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
+          "date": "2026-07-21T08:06:26+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
+          "link": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
+          "summary": "Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]",
+          "date": "2026-07-20T22:39:30+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
+          "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
+          "summary": "Two recently disclosed SonicWall SMA1000 vulnerabilities were exploited in zero-day attacks for weeks, allowing threat actors to install custom malware on vulnerable VPN appliances. [...]",
+          "date": "2026-07-20T22:23:23+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
+          "summary": "The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain infrastructure used to feed prices into the protocol. [...]",
+          "date": "2026-07-20T22:22:56+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+          "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+          "summary": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings. [...]",
+          "date": "2026-07-20T21:14:42+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+          "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+          "summary": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
+          "date": "2026-07-20T21:08:02+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
+          "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
+          "summary": "A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data. [...]",
+          "date": "2026-07-20T17:43:01+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "An AI SOC Evaluation Guide for Security Leaders",
           "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
@@ -39,76 +109,6 @@
           "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
           "date": "2026-07-20T09:29:20+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers abuse ViPNet software to target Russian govt agencies",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
-          "summary": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
-          "date": "2026-07-19T14:23:46+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
-          "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-          "summary": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
-          "date": "2026-07-18T19:32:02+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
-          "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
-          "summary": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]",
-          "date": "2026-07-18T17:22:47+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
-          "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
-          "summary": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
-          "date": "2026-07-18T14:17:19+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
-          "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
-          "summary": "As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode explains how on-device age estimation verifies age without transmitting or storing facial images, reducing biometric privacy risks while supporting c…",
-          "date": "2026-07-18T13:15:24+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Abbott probes two cyber incidents amid extortion claims",
-          "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
-          "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers breached its LabCentral portal and stole company data.…",
-          "date": "2026-07-17T20:45:52+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
-          "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
-          "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
-          "date": "2026-07-17T17:56:21+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Ernst & Young discloses data breach after support system hack",
-          "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-          "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
-          "date": "2026-07-17T14:55:28+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
-          "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
-          "summary": "Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek \"clean\" residential proxies and combine them with browser fingerprints, device profiles, and other identity signals to evade modern fraud detection. [...]",
-          "date": "2026-07-17T14:00:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
-          "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
-          "summary": "A security researcher using the \"Nightmare Eclipse\" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
-          "date": "2026-07-17T11:05:30+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,41 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover",
+          "summary": "Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
+          "date": "2026-07-20T21:38:18+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
+          "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
+          "summary": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages, but cost and human-in-the-loop viability remain open questions.",
+          "date": "2026-07-20T20:26:56+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "25 Years After Code Red: What the Worm Era Can Teach Us About AI Security",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
+          "summary": "Marc Maiffret reflects on Code Red's legacy and the security lessons helping organizations navigate AI risk today.",
+          "date": "2026-07-20T19:32:04+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "CISOs Feel the Heat Over AI Risk",
+          "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
+          "summary": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
+          "date": "2026-07-20T19:07:01+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
+          "link": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
+          "summary": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
+          "date": "2026-07-20T18:30:22+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Cybersecurity Keeps Events 'Uneventful'",
           "link": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
@@ -138,7 +173,7 @@
           "source": "Dark Reading"
         },
         {
-          "title": "Gold Eagle Clearinghouse Targets Security Gap, but How Is Unclear",
+          "title": "Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear",
           "link": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
           "summary": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
           "date": "2026-07-17T13:00:00+00:00",
@@ -429,41 +464,6 @@
           "link": "https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows",
           "summary": "The flaw allows an unauthenticated attacker to craft a GitHub Issue in an org's public repository and then silently pull data from its private repos, too.",
           "date": "2026-07-07T15:24:30+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "'BusySnake' Infostealer Slithers Into Critical Infrastructure Networks",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks",
-          "summary": "A threat group researchers call \"Armored Likho\" has gained access to government agencies and electrical power entities in Russia, Brazil, and Kazakhstan.",
-          "date": "2026-07-06T21:37:56+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "CitrixBleed-ing Again? NetScaler Vulnerability Under Attack",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack",
-          "summary": "Attackers wasted little time targeting the latest memory disclosure flaw in Citrix's NetScaler products, after researchers published a proof-of-concept exploit (PoC).",
-          "date": "2026-07-06T21:17:42+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "JadePuffer: The First Complete LLM-Driven Ransomware Attack",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack",
-          "summary": "An \"agentic threat actor\" successfully exploited a Langflow flaw to steal data from a production database server and encrypt other systems.",
-          "date": "2026-07-06T16:36:50+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders",
-          "link": "https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders",
-          "summary": "Two new models from Chinese firms compete with top US mainstream and frontier models. Should cyber-defenders be worried?",
-          "date": "2026-07-03T13:01:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs",
-          "link": "https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs",
-          "summary": "Improved institutional safeguards and stricter regulations have pushed the burdens of protection and risk reduction on to Australian businesses.",
-          "date": "2026-07-02T23:01:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,55 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication",
+          "link": "https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/",
+          "summary": "Part of a larger toolkit, HollowGraph uses a compromised 365 account’s calendar as a two-way dead-drop. The post New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication appeared first on SecurityWeek .",
+          "date": "2026-07-21T11:55:28+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG",
+          "link": "https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/",
+          "summary": "Gaetje’s story shows that you don’t need to be a ‘deep bit-crawler’ to become a Chief Information Security Officer. The post CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG appeared first on SecurityWeek .",
+          "date": "2026-07-21T11:30:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack",
+          "link": "https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/",
+          "summary": "Hackers exfiltrated personal, financial, and health information from the company’s Oracle EBS instance in August 2025. The post Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack appeared first on SecurityWeek .",
+          "date": "2026-07-21T11:12:33+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data",
+          "link": "https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/",
+          "summary": "A security researcher discovered a broken access control vulnerability in Meta’s support infrastructure. The post Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data appeared first on SecurityWeek .",
+          "date": "2026-07-21T10:19:21+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Clover Health Investments Discloses Data Breach",
+          "link": "https://www.securityweek.com/clover-health-investments-discloses-data-breach/",
+          "summary": "Using social engineering, hackers compromised employee accounts with access to personal and health information. The post Clover Health Investments Discloses Data Breach appeared first on SecurityWeek .",
+          "date": "2026-07-21T09:36:51+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
+          "link": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/",
+          "summary": "The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution. The post Exploitation of ServiceNow Vulnerability Seen Days After Disclosure appeared first on SecurityWeek .",
+          "date": "2026-07-21T08:41:53+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Zimbra Update Patches Critical Vulnerabilities",
+          "link": "https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/",
+          "summary": "The latest Zimbra refresh resolves command injection, XSS, restriction bypass, and SSRF security defects. The post Zimbra Update Patches Critical Vulnerabilities appeared first on SecurityWeek .",
+          "date": "2026-07-21T08:20:08+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software",
           "link": "https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/",
           "summary": "Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others. The post Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software appeared first on SecurityWeek .",
@@ -924,55 +973,6 @@
           "summary": "Attackers could send waves of malicious payloads to trigger buffer pre-allocations that are not freed, exhausting server memory. The post OpenSSL Silently Fixes ‘HollowByte’ DoS Vulnerability appeared first on SecurityWeek .",
           "date": "2026-07-20T12:32:40+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "New Index Tracks Material Breaches — And Refuses to Add Up the Losses",
-          "link": "https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/",
-          "summary": "Longtime cybersecurity executive Richard Bird built the resource for security experts, journalists, policymakers, and everyday citizens. The post New Index Tracks Material Breaches — And Refuses to Add Up the Losses appeared first on SecurityWeek .",
-          "date": "2026-07-20T11:46:50+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Ernst & Young Data Breach Affects Personal, Financial Information",
-          "link": "https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/",
-          "summary": "Hackers stole names, addresses, Social Security numbers, credit/debit card numbers, and other information from a third-party management platform. The post Ernst & Young Data Breach Affects Personal, Financial Information appeared first on SecurityWeek .",
-          "date": "2026-07-20T11:27:38+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Watch on Demand: Cloud & Data Security Summit",
-          "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
-          "summary": "Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments. The post Watch on Demand: Cloud & Data Security Summit appeared first on SecurityWeek .",
-          "date": "2026-07-20T10:31:25+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool",
-          "link": "https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/",
-          "summary": "The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations. The post Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool appeared first on SecurityWeek .",
-          "date": "2026-07-20T10:25:07+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Hugging Face Hacked in Autonomous AI Attack",
-          "link": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/",
-          "summary": "Targeting production infrastructure, the attack compromised internal datasets and service credentials. The post Hugging Face Hacked in Autonomous AI Attack appeared first on SecurityWeek .",
-          "date": "2026-07-20T09:36:15+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Chrome 150 Update Patches Severe Memory Safety Bugs",
-          "link": "https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/",
-          "summary": "The fresh security update resolves six critical and high-severity use-after-free vulnerabilities. The post Chrome 150 Update Patches Severe Memory Safety Bugs appeared first on SecurityWeek .",
-          "date": "2026-07-20T08:12:19+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
-          "link": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/",
-          "summary": "Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure. The post WP2Shell WordPress Vulnerabilities Exploited in the Wild appeared first on SecurityWeek .",
-          "date": "2026-07-20T05:21:29+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,62 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+          "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+          "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving the agent. Researchers demonstrated that chain, plus six ot…",
+          "date": "2026-07-21T11:58:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
+          "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
+          "summary": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, and you can hit every system that hasn't updated yet. This is N-day exploitation,…",
+          "date": "2026-07-21T11:42:23+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+          "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+          "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, described by three Zhejiang University researchers in a paper accepted to CHES 2026, t…",
+          "date": "2026-07-21T11:24:50+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+          "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+          "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security flaws, tracked as CVE-2026-63030 and CVE-2026-60137, have been codenamed wp2shel…",
+          "date": "2026-07-21T08:59:30+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+          "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+          "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying ENCFORGE, a new compiled Go ransomware designed to encrypt model weights, vector indexes,…",
+          "date": "2026-07-21T07:34:32+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+          "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+          "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing in-the-wild exploitation of CVE-2026-6875 (CVSS score: 9.5), a sandbox escape vulnerabili…",
+          "date": "2026-07-21T06:29:26+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
+          "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
+          "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit. \"Fak…",
+          "date": "2026-07-20T18:23:03+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+          "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+          "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was already live against Windows users in Mexico, delivering an …",
+          "date": "2026-07-20T17:29:50+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
           "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
@@ -1272,62 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
           "summary": "Open a repository in Cursor on Windows and, if a file named git.exe is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute. Whatever that binary does, it does as you, with your source, your SSH keys and your cloud toke…",
           "date": "2026-07-15T10:55:22+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
-          "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
-          "summary": "Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity. The affected packages are listed below - @asyncapi/generator-helpers@1.1.1 @asyncapi/generator-components@0…",
-          "date": "2026-07-15T09:16:13+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
-          "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
-          "summary": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution. The vulnerabilities are listed below - CVE-2026-15409 (CVSS score: 10.0) - A Server-side re…",
-          "date": "2026-07-15T05:30:21+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
-          "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
-          "summary": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its Security Update Guide count, more than triple June's previous high of around 200. Those two live bugs are the one…",
-          "date": "2026-07-14T20:25:47+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
-          "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
-          "summary": "SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP. The vulnerability in question is CVE-2026-44747 (CVSS score: 9.9), an out-of-bounds write flaw that allows an authenticated at…",
-          "date": "2026-07-14T18:17:57+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
-          "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
-          "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar. Both this and ClaudeBleed need a rogue extension that can already run a script on claude.ai; the difference is sco…",
-          "date": "2026-07-14T17:27:23+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
-          "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
-          "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments. \"LabubaRAT creates a reusable foothold for hands-on activity,\" Blackpoint Cyber researchers Sam Decker and…",
-          "date": "2026-07-14T16:52:37+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
-          "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
-          "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries. Miggo's security tea…",
-          "date": "2026-07-14T13:48:07+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
-          "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
-          "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard. \"An attacker exploiting one of these vulnerable applications can execute untrus…",
-          "date": "2026-07-14T12:46:18+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1850,6 +1850,20 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "ISC Stormcast For Tuesday, July 21st, 2026 https://isc.sans.edu/podcastdetail/10016, (Tue, Jul 21st)",
+          "link": "https://isc.sans.edu/diary/rss/33170",
+          "summary": "",
+          "date": "2026-07-21T02:00:02+00:00",
+          "source": "SANS ISC"
+        },
+        {
+          "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
+          "link": "https://isc.sans.edu/diary/rss/33168",
+          "summary": "Last week, Searchlight Cyber released details about a vulnerability they are calling \"wp2shell\". The vulnerability was initially announced without a CVE number. But now has been assigned CVE-2026-63030. Many WordPress plugin vulnerabilities are never assigned CVE numbers. But wp2shell is different. …",
+          "date": "2026-07-20T18:41:24+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Monday, July 20th, 2026 https://isc.sans.edu/podcastdetail/10014, (Mon, Jul 20th)",
           "link": "https://isc.sans.edu/diary/rss/33166",
           "summary": "",
@@ -1903,20 +1917,6 @@
           "link": "https://isc.sans.edu/diary/rss/33152",
           "summary": "",
           "date": "2026-07-14T02:15:11+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Someone Is Scanning for Your MCP Servers and AI Assistant Credentials, (Mon, Jul 13th)",
-          "link": "https://isc.sans.edu/diary/rss/33150",
-          "summary": "The setup",
-          "date": "2026-07-13T04:22:02+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Monday, July 13th, 2026 https://isc.sans.edu/podcastdetail/10004, (Mon, Jul 13th)",
-          "link": "https://isc.sans.edu/diary/rss/33148",
-          "summary": "",
-          "date": "2026-07-13T02:00:03+00:00",
           "source": "SANS ISC"
         }
       ]
@@ -2016,6 +2016,13 @@
       "url": "https://www.secureideas.com/blog/rss.xml",
       "articles": [
         {
+          "title": "Building a Dedicated Web App & API Pentesting Lab",
+          "link": "https://www.secureideas.com/blog/building-a-dedicated-web-app-api-pentesting-lab",
+          "summary": "Over the last several months, I have spent quite a few evenings after getting the kids to bed; working on my home network and building out different penetration testing lab environments. Most of that time has been focused on Active Directory, particularly the Game of Active Directory (GOAD) lab that…",
+          "date": "2026-07-20T18:22:09+00:00",
+          "source": "Secure Ideas"
+        },
+        {
           "title": "Loot Drops & Learning Points: Measuring What Matters",
           "link": "https://www.secureideas.com/blog/loot-drops-learning-points-measuring-what-matters",
           "summary": "This is the sixth, and closing, post in this series addressing my perspective on the current state of Cybersecurity Incident Response (IR) and an approach to improve interest, participation, and expanded learning.",
@@ -2076,13 +2083,6 @@
           "link": "https://www.secureideas.com/blog/esc6-under-a-false-sigil",
           "summary": "In Part 3, ESC2: The Seal of Any Purpose , we shifted from identity to capability. Instead of changing who a certificate represents, ESC2 explored how broadly that certificate can be used once issued.",
           "date": "2026-05-18T13:13:30+00:00",
-          "source": "Secure Ideas"
-        },
-        {
-          "title": "Encrypting a Flash Drive in Linux using LUKS",
-          "link": "https://www.secureideas.com/blog/encrypting-a-flash-drive-in-linux-using-luks",
-          "summary": "Portable devices that store information are both a wonderful convenience and a data security nightmare. Any device that is small and mobile has an increased risk of being lost or stolen, where the data on it would be in the hands of whoever recovers the device. The best defense against this threat i…",
-          "date": "2026-05-12T13:24:38+00:00",
           "source": "Secure Ideas"
         }
       ]
