@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-07-22T12:43:15.076477+00:00",
+  "generated_at": "2026-07-22T17:08:11.716944+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
+          "link": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
+          "summary": "Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]",
+          "date": "2026-07-22T16:59:17+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "How enterprise GenAI can amplify ransomware risk — and how to contain it",
+          "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
+          "summary": "Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access help reduce AI-enabled ransomware risk while supporting secure AI adoption. [...]",
+          "date": "2026-07-22T15:30:00+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
+          "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
+          "summary": "Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, networking, and edge devices. [...]",
+          "date": "2026-07-22T14:15:00+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
+          "link": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
+          "summary": "The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication. [...]",
+          "date": "2026-07-22T13:22:20+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
           "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
@@ -81,34 +109,6 @@
           "summary": "Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granting access to critical systems. [...]",
           "date": "2026-07-21T14:00:10+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
-          "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
-          "summary": "The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]",
-          "date": "2026-07-21T11:07:07+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-          "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-          "summary": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
-          "date": "2026-07-21T10:12:24+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
-          "summary": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]",
-          "date": "2026-07-21T09:05:50+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
-          "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
-          "summary": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
-          "date": "2026-07-21T08:06:26+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -117,14 +117,21 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
+          "link": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
+          "summary": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
+          "date": "2026-07-22T15:53:47+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "EU Financial Institutions Leak Data Through Cookie Trackers",
           "link": "https://www.darkreading.com/data-privacy/eu-financial-institutions-cookie-trackers",
-          "summary": "European banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
+          "summary": "European and US banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
           "date": "2026-07-22T11:30:00+00:00",
           "source": "Dark Reading"
         },
         {
-          "title": "Ransomware Is Accelerating, But It's Not Because of AI",
+          "title": "Ransomware Is Accelerating, but It's Not Because of AI",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai",
           "summary": "Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations.",
           "date": "2026-07-21T21:48:05+00:00",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyber-risk/mexicos-cyber-plan-first-real-test",
           "summary": "The Latin American nation's cybersecurity plan — still in the expansion phase — has to survive its own knockout round during the FIFA World Cup.",
           "date": "2026-07-08T21:34:21+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Lone Attacker Uses AI to Breach AWS Cloud Environment in 72 Hours",
-          "link": "https://www.darkreading.com/cloud-security/lone-attacker-ai-breach-aws-cloud-environment",
-          "summary": "The attacker exploited AI workflows, chained cloud weaknesses, and stolen credentials to extort a large Amazon customer.",
-          "date": "2026-07-08T20:32:22+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,48 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts",
+          "link": "https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/",
+          "summary": "Hackers leaked names, email addresses, phone numbers, passwords, and financial information stolen from the two platforms. The post Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts appeared first on SecurityWeek .",
+          "date": "2026-07-22T15:02:11+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Palo Alto Networks to Acquire Observability Platform Provider Embrace",
+          "link": "https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/",
+          "summary": "Acquisition follows January's Chronosphere deal, deepening Palo Alto Networks' push beyond core security into observability. The post Palo Alto Networks to Acquire Observability Platform Provider Embrace appeared first on SecurityWeek .",
+          "date": "2026-07-22T14:58:53+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft",
+          "link": "https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/",
+          "summary": "An attacker only needed to convince the targeted user to visit a malicious website to exfiltrate WhatsApp messages and contacts. The post Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft appeared first on SecurityWeek .",
+          "date": "2026-07-22T14:22:31+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover",
+          "link": "https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/",
+          "summary": "Identity confidence changes throughout every interaction and should be reassessed continuously as new risk signals emerge. The post When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover appeared first on SecurityWeek .",
+          "date": "2026-07-22T14:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "StrongestLayer Raises $4.1 Million in Seed Funding Extension",
+          "link": "https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/",
+          "summary": "The startup will use the fresh investment to accelerate its go-to-market strategy and to expand its platform. The post StrongestLayer Raises $4.1 Million in Seed Funding Extension appeared first on SecurityWeek .",
+          "date": "2026-07-22T13:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Vibe-Coded Apps Riddled With Exploitable Security Flaws",
+          "link": "https://www.securityweek.com/vibe-coded-apps-riddled-with-exploitable-security-flaws/",
+          "summary": "Analysis found 434 exploitable flaws in AI-generated apps, with denial-of-service, authorization and secrets exposure risks among the most common issues. The post Vibe-Coded Apps Riddled With Exploitable Security Flaws appeared first on SecurityWeek .",
+          "date": "2026-07-22T13:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Fourth SharePoint Vulnerability Exploited in Past Month’s Wave of Attacks",
           "link": "https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/",
           "summary": "CVE-2026-50522 is being exploited by threat actors to steal machine keys and retain long-term access. The post Fourth SharePoint Vulnerability Exploited in Past Month’s Wave of Attacks appeared first on SecurityWeek .",
@@ -931,48 +973,6 @@
           "summary": "The Anubis ransomware group claims to have stolen 1 TB of confidential data from the Coca-Cola subsidiary. The post Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife appeared first on SecurityWeek .",
           "date": "2026-07-22T08:32:02+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face",
-          "link": "https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/",
-          "summary": "OpenAI says its AI models went rogue, as CISOS call the incident a watershed moment, warning that autonomous AI threat models have officially crossed into production reality. The post OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face appeared first on SecurityWeek .",
-          "date": "2026-07-22T07:48:49+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Trump Orders Defense Contractors to Map Software, Suppliers Across Critical Supply Chains",
-          "link": "https://www.securityweek.com/trump-orders-defense-contractors-to-map-software-suppliers-across-critical-supply-chains/",
-          "summary": "New executive order calls for end-to-end visibility into defense supply chains, including software dependencies, foreign ownership and cyber-related supplier risks. The post Trump Orders Defense Contractors to Map Software, Suppliers Across Critical Supply Chains appeared first on SecurityWeek .",
-          "date": "2026-07-21T18:16:09+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Cisco Launches Low-Cost AI Models for Source Code Security",
-          "link": "https://www.securityweek.com/cisco-launches-low-cost-ai-models-for-source-code-security/",
-          "summary": "The open-weight Antares models are designed to pinpoint known vulnerabilities in codebases faster and at a fraction of the cost of larger AI models. The post Cisco Launches Low-Cost AI Models for Source Code Security appeared first on SecurityWeek .",
-          "date": "2026-07-21T17:44:33+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Empirical Security Raises $25 Million in Series A Funding",
-          "link": "https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/",
-          "summary": "The startup will use the investment to accelerate the development of its threat prediction and discovery products. The post Empirical Security Raises $25 Million in Series A Funding appeared first on SecurityWeek .",
-          "date": "2026-07-21T12:47:18+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity",
-          "link": "https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/",
-          "summary": "Independently judged and sponsor-neutral, the new awards program honors the people, organizations, and technologies delivering proven impact in industrial cybersecurity; winners to be announced live at the 2026 ICS Cybersecurity Conference in Nashville The post SecurityWeek Launches Critical Impact …",
-          "date": "2026-07-21T12:30:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication",
-          "link": "https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/",
-          "summary": "Part of a larger toolkit, HollowGraph uses a compromised 365 account’s calendar as a two-way dead-drop. The post New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication appeared first on SecurityWeek .",
-          "date": "2026-07-21T11:55:28+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+          "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+          "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck. The vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case of unauthenticated path traversal impacting Windmill's \"get_log_file\" endpoint (\"/a…",
+          "date": "2026-07-22T12:36:36+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "The Fastest Path to AI Adoption Runs Through Security",
+          "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
+          "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they want, and CISOs the strategic influence they have earned. According to McKinsey…",
+          "date": "2026-07-22T11:58:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+          "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+          "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week. The AI company said the models were operating with \"…",
+          "date": "2026-07-22T11:30:02+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Why Modern SOCs Need Multi-Layered Detections",
           "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
@@ -1006,13 +1027,6 @@
           "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
           "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of …",
           "date": "2026-07-22T04:57:52+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-          "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-          "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week. The AI company said the models were operating with \"…",
-          "date": "2026-07-22T04:18:33+00:00",
           "source": "The Hacker News"
         },
         {
@@ -1314,20 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
           "summary": "More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of interactive malware analysis and threat intelligence solutions. The investigation revealed previously undocumented backdo…",
           "date": "2026-07-16T11:58:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
-          "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
-          "summary": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment can make it run a stranger's command on your computer. Neither trick hijacks the ag…",
-          "date": "2026-07-16T11:32:28+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
-          "link": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
-          "summary": "An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbed Stupig. Daxin (\"srt64.sys\"), as the kernel-mode rootkit is referred to, was first documented by Br…",
-          "date": "2026-07-16T11:17:23+00:00",
           "source": "The Hacker News"
         }
       ]
