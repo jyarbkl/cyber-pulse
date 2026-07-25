@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-07-25T12:05:21.675665+00:00",
+  "generated_at": "2026-07-25T16:47:03.092929+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Malicious sites use JavaScript to build malware in browser memory",
+          "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
+          "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
+          "date": "2026-07-25T15:21:09+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
+          "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+          "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
+          "date": "2026-07-25T14:16:26+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "OpenAI confirms ChatGPT is down worldwide",
           "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
           "summary": "A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]",
           "date": "2026-07-23T19:48:30+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
-          "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
-          "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]",
-          "date": "2026-07-23T16:49:27+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
-          "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
-          "date": "2026-07-23T16:32:35+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -981,6 +981,13 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+          "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+          "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, …",
+          "date": "2026-07-25T12:52:43+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
           "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
           "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any authenticated user who can push to a project can run it. The…",
@@ -1321,13 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
           "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050. Group-IB, which named the malware HollowGraph, says the approach moves…",
           "date": "2026-07-20T14:33:43+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
-          "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-          "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bugs we…",
-          "date": "2026-07-20T13:32:26+00:00",
           "source": "The Hacker News"
         }
       ]
