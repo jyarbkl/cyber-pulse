@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-07-24T17:21:07.273640+00:00",
+  "generated_at": "2026-07-25T12:05:21.675665+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "OpenAI confirms ChatGPT is down worldwide",
+          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
+          "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
+          "date": "2026-07-25T09:31:09+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "OnTrac notifies customers of data breach after network hack",
+          "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
+          "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
+          "date": "2026-07-24T19:55:01+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
+          "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
+          "summary": "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
+          "date": "2026-07-24T19:09:09+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
+          "summary": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
+          "date": "2026-07-24T17:50:37+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
@@ -81,34 +109,6 @@
           "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
           "date": "2026-07-23T16:32:35+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-          "summary": "Microsoft is impacted by a massive outage affecting Teams and Microsoft 365 services, primarily affecting users in North America. [...]",
-          "date": "2026-07-23T15:34:43+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
-          "link": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
-          "summary": "FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 20X means and how organizations can prepare for continuous, evidence-based assurance. [...]",
-          "date": "2026-07-23T14:00:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "EU fines Google $1 billion for search, app store antitrust violations",
-          "link": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
-          "summary": "The European Commission fined Google €890 million ($1 billion) on Thursday after finding the company had violated the European Union's Digital Markets Act (DMA), which ensures fair online competition. [...]",
-          "date": "2026-07-23T12:33:19+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
-          "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
-          "summary": "A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges. [...]",
-          "date": "2026-07-23T11:40:16+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,20 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "CISOs vs. Boards: Myth or Misunderstanding?",
+          "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
+          "summary": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
+          "date": "2026-07-24T21:31:53+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation",
+          "link": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation",
+          "summary": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising — and preventing the next AI model escape will be difficult, at best.",
+          "date": "2026-07-24T19:45:02+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
           "link": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery",
           "summary": "Security Pro File: On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Jen Ellis' advocacy on behalf of security researchers.",
           "date": "2026-07-10T19:08:04+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Cybercriminals Flock to Healthcare Businesses as Attacks Surge",
-          "link": "https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge",
-          "summary": "While cyberattacks against hospitals and clinics grew modestly in the first half of 2026, attacks on service providers and other healthcare businesses more than doubled.",
-          "date": "2026-07-10T16:51:34+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Fresh ATM Crypto Software Bugs: Jackpot or Bust?",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust",
-          "summary": "Organizations, and possibly ATMs, are at risk of compromise, thanks to holes in a Microsoft BitLocker security wrapper.",
-          "date": "2026-07-10T14:00:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
+          "link": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
+          "summary": "A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations. The post Rockwell Patches Code Execution Flaws in Arena Simulation Software appeared first on SecurityWeek .",
+          "date": "2026-07-25T08:30:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
           "link": "https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/",
           "summary": "Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt. The post In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws…",
@@ -966,13 +973,6 @@
           "summary": "SentinelOne’s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot. The post Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models appeared first on SecurityWeek .",
           "date": "2026-07-23T12:42:12+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses",
-          "link": "https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/",
-          "summary": "Hackers recently obtained non-sensitive customer information and other documents from the company. The post Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses appeared first on SecurityWeek .",
-          "date": "2026-07-23T10:49:10+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,34 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+          "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+          "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any authenticated user who can push to a project can run it. The…",
+          "date": "2026-07-25T10:14:26+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+          "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
+          "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations int…",
+          "date": "2026-07-25T10:14:21+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+          "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+          "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in…",
+          "date": "2026-07-25T10:14:03+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+          "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+          "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersecurity company PRODAFT is tracking the centrally administered…",
+          "date": "2026-07-25T09:53:41+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
           "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
@@ -1300,34 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
           "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bugs we…",
           "date": "2026-07-20T13:32:26+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
-          "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
-          "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, and the locations of Ukrainian troops. That is the finding of a cybersecurity adv…",
-          "date": "2026-07-20T12:13:39+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-          "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-          "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Myt…",
-          "date": "2026-07-20T11:30:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-          "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-          "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02. T…",
-          "date": "2026-07-20T09:10:56+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-          "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-          "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet. The findings come from an analysis of 200 Gemini CLI session logs between March 19 and April 21, 2026, whi…",
-          "date": "2026-07-20T09:07:11+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1926,6 +1926,13 @@
       "url": "https://www.sans.org/blog",
       "articles": [
         {
+          "title": "The Sandbox Let It Out. The Guardrails Locked Us Out. Blog Artificial Intelligence   24 Jul 2026     SANS Institute",
+          "link": "https://www.sans.org/blog/sandbox-let-it-out-guardrails-locked-us-out",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
           "title": "Benchmark Your AI Security Decisions: A Five-Minute Survey Blog Artificial Intelligence   20 Jul 2026     Lenny Zeltser",
           "link": "https://www.sans.org/blog/benchmark-your-ai-security-decisions-five-minute-survey",
           "summary": "",
@@ -1998,13 +2005,6 @@
         {
           "title": "Investigating AI Tools and Modern Linux Intrusions Blog Digital Forensics and Incident Response   30 Jun 2026     Tarot (Taz) Wake",
           "link": "https://www.sans.org/blog/investigating-ai-tools-modern-linux-intrusions",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Agentic AI: The Weapon That No Longer Needs a Warrior Blog Artificial Intelligence   29 Jun 2026     Foster Nethercott",
-          "link": "https://www.sans.org/blog/agentic-ai-weapon-that-no-longer-needs-warrior",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
