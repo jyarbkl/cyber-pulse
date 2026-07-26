@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-07-26T12:08:40.102350+00:00",
+  "generated_at": "2026-07-26T16:50:02.902587+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+          "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
+          "date": "2026-07-26T14:13:39+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
           "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
           "summary": "A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]",
           "date": "2026-07-23T21:20:34+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Australian energy provider Origin says data breach exposes client data",
-          "link": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
-          "summary": "Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
-          "date": "2026-07-23T20:14:35+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -1850,6 +1850,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Scans for ESAFENET CDG 3 Document Management System Weak Logins, (Sun, Jul 26th)",
+          "link": "https://isc.sans.edu/diary/rss/33184",
+          "summary": "ESAFENET&#;x26;#;39;s CDG showed up in our data before. The company focused on secure document management and data leakage prevention solutions. The \"CDG\" stands for \"Content Data Guard\", and the product appears to be mostly targeting the Chinese market [1]. Sadly, like so many security products, it…",
+          "date": "2026-07-26T15:26:14+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Friday, July 24th, 2026 https://isc.sans.edu/podcastdetail/10022, (Fri, Jul 24th)",
           "link": "https://isc.sans.edu/diary/rss/33182",
           "summary": "",
@@ -1910,13 +1917,6 @@
           "link": "https://isc.sans.edu/diary/rss/33166",
           "summary": "",
           "date": "2026-07-20T02:00:02+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Scans for Hikvision Intelligent Security API, (Sun, Jul 19th)",
-          "link": "https://isc.sans.edu/diary/rss/33164",
-          "summary": "We have been following issues with Hikvision cameras for a long, long time. Like many similar products, Hikvision cameras have a long history of vulnerabilities and are often targeted by internet-wide scans that our honeypot network detects.",
-          "date": "2026-07-19T15:00:38+00:00",
           "source": "SANS ISC"
         }
       ]
