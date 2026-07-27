@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-07-27T13:41:28.537704+00:00",
+  "generated_at": "2026-07-27T17:36:33.847718+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
+          "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
+          "summary": "Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]",
+          "date": "2026-07-27T17:29:07+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
+          "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
+          "summary": "The Coca-Cola Company has confirmed that hackers stole data from its dairy subsidiary, Fairlife, during a ransomware attack earlier this month. [...]",
+          "date": "2026-07-27T15:39:51+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
+          "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
+          "summary": "The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attack. [...]",
+          "date": "2026-07-27T15:12:27+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
+          "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
+          "summary": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before unmanaged permissions and autonomous actions create security risks. [...]",
+          "date": "2026-07-27T14:01:11+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
           "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
@@ -80,34 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
           "summary": "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch verification and governed dependency management can help stop these attacks before malic…",
           "date": "2026-07-24T14:01:11+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
-          "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
-          "summary": "Europol has flagged 4,340 URLs for removal during a multi-week operation targeting online content linked to \"The Com,\" a loosely organized network of nihilistic violent extremist groups. [...]",
-          "date": "2026-07-24T12:56:53+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Man gets six years for hacking 750 women's Snapchat accounts",
-          "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
-          "summary": "An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 women to steal nude photos. [...]",
-          "date": "2026-07-24T11:17:19+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
-          "summary": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
-          "date": "2026-07-24T07:36:39+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "New Dolphin X malware uses AI to rank high-value targets",
-          "link": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
-          "summary": "A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]",
-          "date": "2026-07-23T21:20:34+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "New GitHub, PyPI Policies Boost Supply Chain Security",
+          "link": "https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/",
+          "summary": "Dependabot gets a three-day cooldown window before opening pull requests, and PyPI rejects file uploads to releases older than 14 days. The post New GitHub, PyPI Policies Boost Supply Chain Security appeared first on SecurityWeek .",
+          "date": "2026-07-27T14:26:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
           "link": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
           "summary": "The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication. The post PTC Windchill Vulnerability Exploited in Ransomware Campaign appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network. The post DentaQuest Data Breach Potentially Impacts Over 23 Million People appeared first on SecurityWeek .",
           "date": "2026-07-27T09:34:12+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "MCBS Data Breach Affects 1.2 Million Individuals",
-          "link": "https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/",
-          "summary": "The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company. The post MCBS Data Breach Affects 1.2 Million Individuals appeared first on SecurityWeek .",
-          "date": "2026-07-27T04:51:32+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
+          "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
+          "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user. SSD Secure Disclosure lists vBulleti…",
+          "date": "2026-07-27T14:40:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
+          "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
+          "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services. Nothing looked strange at first. That helped. That…",
+          "date": "2026-07-27T14:10:54+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
           "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
@@ -1314,20 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
           "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving the agent. Researchers demonstrated that chain, plus six ot…",
           "date": "2026-07-21T11:58:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-          "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-          "summary": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, and you can hit every system that hasn't updated yet. This is N-day exploitation,…",
-          "date": "2026-07-21T11:42:23+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-          "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-          "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, described by three Zhejiang University researchers in a paper accepted to CHES 2026, t…",
-          "date": "2026-07-21T11:24:50+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1926,6 +1926,13 @@
       "url": "https://www.sans.org/blog",
       "articles": [
         {
+          "title": "SANS Threat Analysis Rundown in Review: The Post-Mythos Defender's Playbook Blog Artificial Intelligence   27 Jul 2026     Sean O'Connor",
+          "link": "https://www.sans.org/blog/sans-threat-analysis-rundown-review-post-mythos-defenders-playbook",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
           "title": "The Sandbox Let It Out. The Guardrails Locked Us Out. Blog Artificial Intelligence   24 Jul 2026     SANS Institute",
           "link": "https://www.sans.org/blog/sandbox-let-it-out-guardrails-locked-us-out",
           "summary": "",
@@ -1998,13 +2005,6 @@
         {
           "title": "Cloud Security and AI Service Architecture: What’s New in SEC549 Blog Cloud Security   2 Jul 2026     Eric Johnson",
           "link": "https://www.sans.org/blog/cloud-security-ai-service-architecture-whats-new-sec549",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Investigating AI Tools and Modern Linux Intrusions Blog Digital Forensics and Incident Response   30 Jun 2026     Tarot (Taz) Wake",
-          "link": "https://www.sans.org/blog/investigating-ai-tools-modern-linux-intrusions",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
