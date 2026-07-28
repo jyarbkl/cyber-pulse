@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-07-28T12:57:25.161359+00:00",
+  "generated_at": "2026-07-28T17:20:04.006985+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+          "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+          "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]",
+          "date": "2026-07-28T14:00:10+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
           "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
@@ -102,13 +109,6 @@
           "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
           "date": "2026-07-25T14:16:26+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "OpenAI confirms ChatGPT is down worldwide",
-          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-          "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
-          "date": "2026-07-25T09:31:09+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
+          "summary": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
+          "date": "2026-07-28T16:38:48+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
           "link": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyber-risk/manage-vendor-risk-in-a-few-practical-steps",
           "summary": "Risk tolerance, exposure visibility, board oversight — handling third-party risk is complicated but achievable with disciplined, precise governance.",
           "date": "2026-07-14T17:44:55+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Frontier AI: The Genie's Out of the Bottle, but Where's the Rulebook?",
-          "link": "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook",
-          "summary": "Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use.",
-          "date": "2026-07-14T16:02:39+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,27 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Cyera Acquiring Oasis Security in $1 Billion Deal",
+          "link": "https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/",
+          "summary": "Oasis Security recently raised $120 million in Series B funding for its agentic access management platform. The post Cyera Acquiring Oasis Security in $1 Billion Deal appeared first on SecurityWeek .",
+          "date": "2026-07-28T14:55:30+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe",
+          "link": "https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/",
+          "summary": "Apple announced that dozens of vulnerabilities have been patched in each of its operating systems. The post Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe appeared first on SecurityWeek .",
+          "date": "2026-07-28T14:19:31+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "OT Security Startup Frenos Raises $1.52 Million",
+          "link": "https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/",
+          "summary": "The company will use the fresh investment to grow its customer success and AI R&D teams. The post OT Security Startup Frenos Raises $1.52 Million appeared first on SecurityWeek .",
+          "date": "2026-07-28T13:05:25+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model",
           "link": "https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/",
           "summary": "The company claims MAI-Cyber-1-Flash tops Anthropic’s Mythos and OpenAI’s GPT-5.6 Sol in CyberGym testing. The post Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model appeared first on SecurityWeek .",
@@ -952,27 +973,6 @@
           "summary": "Impacting on-premises deployments, the OS command injection allows attackers to access privileged internal functionality. The post Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day appeared first on SecurityWeek .",
           "date": "2026-07-28T06:40:36+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Origin Energy Data Breach Affects 900,000 Australians",
-          "link": "https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/",
-          "summary": "The hacker claimed to have stolen the information of 2 million Origin Energy customers after breaching its systems. The post Origin Energy Data Breach Affects 900,000 Australians appeared first on SecurityWeek .",
-          "date": "2026-07-28T05:01:05+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup",
-          "link": "https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/",
-          "summary": "Decades after it appeared in “The Terminator,” Skynet looks more like a forecast of the cyber incident in which a rogue AI system hacked into another AI company on its own. The post For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup appeared first on …",
-          "date": "2026-07-28T02:28:03+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "New GitHub, PyPI Policies Boost Supply Chain Security",
-          "link": "https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/",
-          "summary": "Dependabot gets a three-day cooldown window before opening pull requests, and PyPI rejects file uploads to releases older than 14 days. The post New GitHub, PyPI Policies Boost Supply Chain Security appeared first on SecurityWeek .",
-          "date": "2026-07-27T14:26:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,34 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+          "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+          "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its hon…",
+          "date": "2026-07-28T15:01:33+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+          "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+          "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management interfaces running IP…",
+          "date": "2026-07-28T14:41:36+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+          "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+          "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they rea…",
+          "date": "2026-07-28T13:33:47+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+          "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+          "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker a…",
+          "date": "2026-07-28T12:56:14+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
           "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
@@ -1300,34 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
           "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week. The AI company said the models were operating with \"…",
           "date": "2026-07-22T11:30:02+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Why Modern SOCs Need Multi-Layered Detections",
-          "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-          "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most intrusions now bypass endpoint and malware-based detection entirely. The CrowdStrike Globa…",
-          "date": "2026-07-22T11:25:35+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
-          "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-          "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the man they say developed and ran it. In a joint announcement on Monday, the Frankfur…",
-          "date": "2026-07-22T06:38:45+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-          "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-          "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digitain. The package, named \"Newtonsoftt.Json.Net,\" masquerades as the Newtonsoft.Jso…",
-          "date": "2026-07-22T06:00:06+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-          "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-          "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of …",
-          "date": "2026-07-22T04:57:52+00:00",
           "source": "The Hacker News"
         }
       ]
