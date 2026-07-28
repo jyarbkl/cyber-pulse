@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-07-28T17:20:04.006985+00:00",
+  "generated_at": "2026-07-28T19:26:30.771322+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "CISA shares advice on isolating vital systems during cyberattacks",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+          "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
+          "date": "2026-07-28T18:41:04+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+          "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+          "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
+          "date": "2026-07-28T18:08:50+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Is Your SSO Protected Against Modern Credential Attacks?",
           "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
           "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
           "date": "2026-07-25T22:37:47+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Malicious sites use JavaScript to build malware in browser memory",
-          "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-          "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
-          "date": "2026-07-25T15:21:09+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-          "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-          "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
-          "date": "2026-07-25T14:16:26+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -981,6 +981,13 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+          "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+          "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementa…",
+          "date": "2026-07-28T18:59:07+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
           "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
           "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its hon…",
@@ -1321,13 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
           "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they want, and CISOs the strategic influence they have earned. According to McKinsey…",
           "date": "2026-07-22T11:58:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-          "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-          "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week. The AI company said the models were operating with \"…",
-          "date": "2026-07-22T11:30:02+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -2084,6 +2084,82 @@
           "summary": "In Part 3, ESC2: The Seal of Any Purpose , we shifted from identity to capability. Instead of changing who a certificate represents, ESC2 explored how broadly that certificate can be used once issued.",
           "date": "2026-05-18T13:13:30+00:00",
           "source": "Secure Ideas"
+        }
+      ]
+    },
+    "ANY.RUN Blog": {
+      "name": "ANY.RUN Blog",
+      "url": "https://any.run/cybersecurity-blog/feed/",
+      "articles": [
+        {
+          "title": "Building Resilience Against AiTM Phishing: What SOC Leaders Should Know",
+          "link": "https://any.run/cybersecurity-blog/enterprise-phishing-resilience/",
+          "summary": "Email gateways, endpoint controls, and file-centric sandboxing remain essential layers of defense. But many of today’s phishing attacks unfold in ways they weren’t designed to fully expose. How do you build resilience against modern phishing if it has outgrown your SOC’s investigation workflows? Ret…",
+          "date": "2026-07-28T09:03:42+00:00",
+          "source": "ANY.RUN Blog"
+        },
+        {
+          "title": "Faster Incident Response: How ANY.RUN Helps SOCs Cut MTTR by Up to 21 Minutes per Case",
+          "link": "https://any.run/cybersecurity-blog/efficient-soc-for-fast-response/",
+          "summary": "SOCs face constant pressure to detect and respond to threats faster. Heavy workloads, limited threat visibility, and disconnected tools can delay action, increasing the risk of financial loss and operational disruption. ANY.RUN helps more than 15,000 security teams reduce these delays with fresh thr…",
+          "date": "2026-07-22T11:44:40+00:00",
+          "source": "ANY.RUN Blog"
+        },
+        {
+          "title": "Kali365 Targets US Organizations with Data Theft via Device Code Phishing",
+          "link": "https://any.run/cybersecurity-blog/kali365-phishing-targeting-us/",
+          "summary": "Kali365 is targeting US organizations with device code phishing attacks that abuse legitimate Microsoft authentication. Instead of directing victims to a fake login form, the phishkit sends them to a real Microsoft page, where they authorize access using an attacker-controlled device code. This make…",
+          "date": "2026-07-21T07:01:11+00:00",
+          "source": "ANY.RUN Blog"
+        },
+        {
+          "title": "Hidden Infrastructure Exposed: ANY.RUN Reveals Hijacked Gov Websites Delivering Malware",
+          "link": "https://any.run/cybersecurity-blog/phantomenigma-research/",
+          "summary": "An original threat intelligence investigation uncovering how trusted government infrastructure became an attack channel, placing banking organizations and public-sector systems at risk while revealing previously undocumented infrastructure relationships and actionable mitigation guidance for securit…",
+          "date": "2026-07-16T08:51:30+00:00",
+          "source": "ANY.RUN Blog"
+        },
+        {
+          "title": "​​Kratos PhaaS Targets US and EU: How to Reduce Microsoft 365 Account Takeover Risk​",
+          "link": "https://any.run/cybersecurity-blog/kratos-phaas-account-takeover/",
+          "summary": "Kratos is a mature Phishing-as-a-Service operation targeting Microsoft 365 users across the US, Europe, and other regions. By combining trusted platforms, anti-bot checks, and convincing login pages, ithelps attackers steal credentials while delaying detection and response. For security leaders, tha…",
+          "date": "2026-07-14T10:06:03+00:00",
+          "source": "ANY.RUN Blog"
+        },
+        {
+          "title": "US Threat Landscape Alert: 30 Active Malware Families Ranked by Real Sandbox Data",
+          "link": "https://any.run/cybersecurity-blog/usa-top-30-threats-2026/",
+          "summary": "State of Cybersecurity in the US American organizations are processing more malware submissions than ever, and the mix keeps shifting under their feet. Phishing kits that hijack multi-factor authentication now sit alongside decades-old ransomware, commodity RATs sold for the price of a streaming sub…",
+          "date": "2026-07-09T11:19:16+00:00",
+          "source": "ANY.RUN Blog"
+        },
+        {
+          "title": "NIST CSF 2.0 Practical Guide: Building a Modern Security Program for Risk Management in the US Companies",
+          "link": "https://any.run/cybersecurity-blog/nist-csf-guide-for-cisos/",
+          "summary": "Cybersecurity programs often grow over time through new policies, controls, and technologies. The challenge for CISOs is making sure these pieces work together and support the risks that matter most to the business. NIST CSF 2.0 provides a practical structure for doing that. It helps US organization…",
+          "date": "2026-07-08T11:14:07+00:00",
+          "source": "ANY.RUN Blog"
+        },
+        {
+          "title": "Banana RAT Evolves: Comparing Two Recent Branches Through ANY.RUN",
+          "link": "https://any.run/cybersecurity-blog/banana-rat-evolution-analysis/",
+          "summary": "Editor’s note: The analysis is authored by Moises Cerqueira, malware researcher & threat hunter. You can find Moises on LinkedIn and X. This analysis started with an exposed public index on 198[.]245[.]53[.]26, discovered via Shodan. What made it interesting was not just the server exposure itself, …",
+          "date": "2026-07-07T14:02:31+00:00",
+          "source": "ANY.RUN Blog"
+        },
+        {
+          "title": "Release Notes: In-Browser Data Inspection, Torq Integration, and 1,100+ Threat Coverage Updates",
+          "link": "https://any.run/cybersecurity-blog/release-notes-june-2026/",
+          "summary": "Phishing pages don’t sit still anymore. They redirect, load scripts, harvest credentials through dynamic forms, and rebuild their DOM after the initial load — and most URL analysis workflows still only see the finish line, not the race. This June, ANY.RUN closed that gap directly inside the Interact…",
+          "date": "2026-07-01T11:31:25+00:00",
+          "source": "ANY.RUN Blog"
+        },
+        {
+          "title": "Closing the Supplier Security Gap: How a US Manufacturer Cut Third-Party Risk and Doubled SOC Triage Speed",
+          "link": "https://any.run/cybersecurity-blog/us-manufacturer-security-risk/",
+          "summary": "For a US automotive manufacturer working with more than 200 active vendors, supplier file intake had become a growing security and cost challenge. That pressure is especially high in manufacturing, where SOC teams carry an average workload 18% higher than teams in other industries. By introducing be…",
+          "date": "2026-06-30T10:11:20+00:00",
+          "source": "ANY.RUN Blog"
         }
       ]
     }
