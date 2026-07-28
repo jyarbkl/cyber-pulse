@@ -20,27 +20,13 @@ A personal cybersecurity RSS reader hosted on GitHub Pages. Feeds are fetched au
 - **Latest view** — all articles newest first across all sources
 - **By Source view** — articles grouped by publication
 - **Bookmarks** — save articles to read later (stored in this browser only)
-- **13 sources** — curated cybersecurity news, research, and advisories
+- See `feeds.json` for the current list of sources
 
 ---
 
 ## Sources
 
-| Source | Type |
-|--------|------|
-| BleepingComputer | News |
-| Dark Reading | News |
-| Krebs on Security | Investigative |
-| Risky Biz Newsletters | Newsletter |
-| SecurityWeek | News |
-| The Hacker News | News |
-| CISA Advisories | Government advisories |
-| Microsoft Security Blog | Vendor research |
-| Black Hills InfoSec | Practitioner blog |
-| Google Project Zero | Vulnerability research |
-| SANS ISC | Threat monitoring |
-| SANS Blog | Education & analysis |
-| Secure Ideas | Penetration testing blog |
+See `feeds.json` for the current list of sources. To add or remove a feed, edit that file directly.
 
 ---
 
