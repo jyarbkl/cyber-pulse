@@ -1,10 +1,52 @@
 {
-  "generated_at": "2026-07-27T17:36:33.847718+00:00",
+  "generated_at": "2026-07-28T12:57:25.161359+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
+          "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
+          "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
+          "date": "2026-07-28T12:10:23+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
+          "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+          "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
+          "date": "2026-07-28T09:10:03+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers target US firms in FastJson RCE zero-day attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+          "summary": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
+          "date": "2026-07-27T23:49:44+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+          "summary": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
+          "date": "2026-07-27T22:49:44+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+          "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+          "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
+          "date": "2026-07-27T21:08:15+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
+          "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+          "summary": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
+          "date": "2026-07-27T21:00:25+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
           "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
@@ -67,48 +109,6 @@
           "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
           "date": "2026-07-25T09:31:09+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "OnTrac notifies customers of data breach after network hack",
-          "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-          "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
-          "date": "2026-07-24T19:55:01+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
-          "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
-          "summary": "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
-          "date": "2026-07-24T19:09:09+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
-          "summary": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
-          "date": "2026-07-24T17:50:37+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
-          "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [...]",
-          "date": "2026-07-24T15:41:44+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Chick-fil-A data breach affects more than 13,000 customers",
-          "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-          "summary": "Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
-          "date": "2026-07-24T14:04:29+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
-          "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
-          "summary": "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch verification and governed dependency management can help stop these attacks before malic…",
-          "date": "2026-07-24T14:01:11+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,55 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
+          "link": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
+          "summary": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
+          "date": "2026-07-28T12:30:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
+          "summary": "Attackers used Hermes, an autonomous open source tool, in unrestricted \"YOLO mode\" to conduct espionage against Thailand's Ministry of Finance.",
+          "date": "2026-07-28T01:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Agentic Browsers Rewind Web Security by 20 years",
+          "link": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
+          "summary": "PleaseFix class of flaws makes it easy to socially engineer agentic browsers and highlights weaknesses in how they handle cross-origin requests.",
+          "date": "2026-07-27T21:39:09+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure",
+          "link": "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure",
+          "summary": "This category of vulnerabilities allows an attacker to easily acquire administrative level permissions and bypass cloud providers' access controls.",
+          "date": "2026-07-27T20:57:26+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
+          "link": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
+          "summary": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
+          "date": "2026-07-27T20:33:29+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Why Resetting Passwords No Longer Stops Attackers",
+          "link": "https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks",
+          "summary": "As attackers shift from password theft to session and token theft to bypass multifactor authentication controls, organizations must move beyond login security and protect authenticated sessions.",
+          "date": "2026-07-27T18:39:50+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Adversaries Don't Need a Zero-Day — They Read Your Rulebook",
+          "link": "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
+          "summary": "Confidence in autonomous security tools is declining, and here's why.",
+          "date": "2026-07-27T17:31:18+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "CISOs vs. Boards: Myth or Misunderstanding?",
           "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
@@ -222,7 +271,7 @@
           "source": "Dark Reading"
         },
         {
-          "title": "Using LLMs to Find and Prioritize Vulnerabilities Is No Easy Task",
+          "title": "Using LLMs to Find &amp; Prioritize Vulnerabilities Is No Easy Task",
           "link": "https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task",
           "summary": "The latest large language models have high false-positive rates and fail to take into account the context of scans, leading to more work for AppSec professionals.",
           "date": "2026-07-21T21:27:37+00:00",
@@ -415,55 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook",
           "summary": "Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use.",
           "date": "2026-07-14T16:02:39+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "ClickFix's Mushrooming Ecosystem Demands New Defense Tactics",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense",
-          "summary": "The attack vector is available for rent at scale, and evades AV and EDR, leaving YARA analysis as the best detection option.",
-          "date": "2026-07-14T15:53:54+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Cursor IDE Auto-Executes Malicious Code in Poisoned Repos",
-          "link": "https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos",
-          "summary": "Researchers reported the vulnerability to Cursor in December, but it still remains in the popular AI coding platform and can be exploited in poisoned repository attacks.",
-          "date": "2026-07-14T13:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Weak Security Continues to Fuel Russian Cyberattacks",
-          "link": "https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks",
-          "summary": "In a first, the UK and the EU jointly imposed sanctions on Russian individuals and entities for cyberattacks and disinformation campaigns in the region.",
-          "date": "2026-07-13T21:24:59+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "'Yellow Teams' Are Defining the Future of AI Security",
-          "link": "https://www.darkreading.com/cybersecurity-operations/yellow-teams-defining-future-ai-security",
-          "summary": "In some companies, engineers are building defense and attack tools to test the potential of artificial intelligence for cybersecurity — and its threat.",
-          "date": "2026-07-13T18:18:30+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "GigaWiper Lets Threat Actors Choose Their Own Destructive Attack",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack",
-          "summary": "A modular implant borrows from various malware families to combine both backdoor and wiper activities to maximize impact and minimize operational output.",
-          "date": "2026-07-13T16:50:54+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Turning the Tables on Email Scammers With 'ScamBuster'",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster",
-          "summary": "An open source, AI-driven system adopts victim personas to engage with phishing attackers, allowing organizations and law enforcement to gather relevant data on cybercriminal operations.",
-          "date": "2026-07-13T13:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Jen Ellis: Connecting Cyber Community With Political Machinery",
-          "link": "https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery",
-          "summary": "Security Pro File: On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Jen Ellis' advocacy on behalf of security researchers.",
-          "date": "2026-07-10T19:08:04+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,73 +905,73 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model",
+          "link": "https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/",
+          "summary": "The company claims MAI-Cyber-1-Flash tops Anthropic’s Mythos and OpenAI’s GPT-5.6 Sol in CyberGym testing. The post Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model appeared first on SecurityWeek .",
+          "date": "2026-07-28T11:11:48+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker",
+          "link": "https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/",
+          "summary": "Tal Kollander’s history divides neatly into two halves: first as an active hacker and then as the block that stops hacks. The post Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker appeared first on SecurityWeek .",
+          "date": "2026-07-28T11:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Act Security Emerges from Stealth to Fight the Patch Problem",
+          "link": "https://www.securityweek.com/act-security-emerges-from-stealth-to-fight-the-patch-problem/",
+          "summary": "Act Security tackles the spiraling patch problem caused by AI’s ability to find new vulnerabilities in existing cloud environments. The post Act Security Emerges from Stealth to Fight the Patch Problem appeared first on SecurityWeek .",
+          "date": "2026-07-28T11:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Hush Security Raises $30 Million for AI Agent Governance",
+          "link": "https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/",
+          "summary": "The startup will invest in expanding engineering and sales teams, accelerating ecosystem support, and expanding corporate partnerships. The post Hush Security Raises $30 Million for AI Agent Governance appeared first on SecurityWeek .",
+          "date": "2026-07-28T10:17:27+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Google Adopts New Threat Actor Naming System",
+          "link": "https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/",
+          "summary": "The new two-word naming convention uses a memorable term utilized in public reporting and a cluster-categorization word. The post Google Adopts New Threat Actor Naming System appeared first on SecurityWeek .",
+          "date": "2026-07-28T08:42:52+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Unpatched Fastjson Vulnerability Exploited in Attacks",
+          "link": "https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/",
+          "summary": "The critical remote code execution bug can be exploited without authentication, under the library’s stock default configurations. The post Unpatched Fastjson Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
+          "date": "2026-07-28T07:27:55+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day",
+          "link": "https://www.securityweek.com/critical-arista-velocloud-orchestrator-vulnerability-exploited-as-zero-day/",
+          "summary": "Impacting on-premises deployments, the OS command injection allows attackers to access privileged internal functionality. The post Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day appeared first on SecurityWeek .",
+          "date": "2026-07-28T06:40:36+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Origin Energy Data Breach Affects 900,000 Australians",
+          "link": "https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/",
+          "summary": "The hacker claimed to have stolen the information of 2 million Origin Energy customers after breaching its systems. The post Origin Energy Data Breach Affects 900,000 Australians appeared first on SecurityWeek .",
+          "date": "2026-07-28T05:01:05+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup",
+          "link": "https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/",
+          "summary": "Decades after it appeared in “The Terminator,” Skynet looks more like a forecast of the cyber incident in which a rogue AI system hacked into another AI company on its own. The post For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup appeared first on …",
+          "date": "2026-07-28T02:28:03+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "New GitHub, PyPI Policies Boost Supply Chain Security",
           "link": "https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/",
           "summary": "Dependabot gets a three-day cooldown window before opening pull requests, and PyPI rejects file uploads to releases older than 14 days. The post New GitHub, PyPI Policies Boost Supply Chain Security appeared first on SecurityWeek .",
           "date": "2026-07-27T14:26:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
-          "link": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
-          "summary": "The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication. The post PTC Windchill Vulnerability Exploited in Ransomware Campaign appeared first on SecurityWeek .",
-          "date": "2026-07-27T13:19:30+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection",
-          "link": "https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/",
-          "summary": "The malware-as-a-service operation launches legitimate browsers on an invisible desktop, giving attackers persistent and covert remote access to compromised Windows systems. The post MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection appeared first on SecurityWeek .",
-          "date": "2026-07-27T13:00:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Nvidia and Tech Giants Launch AI Security Alliance",
-          "link": "https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/",
-          "summary": "The Nvidia-led coalition aims to give defenders more open tools for testing, auditing and protecting AI models and agents. The post Nvidia and Tech Giants Launch AI Security Alliance appeared first on SecurityWeek .",
-          "date": "2026-07-27T12:25:43+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack",
-          "link": "https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/",
-          "summary": "The Anubis cybercrime group has taken credit for the attack and is threatening to leak data. The post Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack appeared first on SecurityWeek .",
-          "date": "2026-07-27T11:29:03+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Beelzebub Raises $3.4 Million for Hacker-Trapping Platform",
-          "link": "https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/",
-          "summary": "The company plans to expand its research team, open new offices in Rome and San Francisco, and acquire new clients. The post Beelzebub Raises $3.4 Million for Hacker-Trapping Platform appeared first on SecurityWeek .",
-          "date": "2026-07-27T11:06:24+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out",
-          "link": "https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/",
-          "summary": "The new Mobile Security Exposure Center creates SBOMs for enterprise mobile apps to uncover vulnerable components, dependencies and hidden risks. The post What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out appeared first on SecurityWeek .",
-          "date": "2026-07-27T11:00:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials",
-          "link": "https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/",
-          "summary": "A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees. The post Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials appeared first on SecurityWeek .",
-          "date": "2026-07-27T10:50:19+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits",
-          "link": "https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/",
-          "summary": "Binary-based vulnerability scanning, penetration testing, and exploit generation are blocked in Opus 5. The post Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits appeared first on SecurityWeek .",
-          "date": "2026-07-27T10:02:41+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "DentaQuest Data Breach Potentially Impacts Over 23 Million People",
-          "link": "https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/",
-          "summary": "In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network. The post DentaQuest Data Breach Potentially Impacts Over 23 Million People appeared first on SecurityWeek .",
-          "date": "2026-07-27T09:34:12+00:00",
           "source": "SecurityWeek"
         }
       ]
@@ -980,6 +980,55 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
+          "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
+          "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the Middle East, Africa, and South Asia. The intrusions involve the use of a previous…",
+          "date": "2026-07-28T11:55:20+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
+          "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
+          "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. The vulnerability, assigned CVE-2026-63077 (CVSS score: 9.8), affects all TeamCity On-Premises versions…",
+          "date": "2026-07-28T08:11:22+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+          "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
+          "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the kernel's network traffic-control subsystem.Researcher Lee Jia Jie said artificia…",
+          "date": "2026-07-28T08:04:44+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
+          "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
+          "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95% on CyberGym. It also claims the configuration costs 50% less than its current b…",
+          "date": "2026-07-28T06:07:22+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
+          "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
+          "summary": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a case of operating system command injection that could pave the way for arbitrar…",
+          "date": "2026-07-28T04:43:53+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
+          "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
+          "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group spans cloud, security, enterprise software, and AI companies, including Microsoft…",
+          "date": "2026-07-27T18:10:05+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
+          "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
+          "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure. The researchers say the design makes the botnet harder to disrupt. CNCERT, Chi…",
+          "date": "2026-07-27T17:16:28+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
           "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
@@ -1280,55 +1329,6 @@
           "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of …",
           "date": "2026-07-22T04:57:52+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
-          "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-          "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a fix for the issue was deployed by Apple on July 3, 2026, after more than a year…",
-          "date": "2026-07-21T18:46:32+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-          "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-          "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to sum…",
-          "date": "2026-07-21T16:06:12+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-          "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-          "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly and efficiently. According to the tech giant, the model will be exclusively ava…",
-          "date": "2026-07-21T15:09:28+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
-          "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-          "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deserialization of untrusted data in Microsoft Office SharePoint that…",
-          "date": "2026-07-21T14:57:51+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-          "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-          "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of…",
-          "date": "2026-07-21T14:04:57+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
-          "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
-          "summary": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As many as nine security vulnerabilities have been patched in Zimbra 10.1.20. Topping the list is a command injection vu…",
-          "date": "2026-07-21T13:18:31+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-          "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-          "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving the agent. Researchers demonstrated that chain, plus six ot…",
-          "date": "2026-07-21T11:58:00+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,20 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "Rethinking security for the age of AI",
+          "link": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
+          "summary": "The physics of cybersecurity are changing. Introducing security's new cyber stack: Project Perception. The post Rethinking security for the age of AI appeared first on Microsoft Security Blog .",
+          "date": "2026-07-27T16:40:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "Enhancing AI security through global AI red teaming",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/",
+          "summary": "Microsoft's External Red Team Alliance (EXTRA) is a global AI security initiative designed to advance AI safety research and red teaming. By partnering with universities, researchers, and regional experts, EXTRA helps identify emerging AI risks, improve security testing, and strengthen the resilienc…",
+          "date": "2026-07-27T16:25:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "Email threat landscape: Q2 2026 trends and insights",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/",
@@ -1395,20 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/",
           "summary": "Microsoft Threat Intelligence identified threat actor activity with overlapping tradecraft commonly associated with ShinyHunters, including voice phishing (vishing), supply-chain compromise, and misconfigured guest access targeting SaaS-based applications. The post Defending SaaS-based applications …",
           "date": "2026-07-13T22:02:41+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/",
-          "summary": "Microsoft Entra ID makes passkeys the default sign-in experience and introduces a new model for SMS and voice authentication. Read about how to prepare. The post Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID appeared first on Microsoft Security Blog …",
-          "date": "2026-07-13T17:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/",
-          "summary": "Microsoft’s latest Secure Future Initiative report outlines progress on secure foundations, AI-powered defense, and future-ready cybersecurity. The post Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative appeared first on Microsoft Security Blog .",
-          "date": "2026-07-10T16:00:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
@@ -1850,6 +1850,20 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "AutoIT Payload Injector , (Tue, Jul 28th)",
+          "link": "https://isc.sans.edu/diary/rss/33192",
+          "summary": "For a long time, AutoIT[1] has been pretty common in the malware ecosystem. Threat actors still use it because it's easy to write and powerful. Indeed, it can perform all the required actions to inject a payload into a remote process as you'll see below.",
+          "date": "2026-07-28T07:42:27+00:00",
+          "source": "SANS ISC"
+        },
+        {
+          "title": "ISC Stormcast For Tuesday, July 28th, 2026 https://isc.sans.edu/podcastdetail/10026, (Tue, Jul 28th)",
+          "link": "https://isc.sans.edu/diary/rss/33190",
+          "summary": "",
+          "date": "2026-07-28T02:00:03+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "Java Spring Boot \"heapdump\" scans, (Mon, Jul 27th)",
           "link": "https://isc.sans.edu/diary/rss/33188",
           "summary": "Spring Boot exposes the endpoint \"/actuator/heapdump\" to collect debug information. By default, the endpoint will return a file heapdump.hprof, which includes a binary heapdump that can be used to analyze the current state of the application. Non-Java readers may be familiar with a similar concept, …",
@@ -1904,20 +1918,6 @@
           "summary": "",
           "date": "2026-07-22T02:00:02+00:00",
           "source": "SANS ISC"
-        },
-        {
-          "title": "Captive Portal Detection, (Tue, Jul 21st)",
-          "link": "https://isc.sans.edu/diary/rss/33172",
-          "summary": "Not everything our honeypots detect is an attack. Sometimes it is just \"odd traffic\", and this is one example: Our \"First Seen\" list currently includes \"http://detectportal.firefox.co",
-          "date": "2026-07-21T13:44:56+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Tuesday, July 21st, 2026 https://isc.sans.edu/podcastdetail/10016, (Tue, Jul 21st)",
-          "link": "https://isc.sans.edu/diary/rss/33170",
-          "summary": "",
-          "date": "2026-07-21T02:00:02+00:00",
-          "source": "SANS ISC"
         }
       ]
     },
@@ -1928,6 +1928,13 @@
         {
           "title": "SANS Threat Analysis Rundown in Review: The Post-Mythos Defender's Playbook Blog Artificial Intelligence   27 Jul 2026     Sean O'Connor",
           "link": "https://www.sans.org/blog/sans-threat-analysis-rundown-review-post-mythos-defenders-playbook",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "The Models Said No: Inside the Hugging Face Post-Mortem Blog Artificial Intelligence   27 Jul 2026     Rob T. Lee",
+          "link": "https://www.sans.org/blog/models-said-no-inside-hugging-face-post-mortem",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
@@ -1998,13 +2005,6 @@
         {
           "title": "When Time Lies: The Hidden Risk of Time Zones, DST, and Log Analysis Blog Cyber Defense   6 Jul 2026     Bryan Simon",
           "link": "https://www.sans.org/blog/when-time-lies-hidden-risk-time-zones-dst-log-analysis",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Cloud Security and AI Service Architecture: What’s New in SEC549 Blog Cloud Security   2 Jul 2026     Eric Johnson",
-          "link": "https://www.sans.org/blog/cloud-security-ai-service-architecture-whats-new-sec549",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
