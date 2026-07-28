@@ -64,6 +64,11 @@
       "name": "Secure Ideas",
       "url": "https://www.secureideas.com/blog/rss.xml",
       "type": "rss"
+    },
+    {
+      "name": "ANY.RUN Blog",
+      "url": "https://any.run/cybersecurity-blog/feed/",
+      "type": "rss"
     }
   ]
 }
