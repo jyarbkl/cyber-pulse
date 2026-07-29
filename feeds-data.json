@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-07-29T13:04:34.577403+00:00",
+  "generated_at": "2026-07-29T17:05:29.930922+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
+          "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
+          "summary": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. [...]",
+          "date": "2026-07-29T16:04:59+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
+          "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
+          "date": "2026-07-29T14:55:57+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
+          "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
+          "summary": "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the foundation for securing agentic AI. [...]",
+          "date": "2026-07-29T14:02:12+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
+          "summary": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]",
+          "date": "2026-07-29T13:56:22+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "These near-mint ASUS Chromebook refurbs are only $145",
           "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
@@ -81,34 +109,6 @@
           "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
           "date": "2026-07-27T21:08:15+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
-          "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
-          "summary": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
-          "date": "2026-07-27T21:00:25+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
-          "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
-          "summary": "Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]",
-          "date": "2026-07-27T17:29:07+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
-          "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
-          "summary": "The Coca-Cola Company has confirmed that hackers stole data from its dairy subsidiary, Fairlife, during a ransomware attack earlier this month. [...]",
-          "date": "2026-07-27T15:39:51+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
-          "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
-          "summary": "The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attack. [...]",
-          "date": "2026-07-27T15:12:27+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -117,9 +117,16 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
+          "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
+          "summary": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
+          "date": "2026-07-29T14:40:33+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
           "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
-          "summary": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who has released an open source tool to sniff out trust paths.",
+          "summary": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who plans to release an open source tool next week at Black Hat USA 2026 that sniffs out trust paths.",
           "date": "2026-07-28T21:33:23+00:00",
           "source": "Dark Reading"
         },
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/application-security/2-click-cursor-exploit-dev-environment-takeover",
           "summary": "Simple age-old bugs give bad actors access to developers' secrets and source code-rich environments.",
           "date": "2026-07-15T13:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits",
-          "link": "https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits",
-          "summary": "The West African country advanced rules to force organizations to disclose cyberattacks, joining other nations in a shift to mandated transparency.",
-          "date": "2026-07-15T08:00:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security",
+          "link": "https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/",
+          "summary": "The agency said imports of advanced robots pose cybersecurity and other national security risks. The post US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security appeared first on SecurityWeek .",
+          "date": "2026-07-29T13:31:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Mate Security Raises $35 Million for Agentic SOC",
           "link": "https://www.securityweek.com/mate-security-raises-35-million-for-agentic-soc/",
           "summary": "The startup will use the investment to expand its customer support, sales, and R&D teams. The post Mate Security Raises $35 Million for Agentic SOC appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Ernst & Young previously confirmed that personal and financial information was stolen from a third-party management platform. The post ShinyHunters Claims Ernst & Young Hack appeared first on SecurityWeek .",
           "date": "2026-07-29T06:23:34+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Cyera Acquiring Oasis Security in $1 Billion Deal",
-          "link": "https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/",
-          "summary": "Oasis Security recently raised $120 million in Series B funding for its agentic access management platform. The post Cyera Acquiring Oasis Security in $1 Billion Deal appeared first on SecurityWeek .",
-          "date": "2026-07-28T14:55:30+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,34 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+          "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+          "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. The vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all ver…",
+          "date": "2026-07-29T15:39:30+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+          "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
+          "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as …",
+          "date": "2026-07-29T15:31:15+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
+          "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+          "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response. Braham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected a…",
+          "date": "2026-07-29T13:48:36+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
+          "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
+          "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years. According to Russian cybersecurity vendor F6, the threat actors have se…",
+          "date": "2026-07-29T13:42:57+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
           "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
@@ -1300,34 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
           "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic. The threats change every week.…",
           "date": "2026-07-23T15:02:07+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
-          "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-          "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac. Accomplish AI, which shared details of the …",
-          "date": "2026-07-23T13:27:59+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
-          "link": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
-          "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor. The implant never opens an outbound connection of its own. Its process talks to…",
-          "date": "2026-07-23T13:11:09+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
-          "link": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
-          "summary": "An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows loader called TriBack Loader. Group-IB found the se…",
-          "date": "2026-07-23T12:20:23+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
-          "link": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
-          "summary": "Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud is much harder to catch. Instead of stealing a real identity, the attacker manufactures a new one, frankensteining together several real data points wi…",
-          "date": "2026-07-23T11:45:00+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1926,6 +1926,13 @@
       "url": "https://www.sans.org/blog",
       "articles": [
         {
+          "title": "Stay Ahead of Ransomware: The Evolution from Encryption to Extortion Blog Digital Forensics and Incident Response   29 Jul 2026     Mari DeGrazia",
+          "link": "https://www.sans.org/blog/stay-ahead-ransomware-evolution-from-encryption-to-extortion",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
           "title": "SANS Threat Analysis Rundown in Review: The Post-Mythos Defender's Playbook Blog Artificial Intelligence   27 Jul 2026     Sean O'Connor",
           "link": "https://www.sans.org/blog/sans-threat-analysis-rundown-review-post-mythos-defenders-playbook",
           "summary": "",
@@ -1998,13 +2005,6 @@
         {
           "title": "SANS Threat Analysis Rundown in Review: Stopping the Poison Before It Reaches the Water Supply  Blog Digital Forensics and Incident Response   8 Jul 2026     Sean O'Connor",
           "link": "https://www.sans.org/blog/sans-threat-analysis-rundown-stopping-poison-before-reaches-water-supply",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "When Time Lies: The Hidden Risk of Time Zones, DST, and Log Analysis Blog Cyber Defense   6 Jul 2026     Bryan Simon",
-          "link": "https://www.sans.org/blog/when-time-lies-hidden-risk-time-zones-dst-log-analysis",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
