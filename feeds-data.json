@@ -1,10 +1,45 @@
 {
-  "generated_at": "2026-07-30T12:48:34.004172+00:00",
+  "generated_at": "2026-07-30T17:16:17.827375+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
+          "link": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
+          "summary": "Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent releases as it expands its use of AI. [...]",
+          "date": "2026-07-30T17:00:00+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
+          "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
+          "summary": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
+          "date": "2026-07-30T16:46:15+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
+          "summary": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]",
+          "date": "2026-07-30T15:56:33+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Analog Devices discloses data breach, says operations unaffected",
+          "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
+          "summary": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
+          "date": "2026-07-30T15:12:25+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "After the Break-In: What Attackers Do Once They're Already Inside",
+          "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
+          "summary": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must investigate the original entry point rather than simply remove the malware. [...]",
+          "date": "2026-07-30T14:01:11+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
           "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -74,41 +109,6 @@
           "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
           "date": "2026-07-28T21:17:39+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "OpenAI models used Artifactory zero-days to escape to the internet",
-          "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
-          "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]",
-          "date": "2026-07-28T20:37:06+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "CISA shares advice on isolating vital systems during cyberattacks",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
-          "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
-          "date": "2026-07-28T18:41:04+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-          "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-          "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
-          "date": "2026-07-28T18:08:50+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Is Your SSO Protected Against Modern Credential Attacks?",
-          "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
-          "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]",
-          "date": "2026-07-28T14:00:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
-          "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
-          "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
-          "date": "2026-07-28T12:10:23+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -117,9 +117,16 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "Claude Mythos — Hype vs. Reality: What Security Teams Need to Know",
+          "link": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
+          "summary": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?",
+          "date": "2026-07-30T15:28:43+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
           "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
-          "summary": "The groups move from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
+          "summary": "The organized crime groups have moved from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
           "date": "2026-07-30T01:00:00+00:00",
           "source": "Dark Reading"
         },
@@ -133,12 +140,12 @@
         {
           "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
           "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
-          "summary": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
+          "summary": "OpenAI's goal-seeking agent compromised a Modal customer environment and others during its sandbox escape.",
           "date": "2026-07-29T19:48:12+00:00",
           "source": "Dark Reading"
         },
         {
-          "title": "Red Agents vs. Blue Agents: How to Make AI Better At Defense",
+          "title": "Red Agents vs. Blue Agents: How to Make AI Better at Defense",
           "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
           "summary": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
           "date": "2026-07-29T19:46:20+00:00",
@@ -152,7 +159,7 @@
           "source": "Dark Reading"
         },
         {
-          "title": "Hugging Face Hack Lessons for Cyber Defenders",
+          "title": "Hugging Face Hack: Lessons for Cyber Defenders",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
           "summary": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
           "date": "2026-07-29T17:35:23+00:00",
@@ -458,13 +465,6 @@
           "summary": "Agentic artificial intelligence is creating enough risks for organizations to demand a security reframe.",
           "date": "2026-07-16T20:57:47+00:00",
           "source": "Dark Reading"
-        },
-        {
-          "title": "1M+ Emails Use Hidden Text to Dupe AI Security Filters",
-          "link": "https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters",
-          "summary": "Artificial intelligence and LLMs can be surprisingly ineffective against text salting, allowing phishing emails to slide right into your inbox.",
-          "date": "2026-07-16T19:41:31+00:00",
-          "source": "Dark Reading"
         }
       ]
     },
@@ -472,6 +472,13 @@
       "name": "Krebs on Security",
       "url": "https://krebsonsecurity.com/feed/",
       "articles": [
+        {
+          "title": "Read This Before You Buy That TV Streaming Stick",
+          "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+          "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also r…",
+          "date": "2026-07-30T16:49:00+00:00",
+          "source": "Krebs on Security"
+        },
         {
           "title": "LG to Ban Residential Proxies from Smart TV Apps",
           "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -533,13 +540,6 @@
           "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
           "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploi…",
           "date": "2026-06-09T22:07:28+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-          "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-          "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting ac…",
-          "date": "2026-06-01T17:32:50+00:00",
           "source": "Krebs on Security"
         }
       ]
@@ -905,6 +905,34 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Timeless Compliance: Why Better Questions Beat Bigger Frameworks",
+          "link": "https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/",
+          "summary": "The best compliance programs aren't the biggest ones. They're the ones built on a short list of questions that can actually be answered, and that still hold true when the models change. The post Timeless Compliance: Why Better Questions Beat Bigger Frameworks appeared first on SecurityWeek .",
+          "date": "2026-07-30T15:46:17+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "DataBahn Raises $40 Million for Agentic Data Pipeline Management",
+          "link": "https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/",
+          "summary": "The company will accelerate investments in R&D and product innovation to expand its agentic data control plane. The post DataBahn Raises $40 Million for Agentic Data Pipeline Management appeared first on SecurityWeek .",
+          "date": "2026-07-30T14:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Cantina Emerges From Stealth With $8 Million in Funding",
+          "link": "https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/",
+          "summary": "The startup’s community-powered agentic security platform helps proactively identify, prioritize, and remediate vulnerabilities. The post Cantina Emerges From Stealth With $8 Million in Funding appeared first on SecurityWeek .",
+          "date": "2026-07-30T13:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Discern Security Raises $13 Million in Series A Funding",
+          "link": "https://www.securityweek.com/discern-security-raises-13-million-in-series-a-funding/",
+          "summary": "The company will invest in accelerating the development and adoption of its agentic platform. The post Discern Security Raises $13 Million in Series A Funding appeared first on SecurityWeek .",
+          "date": "2026-07-30T13:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Onyx Security Raises $113 Million to Control AI Agents in the Enterprise",
           "link": "https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/",
           "summary": "The Series B funding round brings the total raised by Onyx Security to $153 million. The post Onyx Security Raises $113 Million to Control AI Agents in the Enterprise appeared first on SecurityWeek .",
@@ -945,34 +973,6 @@
           "summary": "Five years after the initial release, the refresh introduces new elements, removes others, and updates terminology. The post US and Allies Update SBOM Guidance appeared first on SecurityWeek .",
           "date": "2026-07-30T08:21:19+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Chrome 151 Patches 370 Vulnerabilities",
-          "link": "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
-          "summary": "The major browser update resolves roughly 80 critical- and high-severity security defects. The post Chrome 151 Patches 370 Vulnerabilities appeared first on SecurityWeek .",
-          "date": "2026-07-30T07:51:24+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
-          "link": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/",
-          "summary": "The vulnerability tracked as CVE-2026-20316 can be exploited by a remote, unauthenticated attacker to log into affected devices. The post Cisco Secure FMC Zero-Day Exploited in the Wild appeared first on SecurityWeek .",
-          "date": "2026-07-30T06:31:31+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security",
-          "link": "https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/",
-          "summary": "The agency said imports of advanced robots pose cybersecurity and other national security risks. The post US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security appeared first on SecurityWeek .",
-          "date": "2026-07-29T13:31:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Mate Security Raises $35 Million for Agentic SOC",
-          "link": "https://www.securityweek.com/mate-security-raises-35-million-for-agentic-soc/",
-          "summary": "The startup will use the investment to expand its customer support, sales, and R&D teams. The post Mate Security Raises $35 Million for Agentic SOC appeared first on SecurityWeek .",
-          "date": "2026-07-29T12:47:13+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+          "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+          "summary": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet loaders, abused trust, and exploit paths that should…",
+          "date": "2026-07-30T15:25:57+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+          "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+          "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chain CosmosEscape, said the exploit chain began with a crafted …",
+          "date": "2026-07-30T13:34:09+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
           "link": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
@@ -1315,20 +1329,6 @@
           "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has o…",
           "date": "2026-07-24T15:12:35+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-          "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-          "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication…",
-          "date": "2026-07-24T14:15:21+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-          "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-          "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization. The vulnerability has been…",
-          "date": "2026-07-24T11:53:55+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "​​​​What’s new in Microsoft Security: July 2026",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/",
+          "summary": "This month’s updates help security and IT teams secure their AI environments, use AI to defend, and strengthen the foundations that AI-powered operations depend on. The post ​​​​What’s new in Microsoft Security: July 2026 appeared first on Microsoft Security Blog .",
+          "date": "2026-07-30T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "​​Better security starts with better questions",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/",
           "summary": "Threat actors compromised AsyncAPI packages and weaponized trusted CI/CD workflows to distribute malware through npm. This analysis breaks down the attack chain, payload delivery, and recommended defenses. The post Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery a…",
           "date": "2026-07-16T01:36:21+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Turning threat intelligence into decisive action with Defender Experts",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts/",
-          "summary": "Security teams have never had more visibility, yet rarely have they felt more uncertain. Signal pours in from endpoints, identities, cloud workloads, and a sprawling mix of third-party tools. The post Turning threat intelligence into decisive action with Defender Experts appeared first on Microsoft …",
-          "date": "2026-07-15T16:00:35+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
