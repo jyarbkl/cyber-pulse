@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-07-29T17:05:29.930922+00:00",
+  "generated_at": "2026-07-30T12:48:34.004172+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
+          "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+          "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
+          "date": "2026-07-29T23:44:07+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Anthropic confirms Claude is down worldwide",
+          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+          "summary": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API. [...]",
+          "date": "2026-07-29T21:39:29+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+          "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
+          "date": "2026-07-29T21:35:40+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
+          "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
+          "summary": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
+          "date": "2026-07-29T17:54:05+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
           "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
@@ -13,7 +41,7 @@
           "source": "BleepingComputer"
         },
         {
-          "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
+          "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
           "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
           "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
           "date": "2026-07-29T14:55:57+00:00",
@@ -81,34 +109,6 @@
           "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
           "date": "2026-07-28T12:10:23+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
-          "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
-          "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
-          "date": "2026-07-28T09:10:03+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers target US firms in FastJson RCE zero-day attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
-          "summary": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
-          "date": "2026-07-27T23:49:44+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-          "summary": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
-          "date": "2026-07-27T22:49:44+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
-          "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
-          "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
-          "date": "2026-07-27T21:08:15+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,55 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
+          "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
+          "summary": "The groups move from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
+          "date": "2026-07-30T01:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "'Flying Eagle' Full-Service Mobile RAT Builder Wings Across China",
+          "link": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china",
+          "summary": "A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts.",
+          "date": "2026-07-30T00:30:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
+          "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
+          "summary": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
+          "date": "2026-07-29T19:48:12+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Red Agents vs. Blue Agents: How to Make AI Better At Defense",
+          "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
+          "summary": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
+          "date": "2026-07-29T19:46:20+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions",
+          "summary": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of.",
+          "date": "2026-07-29T17:43:38+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Hugging Face Hack Lessons for Cyber Defenders",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
+          "summary": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
+          "date": "2026-07-29T17:35:23+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "When AppSec Scanners Become a Supply Chain Attack Vector",
+          "link": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector",
+          "summary": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.",
+          "date": "2026-07-29T17:06:52+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
           "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
@@ -416,55 +465,6 @@
           "summary": "Artificial intelligence and LLMs can be surprisingly ineffective against text salting, allowing phishing emails to slide right into your inbox.",
           "date": "2026-07-16T19:41:31+00:00",
           "source": "Dark Reading"
-        },
-        {
-          "title": "Police Disrupt a €140M Cyber Fraud Ring in Spain",
-          "link": "https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain",
-          "summary": "Iberian hackers carried out a variety of cyberattacks and laundered the winnings through complex financial networks.",
-          "date": "2026-07-16T07:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Forgotten Bootloaders Expose Secure Boot Blind Spot",
-          "link": "https://www.darkreading.com/cyber-risk/forgotten-bootloaders-expose-secure-boot-blind-spot",
-          "summary": "Nearly a dozen vulnerable and now revoked UEFI shim bootloaders remained trusted for years, giving attackers a path to bypass Secure Boot.",
-          "date": "2026-07-15T21:19:19+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Identity Attacks Overtake Exploits as Top Ransomware Cause",
-          "link": "https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause",
-          "summary": "Email attacks overtook exploits as the top ransomware root cause last year. Multifactor authentication (MFA) was deployed in 97% of credential-based attacks but failed to prevent compromise.",
-          "date": "2026-07-15T20:16:13+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Guten Tag, Bonjour, Hola to Our European Cyber Defenders!",
-          "link": "https://www.darkreading.com/threat-intelligence/guten-tag-bonjour-hola-european-cyber-defenders",
-          "summary": "We're thrilled to unveil the latest evolution of Dark Reading's DR Global section — your go-to source for region-specific cybersecurity intelligence beyond North America.",
-          "date": "2026-07-15T18:08:56+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Is 'Tech-xit' Imminent? UK Steps Up Sovereignty Push Amid AI Strife",
-          "link": "https://www.darkreading.com/cybersecurity-operations/tech-xit-uk-sovereignty-push-amid-ai-strife",
-          "summary": "The US government's restrictions on Anthropic and OpenAI frontier models have intensified calls in the UK and other countries to reduce their reliance on US tech companies, with significant cyber implications.",
-          "date": "2026-07-15T17:03:23+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Claude Flaw Automatically Sends Malicious Prompts to AI Agents",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/claude-flaw-malicious-prompts-ai-agents",
-          "summary": "When combined with another exploit, the \"PromptFiction\" vulnerability, which has been fixed, could have enabled an end-to-end attack on a targeted system.",
-          "date": "2026-07-15T15:27:35+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "2-Click Cursor Exploit Enables Dev Environment Takeover",
-          "link": "https://www.darkreading.com/application-security/2-click-cursor-exploit-dev-environment-takeover",
-          "summary": "Simple age-old bugs give bad actors access to developers' secrets and source code-rich environments.",
-          "date": "2026-07-15T13:00:00+00:00",
-          "source": "Dark Reading"
         }
       ]
     },
@@ -548,6 +548,13 @@
       "name": "Risky Biz Newsletters",
       "url": "https://risky.biz/feeds/newsletters/",
       "articles": [
+        {
+          "title": "Srsly Risky Biz: Chipping Away at Chinese AI Risks",
+          "link": "https://risky.biz/srsly-risky-biz-chipping-away-at-chinese-ai-risks/",
+          "summary": "The Trump administration has been trying to address two separate AI-related risks in recent months: The specific risk to US national security from China developing powerful AI and the global risk that powerful hacking machines will be available to all and sundry. A proposed bill suggests a sensible …",
+          "date": "2026-07-30T07:12:10+00:00",
+          "source": "Risky Biz Newsletters"
+        },
         {
           "title": "Risky Bulletin: New Chinese cyber contractor identified",
           "link": "https://risky.biz/risky-bulletin-new-chinese-cyber-contractor-identified/",
@@ -890,13 +897,6 @@
           "summary": "The UK's cybersecurity agency has advised public and private organizations against relying too much on bad metrics to evaluate the efficiency of their security operations centers (SOCs). Officials say bad metrics incentivize SOC teams to be careless about their jobs and rush through tickets and dete…",
           "date": "2026-04-29T02:24:26+00:00",
           "source": "Risky Biz Newsletters"
-        },
-        {
-          "title": "Risky Bulletin: New fingerprinting technique can track Tor users",
-          "link": "https://risky.biz/risky-bulletin-new-fingerprinting-technique-can-track-tor-users/",
-          "summary": "Firefox and Tor Browser users are advised to install the latest security patches to address a bug that can allow threat actors to track them across the internet. The bug works in normal browsing mode, in private browsing windows, and, in the case of Tor, across different Tor sessions. The issue, fou…",
-          "date": "2026-04-27T03:05:42+00:00",
-          "source": "Risky Biz Newsletters"
         }
       ]
     },
@@ -904,6 +904,62 @@
       "name": "SecurityWeek",
       "url": "https://www.securityweek.com/feed/",
       "articles": [
+        {
+          "title": "Onyx Security Raises $113 Million to Control AI Agents in the Enterprise",
+          "link": "https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/",
+          "summary": "The Series B funding round brings the total raised by Onyx Security to $153 million. The post Onyx Security Raises $113 Million to Control AI Agents in the Enterprise appeared first on SecurityWeek .",
+          "date": "2026-07-30T12:29:03+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale",
+          "link": "https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/",
+          "summary": "Researchers warn that AI could turn dangling DNS takeovers into a nation-state weapon capable of disrupting governments, banks and global supply chains. The post ‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale appeared first on SecurityWeek .",
+          "date": "2026-07-30T12:15:24+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
+          "link": "https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/",
+          "summary": "Hackers were detected on Analog Devices systems in June, and an investigation found that they stole files. The post Semiconductor Firm Analog Devices Discloses Data Breach appeared first on SecurityWeek .",
+          "date": "2026-07-30T11:16:23+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms",
+          "link": "https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/",
+          "summary": "Unauthenticated attackers could send HTTP requests to an exposed endpoint to execute commands inside the MCP bridge container. The post Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms appeared first on SecurityWeek .",
+          "date": "2026-07-30T09:56:10+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "1 in 5 Data Center Assets Are Within Easy Reach of Attackers",
+          "link": "https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/",
+          "summary": "Claroty has analyzed 750,000 cyber-physical systems across some of the world’s largest data center facilities. The post 1 in 5 Data Center Assets Are Within Easy Reach of Attackers appeared first on SecurityWeek .",
+          "date": "2026-07-30T09:28:37+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "US and Allies Update SBOM Guidance",
+          "link": "https://www.securityweek.com/us-and-allies-update-sbom-guidance/",
+          "summary": "Five years after the initial release, the refresh introduces new elements, removes others, and updates terminology. The post US and Allies Update SBOM Guidance appeared first on SecurityWeek .",
+          "date": "2026-07-30T08:21:19+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Chrome 151 Patches 370 Vulnerabilities",
+          "link": "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
+          "summary": "The major browser update resolves roughly 80 critical- and high-severity security defects. The post Chrome 151 Patches 370 Vulnerabilities appeared first on SecurityWeek .",
+          "date": "2026-07-30T07:51:24+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
+          "link": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/",
+          "summary": "The vulnerability tracked as CVE-2026-20316 can be exploited by a remote, unauthenticated attacker to log into affected devices. The post Cisco Secure FMC Zero-Day Exploited in the Wild appeared first on SecurityWeek .",
+          "date": "2026-07-30T06:31:31+00:00",
+          "source": "SecurityWeek"
+        },
         {
           "title": "US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security",
           "link": "https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/",
@@ -917,62 +973,6 @@
           "summary": "The startup will use the investment to expand its customer support, sales, and R&D teams. The post Mate Security Raises $35 Million for Agentic SOC appeared first on SecurityWeek .",
           "date": "2026-07-29T12:47:13+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "ThreatLocker Raises $190 Million in Series F Funding",
-          "link": "https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/",
-          "summary": "The company was previously valued at $1.6 billion, and the latest raise has significantly increased that valuation. The post ThreatLocker Raises $190 Million in Series F Funding appeared first on SecurityWeek .",
-          "date": "2026-07-29T12:17:14+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Critical VM Escape Vulnerability Patched in VMware ESXi",
-          "link": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/",
-          "summary": "A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion. The post Critical VM Escape Vulnerability Patched in VMware ESXi appeared first on SecurityWeek .",
-          "date": "2026-07-29T11:42:38+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "US, Australia Release OT Isolation Guidance for Critical Infrastructure",
-          "link": "https://www.securityweek.com/us-australia-release-ot-isolation-guidance-for-critical-infrastructure/",
-          "summary": "The guidance details steps organizations can take to isolate vital OT and supporting systems, and operate in isolation for an extended period. The post US, Australia Release OT Isolation Guidance for Critical Infrastructure appeared first on SecurityWeek .",
-          "date": "2026-07-29T10:58:44+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "OpenAI’s Rogue AI Ventured Beyond Hugging Face",
-          "link": "https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/",
-          "summary": "Hugging Face has published an anatomy of the attack and OpenAI has shared additional information from its investigation. The post OpenAI’s Rogue AI Ventured Beyond Hugging Face appeared first on SecurityWeek .",
-          "date": "2026-07-29T10:10:09+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Spur Raises $200 Million for IP Intelligence Platform",
-          "link": "https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/",
-          "summary": "The IP intelligence company will use the fresh investment to accelerate and scale its operations. The post Spur Raises $200 Million for IP Intelligence Platform appeared first on SecurityWeek .",
-          "date": "2026-07-29T09:12:19+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
-          "link": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
-          "summary": "The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given. The post JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack appeared first on SecurityWeek .",
-          "date": "2026-07-29T08:46:30+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
-          "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
-          "summary": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities. The post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks appeared first on SecurityWeek .",
-          "date": "2026-07-29T07:53:22+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "ShinyHunters Claims Ernst & Young Hack",
-          "link": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
-          "summary": "Ernst & Young previously confirmed that personal and financial information was stolen from a third-party management platform. The post ShinyHunters Claims Ernst & Young Hack appeared first on SecurityWeek .",
-          "date": "2026-07-29T06:23:34+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,69 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
+          "link": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
+          "summary": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after reporting it to Microsoft. In his proof of concept, the internally generated file …",
+          "date": "2026-07-30T11:54:49+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "The Network Has Become the Control Plane for AI Security",
+          "link": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+          "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, appli…",
+          "date": "2026-07-30T11:32:46+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+          "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+          "summary": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted visitors with SIGNBT or COPPERHEDGE backdoors. A compromi…",
+          "date": "2026-07-30T10:33:15+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+          "link": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
+          "summary": "The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT (aka Winos 4.0) for persistent remote access. \"In …",
+          "date": "2026-07-30T10:32:59+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+          "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+          "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, …",
+          "date": "2026-07-30T07:40:48+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+          "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+          "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, marketing, or sale in the US. Previously authorized mo…",
+          "date": "2026-07-30T07:28:43+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
+          "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+          "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 …",
+          "date": "2026-07-30T06:05:17+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+          "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation. The vulnerability, as…",
+          "date": "2026-07-30T05:08:39+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+          "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+          "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secret…",
+          "date": "2026-07-29T18:10:00+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
           "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
@@ -1266,69 +1329,6 @@
           "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization. The vulnerability has been…",
           "date": "2026-07-24T11:53:55+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
-          "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
-          "summary": "A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet. XBOW's testing got the same result on workers across different hosts and network ranges, so the problem sat in B…",
-          "date": "2026-07-24T11:45:17+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
-          "link": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
-          "summary": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is why there are so many approaches, from prompt filtering to i…",
-          "date": "2026-07-24T11:30:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
-          "link": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
-          "summary": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax collection. The agent then worked through the ministry's netwo…",
-          "date": "2026-07-24T10:15:29+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
-          "link": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
-          "summary": "The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner workings. The malware families in question are: Tiny…",
-          "date": "2026-07-24T10:09:24+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
-          "link": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
-          "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code. Every version before 4.14.0 is affected. NodeBB has fixed…",
-          "date": "2026-07-24T07:41:06+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
-          "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
-          "summary": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0. All four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 chain needs EVAL and the bundled RedisBloom module. Redis says…",
-          "date": "2026-07-24T06:58:27+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
-          "link": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
-          "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has been attributed by the agency to a threat cluster it tracks as UAC-0099, a Russi…",
-          "date": "2026-07-24T06:50:57+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
-          "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-          "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor re…",
-          "date": "2026-07-23T18:36:08+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
-          "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-          "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic. The threats change every week.…",
-          "date": "2026-07-23T15:02:07+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "​​Better security starts with better questions",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/",
+          "summary": "Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems. The post ​​Better security starts with better questions appeared first on Microsoft Security Blog .",
+          "date": "2026-07-29T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "Rethinking security for the age of AI",
           "link": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
@@ -1403,13 +1410,6 @@
           "summary": "Security teams have never had more visibility, yet rarely have they felt more uncertain. Signal pours in from endpoints, identities, cloud workloads, and a sprawling mix of third-party tools. The post Turning threat intelligence into decisive action with Defender Experts appeared first on Microsoft …",
           "date": "2026-07-15T16:00:35+00:00",
           "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/",
-          "summary": "Microsoft Threat Intelligence identified threat actor activity with overlapping tradecraft commonly associated with ShinyHunters, including voice phishing (vishing), supply-chain compromise, and misconfigured guest access targeting SaaS-based applications. The post Defending SaaS-based applications …",
-          "date": "2026-07-13T22:02:41+00:00",
-          "source": "Microsoft Security Blog"
         }
       ]
     },
@@ -1417,6 +1417,13 @@
       "name": "Black Hills InfoSec",
       "url": "https://www.blackhillsinfosec.com/blog/feed/",
       "articles": [
+        {
+          "title": "Report As You Go: Maintaining Good Documentation for SOC Analysts",
+          "link": "https://www.blackhillsinfosec.com/report-as-you-go-soc/",
+          "summary": "by Dan “Haircutfish” Rearden | haircutfish.com | Guest Author Working in the SOC can be a grind. Whether triaging alerts, escalating to clients, or just trying to understand why users […] The post Report As You Go: Maintaining Good Documentation for SOC Analysts appeared first on Black Hills Informa…",
+          "date": "2026-07-29T14:00:00+00:00",
+          "source": "Black Hills InfoSec"
+        },
         {
           "title": "The Life of a SOC Analyst: Responsibilities, Challenges, and Strategies for Success",
           "link": "https://www.blackhillsinfosec.com/life-of-a-soc-analyst/",
@@ -1759,13 +1766,6 @@
           "summary": "An Infosec Survival Guide Resource, released as blog posts, with fully designed, printer-friendly PDF cheatsheets. The post Offensive Tooling Cheatsheets: An Infosec Survival Guide Resource appeared first on Black Hills Information Security, Inc. .",
           "date": "2025-08-06T15:05:06+00:00",
           "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "DNS Triage Cheatsheet",
-          "link": "https://www.blackhillsinfosec.com/dns-triage-cheatsheet/",
-          "summary": "DNS Triage is a reconnaissance tool that finds information about an organization's infrastructure, software, and third-party services as fast as possible. The goal of DNS Triage is not to exhaustively find every technology asset that exists on the internet. The goal is to find the most commonly abus…",
-          "date": "2025-08-06T15:00:00+00:00",
-          "source": "Black Hills InfoSec"
         }
       ]
     },
@@ -1850,6 +1850,20 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)",
+          "link": "https://isc.sans.edu/diary/rss/33200",
+          "summary": "",
+          "date": "2026-07-30T02:00:03+00:00",
+          "source": "SANS ISC"
+        },
+        {
+          "title": "Reconnaissance First: An SSH Bot That Sizes Up Your Hardware Before Deploying a Miner &#x5b;Guest Diary&#x5d;, (Thu, Jul 30th)",
+          "link": "https://isc.sans.edu/diary/rss/33198",
+          "summary": "[This is a Guest Diary by Adam Cann, an ISC intern as part of the SANS.edu BACS program]",
+          "date": "2026-07-30T00:42:29+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "Apple Patches Everything (July 2026), (Wed, Jul 29th)",
           "link": "https://isc.sans.edu/diary/rss/33196",
           "summary": "I am a bit late with this summary, but this week Apple released updates to all its operating systems and Safari. The Safari update, as usual, targets macOS prior to macOS 26. macOS updates covered the two older versions (14 and 15), while other operating system patches only covered the current 26 ve…",
@@ -1904,20 +1918,6 @@
           "summary": "",
           "date": "2026-07-24T02:00:02+00:00",
           "source": "SANS ISC"
-        },
-        {
-          "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
-          "link": "https://isc.sans.edu/diary/rss/33180",
-          "summary": "Two disclosures, five days apart, described the same intrusion from opposite ends â€”",
-          "date": "2026-07-23T13:40:27+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
-          "link": "https://isc.sans.edu/diary/rss/33178",
-          "summary": "",
-          "date": "2026-07-23T02:00:03+00:00",
-          "source": "SANS ISC"
         }
       ]
     },
@@ -1928,6 +1928,13 @@
         {
           "title": "Stay Ahead of Ransomware: The Evolution from Encryption to Extortion Blog Digital Forensics and Incident Response   29 Jul 2026     Mari DeGrazia",
           "link": "https://www.sans.org/blog/stay-ahead-ransomware-evolution-from-encryption-to-extortion",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "\"Stop Freaking Out and Start Fixing Things\": Five Takeaways From the SANS Panel on the OpenAI / Hugging Face Breach Blog Artificial Intelligence   29 Jul 2026     SANS Institute",
+          "link": "https://www.sans.org/blog/stop-freaking-out-start-fixing-things-five-takeaways-sans-panel-openai-hugging-face-breach",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
@@ -1998,13 +2005,6 @@
         {
           "title": "Core NetWars V12 Is Here: AI, Automation, and Hidden Agendas  Blog Offensive Operations   9 Jul 2026     Chris Elgee",
           "link": "https://www.sans.org/blog/core-netwars-v12-is-here-ai-automation-hidden-agendas",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "SANS Threat Analysis Rundown in Review: Stopping the Poison Before It Reaches the Water Supply  Blog Digital Forensics and Incident Response   8 Jul 2026     Sean O'Connor",
-          "link": "https://www.sans.org/blog/sans-threat-analysis-rundown-stopping-poison-before-reaches-water-supply",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
@@ -2092,6 +2092,13 @@
       "url": "https://any.run/cybersecurity-blog/feed/",
       "articles": [
         {
+          "title": "Threat Coverage Digest: New TI Report, Threat Research and 750+ Detection Rules",
+          "link": "https://any.run/cybersecurity-blog/july-threat-coverage-2026/",
+          "summary": "July brought another set of threat coverage updates designed to help security teams work faster and with more confidence. ANY.RUN added 42 behavior signatures, 11 YARA rules, and 703 Suricata rules, giving SOCs broader visibility across files, malware behavior, and network activity. We also publishe…",
+          "date": "2026-07-30T06:13:53+00:00",
+          "source": "ANY.RUN Blog"
+        },
+        {
           "title": "The US CFO’s Playbook: How to Reduce Cyber Risk Without Scaling SOC Team in a Tight Labor Market",
           "link": "https://any.run/cybersecurity-blog/cfo-cyber-risk-playbook/",
           "summary": "Cyber risk is increasing, but so is the cost of managing it. More than 514,000 cybersecurity job listings appeared in the US between May 2024 and April 2025, while the mean annual wage for an information security analyst reached $132,510. Even after the budget is approved, hiring can take three to s…",
@@ -2152,13 +2159,6 @@
           "link": "https://any.run/cybersecurity-blog/banana-rat-evolution-analysis/",
           "summary": "Editor’s note: The analysis is authored by Moises Cerqueira, malware researcher & threat hunter. You can find Moises on LinkedIn and X. This analysis started with an exposed public index on 198[.]245[.]53[.]26, discovered via Shodan. What made it interesting was not just the server exposure itself, …",
           "date": "2026-07-07T14:02:31+00:00",
-          "source": "ANY.RUN Blog"
-        },
-        {
-          "title": "Release Notes: In-Browser Data Inspection, Torq Integration, and 1,100+ Threat Coverage Updates",
-          "link": "https://any.run/cybersecurity-blog/release-notes-june-2026/",
-          "summary": "Phishing pages don’t sit still anymore. They redirect, load scripts, harvest credentials through dynamic forms, and rebuild their DOM after the initial load — and most URL analysis workflows still only see the finish line, not the race. This June, ANY.RUN closed that gap directly inside the Interact…",
-          "date": "2026-07-01T11:31:25+00:00",
           "source": "ANY.RUN Blog"
         }
       ]
