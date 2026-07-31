@@ -1,10 +1,45 @@
 {
-  "generated_at": "2026-07-30T17:16:17.827375+00:00",
+  "generated_at": "2026-07-31T13:00:37.883940+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+          "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+          "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...]",
+          "date": "2026-07-31T00:57:25+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "South Korea fines telco giant KT $39 million for customer data breach",
+          "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
+          "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
+          "date": "2026-07-30T22:28:30+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "JetBrains warns of critical TeamCity remote code execution flaw",
+          "link": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
+          "summary": "JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]",
+          "date": "2026-07-30T22:01:31+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
+          "link": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
+          "summary": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
+          "date": "2026-07-30T18:13:24+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
+          "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
+          "summary": "Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or escape from a virtual machine to the host. [...]",
+          "date": "2026-07-30T18:00:51+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
           "link": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
@@ -74,41 +109,6 @@
           "summary": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. [...]",
           "date": "2026-07-29T16:04:59+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-          "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
-          "date": "2026-07-29T14:55:57+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
-          "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
-          "summary": "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the foundation for securing agentic AI. [...]",
-          "date": "2026-07-29T14:02:12+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
-          "summary": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]",
-          "date": "2026-07-29T13:56:22+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "These near-mint ASUS Chromebook refurbs are only $145",
-          "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
-          "summary": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint condition with a grade \"A\" rating, but it still only costs $144.97 (reg. $369.99) on s…",
-          "date": "2026-07-29T11:12:19+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
-          "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
-          "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
-          "date": "2026-07-28T21:17:39+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,27 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "USA Fencing Lunges Into the Hidden Identity Challenge in Amateur Sports",
+          "link": "https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports",
+          "summary": "The organization behind Team USA's Olympic/Paralympic fencing teams has automated identity verification to handle growing membership, cutting manual review time while ensuring athletes compete in the correct categories.",
+          "date": "2026-07-31T13:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks",
+          "link": "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks",
+          "summary": "A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure.",
+          "date": "2026-07-30T21:16:13+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "AI Harnesses Burst With Potential Exploit Opps",
+          "link": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
+          "summary": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
+          "date": "2026-07-30T19:40:40+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Claude Mythos — Hype vs. Reality: What Security Teams Need to Know",
           "link": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
@@ -444,27 +465,6 @@
           "summary": "AI models left to both interpret and execute commands eliminate critical cybersecurity oversight.",
           "date": "2026-07-17T16:43:13+00:00",
           "source": "Dark Reading"
-        },
-        {
-          "title": "Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
-          "summary": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
-          "date": "2026-07-17T13:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Google Bets 'Agentic Defense' Strategy Can Outpace Attackers",
-          "link": "https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers",
-          "summary": "Google Cloud incorporates key Wiz capabilities into an agentic defense platform to automate threat detection and remediation against AI attacks.",
-          "date": "2026-07-17T11:50:25+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Agentic AI: Taming the Unpredictable",
-          "link": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions",
-          "summary": "Agentic artificial intelligence is creating enough risks for organizations to demand a security reframe.",
-          "date": "2026-07-16T20:57:47+00:00",
-          "source": "Dark Reading"
         }
       ]
     },
@@ -548,6 +548,13 @@
       "name": "Risky Biz Newsletters",
       "url": "https://risky.biz/feeds/newsletters/",
       "articles": [
+        {
+          "title": "Risky Bulletin: Non-profit offers $22,000 bounty for INC ransomware group",
+          "link": "https://risky.biz/risky-bulletin-non-profit-offers-22-000-bounty-for-inc-ransomware-group/",
+          "summary": "An international crime-fighting non-profit organization is offering a $22,000 bounty for any information on members of the INC ransomware group. To be eligible for a payout, the provided information must lead to the identification, arrest, or disruption of the gang's operations. Crime Stoppers Inter…",
+          "date": "2026-07-31T05:02:41+00:00",
+          "source": "Risky Biz Newsletters"
+        },
         {
           "title": "Srsly Risky Biz: Chipping Away at Chinese AI Risks",
           "link": "https://risky.biz/srsly-risky-biz-chipping-away-at-chinese-ai-risks/",
@@ -890,13 +897,6 @@
           "summary": "The US government has committed to countering Chinese 'distillation attacks' which are being used to steal the proprietary capabilities of American frontier AI models. We love a little governmental fist-shaking, but we don't think its plan will have China's AI labs shaking in their boots. Distillati…",
           "date": "2026-04-30T03:39:59+00:00",
           "source": "Risky Biz Newsletters"
-        },
-        {
-          "title": "Risky Bulletin: UK NCSC blasts SOC metrics",
-          "link": "https://risky.biz/risky-bulletin-uk-ncsc-blasts-soc-metrics/",
-          "summary": "The UK's cybersecurity agency has advised public and private organizations against relying too much on bad metrics to evaluate the efficiency of their security operations centers (SOCs). Officials say bad metrics incentivize SOC teams to be careless about their jobs and rush through tickets and dete…",
-          "date": "2026-04-29T02:24:26+00:00",
-          "source": "Risky Biz Newsletters"
         }
       ]
     },
@@ -905,73 +905,73 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace",
+          "link": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/",
+          "summary": "The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase. The post Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace appeared first on SecurityWeek .",
+          "date": "2026-07-31T10:28:45+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels",
+          "link": "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/",
+          "summary": "When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI. The post EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels appeared first on SecurityWeek…",
+          "date": "2026-07-31T10:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations",
+          "link": "https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/",
+          "summary": "A security company’s systems were hacked after it installed a malicious Python package deployed by Claude. The post Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations appeared first on SecurityWeek .",
+          "date": "2026-07-31T09:39:57+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Critical Flaw Led to Azure Cosmos DB Pwnage",
+          "link": "https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/",
+          "summary": "Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access. The post Critical Flaw Led to Azure Cosmos DB Pwnage appeared first on SecurityWeek .",
+          "date": "2026-07-31T09:04:02+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "CareCloud Data Breach Impacts Over 350,000",
+          "link": "https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/",
+          "summary": "In March 2026, hackers stole personal, financial, and medical information from the company’s AWS environment. The post CareCloud Data Breach Impacts Over 350,000 appeared first on SecurityWeek .",
+          "date": "2026-07-31T07:51:43+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Critical Code Execution Vulnerability Patched in TeamCity",
+          "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
+          "summary": "Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol. The post Critical Code Execution Vulnerability Patched in TeamCity appeared first on SecurityWeek .",
+          "date": "2026-07-31T06:50:30+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs",
+          "link": "https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/",
+          "summary": "CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota systems. The post CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs appeared first on SecurityWeek .",
+          "date": "2026-07-30T22:18:36+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Bank of America to Acquire Cybersecurity Firm MDSec",
+          "link": "https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/",
+          "summary": "The acquisition will add approximately 65 cybersecurity professionals to Bank of America’s operations in the United Kingdom. The post Bank of America to Acquire Cybersecurity Firm MDSec appeared first on SecurityWeek .",
+          "date": "2026-07-30T21:02:21+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Okta to Acquire Identity Threat Detection Firm Permiso",
+          "link": "https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/",
+          "summary": "The deal extends Okta's reach beyond identity management and into the realm of security operations, positioning the company to compete more directly on identity threat detection and response. The post Okta to Acquire Identity Threat Detection Firm Permiso appeared first on SecurityWeek .",
+          "date": "2026-07-30T19:10:26+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Timeless Compliance: Why Better Questions Beat Bigger Frameworks",
           "link": "https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/",
           "summary": "The best compliance programs aren't the biggest ones. They're the ones built on a short list of questions that can actually be answered, and that still hold true when the models change. The post Timeless Compliance: Why Better Questions Beat Bigger Frameworks appeared first on SecurityWeek .",
           "date": "2026-07-30T15:46:17+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "DataBahn Raises $40 Million for Agentic Data Pipeline Management",
-          "link": "https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/",
-          "summary": "The company will accelerate investments in R&D and product innovation to expand its agentic data control plane. The post DataBahn Raises $40 Million for Agentic Data Pipeline Management appeared first on SecurityWeek .",
-          "date": "2026-07-30T14:00:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Cantina Emerges From Stealth With $8 Million in Funding",
-          "link": "https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/",
-          "summary": "The startup’s community-powered agentic security platform helps proactively identify, prioritize, and remediate vulnerabilities. The post Cantina Emerges From Stealth With $8 Million in Funding appeared first on SecurityWeek .",
-          "date": "2026-07-30T13:00:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Discern Security Raises $13 Million in Series A Funding",
-          "link": "https://www.securityweek.com/discern-security-raises-13-million-in-series-a-funding/",
-          "summary": "The company will invest in accelerating the development and adoption of its agentic platform. The post Discern Security Raises $13 Million in Series A Funding appeared first on SecurityWeek .",
-          "date": "2026-07-30T13:00:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Onyx Security Raises $113 Million to Control AI Agents in the Enterprise",
-          "link": "https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/",
-          "summary": "The Series B funding round brings the total raised by Onyx Security to $153 million. The post Onyx Security Raises $113 Million to Control AI Agents in the Enterprise appeared first on SecurityWeek .",
-          "date": "2026-07-30T12:29:03+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale",
-          "link": "https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/",
-          "summary": "Researchers warn that AI could turn dangling DNS takeovers into a nation-state weapon capable of disrupting governments, banks and global supply chains. The post ‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale appeared first on SecurityWeek .",
-          "date": "2026-07-30T12:15:24+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
-          "link": "https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/",
-          "summary": "Hackers were detected on Analog Devices systems in June, and an investigation found that they stole files. The post Semiconductor Firm Analog Devices Discloses Data Breach appeared first on SecurityWeek .",
-          "date": "2026-07-30T11:16:23+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms",
-          "link": "https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/",
-          "summary": "Unauthenticated attackers could send HTTP requests to an exposed endpoint to execute commands inside the MCP bridge container. The post Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms appeared first on SecurityWeek .",
-          "date": "2026-07-30T09:56:10+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "1 in 5 Data Center Assets Are Within Easy Reach of Attackers",
-          "link": "https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/",
-          "summary": "Claroty has analyzed 750,000 cyber-physical systems across some of the world’s largest data center facilities. The post 1 in 5 Data Center Assets Are Within Easy Reach of Attackers appeared first on SecurityWeek .",
-          "date": "2026-07-30T09:28:37+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "US and Allies Update SBOM Guidance",
-          "link": "https://www.securityweek.com/us-and-allies-update-sbom-guidance/",
-          "summary": "Five years after the initial release, the refresh introduces new elements, removes others, and updates terminology. The post US and Allies Update SBOM Guidance appeared first on SecurityWeek .",
-          "date": "2026-07-30T08:21:19+00:00",
           "source": "SecurityWeek"
         }
       ]
@@ -980,6 +980,34 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
+          "link": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
+          "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for input-constrained devices like smart TVs, printers, and so on, the device authorization lo…",
+          "date": "2026-07-31T11:24:59+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
+          "link": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
+          "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram instruction, the agent found internet-facing systems and selected public exploits. The researchers recovered no furt…",
+          "date": "2026-07-31T11:21:27+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
+          "link": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
+          "summary": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organizations during cybersecurity testing without its knowledge. The AI firm said the earli…",
+          "date": "2026-07-31T06:41:44+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+          "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
+          "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview ca…",
+          "date": "2026-07-30T18:18:24+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
           "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
@@ -1300,34 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
           "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any authenticated user who can push to a project can run it. The…",
           "date": "2026-07-25T10:14:26+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
-          "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
-          "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations int…",
-          "date": "2026-07-25T10:14:21+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-          "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-          "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in…",
-          "date": "2026-07-25T10:14:03+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-          "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-          "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersecurity company PRODAFT is tracking the centrally administered…",
-          "date": "2026-07-25T09:53:41+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-          "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-          "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has o…",
-          "date": "2026-07-24T15:12:35+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1848,83 +1848,19 @@
     "SANS ISC": {
       "name": "SANS ISC",
       "url": "https://isc.sans.edu/rssfeed.xml",
-      "articles": [
-        {
-          "title": "ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)",
-          "link": "https://isc.sans.edu/diary/rss/33200",
-          "summary": "",
-          "date": "2026-07-30T02:00:03+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Reconnaissance First: An SSH Bot That Sizes Up Your Hardware Before Deploying a Miner &#x5b;Guest Diary&#x5d;, (Thu, Jul 30th)",
-          "link": "https://isc.sans.edu/diary/rss/33198",
-          "summary": "[This is a Guest Diary by Adam Cann, an ISC intern as part of the SANS.edu BACS program]",
-          "date": "2026-07-30T00:42:29+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Apple Patches Everything (July 2026), (Wed, Jul 29th)",
-          "link": "https://isc.sans.edu/diary/rss/33196",
-          "summary": "I am a bit late with this summary, but this week Apple released updates to all its operating systems and Safari. The Safari update, as usual, targets macOS prior to macOS 26. macOS updates covered the two older versions (14 and 15), while other operating system patches only covered the current 26 ve…",
-          "date": "2026-07-29T07:32:37+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Wednesday, July 29th, 2026 https://isc.sans.edu/podcastdetail/10028, (Wed, Jul 29th)",
-          "link": "https://isc.sans.edu/diary/rss/33194",
-          "summary": "",
-          "date": "2026-07-29T02:00:02+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "AutoIT Payload Injector , (Tue, Jul 28th)",
-          "link": "https://isc.sans.edu/diary/rss/33192",
-          "summary": "For a long time, AutoIT[1] has been pretty common in the malware ecosystem. Threat actors still use it because it's easy to write and powerful. Indeed, it can perform all the required actions to inject a payload into a remote process as you'll see below.",
-          "date": "2026-07-28T07:42:27+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Tuesday, July 28th, 2026 https://isc.sans.edu/podcastdetail/10026, (Tue, Jul 28th)",
-          "link": "https://isc.sans.edu/diary/rss/33190",
-          "summary": "",
-          "date": "2026-07-28T02:00:03+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Java Spring Boot \"heapdump\" scans, (Mon, Jul 27th)",
-          "link": "https://isc.sans.edu/diary/rss/33188",
-          "summary": "Spring Boot exposes the endpoint \"/actuator/heapdump\" to collect debug information. By default, the endpoint will return a file heapdump.hprof, which includes a binary heapdump that can be used to analyze the current state of the application. Non-Java readers may be familiar with a similar concept, …",
-          "date": "2026-07-27T10:04:51+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Monday, July 27th, 2026 https://isc.sans.edu/podcastdetail/10024, (Mon, Jul 27th)",
-          "link": "https://isc.sans.edu/diary/rss/33186",
-          "summary": "",
-          "date": "2026-07-27T02:00:02+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Scans for ESAFENET CDG 3 Document Management System Weak Logins, (Sun, Jul 26th)",
-          "link": "https://isc.sans.edu/diary/rss/33184",
-          "summary": "ESAFENET&#;x26;#;39;s CDG showed up in our data before. The company focused on secure document management and data leakage prevention solutions. The \"CDG\" stands for \"Content Data Guard\", and the product appears to be mostly targeting the Chinese market [1]. Sadly, like so many security products, it…",
-          "date": "2026-07-26T15:26:14+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Friday, July 24th, 2026 https://isc.sans.edu/podcastdetail/10022, (Fri, Jul 24th)",
-          "link": "https://isc.sans.edu/diary/rss/33182",
-          "summary": "",
-          "date": "2026-07-24T02:00:02+00:00",
-          "source": "SANS ISC"
-        }
-      ]
+      "articles": []
     },
     "SANS Blog": {
       "name": "SANS Blog",
       "url": "https://www.sans.org/blog",
       "articles": [
+        {
+          "title": "Beyond the Security Stack: The Governance Toolkit Every CISO Needs Blog Cybersecurity Leadership   31 Jul 2026     Chris Cochran",
+          "link": "https://www.sans.org/blog/beyond-security-stack-governance-toolkit-every-ciso-needs",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
         {
           "title": "Stay Ahead of Ransomware: The Evolution from Encryption to Extortion Blog Digital Forensics and Incident Response   29 Jul 2026     Mari DeGrazia",
           "link": "https://www.sans.org/blog/stay-ahead-ransomware-evolution-from-encryption-to-extortion",
@@ -1998,13 +1934,6 @@
         {
           "title": "Cloud-Native Forensic Imaging Part 1 Blog Offensive Operations   13 Jul 2026     Megan Roddie-Fonseca",
           "link": "https://www.sans.org/blog/cloud-native-forensic-imaging-part-1",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Core NetWars V12 Is Here: AI, Automation, and Hidden Agendas  Blog Offensive Operations   9 Jul 2026     Chris Elgee",
-          "link": "https://www.sans.org/blog/core-netwars-v12-is-here-ai-automation-hidden-agendas",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
