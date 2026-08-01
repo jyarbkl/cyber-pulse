@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-08-01T12:04:52.095520+00:00",
+  "generated_at": "2026-08-01T16:51:24.912775+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Rails patches critical Active Storage flaw with RCE potential",
+          "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+          "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
+          "date": "2026-08-01T14:20:30+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Amgen says cloud data breach exposed patient health, proprietary info",
           "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
           "summary": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
           "date": "2026-07-30T16:46:15+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
-          "summary": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]",
-          "date": "2026-07-30T15:56:33+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments",
+          "link": "https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/",
+          "summary": "The funding round was led by SYN Ventures, with participation from existing investors DataTribe and TEDCO. The post Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments appeared first on SecurityWeek .",
+          "date": "2026-08-01T12:30:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Ruby on Rails Patches Critical Vulnerability",
           "link": "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/",
           "summary": "The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE). The post Ruby on Rails Patches Critical Vulnerability appeared first on SecurityWeek .",
@@ -965,13 +972,6 @@
           "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
           "summary": "Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol. The post Critical Code Execution Vulnerability Patched in TeamCity appeared first on SecurityWeek .",
           "date": "2026-07-31T06:50:30+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs",
-          "link": "https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/",
-          "summary": "CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota systems. The post CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs appeared first on SecurityWeek .",
-          "date": "2026-07-30T22:18:36+00:00",
           "source": "SecurityWeek"
         }
       ]
