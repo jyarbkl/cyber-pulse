@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T16:51:24.912775+00:00",
+  "generated_at": "2026-08-02T12:07:51.686951+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
@@ -981,6 +981,13 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+          "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+          "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integra…",
+          "date": "2026-08-01T17:17:22+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
           "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
           "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to authoritie…",
@@ -1321,13 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
           "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user. SSD Secure Disclosure lists vBulleti…",
           "date": "2026-07-27T14:40:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
-          "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
-          "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services. Nothing looked strange at first. That helped. That…",
-          "date": "2026-07-27T14:10:54+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1850,6 +1850,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)",
+          "link": "https://isc.sans.edu/diary/rss/33208",
+          "summary": "Introduction",
+          "date": "2026-08-02T04:05:08+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)",
           "link": "https://isc.sans.edu/diary/rss/33206",
           "summary": "Most phishing campaigns rely on the fact that the victim is afraid to loose \"something\": money, access to information, ... Many brands have been impersonated by campaigns but I spotted some phishing emails that focus on AI services like ChatGPT.",
@@ -1910,13 +1917,6 @@
           "link": "https://isc.sans.edu/diary/rss/33190",
           "summary": "",
           "date": "2026-07-28T02:00:03+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Java Spring Boot \"heapdump\" scans, (Mon, Jul 27th)",
-          "link": "https://isc.sans.edu/diary/rss/33188",
-          "summary": "Spring Boot exposes the endpoint \"/actuator/heapdump\" to collect debug information. By default, the endpoint will return a file heapdump.hprof, which includes a binary heapdump that can be used to analyze the current state of the application. Non-Java readers may be familiar with a similar concept, …",
-          "date": "2026-07-27T10:04:51+00:00",
           "source": "SANS ISC"
         }
       ]
