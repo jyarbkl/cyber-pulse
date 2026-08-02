@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-08-02T12:07:51.686951+00:00",
+  "generated_at": "2026-08-02T16:49:52.249690+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Google Chrome may soon block New Tab hijacker extensions by default",
+          "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
+          "summary": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
+          "date": "2026-08-02T14:17:16+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Rails patches critical Active Storage flaw with RCE potential",
           "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
           "summary": "Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent releases as it expands its use of AI. [...]",
           "date": "2026-07-30T17:00:00+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
-          "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
-          "summary": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
-          "date": "2026-07-30T16:46:15+00:00",
           "source": "BleepingComputer"
         }
       ]
