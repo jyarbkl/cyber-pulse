@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-08-02T16:49:52.249690+00:00",
+  "generated_at": "2026-08-03T13:44:03.641733+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
+          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+          "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
+          "date": "2026-08-02T22:31:41+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+          "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+          "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
+          "date": "2026-08-02T21:14:29+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Google Chrome may soon block New Tab hijacker extensions by default",
           "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
@@ -95,20 +109,6 @@
           "summary": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
           "date": "2026-07-30T18:13:24+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
-          "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
-          "summary": "Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or escape from a virtual machine to the host. [...]",
-          "date": "2026-07-30T18:00:51+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
-          "link": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
-          "summary": "Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent releases as it expands its use of AI. [...]",
-          "date": "2026-07-30T17:00:00+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -119,7 +119,7 @@
         {
           "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
           "link": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
-          "summary": "A couple-dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
+          "summary": "A couple dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
           "date": "2026-07-31T18:13:11+00:00",
           "source": "Dark Reading"
         },
@@ -184,6 +184,13 @@
           "link": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china",
           "summary": "A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts.",
           "date": "2026-07-30T00:30:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Cybersecurity, Then &amp; Now",
+          "link": "https://www.darkreading.com/cyber-risk/cybersecurity-then-now",
+          "summary": "Since 2006, Dark Reading has been at the forefront of covering cybersecurity. The more things change, the more they stay the same.",
+          "date": "2026-07-29T23:26:46+00:00",
           "source": "Dark Reading"
         },
         {
@@ -458,13 +465,6 @@
           "summary": "Marc Maiffret reflects on Code Red's legacy and the security lessons helping organizations navigate AI risk today.",
           "date": "2026-07-20T19:32:04+00:00",
           "source": "Dark Reading"
-        },
-        {
-          "title": "CISOs Feel the Heat Over AI Risk",
-          "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
-          "summary": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
-          "date": "2026-07-20T19:07:01+00:00",
-          "source": "Dark Reading"
         }
       ]
     },
@@ -548,6 +548,13 @@
       "name": "Risky Biz Newsletters",
       "url": "https://risky.biz/feeds/newsletters/",
       "articles": [
+        {
+          "title": "Risky Bulletin: Russia is behind the recent hotel WiFi hacks",
+          "link": "https://risky.biz/risky-bulletin-russia-is-behind-the-recent-hotel-wifi-hacks/",
+          "summary": "A Russian state-sponsored hacking group is behind a recent hacking wave that has targeted and compromised hotel WiFi gateways across the globe. Microsoft says the campaign is far larger and more complex than it was initially covered in a ReliaQuest report two weeks ago. ReliaQuest said the hackers w…",
+          "date": "2026-08-03T04:01:28+00:00",
+          "source": "Risky Biz Newsletters"
+        },
         {
           "title": "Risky Bulletin: Non-profit offers $22,000 bounty for INC ransomware group",
           "link": "https://risky.biz/risky-bulletin-non-profit-offers-22-000-bounty-for-inc-ransomware-group/",
@@ -890,13 +897,6 @@
           "summary": "A mysterious hacking group has stolen the personal and financial information of Moldovan citizens from the country's national healthcare database. Moldova's national health insurance agency, CNAM, confirmed that data was stolen but denied initial news reports that almost a third of the database had …",
           "date": "2026-05-01T05:13:00+00:00",
           "source": "Risky Biz Newsletters"
-        },
-        {
-          "title": "Srsly Risky Biz: US Vows to Fight Distillation Attacks",
-          "link": "https://risky.biz/srsly-risky-biz-us-vows-to-fight-distillation-attacks/",
-          "summary": "The US government has committed to countering Chinese 'distillation attacks' which are being used to steal the proprietary capabilities of American frontier AI models. We love a little governmental fist-shaking, but we don't think its plan will have China's AI labs shaking in their boots. Distillati…",
-          "date": "2026-04-30T03:39:59+00:00",
-          "source": "Risky Biz Newsletters"
         }
       ]
     },
@@ -904,6 +904,55 @@
       "name": "SecurityWeek",
       "url": "https://www.securityweek.com/feed/",
       "articles": [
+        {
+          "title": "River Bank Says Hackers Deleted Data Stolen in Ransomware Attack",
+          "link": "https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/",
+          "summary": "The bank holding company was hacked in June, but the investigation into the incident continues. The post River Bank Says Hackers Deleted Data Stolen in Ransomware Attack appeared first on SecurityWeek .",
+          "date": "2026-08-03T13:02:06+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Horizon3 Raises $250 Million to Fund Continuing Growth",
+          "link": "https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/",
+          "summary": "Venture financing has become an essential factor in growing new business in today’s fast moving economy. Horizon3’s latest funding explains how and why. The post Horizon3 Raises $250 Million to Fund Continuing Growth appeared first on SecurityWeek .",
+          "date": "2026-08-03T13:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "N‑able Patches Vulnerability Exploited to Hack N-central Servers",
+          "link": "https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/",
+          "summary": "The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass. The post N‑able Patches Vulnerability Exploited to Hack N-central Servers appeared first on SecurityWeek .",
+          "date": "2026-08-03T12:34:06+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Brinks Home Discloses Data Breach as Hackers Leak Files",
+          "link": "https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/",
+          "summary": "The physical security firm says its alarm monitoring and system functionality have not been affected. The post Brinks Home Discloses Data Breach as Hackers Leak Files appeared first on SecurityWeek .",
+          "date": "2026-08-03T11:45:14+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks",
+          "link": "https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/",
+          "summary": "The INC Ransomware gang has been targeting vulnerable SMA1000 appliances for root access and lateral movement. The post Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks appeared first on SecurityWeek .",
+          "date": "2026-08-03T10:39:41+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking",
+          "link": "https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/",
+          "summary": "Midnight Blizzard has been stealing Microsoft account credentials via compromised Wi-Fi networks at hospitality organizations. The post Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking appeared first on SecurityWeek .",
+          "date": "2026-08-03T09:17:37+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States",
+          "link": "https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/",
+          "summary": "Michigan, South Dakota, and Georgia are reportedly on the list of states whose water systems have been targeted by Iran-linked hackers. The post US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States appeared first on SecurityWeek .",
+          "date": "2026-08-03T08:48:02+00:00",
+          "source": "SecurityWeek"
+        },
         {
           "title": "Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments",
           "link": "https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/",
@@ -924,55 +973,6 @@
           "summary": "Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records. The post In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research appeared first on SecurityWeek …",
           "date": "2026-07-31T15:47:02+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers",
-          "link": "https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/",
-          "summary": "Iran has the “geopolitical motivations” and a recent history of targeting water systems, experts pointed out. The post Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers appeared first on SecurityWeek .",
-          "date": "2026-07-31T15:17:41+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace",
-          "link": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/",
-          "summary": "The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase. The post Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace appeared first on SecurityWeek .",
-          "date": "2026-07-31T10:28:45+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels",
-          "link": "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/",
-          "summary": "When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI. The post EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels appeared first on SecurityWeek…",
-          "date": "2026-07-31T10:00:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations",
-          "link": "https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/",
-          "summary": "A security company’s systems were hacked after it installed a malicious Python package deployed by Claude. The post Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations appeared first on SecurityWeek .",
-          "date": "2026-07-31T09:39:57+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Critical Flaw Allowed to Azure Cosmos DB Pwnage",
-          "link": "https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/",
-          "summary": "Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access. The post Critical Flaw Allowed to Azure Cosmos DB Pwnage appeared first on SecurityWeek .",
-          "date": "2026-07-31T09:04:02+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "CareCloud Data Breach Impacts Over 350,000",
-          "link": "https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/",
-          "summary": "In March 2026, hackers stole personal, financial, and medical information from the company’s AWS environment. The post CareCloud Data Breach Impacts Over 350,000 appeared first on SecurityWeek .",
-          "date": "2026-07-31T07:51:43+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Critical Code Execution Vulnerability Patched in TeamCity",
-          "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
-          "summary": "Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol. The post Critical Code Execution Vulnerability Patched in TeamCity appeared first on SecurityWeek .",
-          "date": "2026-07-31T06:50:30+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,48 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+          "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+          "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether…",
+          "date": "2026-08-03T11:30:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
+          "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
+          "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are…",
+          "date": "2026-08-03T10:49:06+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
+          "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
+          "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addresses belonging to police officers, police staff, criminal justice professionals, …",
+          "date": "2026-08-03T09:13:56+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
+          "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
+          "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin says nearly undetectable changes to .fsa and .hid outputs could occur if labora…",
+          "date": "2026-08-03T08:05:30+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
+          "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
+          "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affects N-central builds prior to 2026.3.1.7. N-able shipped build 2026.3.1.7 on Augus…",
+          "date": "2026-08-03T06:41:46+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
+          "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+          "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk. \"These vulnerabilities are byp…",
+          "date": "2026-08-03T06:40:31+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
           "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
@@ -1286,48 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
           "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. The vulnerability, assigned CVE-2026-63077 (CVSS score: 9.8), affects all TeamCity On-Premises versions…",
           "date": "2026-07-28T08:11:22+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
-          "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-          "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the kernel's network traffic-control subsystem.Researcher Lee Jia Jie said artificia…",
-          "date": "2026-07-28T08:04:44+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
-          "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
-          "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95% on CyberGym. It also claims the configuration costs 50% less than its current b…",
-          "date": "2026-07-28T06:07:22+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
-          "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
-          "summary": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a case of operating system command injection that could pave the way for arbitrar…",
-          "date": "2026-07-28T04:43:53+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-          "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-          "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group spans cloud, security, enterprise software, and AI companies, including Microsoft…",
-          "date": "2026-07-27T18:10:05+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
-          "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
-          "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure. The researchers say the design makes the botnet harder to disrupt. CNCERT, Chi…",
-          "date": "2026-07-27T17:16:28+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
-          "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
-          "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user. SSD Secure Disclosure lists vBulleti…",
-          "date": "2026-07-27T14:40:00+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1850,6 +1850,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "ISC Stormcast For Monday, August 3rd, 2026 https://isc.sans.edu/podcastdetail/10034, (Mon, Aug 3rd)",
+          "link": "https://isc.sans.edu/diary/rss/33210",
+          "summary": "",
+          "date": "2026-08-03T02:00:02+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)",
           "link": "https://isc.sans.edu/diary/rss/33208",
           "summary": "Introduction",
@@ -1910,13 +1917,6 @@
           "link": "https://isc.sans.edu/diary/rss/33192",
           "summary": "For a long time, AutoIT[1] has been pretty common in the malware ecosystem. Threat actors still use it because it's easy to write and powerful. Indeed, it can perform all the required actions to inject a payload into a remote process as you'll see below.",
           "date": "2026-07-28T07:42:27+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Tuesday, July 28th, 2026 https://isc.sans.edu/podcastdetail/10026, (Tue, Jul 28th)",
-          "link": "https://isc.sans.edu/diary/rss/33190",
-          "summary": "",
-          "date": "2026-07-28T02:00:03+00:00",
           "source": "SANS ISC"
         }
       ]
@@ -2016,6 +2016,13 @@
       "url": "https://www.secureideas.com/blog/rss.xml",
       "articles": [
         {
+          "title": "AI Pit Droid at Maker Faire Orlando: Results & What's Next | Secure Ideas",
+          "link": "https://www.secureideas.com/blog/maker-faire-results-reactions-whats-next",
+          "summary": "Blog 4 of 4: Three Days in Orlando",
+          "date": "2026-08-03T13:22:00+00:00",
+          "source": "Secure Ideas"
+        },
+        {
           "title": "Building a Dedicated Web App & API Pentesting Lab",
           "link": "https://www.secureideas.com/blog/building-a-dedicated-web-app-api-pentesting-lab",
           "summary": "Over the last several months, I have spent quite a few evenings after getting the kids to bed; working on my home network and building out different penetration testing lab environments. Most of that time has been focused on Active Directory, particularly the Game of Active Directory (GOAD) lab that…",
@@ -2076,13 +2083,6 @@
           "link": "https://www.secureideas.com/blog/what-is-a-siam-and-why-is-one-showing-up-at-your-office",
           "summary": "If you've scheduled an internal penetration test with Secure Ideas, we've likely asked you to either plug in a small device or spin up a virtual machine on your network. You will hear us refer to that device as a SIAM, or the Secure Ideas Attack Machine . Understandably, some clients want to know ex…",
           "date": "2026-05-26T13:13:24+00:00",
-          "source": "Secure Ideas"
-        },
-        {
-          "title": "ESC6 - Under a False Sigil",
-          "link": "https://www.secureideas.com/blog/esc6-under-a-false-sigil",
-          "summary": "In Part 3, ESC2: The Seal of Any Purpose , we shifted from identity to capability. Instead of changing who a certificate represents, ESC2 explored how broadly that certificate can be used once issued.",
-          "date": "2026-05-18T13:13:30+00:00",
           "source": "Secure Ideas"
         }
       ]
