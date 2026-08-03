@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-08-03T13:44:03.641733+00:00",
+  "generated_at": "2026-08-03T17:46:14.153981+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+          "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
+          "date": "2026-08-03T17:00:56+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
+          "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
+          "summary": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
+          "date": "2026-08-03T15:04:39+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Inside the Underground Business of the Android BTMOB RAT malware",
+          "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
+          "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]",
+          "date": "2026-08-03T14:45:55+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
           "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
@@ -88,27 +109,6 @@
           "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...]",
           "date": "2026-07-31T00:57:25+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "South Korea fines telco giant KT $39 million for customer data breach",
-          "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
-          "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
-          "date": "2026-07-30T22:28:30+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "JetBrains warns of critical TeamCity remote code execution flaw",
-          "link": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
-          "summary": "JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]",
-          "date": "2026-07-30T22:01:31+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
-          "link": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
-          "summary": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
-          "date": "2026-07-30T18:13:24+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,20 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
+          "summary": "Researchers from Jesta intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking and to launch further attacks",
+          "date": "2026-08-03T15:42:18+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Is There Really a Fix for CISO Fatigue?",
+          "link": "https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue",
+          "summary": "Accountability without any real authority is driving CISO burnout, and organizations need to take notice.",
+          "date": "2026-08-03T14:00:00+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
           "link": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover",
           "summary": "Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
           "date": "2026-07-20T21:38:18+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
-          "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
-          "summary": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages, but cost and human-in-the-loop viability remain open questions.",
-          "date": "2026-07-20T20:26:56+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "25 Years After Code Red: What the Worm Era Can Teach Us About AI Security",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
-          "summary": "Marc Maiffret reflects on Code Red's legacy and the security lessons helping organizations navigate AI risk today.",
-          "date": "2026-07-20T19:32:04+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)",
+          "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/",
+          "summary": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 1) appeared first on SecurityWeek .",
+          "date": "2026-08-03T15:50:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion",
+          "link": "https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/",
+          "summary": "The payments giant says BioCatch’s behavioral and device intelligence will help financial institutions combat account takeovers, scams and other forms of digital fraud. The post Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion appeared first on SecurityWeek .",
+          "date": "2026-08-03T15:32:05+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "River Bank Says Hackers Deleted Data Stolen in Ransomware Attack",
           "link": "https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/",
           "summary": "The bank holding company was hacked in June, but the investigation into the incident continues. The post River Bank Says Hackers Deleted Data Stolen in Ransomware Attack appeared first on SecurityWeek .",
@@ -959,20 +973,6 @@
           "summary": "The funding round was led by SYN Ventures, with participation from existing investors DataTribe and TEDCO. The post Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments appeared first on SecurityWeek .",
           "date": "2026-08-01T12:30:00+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Ruby on Rails Patches Critical Vulnerability",
-          "link": "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/",
-          "summary": "The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE). The post Ruby on Rails Patches Critical Vulnerability appeared first on SecurityWeek .",
-          "date": "2026-08-01T11:15:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research",
-          "link": "https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/",
-          "summary": "Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records. The post In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research appeared first on SecurityWeek …",
-          "date": "2026-07-31T15:47:02+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+          "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+          "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it c…",
+          "date": "2026-08-03T16:24:47+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+          "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+          "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activit…",
+          "date": "2026-08-03T16:15:13+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
+          "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+          "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended. Some of it was clever. Most of it was just access left lying around…",
+          "date": "2026-08-03T14:03:11+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
           "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
@@ -990,7 +1011,7 @@
         {
           "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
           "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-          "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are…",
+          "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of …",
           "date": "2026-08-03T10:49:06+00:00",
           "source": "The Hacker News"
         },
@@ -1308,27 +1329,6 @@
           "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they rea…",
           "date": "2026-07-28T13:33:47+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
-          "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-          "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker a…",
-          "date": "2026-07-28T12:56:14+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
-          "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
-          "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the Middle East, Africa, and South Asia. The intrusions involve the use of a previous…",
-          "date": "2026-07-28T11:55:20+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-          "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-          "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. The vulnerability, assigned CVE-2026-63077 (CVSS score: 9.8), affects all TeamCity On-Premises versions…",
-          "date": "2026-07-28T08:11:22+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1416,358 +1416,7 @@
     "Black Hills InfoSec": {
       "name": "Black Hills InfoSec",
       "url": "https://www.blackhillsinfosec.com/blog/feed/",
-      "articles": [
-        {
-          "title": "Report As You Go: Maintaining Good Documentation for SOC Analysts",
-          "link": "https://www.blackhillsinfosec.com/report-as-you-go-soc/",
-          "summary": "by Dan “Haircutfish” Rearden | haircutfish.com | Guest Author Working in the SOC can be a grind. Whether triaging alerts, escalating to clients, or just trying to understand why users […] The post Report As You Go: Maintaining Good Documentation for SOC Analysts appeared first on Black Hills Informa…",
-          "date": "2026-07-29T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "The Life of a SOC Analyst: Responsibilities, Challenges, and Strategies for Success",
-          "link": "https://www.blackhillsinfosec.com/life-of-a-soc-analyst/",
-          "summary": "Security Operations Centers (SOCs) serve as a critical line of defense against today's constantly evolving cybersecurity threats. At the heart of these teams are SOC analysts, who monitor, detect, and respond around the clock to potential attacks. The post The Life of a SOC Analyst: Responsibilities…",
-          "date": "2026-07-22T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "KAPE 101: A Kroll Artifact Parser and Extractor Cheatsheet",
-          "link": "https://www.blackhillsinfosec.com/kape-cheatsheet/",
-          "summary": "Spend time performing forensic analysis on the Windows Operating System and you'll see a host of artifacts that can be used to identify adversary activity. From changes to the registry to the System Resource Utilization Monitor, Windows artifacts run deep. The challenge is locating, extracting, and …",
-          "date": "2026-07-15T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Finding the “Goldilocks” Zone: A Practical Approach to Alert Triage",
-          "link": "https://www.blackhillsinfosec.com/the-goldilocks-zone/",
-          "summary": "We're all petrified about missing a critical event or misclassifying an alert, but when we're talking about incident response (IR), there are often hundreds if not thousands of alerts to parse through. It's easy to get caught up with one alert because it feels \"too hot\" or maybe not spend enough tim…",
-          "date": "2026-07-08T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Finding and Addressing Vulnerable and Outdated Web Application Components",
-          "link": "https://www.blackhillsinfosec.com/vulnerable-and-outdated-web-application-components/",
-          "summary": "Vulnerable and outdated software components are one of the most common issues encountered by BHIS during web application penetration tests. The vast majority of web applications use third-party components such as jQuery, Angular, Bootstrap, or countless other libraries. The post Finding and Addressi…",
-          "date": "2026-07-01T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Insufficient Egress Filtering: How Weak Outbound Controls Enable Attacks",
-          "link": "https://www.blackhillsinfosec.com/insufficient-egress-filtering/",
-          "summary": "Insufficient egress filtering is a commonly identified vulnerability found during BHIS penetration tests. The insufficient egress filtering finding indicates that network traffic leaving the organization’s environment is not properly restricted. The post Insufficient Egress Filtering: How Weak Outbo…",
-          "date": "2026-06-24T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "The Art of the Badge: A Hard Truth About Physical Security",
-          "link": "https://www.blackhillsinfosec.com/the-art-of-the-badge/",
-          "summary": "He walked into the lobby with a fake badge clipped to his shirt. He had bought it online the week before. It was not perfect, and it did not need to be. From a few feet away, it looked close enough: a logo, a name, a photo, and a lanyard. The kind of thing most people glance at for half a second bef…",
-          "date": "2026-06-10T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Auditing GitLab: The CI/CD Kill Chain",
-          "link": "https://www.blackhillsinfosec.com/auditing-gitlab-the-ci-cd-kill-chain/",
-          "summary": "Welcome to GoGatoZ — a purpose-built Go tool for GitLab CI/CD security auditing that can perform and automate the entire CI/CD kill chain along with everything those one-off scripts did and then some. The post Auditing GitLab: The CI/CD Kill Chain appeared first on Black Hills Information Security, …",
-          "date": "2026-06-03T12:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Bad Habits: An ANTISOC Operation",
-          "link": "https://www.blackhillsinfosec.com/antisoc-operation/",
-          "summary": "ANTISOC uses a mix of techniques from traditional penetration tests like red teams, cloud, web applications, externals, internals, and, of course, social engineering. We combine this mix of techniques with a wide-open scope, with the goal of going beyond what a typical pentest can discover. The post…",
-          "date": "2026-05-27T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Same Problem, Different Angles: When Red Team and Blue Team Actually Talk to Each Other",
-          "link": "https://www.blackhillsinfosec.com/same-problem-different-angles/",
-          "summary": "There is a certain kind of conversation that doesn’t get written up in a post-mortem, doesn’t generate a ticket, and never makes it into an end-of-quarter report. It happens on the margins—at a conference, in a hallway, or, in this case, at 30,000 feet above sea level. It’s the conversation where tw…",
-          "date": "2026-05-20T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "How to Identify and Exploit New Vulnerabilities",
-          "link": "https://www.blackhillsinfosec.com/how-to-identify-and-exploit-new-vulnerabilities/",
-          "summary": "In the ever-evolving world of cybersecurity, staying ahead of the curve is not just a goal—it’s a necessity. As new vulnerabilities emerge, the race to identify and mitigate them begins. But how do we, the guardians of the digital realm, rapidly pinpoint these threats as they become public? Let’s di…",
-          "date": "2026-05-13T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Swapper – A Pure Regex Match/Replace Burp Extension",
-          "link": "https://www.blackhillsinfosec.com/swapper/",
-          "summary": "To get a valid session token to use with Burp Suite tools, I ended up writing a small Python extension (110 lines of code, but who’s counting?) that obtained a new session token for each request, allowing items like Intruder to work as intended. Cool, I was able to use it during the test, but I woul…",
-          "date": "2026-05-06T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "A Practical Guide to BloodHound Data Collection",
-          "link": "https://www.blackhillsinfosec.com/bloodhound-data-collection/",
-          "summary": "This blog will not dive too deeply into BloodHound itself; instead, we will focus on various methods to collect AD data to provide BloodHound as input. The post A Practical Guide to BloodHound Data Collection appeared first on Black Hills Information Security, Inc. .",
-          "date": "2026-04-29T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Network Engineering Basics",
-          "link": "https://www.blackhillsinfosec.com/network-engineering-basics/",
-          "summary": "The computer networking field is broad, encompassing many focus areas similar to cybersecurity. If you’re new to the field or just interested in networking, knowing where to start can be challenging. Searching for a network engineer position on any job listing site will yield thousands of results, a…",
-          "date": "2026-04-22T15:40:04+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Signed, Trusted, and Abused: Proxy Execution via WebView2",
-          "link": "https://www.blackhillsinfosec.com/proxy-execution-via-webview2/",
-          "summary": "An offensive security perspective on Microsoft Edge WebView2 Runtime, including architectural weaknesses, existing vulnerabilities, and exploitation methods. The post Signed, Trusted, and Abused: Proxy Execution via WebView2 appeared first on Black Hills Information Security, Inc. .",
-          "date": "2026-04-15T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Getting Started In Pentesting – Advice From The BHIS Pentest Lead",
-          "link": "https://www.blackhillsinfosec.com/getting-started-in-pentesting/",
-          "summary": "Advice about getting started in pentesting from the BHIS pentest lead, including a learning path and why you should go all in on offensive security skills. The post Getting Started In Pentesting – Advice From The BHIS Pentest Lead appeared first on Black Hills Information Security, Inc. .",
-          "date": "2026-04-08T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Cloud Security: Tips and Resources for Securing the Cloud",
-          "link": "https://www.blackhillsinfosec.com/cloud-security-tips-and-resources-for-securing-the-cloud/",
-          "summary": "This overview of the basics of Cloud Security includes some tips and resources for getting started in defending the cloud. The post Cloud Security: Tips and Resources for Securing the Cloud appeared first on Black Hills Information Security, Inc. .",
-          "date": "2026-04-01T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Lessons From A Chatbot Incident",
-          "link": "https://www.blackhillsinfosec.com/lessons-from-a-chatbot-incident/",
-          "summary": "Real-world account of how insecure databases and an AI chatbot left customer data exposed and how it could have been prevented. The post Lessons From A Chatbot Incident appeared first on Black Hills Information Security, Inc. .",
-          "date": "2026-03-25T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "How to Lead Effective Tabletops",
-          "link": "https://www.blackhillsinfosec.com/how-to-lead-effective-cybersecurity-tabletops/",
-          "summary": "Learn how to transform boring, meeting-style security tabletop exercises into engaging real-world scenario simulations. The post How to Lead Effective Tabletops appeared first on Black Hills Information Security, Inc. .",
-          "date": "2026-03-18T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Understanding GRC: How to Navigate Risks and Compliance Standards",
-          "link": "https://www.blackhillsinfosec.com/understanding-grc/",
-          "summary": "“GRC” isn’t all witchcraft and administrative nonsense — it’s the core that drives security initiatives, connects security spend to business outcomes, and powers a well-functioning security team. The post Understanding GRC: How to Navigate Risks and Compliance Standards appeared first on Black Hills…",
-          "date": "2026-03-11T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "The “P” in PAM is for Persistence: Linux Persistence Technique",
-          "link": "https://www.blackhillsinfosec.com/the-p-in-pam-is-for-persistence-linux-persistence-technique/",
-          "summary": "Learn about a pentesting tool using the Pluggable Authentication Module for privilege escalation, lateral movement, and persistence in Linux. The post The “P” in PAM is for Persistence: Linux Persistence Technique appeared first on Black Hills Information Security, Inc. .",
-          "date": "2026-03-04T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Malware Analysis: How to Analyze and Understand Malware",
-          "link": "https://www.blackhillsinfosec.com/malware-analysis-how-to-analyze-and-understand-malware/",
-          "summary": "Malware analysis is an amazing field that can be interesting, fun, and useful for your cybersecurity career. If you’re wondering WHY anyone would want to dig into malware, it’s all for a better understanding of cybersecurity! The post Malware Analysis: How to Analyze and Understand Malware appeared …",
-          "date": "2026-02-25T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "OSINT: How to Find, Use, and Control Open-Source Intelligence",
-          "link": "https://www.blackhillsinfosec.com/osint-how-to-find-use-and-control-open-source-intelligence/",
-          "summary": "OSINT stands for open-source intelligence, and it refers to all publicly available information on the open internet which has been obtained without any special requirements (paywalls, invitations, etc.). The post OSINT: How to Find, Use, and Control Open-Source Intelligence appeared first on Black H…",
-          "date": "2026-02-18T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "What to Do with Your First Home Lab",
-          "link": "https://www.blackhillsinfosec.com/what-to-do-with-your-first-home-lab/",
-          "summary": "Having assembled fundamental lab components, you now get to play! However, the ocean of potential projects can be intimidating. Where does one even start? The post What to Do with Your First Home Lab appeared first on Black Hills Information Security, Inc. .",
-          "date": "2026-02-11T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "When the SOC Goes to Deadwood: A Night to Remember",
-          "link": "https://www.blackhillsinfosec.com/when-the-soc-goes-to-deadwood/",
-          "summary": "Hear a tale about the time the BHIS SOC team conducted a 14-hour overnight incident response... from the Wild West Hackin' Fest conference in Deadwood, South Dakota. The post When the SOC Goes to Deadwood: A Night to Remember appeared first on Black Hills Information Security, Inc. .",
-          "date": "2026-02-04T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Social Engineering and Microsoft SSPR: The Road to Pwnage is Paved with Good Intentions",
-          "link": "https://www.blackhillsinfosec.com/social-engineering-and-microsoft-sspr/",
-          "summary": "This scenario simultaneously tests identity confirmation tooling (SSPR, MFA, Conditional Access), how users act under pressure, and the organization's ability to detect and follow-up on social engineering attacks. The post Social Engineering and Microsoft SSPR: The Road to Pwnage is Paved with Good …",
-          "date": "2026-01-28T15:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Common Cyber Threats",
-          "link": "https://www.blackhillsinfosec.com/common-cyber-threats/",
-          "summary": "In today’s interconnected digital world, information security has become a critical concern for individuals, businesses, and governments alike. Cyber threats, which encompass a wide range of malicious activities targeting information systems, pose significant risks to the confidentiality, integrity,…",
-          "date": "2026-01-21T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Finding the Right Penetration Testing Company",
-          "link": "https://www.blackhillsinfosec.com/finding-the-right-penetration-testing-company/",
-          "summary": "This blog is for anyone who is interested in finding a good penetration testing company. The post Finding the Right Penetration Testing Company appeared first on Black Hills Information Security, Inc. .",
-          "date": "2026-01-14T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Deceptive-Auditing: An Active Directory Honeypots Tool",
-          "link": "https://www.blackhillsinfosec.com/deceptive-auditing/",
-          "summary": "Deceptive-Auditing is a tool that deploys Active Directory honeypots and automatically enables auditing for those honeypots. The post Deceptive-Auditing: An Active Directory Honeypots Tool appeared first on Black Hills Information Security, Inc. .",
-          "date": "2026-01-07T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "The Curious Case of the Comburglar",
-          "link": "https://www.blackhillsinfosec.com/the-curious-case-of-the-comburglar/",
-          "summary": "By Troy Wojewoda During a recent Breach Assessment engagement, BHIS discovered a highly stealthy and persistent intrusion technique utilized by a threat actor to maintain Command-and-Control (C2) within the client’s […] The post The Curious Case of the Comburglar appeared first on Black Hills Inform…",
-          "date": "2025-12-18T17:55:01+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "How to Set Smart Goals (That Actually Work For You)",
-          "link": "https://www.blackhillsinfosec.com/how-to-set-smart-goals/",
-          "summary": "Setting goals is a deceptively simple career skill we all know is important, but how do you set goals you’re actually excited to work towards? The post How to Set Smart Goals (That Actually Work For You) appeared first on Black Hills Information Security, Inc. .",
-          "date": "2025-12-10T15:16:03+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Inside the BHIS SOC: A Conversation with Hayden Covington",
-          "link": "https://www.blackhillsinfosec.com/inside-the-bhis-soc/",
-          "summary": "What happens when you ditch the tiered ticket queues and replace them with collaboration, agility, and real-time response? In this interview, Hayden Covington takes us behind the scenes of the BHIS Security Operations Center, which is where analysts don’t escalate tickets, they solve them. The post …",
-          "date": "2025-12-03T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Abusing Delegation with Impacket (Part 3): Resource-Based Constrained Delegation",
-          "link": "https://www.blackhillsinfosec.com/abusing-delegation-with-impacket-part-3/",
-          "summary": "This is the third in a three-part series of blog posts discussing how to abuse Kerberos delegation! If you haven't already, feel free to read the first blog post, as they discuss the Kerberos authentication process and how delegation plays an important role in solving the double-hop problem, and how…",
-          "date": "2025-11-26T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Why You Got Hacked – 2025 Super Edition",
-          "link": "https://www.blackhillsinfosec.com/why-you-got-hacked-2025/",
-          "summary": "This article was written to provide readers with an overview of a selection of our pentest results from the last 15 months. This data was gathered toward the end of September 2025. Shockingly, the data does not differ much from our prior analyses conducted at the end of 2022 or 2023. The post Why Yo…",
-          "date": "2025-11-19T17:50:39+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Abusing Delegation with Impacket (Part 2): Constrained Delegation",
-          "link": "https://www.blackhillsinfosec.com/abusing-delegation-with-impacket-part-2/",
-          "summary": "This is the second in a three-part series of blog posts discussing how to abuse Kerberos delegation! If you haven't already, feel free to read the first blog post, as it discusses the Kerberos authentication process and how delegation plays an important role in solving the double-hop problem. The po…",
-          "date": "2025-11-12T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Abusing Delegation with Impacket (Part 1): Unconstrained Delegation",
-          "link": "https://www.blackhillsinfosec.com/abusing-delegation-with-impacket-part-1/",
-          "summary": "In Active Directory exploitation, Kerberos delegation is easily among my top favorite vectors of abuse, and in the years I’ve been learning Kerberos exploitation, I’ve noticed that Impacket doesn’t get nearly as much coverage as tools like Rubeus or Mimikatz. The post Abusing Delegation with Impacke…",
-          "date": "2025-11-05T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "GoSpoof – Turning Attacks into Intel",
-          "link": "https://www.blackhillsinfosec.com/gospoof-turning-attacks-into-intel/",
-          "summary": "Imagine this: You’re an attacker ready to get their hands on valuable data that you can sell to afford going on a sweet vacation. You do your research, your recon, everything, ensuring that there’s no way this can go wrong. The day of the attack, you brew some coffee, crack your knuckles, and get st…",
-          "date": "2025-10-29T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Model Context Protocol (MCP)",
-          "link": "https://www.blackhillsinfosec.com/model-context-protocol/",
-          "summary": "The Model Context Protocol (MCP) is a proposed open standard that provides a two-way connection for AI-LLM applications to interact directly with external data sources. It is developed by Anthropic and aims to simplify AI integrations by reducing the need for custom code for each new system. The pos…",
-          "date": "2025-10-22T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Bypassing WAFs Using Oversized Requests",
-          "link": "https://www.blackhillsinfosec.com/bypassing-wafs-using-oversized-requests/",
-          "summary": "Many web application firewalls (WAFs) can be bypassed by simply sending large amounts of extra data in the request body along with your payload. Most WAFs will only process requests up to a certain size limit. How the WAF is configured to handle these large requests determines exploitability, but so…",
-          "date": "2025-10-15T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Getting Started with AI Hacking Part 2: Prompt Injection",
-          "link": "https://www.blackhillsinfosec.com/getting-started-with-ai-hacking-part-2/",
-          "summary": "In Part 2, we’re diving headfirst into one of the most critical attack surfaces in the LLM ecosystem - Prompt Injection: The AI version of talking your way past the bouncer. The post Getting Started with AI Hacking Part 2: Prompt Injection appeared first on Black Hills Information Security, Inc. .",
-          "date": "2025-10-08T16:11:25+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Wrangling Windows Event Logs with Hayabusa & SOF-ELK (Part 2)",
-          "link": "https://www.blackhillsinfosec.com/wrangling-windows-event-logs-with-hayabusa-sof-elk-part-2/",
-          "summary": "But what if we need to wrangle Windows Event Logs for more than one system? In part 2, we’ll wrangle EVTX logs at scale by incorporating Hayabusa and SOF-ELK into my rapid endpoint investigation workflow (“REIW”)! The post Wrangling Windows Event Logs with Hayabusa & SOF-ELK (Part 2) appeared first …",
-          "date": "2025-10-01T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "DomCat: A Domain Categorization Tool",
-          "link": "https://www.blackhillsinfosec.com/domcat-a-domain-categorization-tool/",
-          "summary": "DomCat is a command-line tool written in Golang that helps the user find expired domains with desirable categorizations. The post DomCat: A Domain Categorization Tool appeared first on Black Hills Information Security, Inc. .",
-          "date": "2025-09-24T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Wrangling Windows Event Logs with Hayabusa & SOF-ELK (Part 1)",
-          "link": "https://www.blackhillsinfosec.com/wrangling-windows-event-logs-with-hayabusa-sof-elk-part-1/",
-          "summary": "In part 1 of this post, we’ll discuss how Hayabusa and “Security Operations and Forensics ELK” (SOF-ELK) can help us wrangle EVTX files (Windows Event Log files) for maximum effect during a Windows endpoint investigation! The post Wrangling Windows Event Logs with Hayabusa & SOF-ELK (Part 1) appeare…",
-          "date": "2025-09-17T14:09:33+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Microsoft Store and WinGet: Security Risks for Corporate Environments",
-          "link": "https://www.blackhillsinfosec.com/microsoft-store-and-winget-security-risks/",
-          "summary": "The Microsoft Store provides a convenient mechanism to install software without needing administrator permissions. The feature is convenient for non-corporate and home users but is unlikely to be acceptable in corporate environments. This is because attackers and malicious employees can use the Micr…",
-          "date": "2025-09-10T16:05:44+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Default Web Content",
-          "link": "https://www.blackhillsinfosec.com/default-web-content/",
-          "summary": "Whether it's forgotten temporary files, installation artifacts, READMEs, or even simple image files--default content on web servers can turn into a boon for attackers. In the most innocent of cases, these types of content can let attackers know more about the tech stack of the environment, and in th…",
-          "date": "2025-09-03T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "MailFail",
-          "link": "https://www.blackhillsinfosec.com/mailfail/",
-          "summary": "MailFail is a Firefox browser extension that identifies and provides commands to exploit a large number of email-related misconfigurations for the current domain and subdomain. The extension's UI popup highlights any misconfigurations in red and links to the supporting documentation. The post MailFa…",
-          "date": "2025-09-02T15:36:37+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Commonly Abused Administrative Utilities: A Hidden Risk to Enterprise Security",
-          "link": "https://www.blackhillsinfosec.com/commonly-abused-administrative-utilities/",
-          "summary": "Organizations tend to focus a significant amount of their efforts on external threats, such as phishing and ransomware, but they often overlook one of the most dangerous attack vectors on their internal networks. The post Commonly Abused Administrative Utilities: A Hidden Risk to Enterprise Security…",
-          "date": "2025-08-27T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Stop Spoofing Yourself! Disabling M365 Direct Send",
-          "link": "https://www.blackhillsinfosec.com/disabling-m365-direct-send/",
-          "summary": "Remember the good ‘ol days of Zip drives, Winamp, the advent of “Office 365,” and copy machines that didn’t understand email authentication? Okay, maybe they weren’t so good! For a […] The post Stop Spoofing Yourself! Disabling M365 Direct Send appeared first on Black Hills Information Security, Inc…",
-          "date": "2025-08-20T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Bypassing CSP with JSONP: Introducing JSONPeek and CSP B Gone",
-          "link": "https://www.blackhillsinfosec.com/jsonpeek-and-csp-b-gone/",
-          "summary": "A Content Security Policy (CSP) is a security mechanism implemented by web servers and enforced by browsers to prevent various types of attacks, primarily cross-site scripting (XSS). CSP works by restricting resources (scripts, stylesheets, images, etc.) on a webpage to only execute if they come fro…",
-          "date": "2025-08-13T14:00:00+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "Offensive Tooling Cheatsheets: An Infosec Survival Guide Resource",
-          "link": "https://www.blackhillsinfosec.com/offensive-tooling-cheatsheets/",
-          "summary": "An Infosec Survival Guide Resource, released as blog posts, with fully designed, printer-friendly PDF cheatsheets. The post Offensive Tooling Cheatsheets: An Infosec Survival Guide Resource appeared first on Black Hills Information Security, Inc. .",
-          "date": "2025-08-06T15:05:06+00:00",
-          "source": "Black Hills InfoSec"
-        }
-      ]
+      "articles": []
     },
     "Google Project Zero": {
       "name": "Google Project Zero",
