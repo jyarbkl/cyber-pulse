@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-08-04T13:05:29.448686+00:00",
+  "generated_at": "2026-08-04T17:30:15.145782+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+          "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+          "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
+          "date": "2026-08-04T15:24:35+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+          "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+          "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents within their intended boundaries. [...]",
+          "date": "2026-08-04T14:00:10+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
           "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
           "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
           "date": "2026-07-31T21:38:08+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
-          "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
-          "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]",
-          "date": "2026-07-31T21:09:25+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
-          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
-          "summary": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
-          "date": "2026-07-31T18:52:44+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,48 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)",
+          "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/",
+          "summary": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 2) appeared first on SecurityWeek .",
+          "date": "2026-08-04T16:49:39+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer",
+          "link": "https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/",
+          "summary": "Build your strategy around answering these questions to ensure employees use AI productively while keeping sensitive data, IP, and agent behavior within the boundaries set for safe AI use. The post Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer appeared first on SecurityWee…",
+          "date": "2026-08-04T16:15:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Oligo Raises $60 Million for Runtime Security",
+          "link": "https://www.securityweek.com/oligo-raises-60-million-for-runtime-security/",
+          "summary": "The company will use the investment to accelerate product innovation and expand go-to-market operations. The post Oligo Raises $60 Million for Runtime Security appeared first on SecurityWeek .",
+          "date": "2026-08-04T15:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout",
+          "link": "https://www.securityweek.com/ciso-conversation-russ-kirby-passion-is-the-antidote-to-burnout/",
+          "summary": "Russ Kirby, CISO at Ping Identity, shares how passion, courage, and “good enough” thinking shaped his path from HP to the C-suite—and what keeps him up at night. The post CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout appeared first on SecurityWeek .",
+          "date": "2026-08-04T14:30:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Weaponized Email AI Assistants Could Help Attackers Hijack Accounts",
+          "link": "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/",
+          "summary": "Researchers demonstrate how attackers could abuse built-in email chatbots to evade detection, impersonate trusted employees, compromise executive accounts, and facilitate financial fraud. The post Weaponized Email AI Assistants Could Help Attackers Hijack Accounts appeared first on SecurityWeek .",
+          "date": "2026-08-04T13:54:13+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Zenity Raises $125 Million in Series C Funding",
+          "link": "https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/",
+          "summary": "The AI security company will invest in product innovation, global expansion, and customer experience. The post Zenity Raises $125 Million in Series C Funding appeared first on SecurityWeek .",
+          "date": "2026-08-04T13:40:42+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover",
           "link": "https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/",
           "summary": "Forescout researchers have found 15 new vulnerabilities in the TP-Link Omada networking ecosystem. The post TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover appeared first on SecurityWeek .",
@@ -931,48 +973,6 @@
           "summary": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login. The post Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks appeared first on SecurityWeek .",
           "date": "2026-08-04T09:56:06+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "150,000 Impacted by Madera Community Hospital Data Breach",
-          "link": "https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/",
-          "summary": "An extortion group stole personal, financial, and medical information from the hospital’s network. The post 150,000 Impacted by Madera Community Hospital Data Breach appeared first on SecurityWeek .",
-          "date": "2026-08-04T08:33:45+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers",
-          "link": "https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/",
-          "summary": "The biggest single reward paid out by Microsoft between July 1, 2025, and June 30, 2026, was $200,000. The post Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers appeared first on SecurityWeek .",
-          "date": "2026-08-04T05:18:34+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems",
-          "link": "https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/",
-          "summary": "The grants will help local governments assess and improve cyber defenses amid a multistate campaign targeting water and wastewater infrastructure. The post New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems appeared first on SecurityWeek .",
-          "date": "2026-08-04T01:54:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)",
-          "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/",
-          "summary": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 1) appeared first on SecurityWeek .",
-          "date": "2026-08-03T15:50:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion",
-          "link": "https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/",
-          "summary": "The payments giant says BioCatch’s behavioral and device intelligence will help financial institutions combat account takeovers, scams and other forms of digital fraud. The post Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion appeared first on SecurityWeek .",
-          "date": "2026-08-03T15:32:05+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations",
-          "link": "https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/",
-          "summary": "The list of people behind companies, foundations and trusteeships is part of efforts to combat money laundering and terror financing. The post Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations appeared first on SecurityWeek .",
-          "date": "2026-08-03T15:15:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+          "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
+          "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and sei…",
+          "date": "2026-08-04T17:27:39+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+          "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+          "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned versions across 79 package names in the npm registry. Its monitoring put the wider…",
+          "date": "2026-08-04T13:30:23+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+          "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+          "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote Monitoring and Management (RMM) programs lik…",
+          "date": "2026-08-04T13:11:22+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
           "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
@@ -1307,27 +1328,6 @@
           "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
           "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law. The principal security agency said the instant messagin…",
           "date": "2026-07-29T11:00:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-          "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-          "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. The vulnerability, tracked as CVE…",
-          "date": "2026-07-29T08:58:27+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
-          "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-          "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security inci…",
-          "date": "2026-07-29T07:51:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
-          "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
-          "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account. Tracked as CVE-2026-60004 (CVSS score: 9.…",
-          "date": "2026-07-29T07:47:19+00:00",
           "source": "The Hacker News"
         }
       ]
