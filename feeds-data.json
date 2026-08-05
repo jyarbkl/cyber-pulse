@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-08-05T12:58:50.213688+00:00",
+  "generated_at": "2026-08-05T17:21:38.116902+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
+          "date": "2026-08-05T15:51:33+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Google Blogger locks hundreds of blogs in malware false positive",
+          "link": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
+          "summary": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
+          "date": "2026-08-05T14:59:29+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "How AI-powered phishing killed blocklists for good",
+          "link": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
+          "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying on domains, signatures, and other known-bad indicat…",
+          "date": "2026-08-05T14:01:11+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
           "link": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
@@ -87,27 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
           "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
           "date": "2026-08-03T17:00:56+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
-          "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
-          "summary": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
-          "date": "2026-08-03T15:04:39+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Inside the Underground Business of the Android BTMOB RAT malware",
-          "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
-          "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]",
-          "date": "2026-08-03T14:45:55+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
-          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
-          "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
-          "date": "2026-08-02T22:31:41+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)",
+          "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/",
+          "summary": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 3) appeared first on SecurityWeek .",
+          "date": "2026-08-05T14:36:29+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict",
+          "link": "https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/",
+          "summary": "CrowdStrike co-founder Dmitri Alperovitch discusses how cyber operations support kinetic warfare, signal coming conflicts, and reshape the global battlefield. The post The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict appeared first on SecurityWeek .",
+          "date": "2026-08-05T13:00:08+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
           "link": "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/",
           "summary": "Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation. The post New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts appeared first on SecurityWeek .",
@@ -959,20 +973,6 @@
           "summary": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 2) appeared first on SecurityWeek .",
           "date": "2026-08-04T16:49:39+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer",
-          "link": "https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/",
-          "summary": "Build your strategy around answering these questions to ensure employees use AI productively while keeping sensitive data, IP, and agent behavior within the boundaries set for safe AI use. The post Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer appeared first on SecurityWee…",
-          "date": "2026-08-04T16:15:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Oligo Raises $60 Million for Runtime Security",
-          "link": "https://www.securityweek.com/oligo-raises-60-million-for-runtime-security/",
-          "summary": "The company will use the investment to accelerate product innovation and expand go-to-market operations. The post Oligo Raises $60 Million for Runtime Security appeared first on SecurityWeek .",
-          "date": "2026-08-04T15:00:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,34 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+          "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+          "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such service, Poison Claude, claims to offer access to Anthropic's large language models (L…",
+          "date": "2026-08-05T15:36:03+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+          "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+          "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. A third flaw could expos…",
+          "date": "2026-08-05T15:14:05+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+          "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+          "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5 A cross-tenant fla…",
+          "date": "2026-08-05T14:27:30+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
+          "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+          "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojani…",
+          "date": "2026-08-05T13:41:27+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
           "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
@@ -1301,34 +1329,6 @@
           "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, …",
           "date": "2026-07-30T07:40:48+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
-          "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
-          "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, marketing, or sale in the US. Previously authorized mo…",
-          "date": "2026-07-30T07:28:43+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
-          "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
-          "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 …",
-          "date": "2026-07-30T06:05:17+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
-          "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation. The vulnerability, as…",
-          "date": "2026-07-30T05:08:39+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-          "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-          "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secret…",
-          "date": "2026-07-29T18:10:00+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,20 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/",
+          "summary": "Learn why KuppingerCole named Microsoft a Leader in its Leadership Compass: Cloud Native Application Protection Platforms report. The post ​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP) appeared first on Microsoft Security…",
+          "date": "2026-08-05T16:30:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/",
+          "summary": "A macOS ClickFix campaign shifted tactics from openly serving infostealer lures to hiding them behind a browser-fingerprinting gate. The change makes malicious infrastructure harder to detect while giving defenders new hunting opportunities. The post From open lures to cloaked gates: How a macOS Cli…",
+          "date": "2026-08-05T15:48:39+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
@@ -1395,20 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/",
           "summary": "Microsoft's External Red Team Alliance (EXTRA) is a global AI security initiative designed to advance AI safety research and red teaming. By partnering with universities, researchers, and regional experts, EXTRA helps identify emerging AI risks, improve security testing, and strengthen the resilienc…",
           "date": "2026-07-27T16:25:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Email threat landscape: Q2 2026 trends and insights",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/",
-          "summary": "In the second quarter of 2026, the continuing effects of Microsoft’s disruption of the Tycoon2FA phishing platform contributed to sustained declines in several major phishing techniques, while threat actors expanded into Teams-based social engineering and employed increasingly automated and multi-st…",
-          "date": "2026-07-23T15:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Real world incident response: Microsoft and AXA XL strengthen cyber resilience",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/",
-          "summary": "Our collaboration with AXA XL brings Microsoft Incident Response services directly to cyber insurance policyholders, helping organizations coordinate technical, business, and insurance decisions. The post Real world incident response: Microsoft and AXA XL strengthen cyber resilience appeared first o…",
-          "date": "2026-07-22T16:00:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
