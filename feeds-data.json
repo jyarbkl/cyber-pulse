@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-08-07T11:50:08.279890+00:00",
+  "generated_at": "2026-08-07T16:42:44.286821+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
+          "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
+          "summary": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
+          "date": "2026-08-07T15:48:20+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+          "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+          "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
+          "date": "2026-08-07T14:00:10+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "North Carolina Ports confirms cyberattack disrupting operations",
+          "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+          "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
+          "date": "2026-08-07T13:34:40+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
           "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
@@ -88,27 +109,6 @@
           "summary": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
           "date": "2026-08-05T15:51:33+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Google Blogger locks hundreds of blogs in malware false positive",
-          "link": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
-          "summary": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
-          "date": "2026-08-05T14:59:29+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "How AI-powered phishing killed blocklists for good",
-          "link": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
-          "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying on domains, signatures, and other known-bad indicat…",
-          "date": "2026-08-05T14:01:11+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
-          "link": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
-          "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. [...]",
-          "date": "2026-08-04T23:39:59+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -121,6 +121,13 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement",
           "summary": "The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.",
           "date": "2026-08-06T21:42:50+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Déjà Vu? Meta's AI Escapes Testing Lab in Hacking Joyride",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride",
+          "summary": "In the span of three weeks, OpenAI, Anthropic, and Meta have all disclosed AI agent sandbox escape events affecting real organizations.",
+          "date": "2026-08-06T20:39:30+00:00",
           "source": "Dark Reading"
         },
         {
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation",
           "summary": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising — and preventing the next AI model escape will be difficult, at best.",
           "date": "2026-07-24T19:45:02+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
-          "summary": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
-          "date": "2026-07-24T13:00:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street",
+          "link": "https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/",
+          "summary": "Noteworthy stories that might have slipped under the radar: ban on Chinese data center tech, QuickFox VPN supply chain attack, IEH Corporation mailbox breached via phishing. The post In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street appeared first …",
+          "date": "2026-08-07T14:26:42+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Vishing Extortion Group UNC6671 Rebrands After Making Millions",
           "link": "https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/",
           "summary": "Initially calling itself BlackFile, the group has expanded operations to the Redact, Pink, Helix, and Falcon brands. The post Vishing Extortion Group UNC6671 Rebrands After Making Millions appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "(Video) In this podcast, we share insights from Edna Conway, a recognized leader in cybersecurity and supply chain resilience with over 40 years of experience in the field. The post Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway appeared first on SecurityWeek .",
           "date": "2026-08-06T12:00:00+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Critical Paperclip Flaw Allowed Admin Access, Code Execution",
-          "link": "https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/",
-          "summary": "An attacker could self-register, sign in for board-level API access, and import a new company for code execution. The post Critical Paperclip Flaw Allowed Admin Access, Code Execution appeared first on SecurityWeek .",
-          "date": "2026-08-06T11:09:11+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,34 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+          "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+          "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an a…",
+          "date": "2026-08-07T12:56:23+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Growing Up The Hard Way",
+          "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
+          "summary": "Open Source had a great childhood. For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from anyone who wandered up — take what you need, pay me back whenev…",
+          "date": "2026-08-07T11:55:26+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
+          "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+          "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath. The flaw has existed since 2008. The fix already shipped: stable kernels 7.1.6, 6.18.42, 6.12.101 and 6.6.148,…",
+          "date": "2026-08-07T11:10:33+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+          "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+          "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, the research found a…",
+          "date": "2026-08-07T10:58:38+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
           "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
@@ -990,15 +1018,8 @@
         {
           "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
           "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-          "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate attack vectors. PortSwigger said a separate human-guided discovery cascade also exposed a zero…",
+          "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors. PortSwigger said a separate human-guided discovery cascade also exposed a zero…",
           "date": "2026-08-07T10:09:54+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-          "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-          "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, the research found a…",
-          "date": "2026-08-07T09:32:57+00:00",
           "source": "The Hacker News"
         },
         {
@@ -1307,27 +1328,6 @@
           "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
           "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether…",
           "date": "2026-08-03T11:30:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-          "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-          "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of …",
-          "date": "2026-08-03T10:49:06+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-          "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-          "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addresses belonging to police officers, police staff, criminal justice professionals, …",
-          "date": "2026-08-03T09:13:56+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-          "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-          "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin says nearly undetectable changes to .fsa and .hid outputs could occur if labora…",
-          "date": "2026-08-03T08:05:30+00:00",
           "source": "The Hacker News"
         }
       ]
