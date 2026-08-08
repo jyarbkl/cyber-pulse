@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-08-08T11:34:19.119998+00:00",
+  "generated_at": "2026-08-08T16:21:59.142448+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+          "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
+          "date": "2026-08-08T14:16:23+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
           "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
           "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]",
           "date": "2026-08-05T21:53:26+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
-          "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
-          "date": "2026-08-05T19:55:25+00:00",
           "source": "BleepingComputer"
         }
       ]
