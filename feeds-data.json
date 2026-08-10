@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-08-09T16:23:32.279433+00:00",
+  "generated_at": "2026-08-10T11:52:47.529428+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Valve notifies Steam hardware customers of a data breach",
+          "link": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
+          "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
+          "date": "2026-08-10T11:47:55+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]",
+          "date": "2026-08-10T09:49:37+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
           "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
           "summary": "AI did not create a new browser security problem. It exposed one that enterprises have long been able to ignore. Skyhigh Security explains why browsers have become a critical control point for governing data movement, AI interactions, and modern work. [...]",
           "date": "2026-08-06T14:02:12+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
-          "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
-          "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
-          "date": "2026-08-05T23:00:50+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
-          "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]",
-          "date": "2026-08-05T21:53:26+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -549,6 +549,13 @@
       "url": "https://risky.biz/feeds/newsletters/",
       "articles": [
         {
+          "title": "Risky Bulletin: Pwnie Awards 2026 winners",
+          "link": "https://risky.biz/risky-bulletin-pwnie-awards-2026-winners/",
+          "summary": "If there's one thing that has annoyed me as someone who doesn't attend the yearly BlackHat & DEFCON conferences, it's that I could never find out who won the Pwnie Awards for days and sometimes weeks after the event had concluded. The Pwnie team would never update their website in time, tweet the wi…",
+          "date": "2026-08-10T02:24:42+00:00",
+          "source": "Risky Biz Newsletters"
+        },
+        {
           "title": "Risky Bulletin: Meta's AI joins Anthropic and OpenAI in the hacky-hacky",
           "link": "https://risky.biz/risky-bulletin-metas-ai-joins-anthropic-and-openai-in-the-hacky-hacky/",
           "summary": "The UK's AI Security Institute has disclosed a security incident after two AI models it was evaluating performed actions the agency wasn't expecting and tried to hack real-world organizations. The incident took place at the end of last month and the malicious actions were performed by Anthropic's My…",
@@ -890,13 +897,6 @@
           "summary": "This month's Android security updates carry an important patch for a critical vulnerability that can grant attackers remote access to an Android smartphone or smart device. Tracked as CVE-2026-0073 , the bug allows attackers to bypass authentication in the Android remote debugging service ADB . Succ…",
           "date": "2026-05-08T02:14:07+00:00",
           "source": "Risky Biz Newsletters"
-        },
-        {
-          "title": "Srsly Risky Biz: After Mythos, US Government Weighs AI Model Regulation",
-          "link": "https://risky.biz/srsly-risky-biz-after-mythos-us-government-weighs-ai-model-regulation/",
-          "summary": "The Trump administration is considering applying stricter oversight to American AI models due to their cyber security impact. However, before pulling the trigger on strict and inflexible regulation, we believe the government should spend a little time watching and learning. This apparent shift from …",
-          "date": "2026-05-07T03:50:14+00:00",
-          "source": "Risky Biz Newsletters"
         }
       ]
     },
@@ -904,6 +904,48 @@
       "name": "SecurityWeek",
       "url": "https://www.securityweek.com/feed/",
       "articles": [
+        {
+          "title": "New Jersey, Alabama Join States Targeted in Water Cyberattacks",
+          "link": "https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/",
+          "summary": "Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states. The post New Jersey, Alabama Join States Targeted in Water Cyberattacks appeared first on SecurityWeek .",
+          "date": "2026-08-10T11:44:26+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Metabase Patches Vulnerability Exploited as Zero-Day",
+          "link": "https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/",
+          "summary": "The security defect allows unauthenticated, remote attackers to gain administrative access to Metabase instances. The post Metabase Patches Vulnerability Exploited as Zero-Day appeared first on SecurityWeek .",
+          "date": "2026-08-10T11:03:55+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
+          "link": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
+          "summary": "CERT.PL said this appears to be the first instance of a private APN being used as an attack vector. The post Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility appeared first on SecurityWeek .",
+          "date": "2026-08-10T10:01:52+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability",
+          "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/",
+          "summary": "The critical-severity flaw allows unauthenticated, remote attackers to execute arbitrary commands. The post CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability appeared first on SecurityWeek .",
+          "date": "2026-08-10T09:31:51+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Corporate Data Stolen in Levi Strauss Cyberattack",
+          "link": "https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/",
+          "summary": "Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them. The post Corporate Data Stolen in Levi Strauss Cyberattack appeared first on SecurityWeek .",
+          "date": "2026-08-10T08:55:44+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
+          "link": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
+          "summary": "The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies. The post Critical Flaws Discovered in Belgian eID Software Used by 2 Million People appeared first on SecurityWeek .",
+          "date": "2026-08-10T04:44:32+00:00",
+          "source": "SecurityWeek"
+        },
         {
           "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
           "link": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
@@ -931,48 +973,6 @@
           "summary": "NMFTA research shows a Bendix EC80 brake controller safety recall also patched remote code execution and DoS vulnerabilities. The post Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix appeared first on SecurityWeek .",
           "date": "2026-08-07T10:00:00+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)",
-          "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/",
-          "summary": "Companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 4) appeared first on SecurityWeek .",
-          "date": "2026-08-07T09:24:22+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Microsoft, Apple Release Fresh Security Updates",
-          "link": "https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/",
-          "summary": "Microsoft fixed critical vulnerabilities across Azure, Entra, and SharePoint, while Apple patched a high-severity authentication bypass. The post Microsoft, Apple Release Fresh Security Updates appeared first on SecurityWeek .",
-          "date": "2026-08-07T09:09:54+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "3.8 Million Impacted by Unlimited Technology Systems Data Breach",
-          "link": "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
-          "summary": "Hackers stole personal, medical, and health insurance information from a company’s data center. The post 3.8 Million Impacted by Unlimited Technology Systems Data Breach appeared first on SecurityWeek .",
-          "date": "2026-08-07T07:22:05+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Critical Vulnerabilities Patched With Chrome 151 Update",
-          "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/",
-          "summary": "The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws. The post Critical Vulnerabilities Patched With Chrome 151 Update appeared first on SecurityWeek .",
-          "date": "2026-08-07T06:56:56+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Snowflake Hacker Pleads Guilty in US Court",
-          "link": "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/",
-          "summary": "Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada. The post Snowflake Hacker Pleads Guilty in US Court appeared first on SecurityWeek .",
-          "date": "2026-08-06T14:56:31+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts",
-          "link": "https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/",
-          "summary": "Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched. The post Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts appeared first on SecurityWeek .",
-          "date": "2026-08-06T12:54:09+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
+          "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
+          "summary": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credential stealer. The names of the extensions are below - helper-beeps.solidity-pro web3devtoolsx.solidity-…",
+          "date": "2026-08-10T07:38:23+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
+          "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
+          "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecurity. In response to the discovery, the AI upstart said it's implem…",
+          "date": "2026-08-10T05:50:03+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
           "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
@@ -1315,20 +1329,6 @@
           "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote Monitoring and Management (RMM) programs lik…",
           "date": "2026-08-04T13:11:22+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
-          "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
-          "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistication. Nation-state actors sat at one end. Organized criminal groups followed. I…",
-          "date": "2026-08-04T11:30:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
-          "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
-          "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing agent. The researchers said the public agent could be prompt-injected into postin…",
-          "date": "2026-08-04T11:16:23+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1340,78 +1340,7 @@
     "Microsoft Security Blog": {
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
-      "articles": [
-        {
-          "title": "​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/",
-          "summary": "Learn why KuppingerCole named Microsoft a Leader in its Leadership Compass: Cloud Native Application Protection Platforms report. The post ​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP) appeared first on Microsoft Security…",
-          "date": "2026-08-05T16:30:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/",
-          "summary": "A macOS ClickFix campaign shifted tactics from openly serving infostealer lures to hiding them behind a browser-fingerprinting gate. The change makes malicious infrastructure harder to detect while giving defenders new hunting opportunities. The post From open lures to cloaked gates: How a macOS Cli…",
-          "date": "2026-08-05T15:48:39+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
-          "summary": "A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation. The post Chain…",
-          "date": "2026-08-04T23:46:41+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/",
-          "summary": "Microsoft expands its Zero Trust for AI strategy to enhance security for AI and DevSecOps environments with new tools and guidance. The post Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps appeared first on Microsoft Security Blog .",
-          "date": "2026-08-04T18:30:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/",
-          "summary": "Microsoft Defender automatically isolated a compromised QNET endpoint in 128 seconds, stopping a multi-stage attack before the payload could persist or spread. The post 128 Seconds to disruption: Microsoft Defender stops ransomware at QNET appeared first on Microsoft Security Blog .",
-          "date": "2026-08-04T17:54:04+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/",
-          "summary": "Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May 2026 in order to deliver malware to travelers and steal credentials in an operation we call CaptiveCrunch. The pos…",
-          "date": "2026-07-31T21:01:37+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "​​​​What’s new in Microsoft Security: July 2026",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/",
-          "summary": "This month’s updates help security and IT teams secure their AI environments, use AI to defend, and strengthen the foundations that AI-powered operations depend on. The post ​​​​What’s new in Microsoft Security: July 2026 appeared first on Microsoft Security Blog .",
-          "date": "2026-07-30T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "​​Better security starts with better questions",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/",
-          "summary": "Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems. The post ​​Better security starts with better questions appeared first on Microsoft Security Blog .",
-          "date": "2026-07-29T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Rethinking security for the age of AI",
-          "link": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
-          "summary": "The physics of cybersecurity are changing. Introducing security's new cyber stack: Project Perception. The post Rethinking security for the age of AI appeared first on Microsoft Security Blog .",
-          "date": "2026-07-27T16:40:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Enhancing AI security through global AI red teaming",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/",
-          "summary": "Microsoft's External Red Team Alliance (EXTRA) is a global AI security initiative designed to advance AI safety research and red teaming. By partnering with universities, researchers, and regional experts, EXTRA helps identify emerging AI risks, improve security testing, and strengthen the resilienc…",
-          "date": "2026-07-27T16:25:00+00:00",
-          "source": "Microsoft Security Blog"
-        }
-      ]
+      "articles": []
     },
     "Black Hills InfoSec": {
       "name": "Black Hills InfoSec",
@@ -1499,6 +1428,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "ISC Stormcast For Monday, August 10th, 2026 https://isc.sans.edu/podcastdetail/10044, (Mon, Aug 10th)",
+          "link": "https://isc.sans.edu/diary/rss/33228",
+          "summary": "",
+          "date": "2026-08-10T02:00:03+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "Linux Shell Forensic: Let&#x3f;s Dive Into Atuin&#x21;, (Fri, Aug 7th)",
           "link": "https://isc.sans.edu/diary/rss/33226",
           "summary": "UNIX systems (including Linux) are well-known to record a lot of activities in many different locations. But there is one domain where they definitely lack of \"modern\" logging: shells. Most shells provide an historization of the typed commands through a flat file in the $HOME directory (ex: $HOME/.b…",
@@ -1559,13 +1495,6 @@
           "link": "https://isc.sans.edu/diary/rss/33210",
           "summary": "",
           "date": "2026-08-03T02:00:02+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)",
-          "link": "https://isc.sans.edu/diary/rss/33208",
-          "summary": "Introduction",
-          "date": "2026-08-02T04:05:08+00:00",
           "source": "SANS ISC"
         }
       ]
