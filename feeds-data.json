@@ -1,10 +1,45 @@
 {
-  "generated_at": "2026-08-12T16:47:29.407703+00:00",
+  "generated_at": "2026-08-13T11:52:40.806270+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "WhatsApp rolls out new feature that flags potential scam messages",
+          "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
+          "summary": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
+          "date": "2026-08-13T11:50:22+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
+          "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
+          "summary": "An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]",
+          "date": "2026-08-12T23:07:23+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Android malware combo takes out loans and relays victims' credit cards",
+          "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
+          "summary": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
+          "date": "2026-08-12T22:22:57+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+          "summary": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]",
+          "date": "2026-08-12T20:54:59+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
+          "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
+          "summary": "More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]",
+          "date": "2026-08-12T18:54:57+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
           "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
@@ -74,41 +109,6 @@
           "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
           "date": "2026-08-11T21:07:24+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
-          "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
-          "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
-          "date": "2026-08-11T19:45:31+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
-          "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
-          "summary": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
-          "date": "2026-08-11T18:34:23+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft releases Windows 10 KB5120249 extended security update",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
-          "summary": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
-          "date": "2026-08-11T18:26:03+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
-          "summary": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
-          "date": "2026-08-11T18:08:50+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
-          "summary": "Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-          "date": "2026-08-11T17:38:42+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,34 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "'Jewelbug' APT Balances State Espionage &amp; Cryptocurrency Theft",
+          "link": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft",
+          "summary": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel.",
+          "date": "2026-08-13T10:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
+          "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
+          "summary": "The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general.",
+          "date": "2026-08-13T07:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
+          "summary": "The \"City-Forum\" campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.",
+          "date": "2026-08-12T21:08:54+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Walmart Takes a 'Trusted Agent' Approach to Purple Teaming",
+          "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
+          "summary": "Walmart colocates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
+          "date": "2026-08-12T16:28:04+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition",
@@ -437,34 +465,6 @@
           "summary": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
           "date": "2026-07-29T17:35:23+00:00",
           "source": "Dark Reading"
-        },
-        {
-          "title": "When AppSec Scanners Become a Supply Chain Attack Vector",
-          "link": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector",
-          "summary": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.",
-          "date": "2026-07-29T17:06:52+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
-          "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
-          "summary": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
-          "date": "2026-07-29T14:40:33+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
-          "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
-          "summary": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who plans to release an open source tool next week at Black Hat USA 2026 that sniffs out trust paths.",
-          "date": "2026-07-28T21:33:23+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Thousands of Data Center Controllers Open to Takeover",
-          "link": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
-          "summary": "A host of Internet-exposed remote hardware management processors are subject to offline password-cracking attacks — and adversaries have taken note.",
-          "date": "2026-07-28T21:07:55+00:00",
-          "source": "Dark Reading"
         }
       ]
     },
@@ -548,6 +548,13 @@
       "name": "Risky Biz Newsletters",
       "url": "https://risky.biz/feeds/newsletters/",
       "articles": [
+        {
+          "title": "Srsly Risky Biz: Data Theft Extortion Is Booming! Hooray!",
+          "link": "https://risky.biz/srsly-risky-biz-data-theft-extortion-is-booming-hooray/",
+          "summary": "The cybercriminal ecosystem is increasingly focussing on data theft and extortion rather than locking up victims' files. That criminals have stumbled across a new lucrative business model is a bittersweet win in the fight against disruptive, encrypting ransomware. Data theft extortion isn't great, b…",
+          "date": "2026-08-13T09:46:41+00:00",
+          "source": "Risky Biz Newsletters"
+        },
         {
           "title": "Risky Bulletin: Russian hackers adopt the fake job interview tactics",
           "link": "https://risky.biz/risky-bulletin-russian-hackers-adopt-the-fake-job-interview-tactics/",
@@ -890,13 +897,6 @@
           "summary": "The RubyGems package repository has disabled new user sign-ups after a malicious attack on Monday targeted its engineers and staff. Hundreds of malicious packages were published on Monday and then again on Tuesday . The packages contained malicious code aimed at RubyGems developers. The code tried t…",
           "date": "2026-05-13T05:47:09+00:00",
           "source": "Risky Biz Newsletters"
-        },
-        {
-          "title": "Risky Bulletin: FCC relaxes foreign router ban to allow for security updates",
-          "link": "https://risky.biz/risky-bulletin-fcc-relaxes-foreign-router-ban-to-allow-for-security-updates/",
-          "summary": "The US Federal Communications Commission has updated its ban on foreign-made routers to allow vendors to ship security updates for a longer period of time. The agency banned the sale of foreign routers in March , but allowed companies to ship security updates for one more year until March 2027. The …",
-          "date": "2026-05-11T00:47:19+00:00",
-          "source": "Risky Biz Newsletters"
         }
       ]
     },
@@ -904,6 +904,41 @@
       "name": "SecurityWeek",
       "url": "https://www.securityweek.com/feed/",
       "articles": [
+        {
+          "title": "Venture Firm Team8 Secures Additional $365 Million",
+          "link": "https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/",
+          "summary": "The Israeli company has nearly $2 billion in total assets under management since 2014. The post Venture Firm Team8 Secures Additional $365 Million appeared first on SecurityWeek .",
+          "date": "2026-08-13T11:42:48+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Fortinet Patches Authentication Flaws in FortiWeb and FortiManager",
+          "link": "https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/",
+          "summary": "The vulnerabilities could allow attackers to log in with random usernames and passwords or impersonate any FortiGate appliance. The post Fortinet Patches Authentication Flaws in FortiWeb and FortiManager appeared first on SecurityWeek .",
+          "date": "2026-08-13T10:40:57+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs",
+          "link": "https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/",
+          "summary": "Contracts may require a $1 million bond, which will be forfeited if a company fails to comply with operational requirements. The post White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs appeared first on SecurityWeek .",
+          "date": "2026-08-13T09:53:04+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Critical VMware vCenter Vulnerability in Attackers’ Crosshairs",
+          "link": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/",
+          "summary": "Tracked as CVE-2026–59310, the directory traversal bug allows remote attackers to execute arbitrary code. The post Critical VMware vCenter Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek .",
+          "date": "2026-08-13T09:06:40+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’",
+          "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/",
+          "summary": "Dropped on Patch Tuesday, the exploit allows any user to spawn a shell with System privileges. The post Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’ appeared first on SecurityWeek .",
+          "date": "2026-08-13T08:38:03+00:00",
+          "source": "SecurityWeek"
+        },
         {
           "title": "SharePoint Vulnerability Exploited Shortly After PoC Release",
           "link": "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/",
@@ -938,41 +973,6 @@
           "summary": "Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers. The post Ceva Logistics Operations Disrupted by Cyberattack appeared first on SecurityWeek .",
           "date": "2026-08-12T11:37:28+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined",
-          "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/",
-          "summary": "Intel has informed customers about several high-severity vulnerabilities that can lead to privilege escalation and even code execution. The post Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined appeared first on SecurityWeek .",
-          "date": "2026-08-12T10:55:04+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
-          "link": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
-          "summary": "LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users. The post Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack appeared first on SecurityWeek .",
-          "date": "2026-08-12T09:55:45+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
-          "link": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
-          "summary": "The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor. The post Fresh Windows Zero-Day Exploited in North Korean Cyberattacks appeared first on SecurityWeek .",
-          "date": "2026-08-12T08:45:53+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Ivanti EPM Update Patches Remotely Exploitable Flaws",
-          "link": "https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/",
-          "summary": "The vulnerabilities could be exploited to leak credentials for external SQL connections or crash an agent service. The post Ivanti EPM Update Patches Remotely Exploitable Flaws appeared first on SecurityWeek .",
-          "date": "2026-08-12T08:14:46+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact",
-          "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/",
-          "summary": "CISA has also published several advisories describing vulnerabilities in ICS and other OT products. The post ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact appeared first on SecurityWeek .",
-          "date": "2026-08-12T07:51:55+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+          "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+          "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authentication. …",
+          "date": "2026-08-13T06:09:48+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+          "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+          "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity…",
+          "date": "2026-08-12T17:39:27+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
           "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
@@ -1315,20 +1329,6 @@
           "summary": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next agent run. Novee Security ran the attack against each vendor's agent in the conf…",
           "date": "2026-08-07T08:18:35+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
-          "link": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
-          "summary": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years before training their sights on the software supply chain. \"The connection is support…",
-          "date": "2026-08-07T06:50:05+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
-          "link": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
-          "summary": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtualization is exposed to untrusted guests. The flaw is tracked as CVE-2026-64561 a…",
-          "date": "2026-08-06T17:58:30+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1499,6 +1499,20 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
+          "link": "https://isc.sans.edu/diary/rss/33244",
+          "summary": "",
+          "date": "2026-08-13T02:00:03+00:00",
+          "source": "SANS ISC"
+        },
+        {
+          "title": "Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)",
+          "link": "https://isc.sans.edu/diary/rss/33242",
+          "summary": "In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how its recommendation can be considered useful about the activity my DShield sensor i…",
+          "date": "2026-08-13T01:26:53+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "Linux Kernel Process Accounting, (Wed, Aug 12th)",
           "link": "https://isc.sans.edu/diary/rss/33240",
           "summary": "A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by \"bash&#;x26;#;x5f;history\"&#;x26;#;xc2;&#;x26;#;xa0;and collecting meaningful additional data. Our reader David commented that this ca…",
@@ -1552,20 +1566,6 @@
           "link": "https://isc.sans.edu/diary/rss/33224",
           "summary": "",
           "date": "2026-08-07T02:00:02+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Thursday, August 6th, 2026 https://isc.sans.edu/podcastdetail/10040, (Thu, Aug 6th)",
-          "link": "https://isc.sans.edu/diary/rss/33222",
-          "summary": "",
-          "date": "2026-08-06T02:00:02+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "22 Seconds to Compromise: How Automated SSH Actors Move From Login to Persistence Before You Can Blink &#x5b;Guest Diary&#x5d;, (Thu, Aug 6th)",
-          "link": "https://isc.sans.edu/diary/rss/33220",
-          "summary": "[This is a Guest Diary by Daryl Jiminez, an ISC intern as part of the SANS.edu BACS program]",
-          "date": "2026-08-06T00:15:40+00:00",
           "source": "SANS ISC"
         }
       ]
