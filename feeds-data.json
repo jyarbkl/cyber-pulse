@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-08-14T11:49:31.053983+00:00",
+  "generated_at": "2026-08-14T16:41:22.799772+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+          "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
+          "date": "2026-08-14T14:59:55+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
+          "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
+          "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]",
+          "date": "2026-08-14T14:00:10+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
+          "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
+          "date": "2026-08-14T13:45:18+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Shell investigates 'potential incident' after Clop data theft claims",
+          "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
+          "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
+          "date": "2026-08-14T11:55:45+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "RingCentral data breach exposed info of 1.6 million accounts",
           "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
@@ -81,34 +109,6 @@
           "summary": "AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of selection, before they enter the development pipeline. [...]",
           "date": "2026-08-13T14:00:10+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "White House taps security firms for offensive hack-back operations",
-          "link": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
-          "summary": "A new White House memo signed by U.S. President Donald Trump instructs the National Coordination Center (NCC) to establish a program that would allow private security companies to apply for approval to hack foreign cybercrime organizations. [...]",
-          "date": "2026-08-13T13:30:53+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "WhatsApp rolls out new feature that flags potential scam messages",
-          "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
-          "summary": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
-          "date": "2026-08-13T11:50:22+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
-          "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
-          "summary": "An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]",
-          "date": "2026-08-12T23:07:23+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Android malware combo takes out loans and relays victims' credit cards",
-          "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
-          "summary": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
-          "date": "2026-08-12T22:22:57+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,27 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
+          "summary": "One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well.",
+          "date": "2026-08-14T15:58:50+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "What Boards Need to Know About Tech Risk",
+          "link": "https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk",
+          "summary": "Why do so many boards underestimate technology risk until it becomes a crisis?",
+          "date": "2026-08-14T14:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Cyera's Oasis Security Buy is All About AI Agent Control",
+          "link": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
+          "summary": "The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles.",
+          "date": "2026-08-14T12:17:21+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
           "link": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
@@ -443,27 +464,6 @@
           "link": "https://www.darkreading.com/cyber-risk/cybersecurity-then-now",
           "summary": "Since 2006, Dark Reading has been at the forefront of covering cybersecurity. The more things change, the more they stay the same.",
           "date": "2026-07-29T23:26:46+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
-          "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
-          "summary": "OpenAI's goal-seeking agent compromised a Modal customer environment and others during its sandbox escape.",
-          "date": "2026-07-29T19:48:12+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Red Agents vs. Blue Agents: How to Make AI Better at Defense",
-          "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
-          "summary": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
-          "date": "2026-07-29T19:46:20+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions",
-          "summary": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of.",
-          "date": "2026-07-29T17:43:38+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
+          "link": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
+          "summary": "Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption. The post In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilit…",
+          "date": "2026-08-14T11:57:51+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Trivy, Not LiteLLM Behind the 2,500 Org Compromise",
           "link": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
           "summary": "Over 95% of the affected companies were exposed before the malicious LiteLLM packages were published. The post Trivy, Not LiteLLM Behind the 2,500 Org Compromise appeared first on SecurityWeek .",
@@ -965,13 +972,6 @@
           "link": "https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/",
           "summary": "The first exploitation attempts targeting CVE-2026-71362 were observed shortly after Adobe released patches. The post Adobe Commerce Bug Targeted Immediately After Disclosure appeared first on SecurityWeek .",
           "date": "2026-08-13T14:17:44+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "WordPress 7.0.4 Patches Remote Code Execution Vulnerability",
-          "link": "https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/",
-          "summary": "Attackers with Author-level user or higher permissions could exploit the flaw via malicious Postscript files. The post WordPress 7.0.4 Patches Remote Code Execution Vulnerability appeared first on SecurityWeek .",
-          "date": "2026-08-13T12:53:56+00:00",
           "source": "SecurityWeek"
         }
       ]
