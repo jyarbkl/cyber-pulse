@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-08-14T16:41:22.799772+00:00",
+  "generated_at": "2026-08-15T11:25:37.329095+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "How Anthropic plans to watermark Claude's AI-generated text",
+          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
+          "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
+          "date": "2026-08-14T23:24:17+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+          "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]",
+          "date": "2026-08-14T18:04:26+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
           "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
@@ -95,20 +109,6 @@
           "summary": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
           "date": "2026-08-13T16:40:23+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Trezor discloses data breach affecting nearly 14,000 customers",
-          "link": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
-          "summary": "Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked [...]",
-          "date": "2026-08-13T15:13:19+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
-          "link": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
-          "summary": "AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of selection, before they enter the development pipeline. [...]",
-          "date": "2026-08-13T14:00:10+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,20 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Mission-Driven Security: Inside a Global Bank's Defense",
+          "link": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
+          "summary": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both defensive capabilities and adversarial tactics in banking.",
+          "date": "2026-08-14T19:24:18+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
+          "summary": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
+          "date": "2026-08-14T17:32:46+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
@@ -131,7 +145,7 @@
           "source": "Dark Reading"
         },
         {
-          "title": "Cyera's Oasis Security Buy is All About AI Agent Control",
+          "title": "Cyera's Oasis Security Buy Is All About AI Agent Control",
           "link": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
           "summary": "The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles.",
           "date": "2026-08-14T12:17:21+00:00",
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
           "summary": "The organized crime groups have moved from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
           "date": "2026-07-30T01:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "'Flying Eagle' Full-Service Mobile RAT Builder Wings Across China",
-          "link": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china",
-          "summary": "A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts.",
-          "date": "2026-07-30T00:30:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Cybersecurity, Then &amp; Now: A Visual Look at 20 Years of Change",
-          "link": "https://www.darkreading.com/cyber-risk/cybersecurity-then-now",
-          "summary": "Since 2006, Dark Reading has been at the forefront of covering cybersecurity. The more things change, the more they stay the same.",
-          "date": "2026-07-29T23:26:46+00:00",
           "source": "Dark Reading"
         }
       ]
