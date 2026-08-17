@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-08-17T11:31:28.882034+00:00",
+  "generated_at": "2026-08-17T16:17:06.461621+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Microsoft confirms GitHub is down worldwide",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+          "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
+          "date": "2026-08-17T14:47:08+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+          "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+          "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...]",
+          "date": "2026-08-17T14:00:10+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+          "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
+          "date": "2026-08-17T12:33:11+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Philips and GE investigating Clop ransomware data theft claims",
           "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
@@ -88,27 +109,6 @@
           "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]",
           "date": "2026-08-14T14:00:10+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-          "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
-          "date": "2026-08-14T13:45:18+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Shell investigates 'potential incident' after Clop data theft claims",
-          "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
-          "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
-          "date": "2026-08-14T11:55:45+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "RingCentral data breach exposed info of 1.6 million accounts",
-          "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-          "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
-          "date": "2026-08-14T10:52:05+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS",
+          "link": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
+          "summary": "The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure.",
+          "date": "2026-08-17T15:44:34+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Mission-Driven Security: Inside a Global Bank's Defense",
           "link": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
           "summary": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?",
           "date": "2026-07-30T15:28:43+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
-          "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
-          "summary": "The organized crime groups have moved from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
-          "date": "2026-07-30T01:00:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "680,000 Impacted by French Tax Authority Data Breach",
+          "link": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
+          "summary": "Hackers used compromised credentials to access enterprise and personal tax-related data. The post 680,000 Impacted by French Tax Authority Data Breach appeared first on SecurityWeek .",
+          "date": "2026-08-17T13:53:55+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Irregular Details How a Naming Error Let AI Models Attack a Real Company",
+          "link": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
+          "summary": "The AI security testing firm has shared information on a recently disclosed incident involving Anthropic AI models. The post Irregular Details How a Naming Error Let AI Models Attack a Real Company appeared first on SecurityWeek .",
+          "date": "2026-08-17T12:11:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware",
           "link": "https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/",
           "summary": "Anthropic has been conducting tests to identify issues in how AI agents interact with each other. The post Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware appeared first on SecurityWeek .",
@@ -959,20 +973,6 @@
           "summary": "Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028. The post Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal appeared first on SecurityWeek .",
           "date": "2026-08-14T11:00:00+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
-          "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
-          "summary": "The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers. The post 1.6 Million Likely Impacted by RingCentral Data Breach appeared first on SecurityWeek .",
-          "date": "2026-08-14T10:24:03+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
-          "link": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
-          "summary": "The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts. The post Over 1,000 Charities Hit by Beacon CRM Data Breach appeared first on SecurityWeek .",
-          "date": "2026-08-14T09:20:28+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+          "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+          "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was alrea…",
+          "date": "2026-08-17T13:23:51+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "How MCP Servers Can Expose Enterprise Secrets",
+          "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+          "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become a major gap in MCP …",
+          "date": "2026-08-17T11:58:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+          "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+          "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker. The advisory, published August 17, 2026, is the second stage of a c…",
+          "date": "2026-08-17T10:52:34+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
           "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
@@ -1308,27 +1329,6 @@
           "summary": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default. That pretty much covers the mood this week. Old bugs are back, supply chains are getting stranger, and some exploit paths are so short y…",
           "date": "2026-08-10T15:00:29+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
-          "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
-          "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts…",
-          "date": "2026-08-10T13:19:58+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-          "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-          "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Windows had exposed, abuse…",
-          "date": "2026-08-10T12:25:04+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
-          "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-          "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors. Russian cybersecurity vendor Kaspersky said…",
-          "date": "2026-08-10T11:33:41+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1499,6 +1499,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Apple Screen Sharing Security, (Mon, Aug 17th)",
+          "link": "https://isc.sans.edu/diary/rss/33252",
+          "summary": "About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted protocol using TCP port 5900. Historically, the protocol used a simple global pas…",
+          "date": "2026-08-17T14:33:58+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)",
           "link": "https://isc.sans.edu/diary/rss/33250",
           "summary": "",
@@ -1559,13 +1566,6 @@
           "link": "https://isc.sans.edu/diary/rss/33232",
           "summary": "",
           "date": "2026-08-11T02:00:03+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Scans for Solana (Surfpool&#x3f;) Endpoints, (Mon, Aug 10th)",
-          "link": "https://isc.sans.edu/diary/rss/33230",
-          "summary": "Solana is a crypto platform known for speed. Developers like it to develop distributed applications or to implement crypto payments. To interact with the blockchain, APIs are provided for developers. These APIs will either \"speak\" JSON or gRPC. One implementation often used for development is \"surfp…",
-          "date": "2026-08-10T16:24:45+00:00",
           "source": "SANS ISC"
         }
       ]
