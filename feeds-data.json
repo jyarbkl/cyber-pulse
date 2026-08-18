@@ -1,10 +1,52 @@
 {
-  "generated_at": "2026-08-17T16:17:06.461621+00:00",
+  "generated_at": "2026-08-18T11:30:15.619167+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Microsoft tests faster Windows File Explorer, new context menu",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
+          "summary": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
+          "date": "2026-08-18T11:14:28+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]",
+          "date": "2026-08-18T10:32:16+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
+          "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]",
+          "date": "2026-08-18T09:24:49+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft starts removing WMIC tool used by cybercriminals",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
+          "summary": "Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]",
+          "date": "2026-08-18T08:12:08+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+          "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+          "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
+          "date": "2026-08-17T19:35:01+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Pokémon Center data breach exposes customer info, cancels some orders",
+          "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+          "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
+          "date": "2026-08-17T19:12:39+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Microsoft confirms GitHub is down worldwide",
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
@@ -67,48 +109,6 @@
           "summary": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
           "date": "2026-08-16T17:29:52+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
-          "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
-          "summary": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]",
-          "date": "2026-08-16T15:07:44+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
-          "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-          "summary": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
-          "date": "2026-08-15T14:14:38+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "How Anthropic plans to watermark Claude's AI-generated text",
-          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-          "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
-          "date": "2026-08-14T23:24:17+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-          "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]",
-          "date": "2026-08-14T18:04:26+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-          "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
-          "date": "2026-08-14T14:59:55+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
-          "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-          "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]",
-          "date": "2026-08-14T14:00:10+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,27 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Video Call Exploit Chains Two Flaws in Unisoc Modems",
+          "link": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
+          "summary": "Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.",
+          "date": "2026-08-17T21:37:23+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware",
+          "link": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
+          "summary": "Three testing models with the same goal but different directives engaged in \"increasingly aggressive\" territorial attacks on one another, according to Anthropic.",
+          "date": "2026-08-17T20:26:34+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Adam Shostack Talks Hugging Face &amp; PHANTOM-B",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
+          "summary": "World-class threat modeler Adam Shostack shared he was \"blown away\" by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both \"lightweight yet still usable.\"",
+          "date": "2026-08-17T19:22:56+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS",
           "link": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
@@ -443,27 +464,6 @@
           "link": "https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports",
           "summary": "The organization behind Team USA's Olympic/Paralympic fencing teams has automated identity verification to handle growing membership, cutting manual review time while ensuring athletes compete in the correct categories.",
           "date": "2026-07-31T13:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks",
-          "link": "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks",
-          "summary": "A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure.",
-          "date": "2026-07-30T21:16:13+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "AI Harnesses Burst With Potential Exploit Opps",
-          "link": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
-          "summary": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
-          "date": "2026-07-30T19:40:40+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Claude Mythos — Hype vs. Reality: What Security Teams Need to Know",
-          "link": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
-          "summary": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?",
-          "date": "2026-07-30T15:28:43+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,34 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw",
+          "link": "https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/",
+          "summary": "Tracked as CVE-2026-15748, the arbitrary file upload bug allows unauthenticated attackers to upload executable files. The post 300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw appeared first on SecurityWeek .",
+          "date": "2026-08-18T10:48:23+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Heights Finance Data Breach Impacts at Least 1.2 Million Individuals",
+          "link": "https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/",
+          "summary": "Hackers stole names, addresses, phone numbers, Social Security numbers, and financial information from a third-party platform. The post Heights Finance Data Breach Impacts at Least 1.2 Million Individuals appeared first on SecurityWeek .",
+          "date": "2026-08-18T09:18:34+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "GitLab Patches Critical Code Injection Vulnerability",
+          "link": "https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/",
+          "summary": "The security defect allows unauthenticated attackers to modify or delete user data and public projects. The post GitLab Patches Critical Code Injection Vulnerability appeared first on SecurityWeek .",
+          "date": "2026-08-18T08:51:07+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates",
+          "link": "https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/",
+          "summary": "The bugs could be exploited to crash Safari, corrupt memory, leak sensitive data, escape the sandbox, and exfiltrate data. The post Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates appeared first on SecurityWeek .",
+          "date": "2026-08-18T06:46:22+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "680,000 Impacted by French Tax Authority Data Breach",
           "link": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
           "summary": "Hackers used compromised credentials to access enterprise and personal tax-related data. The post 680,000 Impacted by French Tax Authority Data Breach appeared first on SecurityWeek .",
@@ -945,34 +973,6 @@
           "summary": "The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components. The post Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure appeared first on SecurityWeek .",
           "date": "2026-08-17T08:13:07+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Fortune 500 Companies Hit in Azure Data Theft Campaign",
-          "link": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
-          "summary": "A threat actor is claiming the exfiltration of millions of records from McDonald’s, TCS, Vodafone, and other large organizations. The post Fortune 500 Companies Hit in Azure Data Theft Campaign appeared first on SecurityWeek .",
-          "date": "2026-08-17T06:51:08+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
-          "link": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
-          "summary": "Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption. The post In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilit…",
-          "date": "2026-08-14T11:57:51+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Trivy, Not LiteLLM Behind the 2,500 Org Compromise",
-          "link": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
-          "summary": "Over 95% of the affected companies were exposed before the malicious LiteLLM packages were published. The post Trivy, Not LiteLLM Behind the 2,500 Org Compromise appeared first on SecurityWeek .",
-          "date": "2026-08-14T11:35:23+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal",
-          "link": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
-          "summary": "Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028. The post Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal appeared first on SecurityWeek .",
-          "date": "2026-08-14T11:00:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,48 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
+          "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
+          "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wallet maker said all affected customers were notified individually by email on Au…",
+          "date": "2026-08-18T09:10:45+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
+          "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-source, Python-native distributed computing framework designed to scale artifici…",
+          "date": "2026-08-18T06:34:20+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+          "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+          "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data. The flaw, tracked as …",
+          "date": "2026-08-17T21:03:04+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+          "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+          "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credent…",
+          "date": "2026-08-17T18:44:17+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+          "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+          "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vulnerability, tracked as CVE-2026-15748, is rated 9.8 out of 10.0 on the CVSS scorin…",
+          "date": "2026-08-17T18:22:09+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+          "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+          "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster…",
+          "date": "2026-08-17T17:41:06+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
           "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
@@ -1025,7 +1067,7 @@
         {
           "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
           "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
-          "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical authentication issue impact…",
+          "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical authentication issue imp…",
           "date": "2026-08-15T07:24:04+00:00",
           "source": "The Hacker News"
         },
@@ -1287,48 +1329,6 @@
           "summary": "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction. The trick can work even after a blunt version of the same theft is refused: split the request in…",
           "date": "2026-08-11T10:24:00+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Gunra Ransomware Exploits Fortinet FortiOS, FortiProxy Flaws to Breach Networks",
-          "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
-          "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include healthcare and public health, financial services, government services and facilities…",
-          "date": "2026-08-11T09:16:24+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
-          "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
-          "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment. The plant supplies heat to roughly 50,000 residents. Recovery began at about 7:3…",
-          "date": "2026-08-11T06:55:45+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
-          "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
-          "summary": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads. \"Unlike traditional software supply chain attacks, zero source code files were…",
-          "date": "2026-08-11T05:48:44+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
-          "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-          "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is …",
-          "date": "2026-08-10T17:29:17+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
-          "link": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
-          "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Microsoft Threat Intellig…",
-          "date": "2026-08-10T16:38:37+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
-          "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
-          "summary": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default. That pretty much covers the mood this week. Old bugs are back, supply chains are getting stranger, and some exploit paths are so short y…",
-          "date": "2026-08-10T15:00:29+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1499,6 +1499,20 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)",
+          "link": "https://isc.sans.edu/diary/rss/33256",
+          "summary": "",
+          "date": "2026-08-18T02:00:03+00:00",
+          "source": "SANS ISC"
+        },
+        {
+          "title": "Apple Patches iOS and macOS, (Mon, Aug 17th)",
+          "link": "https://isc.sans.edu/diary/rss/33254",
+          "summary": "Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerability. This vulnerability did not affect iOS/iPadOS.",
+          "date": "2026-08-17T20:26:39+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "Apple Screen Sharing Security, (Mon, Aug 17th)",
           "link": "https://isc.sans.edu/diary/rss/33252",
           "summary": "About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted protocol using TCP port 5900. Historically, the protocol used a simple global pas…",
@@ -1552,20 +1566,6 @@
           "link": "https://isc.sans.edu/diary/rss/33238",
           "summary": "",
           "date": "2026-08-12T02:00:03+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)",
-          "link": "https://isc.sans.edu/diary/rss/33236",
-          "summary": "This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege escalation, container tampering, and critical QUIC and DNS Server remote code execution bugs.",
-          "date": "2026-08-11T17:54:49+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Tuesday, August 11th, 2026 https://isc.sans.edu/podcastdetail/10046, (Tue, Aug 11th)",
-          "link": "https://isc.sans.edu/diary/rss/33232",
-          "summary": "",
-          "date": "2026-08-11T02:00:03+00:00",
           "source": "SANS ISC"
         }
       ]
@@ -1741,6 +1741,13 @@
       "url": "https://any.run/cybersecurity-blog/feed/",
       "articles": [
         {
+          "title": "Mirage2FA Hijacks Companies’ Microsoft 365 Sessions, with Over 4K Victims in the US",
+          "link": "https://any.run/cybersecurity-blog/mirage2fa-phishing-targets-us-companies/",
+          "summary": "Mirage2FA is an active phishing-as-a-service toolkit built to steal Microsoft 365 credentials and authenticated sessions through Adversary-in-the-Middle (AiTM) attacks. ANY.RUN research shows that 63.7% of identified victims are in the US, with Technologies, Manufacturing, and Education among the mo…",
+          "date": "2026-08-18T09:28:12+00:00",
+          "source": "ANY.RUN Blog"
+        },
+        {
           "title": "Intelligence-Driven SOC: Modernizing Threat Monitoring and Detection Engineering for Ultimate MTTR Reduction",
           "link": "https://any.run/cybersecurity-blog/threat-monitoring-ti-feeds/",
           "summary": "Threat monitoring serves as the vital connective tissue of modern security operations. It ensures that every function from triage to response operates effectively. To meet evolving threat challenges, SOC teams and MSSPs must transition from simple log collection to a proactive, intelligence-driven f…",
@@ -1801,13 +1808,6 @@
           "link": "https://any.run/cybersecurity-blog/efficient-soc-for-fast-response/",
           "summary": "SOCs face constant pressure to detect and respond to threats faster. Heavy workloads, limited threat visibility, and disconnected tools can delay action, increasing the risk of financial loss and operational disruption. ANY.RUN helps more than 15,000 security teams reduce these delays with fresh thr…",
           "date": "2026-07-22T11:44:40+00:00",
-          "source": "ANY.RUN Blog"
-        },
-        {
-          "title": "Kali365 Targets US Organizations with Data Theft via Device Code Phishing",
-          "link": "https://any.run/cybersecurity-blog/kali365-phishing-targeting-us/",
-          "summary": "Kali365 is targeting US organizations with device code phishing attacks that abuse legitimate Microsoft authentication. Instead of directing victims to a fake login form, the phishkit sends them to a real Microsoft page, where they authorize access using an attacker-controlled device code. This make…",
-          "date": "2026-07-21T07:01:11+00:00",
           "source": "ANY.RUN Blog"
         }
       ]
