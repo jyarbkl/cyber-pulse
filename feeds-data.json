@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-08-19T11:30:29.692452+00:00",
+  "generated_at": "2026-08-19T16:20:47.707816+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
+          "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
+          "summary": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]",
+          "date": "2026-08-19T15:56:09+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
+          "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
+          "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some login flows unprotected. [...]",
+          "date": "2026-08-19T14:00:10+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Microsoft fixes known issue causing Windows Defender crashes",
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
           "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
           "date": "2026-08-17T19:12:39+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft confirms GitHub is down worldwide",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
-          "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
-          "date": "2026-08-17T14:47:08+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
-          "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-          "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...]",
-          "date": "2026-08-17T14:00:10+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -551,7 +551,7 @@
         {
           "title": "Risky Bulletin: Slovakia finds Russian backdoor in traffic speed cameras",
           "link": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-          "summary": "Slovakia's national security service NBU has issued a security alert against the use of NERO R-ONE high-speed traffic cameras. The agency says the cameras contain a backdoor mechanism that will execute malicious code received via an SMS from a list of hardcoded Russian phone numbers. The NBU started…",
+          "summary": "Slovakia's national security service NBU has issued a security alert against the use of NERO R-ONE high-speed traffic cameras. The agency says the cameras contain a backdoor mechanism that grants shell and network access to the devices via an SMS message received from a list of hardcoded Russian pho…",
           "date": "2026-08-19T04:52:14+00:00",
           "source": "Risky Biz Newsletters"
         },
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Virtual Event Today: CodeSecCon – Secure Your Code and Applications",
+          "link": "https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/",
+          "summary": "CodeSecCon is the premier virtual event bringing together developers and cybersecurity professionals to revolutionize the way applications are built, secured, and maintained. The post Virtual Event Today: CodeSecCon – Secure Your Code and Applications appeared first on SecurityWeek .",
+          "date": "2026-08-19T13:36:17+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Prevalent AI Raises $22 Million to Expand Data Fabric Platform",
+          "link": "https://www.securityweek.com/prevalent-ai-raises-22-million-to-expand-data-fabric-platform/",
+          "summary": "The previously bootstrapped company helps organizations securely and reliably operate AI agents at scale. The post Prevalent AI Raises $22 Million to Expand Data Fabric Platform appeared first on SecurityWeek .",
+          "date": "2026-08-19T12:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them",
           "link": "https://www.securityweek.com/us-charges-17-iranian-hackers-offers-10-million-rewards-for-5-of-them/",
           "summary": "The 17 members of the Mabna Institute targeted hundreds of universities and organizations in the US and abroad. The post US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them appeared first on SecurityWeek .",
@@ -959,20 +973,6 @@
           "summary": "With no formal training and no career plan, Waisman built a path from Argentina's early hacking scene to leading security at an AI-powered offensive security firm. The post CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW appeared first on SecurityWe…",
           "date": "2026-08-18T14:30:00+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "AI-Driven Vulnerability Surge Breaks the Traditional Patching Model",
-          "link": "https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/",
-          "summary": "Rapid7 warns that traditional patch cycles cannot keep pace with soaring vulnerability disclosures and faster exploitation, forcing defenders to prioritize exposure over severity scores. The post AI-Driven Vulnerability Surge Breaks the Traditional Patching Model appeared first on SecurityWeek .",
-          "date": "2026-08-18T13:00:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Xpander Raises $7.5 Million for AI Management and Governance",
-          "link": "https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/",
-          "summary": "Xpander’s platform uses a universal agent harness that executes AI agents as portable workloads and securely renders interfaces on demand. The post Xpander Raises $7.5 Million for AI Management and Governance appeared first on SecurityWeek .",
-          "date": "2026-08-18T12:29:08+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+          "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+          "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, Gogi…",
+          "date": "2026-08-19T13:12:17+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+          "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+          "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique. The activity, codenamed Operation…",
+          "date": "2026-08-19T11:34:28+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+          "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+          "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into the message's intent, and it is failing now that the sender…",
+          "date": "2026-08-19T11:30:00+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
           "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
@@ -1308,27 +1329,6 @@
           "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of …",
           "date": "2026-08-12T07:31:40+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-          "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
-          "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerability, rooted in Microsoft Defender for Windows, demonstrates a patch bypass for C…",
-          "date": "2026-08-12T06:41:38+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
-          "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
-          "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checki…",
-          "date": "2026-08-12T06:15:58+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
-          "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
-          "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That …",
-          "date": "2026-08-11T20:10:55+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1499,6 +1499,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)",
+          "link": "https://isc.sans.edu/diary/rss/33260",
+          "summary": "Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the region the machine is running in or its MAC and IP addresses. However, the service may also be used to…",
+          "date": "2026-08-19T14:24:58+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Wednesday, August 19th, 2026 https://isc.sans.edu/podcastdetail/10058, (Wed, Aug 19th)",
           "link": "https://isc.sans.edu/diary/rss/33258",
           "summary": "",
@@ -1559,13 +1566,6 @@
           "link": "https://isc.sans.edu/diary/rss/33242",
           "summary": "In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how its recommendation can be considered useful about the activity my DShield sensor i…",
           "date": "2026-08-13T01:26:53+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Linux Kernel Process Accounting, (Wed, Aug 12th)",
-          "link": "https://isc.sans.edu/diary/rss/33240",
-          "summary": "A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by \"bash&#;x26;#;x5f;history\"&#;x26;#;xc2;&#;x26;#;xa0;and collecting meaningful additional data. Our reader David commented that this ca…",
-          "date": "2026-08-12T14:21:10+00:00",
           "source": "SANS ISC"
         }
       ]
