@@ -1,10 +1,45 @@
 {
-  "generated_at": "2026-08-21T11:31:46.779973+00:00",
+  "generated_at": "2026-08-21T16:21:40.837314+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
+          "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+          "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
+          "date": "2026-08-21T15:55:15+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+          "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
+          "date": "2026-08-21T14:54:49+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Is Online Privacy Possible? How Digital Identities Can Help",
+          "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+          "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
+          "date": "2026-08-21T14:00:10+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
+          "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
+          "date": "2026-08-21T13:39:35+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
+          "date": "2026-08-21T12:25:33+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
@@ -74,41 +109,6 @@
           "summary": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]",
           "date": "2026-08-20T09:46:54+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft says August Windows updates may cause gaming issues",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-          "summary": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
-          "date": "2026-08-20T06:51:03+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
-          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
-          "summary": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
-          "date": "2026-08-20T00:20:55+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
-          "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
-          "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee. [...]",
-          "date": "2026-08-19T20:59:58+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
-          "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
-          "summary": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
-          "date": "2026-08-19T20:53:38+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
-          "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
-          "summary": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
-          "date": "2026-08-19T20:07:12+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -118,9 +118,16 @@
       "articles": [
         {
           "title": "Calling on Cyber Pros to Help Defend City Hall",
-          "link": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
+          "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
           "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
           "date": "2026-08-21T14:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "OpenAI Adds Controls That Should've Been There Already",
+          "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
+          "summary": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
+          "date": "2026-08-21T13:30:00+00:00",
           "source": "Dark Reading"
         },
         {
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking",
           "summary": "Attackers can take control of agents through malicious instructions hidden in content supplied to AI browsers, and there's no simple fix for the threat.",
           "date": "2026-08-05T23:30:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "No Perfect Fix for AI Browser Prompt Injection Flaws",
-          "link": "https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws",
-          "summary": "AI browsers from top vendors remain vulnerable to prompt injection attacks despite multiple security guardrails, according to new research.",
-          "date": "2026-08-05T22:18:25+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,34 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
+          "link": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
+          "summary": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification. The post In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug appeared first on SecurityWeek .",
+          "date": "2026-08-21T15:11:16+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
+          "link": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
+          "summary": "Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment. The post Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini appeared first on SecurityWeek .",
+          "date": "2026-08-21T14:34:05+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
+          "link": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
+          "summary": "Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked. The post New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets appeared first on SecurityWeek .",
+          "date": "2026-08-21T14:22:06+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
+          "link": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
+          "summary": "The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process. The post Critical Isolated-vm Vulnerability Leads to RCE on Host appeared first on SecurityWeek .",
+          "date": "2026-08-21T12:26:07+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Rust Supply Chain Attack Linked to North Korean Hackers",
           "link": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
           "summary": "Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server. The post Rust Supply Chain Attack Linked to North Korean Hackers appeared first on SecurityWeek .",
@@ -919,9 +947,9 @@
           "source": "SecurityWeek"
         },
         {
-          "title": "Microsoft Rolls Out 22 Fresh Security Patches",
+          "title": "Microsoft Patches Exploited Entra ID Vulnerability",
           "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
-          "summary": "Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Rolls Out 22 Fresh Security Patches appeared first on SecurityWeek .",
+          "summary": "A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Patches Exploited Entra ID Vulnerability appeared first on SecurityWeek .",
           "date": "2026-08-21T08:12:19+00:00",
           "source": "SecurityWeek"
         },
@@ -945,34 +973,6 @@
           "summary": "We all know they’re watching us. But we don’t know who they are, nor why nor how they are doing it. The post Surveillance – Everything You Wanted to Know, But Were Afraid to Ask appeared first on SecurityWeek .",
           "date": "2026-08-20T14:30:00+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia",
-          "link": "https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/",
-          "summary": "Operation CameraSwarm targeted Dahua cameras across multiple countries, focusing on Russian and CIS telecom netblocks. The post Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia appeared first on SecurityWeek .",
-          "date": "2026-08-20T13:16:35+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
-          "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
-          "summary": "The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges. The post Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities appeared first on SecurityWeek .",
-          "date": "2026-08-20T12:24:53+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "MLflow Vulnerability Exploited for Cloud Credential Theft",
-          "link": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
-          "summary": "The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information. The post MLflow Vulnerability Exploited for Cloud Credential Theft appeared first on SecurityWeek .",
-          "date": "2026-08-20T12:05:55+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities",
-          "link": "https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/",
-          "summary": "The flaws could lead to remote code execution, authentication bypasses, and path traversal attacks. The post Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities appeared first on SecurityWeek .",
-          "date": "2026-08-20T11:46:04+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,13 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Wazuh and AI For Enhanced SOC Workflows",
+          "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+          "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cyber…",
+          "date": "2026-08-21T11:21:39+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
           "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
@@ -1322,13 +1329,6 @@
           "summary": "Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains to those that get a second chance, where an expired domain becomes available for…",
           "date": "2026-08-14T18:48:46+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "IAM Compliance Requirements and Best Practices",
-          "link": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
-          "summary": "IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities. This guide explains what IAM compliance requires, which regulations matter, and how organizations move…",
-          "date": "2026-08-14T17:19:49+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1665,6 +1665,13 @@
       "url": "https://www.secureideas.com/blog/rss.xml",
       "articles": [
         {
+          "title": "How to Prepare for Your External Pentest",
+          "link": "https://www.secureideas.com/blog/how-to-prepare-for-your-external-pentest",
+          "summary": "Scheduling a penetration test means you are not waiting around for a breach to tell you where security gaps might exist within your environment. However, what a lot of organizations do not realize is that the preparation and communication before a network penetration test is just as important as the…",
+          "date": "2026-08-21T14:06:03+00:00",
+          "source": "Secure Ideas"
+        },
+        {
           "title": "AI Pit Droid at Maker Faire Orlando: Results & What's Next | Secure Ideas",
           "link": "https://www.secureideas.com/blog/maker-faire-results-reactions-whats-next",
           "summary": "Blog 4 of 4: Three Days in Orlando",
@@ -1725,13 +1732,6 @@
           "link": "https://www.secureideas.com/blog/the-ai-brain-teaching-the-droid-to-see",
           "summary": "Blog 2 of 4: Vision, Detection and the Pivot That Changed Everything",
           "date": "2026-06-01T11:30:00+00:00",
-          "source": "Secure Ideas"
-        },
-        {
-          "title": "What Is a SIAM and Why Is One Showing Up at Your Office?",
-          "link": "https://www.secureideas.com/blog/what-is-a-siam-and-why-is-one-showing-up-at-your-office",
-          "summary": "If you've scheduled an internal penetration test with Secure Ideas, we've likely asked you to either plug in a small device or spin up a virtual machine on your network. You will hear us refer to that device as a SIAM, or the Secure Ideas Attack Machine . Understandably, some clients want to know ex…",
-          "date": "2026-05-26T13:13:24+00:00",
           "source": "Secure Ideas"
         }
       ]
