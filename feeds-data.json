@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-08-21T16:21:40.837314+00:00",
+  "generated_at": "2026-08-22T11:25:48.077577+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
+          "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+          "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
+          "date": "2026-08-21T18:01:30+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
           "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
@@ -41,7 +48,7 @@
           "source": "BleepingComputer"
         },
         {
-          "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+          "title": "Microsoft patches max severity code execution, privilege escalation flaws",
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
           "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
           "date": "2026-08-21T11:04:10+00:00",
@@ -102,13 +109,6 @@
           "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
           "date": "2026-08-20T10:02:02+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
-          "summary": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]",
-          "date": "2026-08-20T09:46:54+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
+          "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
+          "summary": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
+          "date": "2026-08-21T17:36:53+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Calling on Cyber Pros to Help Defend City Hall",
           "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
@@ -154,7 +161,7 @@
         {
           "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
           "link": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
-          "summary": "Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress.",
+          "summary": "Law enforcement training is falling behind the volume and rapid evolution of cybercrimes. Officers really only need to learn the basics, but lack of focus and budget hinder progress.",
           "date": "2026-08-20T17:32:51+00:00",
           "source": "Dark Reading"
         },
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
           "summary": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
           "date": "2026-08-05T23:35:28+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "AI Browsers Vulnerable to 'PleaseFix' Zero-Click Agent Hijacking",
-          "link": "https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking",
-          "summary": "Attackers can take control of agents through malicious instructions hidden in content supplied to AI browsers, and there's no simple fix for the threat.",
-          "date": "2026-08-05T23:30:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
+          "link": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
+          "summary": "The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware. The post Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight appeared first on SecurityWeek .",
+          "date": "2026-08-22T08:30:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
+          "link": "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/",
+          "summary": "The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks. The post Former NSA Director Paul Nakasone Launches National Security Advisory Firm appeared first on Sec…",
+          "date": "2026-08-21T16:27:52+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
           "link": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
           "summary": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification. The post In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug appeared first on SecurityWeek .",
@@ -959,20 +973,6 @@
           "summary": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware. The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek .",
           "date": "2026-08-21T07:25:50+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
-          "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
-          "summary": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska. The post Hackers Target Zimbra Servers in Active Exploitation Campaign appeared first on SecurityWeek .",
-          "date": "2026-08-20T14:50:49+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Surveillance – Everything You Wanted to Know, But Were Afraid to Ask",
-          "link": "https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/",
-          "summary": "We all know they’re watching us. But we don’t know who they are, nor why nor how they are doing it. The post Surveillance – Everything You Wanted to Know, But Were Afraid to Ask appeared first on SecurityWeek .",
-          "date": "2026-08-20T14:30:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+          "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+          "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates the bundled binary, …",
+          "date": "2026-08-21T18:53:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+          "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+          "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no …",
+          "date": "2026-08-21T15:52:10+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+          "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+          "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad frau…",
+          "date": "2026-08-21T15:41:44+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Wazuh and AI For Enhanced SOC Workflows",
           "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
@@ -1002,9 +1023,9 @@
           "source": "The Hacker News"
         },
         {
-          "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+          "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
           "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-          "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a case of remote code execution impacting the tech giant's clou…",
+          "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026, Microsoft corrected the \"Exploited\" status to \"No\" aft…",
           "date": "2026-08-21T06:06:11+00:00",
           "source": "The Hacker News"
         },
@@ -1308,27 +1329,6 @@
           "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a severe directory-traversal vulnerability in …",
           "date": "2026-08-17T07:36:19+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
-          "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
-          "summary": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an instance of insufficient authorization checks and input validation. \"SAP Commerce…",
-          "date": "2026-08-15T08:38:46+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
-          "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
-          "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical authentication issue imp…",
-          "date": "2026-08-15T07:24:04+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
-          "link": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
-          "summary": "Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains to those that get a second chance, where an expired domain becomes available for…",
-          "date": "2026-08-14T18:48:46+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1340,78 +1340,7 @@
     "Microsoft Security Blog": {
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
-      "articles": [
-        {
-          "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
-          "summary": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026 appeared first on Microso…",
-          "date": "2026-08-19T17:30:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
-          "summary": "MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft Security Blog .",
-          "date": "2026-08-18T17:08:28+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/",
-          "summary": "Microsoft is named a Leader in the 2026 IDC MarketScape for MDR services. Discover how Microsoft Defender Experts MDR combines AI, threat intelligence, and human expertise. The post Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise appeared first on Microsoft Secur…",
-          "date": "2026-08-10T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/",
-          "summary": "Microsoft Threat Intelligence examines DeadLock ransomware, an emerging financially motivated operation distinguished by its use of decentralized infrastructure to support victim communications, negotiations, and data leak operations alongside double extortion tactics used to pressure victims. The p…",
-          "date": "2026-08-10T15:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/",
-          "summary": "Learn why KuppingerCole named Microsoft a Leader in its Leadership Compass: Cloud Native Application Protection Platforms report. The post ​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP) appeared first on Microsoft Security…",
-          "date": "2026-08-05T16:30:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/",
-          "summary": "A macOS ClickFix campaign shifted tactics from openly serving infostealer lures to hiding them behind a browser-fingerprinting gate. The change makes malicious infrastructure harder to detect while giving defenders new hunting opportunities. The post From open lures to cloaked gates: How a macOS Cli…",
-          "date": "2026-08-05T15:48:39+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
-          "summary": "A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation. The post Chain…",
-          "date": "2026-08-04T23:46:41+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/",
-          "summary": "Microsoft expands its Zero Trust for AI strategy to enhance security for AI and DevSecOps environments with new tools and guidance. The post Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps appeared first on Microsoft Security Blog .",
-          "date": "2026-08-04T18:30:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/",
-          "summary": "Microsoft Defender automatically isolated a compromised QNET endpoint in 128 seconds, stopping a multi-stage attack before the payload could persist or spread. The post 128 Seconds to disruption: Microsoft Defender stops ransomware at QNET appeared first on Microsoft Security Blog .",
-          "date": "2026-08-04T17:54:04+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/",
-          "summary": "Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May 2026 in order to deliver malware to travelers and steal credentials in an operation we call CaptiveCrunch. The pos…",
-          "date": "2026-07-31T21:01:37+00:00",
-          "source": "Microsoft Security Blog"
-        }
-      ]
+      "articles": []
     },
     "Black Hills InfoSec": {
       "name": "Black Hills InfoSec",
