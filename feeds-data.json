@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-08-23T11:25:48.057246+00:00",
+  "generated_at": "2026-08-23T16:14:24.146886+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+          "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+          "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
+          "date": "2026-08-23T14:23:46+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Hackers infect Android car head units with proxy botnet malware",
           "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
           "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
           "date": "2026-08-20T14:01:11+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
-          "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
-          "summary": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
-          "date": "2026-08-20T12:14:38+00:00",
           "source": "BleepingComputer"
         }
       ]
