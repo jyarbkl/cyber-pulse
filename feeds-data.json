@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T16:13:16.689951+00:00",
+  "generated_at": "2026-08-23T11:25:48.057246+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
@@ -117,6 +117,13 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
+          "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
+          "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes",
+          "date": "2026-08-21T20:24:42+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
           "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
           "summary": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
@@ -135,6 +142,13 @@
           "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
           "summary": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
           "date": "2026-08-21T13:30:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
+          "link": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
+          "summary": "The coming threat of super-powerful computers capable of cracking today’s algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
+          "date": "2026-08-21T13:10:33+00:00",
           "source": "Dark Reading"
         },
         {
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox",
           "summary": "A researcher demonstrated a proof-of-concept attack chain that provided C2-style influence over ChatGPT's isolated sandbox during a session at Black Hat USA 2026.",
           "date": "2026-08-06T20:38:51+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture",
-          "link": "https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture",
-          "summary": "Two former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support — and a dose of absurdity.",
-          "date": "2026-08-06T19:00:11+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
-          "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
-          "summary": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
-          "date": "2026-08-05T23:35:28+00:00",
           "source": "Dark Reading"
         }
       ]
