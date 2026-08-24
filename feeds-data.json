@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-08-23T16:14:24.146886+00:00",
+  "generated_at": "2026-08-24T11:34:18.677356+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+          "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
+          "date": "2026-08-24T10:45:12+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
+          "summary": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
+          "date": "2026-08-24T09:42:05+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
           "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
@@ -71,7 +85,7 @@
         {
           "title": "Microsoft patches max severity code execution, privilege escalation flaws",
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-          "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+          "summary": "Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges. [...]",
           "date": "2026-08-21T11:04:10+00:00",
           "source": "BleepingComputer"
         },
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
           "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
           "date": "2026-08-20T17:53:52+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-          "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
-          "date": "2026-08-20T14:39:48+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "How MSPs can catch phishing attacks email filters miss",
-          "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
-          "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
-          "date": "2026-08-20T14:01:11+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -549,6 +549,13 @@
       "url": "https://risky.biz/feeds/newsletters/",
       "articles": [
         {
+          "title": "Risky Bulletin: Expired cards can be used for new transactions",
+          "link": "https://risky.biz/risky-bulletin-expired-cards-can-be-used-for-new-transactions/",
+          "summary": "A team of academics from the University of Massachusetts Amherst have developed an attack that can revive old expired contactless cards to perform new (illegal) transactions. The attack exploits the fact that NFC card data is not fully encrypted when making a payment and some parameters can be modif…",
+          "date": "2026-08-24T04:40:16+00:00",
+          "source": "Risky Biz Newsletters"
+        },
+        {
           "title": "Risky Bulletin: Academics find source code overlaps between Geedge and China's Great Firewall",
           "link": "https://risky.biz/risky-bulletin-academics-find-source-code-overlaps-between-geedge-and-chinas-great-firewall/",
           "summary": "A team of American academics have found source code overlaps between the products of a Chinese tech company and the country's Great Firewall traffic filtering and censorship system. According to research presented at this year's USENIX security conference, the Chinese government is using the Geedge …",
@@ -890,13 +897,6 @@
           "summary": "Microsoft is phasing out SMS as a multi-factor authentication and account recovery option for personal Microsoft accounts. All users will be prompted to add a passkey the next time they log into their accounts. The company said SMS was a leading source of fraud and the most targeted vector for accou…",
           "date": "2026-05-22T00:56:07+00:00",
           "source": "Risky Biz Newsletters"
-        },
-        {
-          "title": "Srsly Risky Biz: Politicians to Ditch Signal for Homegrown Apps",
-          "link": "https://risky.biz/srsly-risky-biz-politicians-to-ditch-signal-for-homegrown-apps/",
-          "summary": "European governments are trying to move their politicians away from encrypted messaging apps like Signal and WhatsApp and towards sovereign encrypted messaging solutions. This won't be as safe and secure as they think it will, but at least they'll have sovereign control. Back in 2020, the European C…",
-          "date": "2026-05-21T06:25:28+00:00",
-          "source": "Risky Biz Newsletters"
         }
       ]
     },
@@ -904,6 +904,48 @@
       "name": "SecurityWeek",
       "url": "https://www.securityweek.com/feed/",
       "articles": [
+        {
+          "title": "Venezuelan Gets Record Federal Prison Term for ATM Jackpotting",
+          "link": "https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/",
+          "summary": "Juan Manuel Gouveia-Aguilera has been sentenced to 8 years in prison for his role in an ATM jackpotting scheme that caused millions in losses. The post Venezuelan Gets Record Federal Prison Term for ATM Jackpotting appeared first on SecurityWeek .",
+          "date": "2026-08-24T10:59:30+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Personal Information Exposed in Apollo Global Data Breach",
+          "link": "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/",
+          "summary": "The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies. The post Personal Information Exposed in Apollo Global Data Breach appeared first on SecurityWeek .",
+          "date": "2026-08-24T10:08:42+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Rethinking Application Security for the AI Era",
+          "link": "https://www.securityweek.com/rethinking-application-security-for-the-ai-era/",
+          "summary": "As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk. The post Rethinking Application Security for the AI Era appeared first on SecurityWeek .",
+          "date": "2026-08-24T10:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Iran-Linked Hackers Shut Down UK Power Plant for Four Days",
+          "link": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
+          "summary": "The attack caused real-world operational disruption and raised concerns about the resilience of Britain’s distributed energy infrastructure and the potential for repeatable attacks. The post Iran-Linked Hackers Shut Down UK Power Plant for Four Days appeared first on SecurityWeek .",
+          "date": "2026-08-24T09:22:09+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy",
+          "link": "https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/",
+          "summary": "TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly. The post TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy appeared first on SecurityWeek .",
+          "date": "2026-08-24T09:11:11+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund",
+          "link": "https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/",
+          "summary": "Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5. The post Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund appeared first on SecurityWeek .",
+          "date": "2026-08-24T07:18:58+00:00",
+          "source": "SecurityWeek"
+        },
         {
           "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
           "link": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
@@ -931,48 +973,6 @@
           "summary": "Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment. The post Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini appeared first on SecurityWeek .",
           "date": "2026-08-21T14:34:05+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
-          "link": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
-          "summary": "Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked. The post New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets appeared first on SecurityWeek .",
-          "date": "2026-08-21T14:22:06+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
-          "link": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
-          "summary": "The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process. The post Critical Isolated-vm Vulnerability Leads to RCE on Host appeared first on SecurityWeek .",
-          "date": "2026-08-21T12:26:07+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Rust Supply Chain Attack Linked to North Korean Hackers",
-          "link": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
-          "summary": "Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server. The post Rust Supply Chain Attack Linked to North Korean Hackers appeared first on SecurityWeek .",
-          "date": "2026-08-21T09:23:18+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind",
-          "link": "https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/",
-          "summary": "Two industry surveys released this week by Kiteworks and CyberSheath paint a consistent picture of the defense industrial base. The post Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind appeared first on SecurityWeek .",
-          "date": "2026-08-21T08:41:06+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Microsoft Patches Exploited Entra ID Vulnerability",
-          "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
-          "summary": "A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Patches Exploited Entra ID Vulnerability appeared first on SecurityWeek .",
-          "date": "2026-08-21T08:12:19+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
-          "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
-          "summary": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware. The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek .",
-          "date": "2026-08-21T07:25:50+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,13 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
+          "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
+          "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors. The vast majority of the targets are located in Brazil, Bolivia, China, Canada…",
+          "date": "2026-08-24T08:08:31+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
           "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
@@ -1322,13 +1329,6 @@
           "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker. The advisory, published August 17, 2026, is the second stage of a c…",
           "date": "2026-08-17T10:52:34+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-          "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-          "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. \"While the malware reuses the DDoS engine from the publicly …",
-          "date": "2026-08-17T09:29:55+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1499,6 +1499,20 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "DOUBLECUP's PNG Payload, (Mon, Aug 24th)",
+          "link": "https://isc.sans.edu/diary/rss/33274",
+          "summary": "New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up. It doesn&#;x26;#;39;t use real steganography:",
+          "date": "2026-08-24T07:23:16+00:00",
+          "source": "SANS ISC"
+        },
+        {
+          "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
+          "link": "https://isc.sans.edu/diary/rss/33276",
+          "summary": "",
+          "date": "2026-08-24T02:00:03+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "Who Got Missed in the MFA Rollout&#x3f; More Powershell &#x2b; Graph &#x2b; Entra scripting&#x21;, (Fri, Aug 21st)",
           "link": "https://isc.sans.edu/diary/rss/33272",
           "summary": "In every MFA rollout, there will come a time where you think you are closing in on \"done\", and some automation to list what&#;x26;#;39;s left would be handy. Something quicker than scrolling through the web interface through thousands of accounts ...",
@@ -1552,20 +1566,6 @@
           "link": "https://isc.sans.edu/diary/rss/33258",
           "summary": "",
           "date": "2026-08-19T02:00:03+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)",
-          "link": "https://isc.sans.edu/diary/rss/33256",
-          "summary": "",
-          "date": "2026-08-18T02:00:03+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Apple Patches iOS and macOS, (Mon, Aug 17th)",
-          "link": "https://isc.sans.edu/diary/rss/33254",
-          "summary": "Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerability. This vulnerability did not affect iOS/iPadOS.",
-          "date": "2026-08-17T20:26:39+00:00",
           "source": "SANS ISC"
         }
       ]
