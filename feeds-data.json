@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-08-24T11:34:18.677356+00:00",
+  "generated_at": "2026-08-24T16:24:49.697987+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
+          "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
+          "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
+          "date": "2026-08-24T15:17:16+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft Teams now lets admins block external bots from meetings",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
+          "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
+          "date": "2026-08-24T14:00:19+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "South Korean startup platform breach exposes key management failures",
+          "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
+          "summary": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data they protect. [...]",
+          "date": "2026-08-24T14:00:10+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft: August updates break printing, PDF export in WPF apps",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
+          "summary": "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]",
+          "date": "2026-08-24T12:40:21+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
           "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
@@ -81,34 +109,6 @@
           "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
           "date": "2026-08-21T12:25:33+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft patches max severity code execution, privilege escalation flaws",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-          "summary": "Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges. [...]",
-          "date": "2026-08-21T11:04:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-          "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
-          "date": "2026-08-21T11:00:00+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "SickKids data breach exposes employee and job applicant info",
-          "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
-          "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264) [...]",
-          "date": "2026-08-21T10:10:42+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers poison arrayref Rust crate to push infostealer malware",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
-          "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
-          "date": "2026-08-20T17:53:52+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -117,9 +117,23 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
+          "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
+          "summary": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features.",
+          "date": "2026-08-24T15:02:32+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "ToxicPanda Banking Trojan Matures into Enterprise Threat",
+          "link": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
+          "summary": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
+          "date": "2026-08-24T14:34:59+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
           "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
-          "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes",
+          "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes.",
           "date": "2026-08-21T20:24:42+00:00",
           "source": "Dark Reading"
         },
@@ -140,14 +154,14 @@
         {
           "title": "OpenAI Adds Controls That Should've Been There Already",
           "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
-          "summary": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
+          "summary": "The new AI security controls follow the Hugging Face incident last month, though experts say many of these additions should have been in place prior to the frontier models escaping.",
           "date": "2026-08-21T13:30:00+00:00",
           "source": "Dark Reading"
         },
         {
           "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
           "link": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
-          "summary": "The coming threat of super-powerful computers capable of cracking today’s algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
+          "summary": "The coming threat of super-powerful computers capable of cracking today's algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
           "date": "2026-08-21T13:10:33+00:00",
           "source": "Dark Reading"
         },
@@ -250,16 +264,16 @@
           "source": "Dark Reading"
         },
         {
-          "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-          "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-          "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+          "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+          "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
           "date": "2026-08-18T13:00:00+00:00",
           "source": "Dark Reading"
         },
         {
-          "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-          "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
+          "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+          "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+          "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
           "date": "2026-08-18T13:00:00+00:00",
           "source": "Dark Reading"
         },
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement",
           "summary": "The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.",
           "date": "2026-08-06T21:42:50+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Déjà Vu? Meta's AI Escapes Testing Lab in Hacking Joyride",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride",
-          "summary": "In the span of three weeks, OpenAI, Anthropic, and Meta have all disclosed AI agent sandbox escape events affecting real organizations.",
-          "date": "2026-08-06T20:39:30+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Researcher Claims Control of ChatGPT Secure Sandbox",
-          "link": "https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox",
-          "summary": "A researcher demonstrated a proof-of-concept attack chain that provided C2-style influence over ChatGPT's isolated sandbox during a session at Black Hat USA 2026.",
-          "date": "2026-08-06T20:38:51+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,27 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Hired for One Job, Judged on Another: The CISO’s Real Problem",
+          "link": "https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/",
+          "summary": "The skills that get a CISO hired are rarely the skills they are judged on later. Most security leaders are stuck in that gap. Closing it is the real job. The post Hired for One Job, Judged on Another: The CISO’s Real Problem appeared first on SecurityWeek .",
+          "date": "2026-08-24T14:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts",
+          "link": "https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/",
+          "summary": "Dutch Data Protection Authority said it is imposing a fine of 825 million euros because Uber violated the EU’s General Data Protection Regulation. The post Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts appeared first on SecurityWeek .",
+          "date": "2026-08-24T12:42:09+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "91 Vulnerabilities Patched in Spring Application Framework",
+          "link": "https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/",
+          "summary": "More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024. The post 91 Vulnerabilities Patched in Spring Application Framework appeared first on SecurityWeek .",
+          "date": "2026-08-24T11:58:28+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Venezuelan Gets Record Federal Prison Term for ATM Jackpotting",
           "link": "https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/",
           "summary": "Juan Manuel Gouveia-Aguilera has been sentenced to 8 years in prison for his role in an ATM jackpotting scheme that caused millions in losses. The post Venezuelan Gets Record Federal Prison Term for ATM Jackpotting appeared first on SecurityWeek .",
@@ -952,27 +973,6 @@
           "summary": "The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware. The post Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight appeared first on SecurityWeek .",
           "date": "2026-08-22T08:30:00+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
-          "link": "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/",
-          "summary": "The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks. The post Former NSA Director Paul Nakasone Launches National Security Advisory Firm appeared first on Sec…",
-          "date": "2026-08-21T16:27:52+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
-          "link": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
-          "summary": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification. The post In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug appeared first on SecurityWeek .",
-          "date": "2026-08-21T15:11:16+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
-          "link": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
-          "summary": "Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment. The post Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini appeared first on SecurityWeek .",
-          "date": "2026-08-21T14:34:05+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,48 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+          "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+          "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and researchers keep finding attacks that sound harder than…",
+          "date": "2026-08-24T14:32:10+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+          "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+          "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera Stealer (aka ACR Steale…",
+          "date": "2026-08-24T12:35:36+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+          "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+          "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More d…",
+          "date": "2026-08-24T11:58:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+          "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+          "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE ident…",
+          "date": "2026-08-24T11:56:34+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+          "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+          "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER, has been found to target government and information technology sectors, per Seqr…",
+          "date": "2026-08-24T11:51:36+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+          "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
+          "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are quietly hardcoding unvetted tools into critical busin…",
+          "date": "2026-08-24T11:30:00+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
           "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
@@ -1286,48 +1328,6 @@
           "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
           "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data. The flaw, tracked as …",
           "date": "2026-08-17T21:03:04+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
-          "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
-          "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credent…",
-          "date": "2026-08-17T18:44:17+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
-          "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
-          "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vulnerability, tracked as CVE-2026-15748, is rated 9.8 out of 10.0 on the CVSS scorin…",
-          "date": "2026-08-17T18:22:09+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-          "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-          "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster…",
-          "date": "2026-08-17T17:41:06+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-          "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-          "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was alrea…",
-          "date": "2026-08-17T13:23:51+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "How MCP Servers Can Expose Enterprise Secrets",
-          "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-          "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become a major gap in MCP …",
-          "date": "2026-08-17T11:58:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-          "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-          "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker. The advisory, published August 17, 2026, is the second stage of a c…",
-          "date": "2026-08-17T10:52:34+00:00",
           "source": "The Hacker News"
         }
       ]
