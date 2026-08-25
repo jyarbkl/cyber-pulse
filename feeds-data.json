@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-08-24T16:24:49.697987+00:00",
+  "generated_at": "2026-08-25T11:33:41.607535+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Police arrests dozens of suspects in global cybercrime crackdown",
+          "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
+          "summary": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]",
+          "date": "2026-08-25T10:53:20+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
+          "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
+          "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
+          "date": "2026-08-24T21:14:30+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
+          "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
+          "date": "2026-08-24T19:26:32+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "TikTok reaches $400M settlement with US over COPPA violations",
+          "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
+          "summary": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
+          "date": "2026-08-24T17:56:24+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
           "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
@@ -81,34 +109,6 @@
           "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
           "date": "2026-08-21T15:55:15+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
-          "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
-          "date": "2026-08-21T14:54:49+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Is Online Privacy Possible? How Digital Identities Can Help",
-          "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
-          "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
-          "date": "2026-08-21T14:00:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
-          "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
-          "date": "2026-08-21T13:39:35+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
-          "date": "2026-08-21T12:25:33+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -117,6 +117,20 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
+          "summary": "CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
+          "date": "2026-08-24T21:46:55+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
+          "link": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
+          "summary": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.",
+          "date": "2026-08-24T20:51:27+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
           "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
           "summary": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features.",
@@ -124,10 +138,17 @@
           "source": "Dark Reading"
         },
         {
-          "title": "ToxicPanda Banking Trojan Matures into Enterprise Threat",
+          "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat",
           "link": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
           "summary": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
           "date": "2026-08-24T14:34:59+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
+          "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
+          "summary": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
+          "date": "2026-08-24T14:00:00+00:00",
           "source": "Dark Reading"
         },
         {
@@ -443,27 +464,6 @@
           "link": "https://www.darkreading.com/application-security/outdated-cybercrime-laws-security-researchers-risk",
           "summary": "A public policy expert mapped global cybercrime laws to develop a five-point framework for protecting ethical hackers and good-faith security research.",
           "date": "2026-08-10T16:25:22+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Sherlock Holmes Was the 'OG' Social Engineer",
-          "link": "https://www.darkreading.com/cyber-risk/sherlock-holmes-was-the-og-social-engineer",
-          "summary": "The crime solver wore disguises, spied on targets, and built intelligence networks long before modern-day tactics emerged. He has lessons for today's ethical- and unethical hackers.",
-          "date": "2026-08-10T15:59:27+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "AI-Generated Patches Fail Half the Time",
-          "link": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
-          "summary": "A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass.",
-          "date": "2026-08-07T16:47:43+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "The Coordination Gap: How Attackers Are Outpacing Law Enforcement",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement",
-          "summary": "The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.",
-          "date": "2026-08-06T21:42:50+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,41 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "First Malware Built Specifically for Car Head Units Fuels Botnet",
+          "link": "https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/",
+          "summary": "Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices. The post First Malware Built Specifically for Car Head Units Fuels Botnet appeared first on SecurityWeek .",
+          "date": "2026-08-25T11:18:22+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Silent Patches Don’t Stop Attackers – They Blind Defenders",
+          "link": "https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/",
+          "summary": "Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk. The post Silent Patches Don’t Stop Attackers – They Blind Defenders appeared first on SecurityWeek .",
+          "date": "2026-08-25T10:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff",
+          "link": "https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/",
+          "summary": "AI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the U.S. and China. The post Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff appeared first on SecurityWeek .",
+          "date": "2026-08-25T08:30:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "CISA Warns of Exploited Oracle WebLogic Vulnerability",
+          "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
+          "summary": "The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers. The post CISA Warns of Exploited Oracle WebLogic Vulnerability appeared first on SecurityWeek .",
+          "date": "2026-08-25T07:46:34+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited",
+          "link": "https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/",
+          "summary": "A ReliaQuest employee fell victim to a phishing attack and the hackers gained access to a dashboard. The post ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited appeared first on SecurityWeek .",
+          "date": "2026-08-24T17:38:21+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Hired for One Job, Judged on Another: The CISO’s Real Problem",
           "link": "https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/",
           "summary": "The skills that get a CISO hired are rarely the skills they are judged on later. Most security leaders are stuck in that gap. Closing it is the real job. The post Hired for One Job, Judged on Another: The CISO’s Real Problem appeared first on SecurityWeek .",
@@ -938,41 +973,6 @@
           "summary": "The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies. The post Personal Information Exposed in Apollo Global Data Breach appeared first on SecurityWeek .",
           "date": "2026-08-24T10:08:42+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Rethinking Application Security for the AI Era",
-          "link": "https://www.securityweek.com/rethinking-application-security-for-the-ai-era/",
-          "summary": "As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk. The post Rethinking Application Security for the AI Era appeared first on SecurityWeek .",
-          "date": "2026-08-24T10:00:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Iran-Linked Hackers Shut Down UK Power Plant for Four Days",
-          "link": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
-          "summary": "The attack caused real-world operational disruption and raised concerns about the resilience of Britain’s distributed energy infrastructure and the potential for repeatable attacks. The post Iran-Linked Hackers Shut Down UK Power Plant for Four Days appeared first on SecurityWeek .",
-          "date": "2026-08-24T09:22:09+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy",
-          "link": "https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/",
-          "summary": "TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly. The post TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy appeared first on SecurityWeek .",
-          "date": "2026-08-24T09:11:11+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund",
-          "link": "https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/",
-          "summary": "Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5. The post Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund appeared first on SecurityWeek .",
-          "date": "2026-08-24T07:18:58+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
-          "link": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
-          "summary": "The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware. The post Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight appeared first on SecurityWeek .",
-          "date": "2026-08-22T08:30:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,34 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
+          "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
+          "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators. The vulnerabilities, as disclosed by Patchstack, are lis…",
+          "date": "2026-08-25T08:34:07+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
+          "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-20…",
+          "date": "2026-08-25T06:12:35+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+          "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+          "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More d…",
+          "date": "2026-08-24T17:41:30+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+          "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+          "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike ga…",
+          "date": "2026-08-24T17:41:11+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
           "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
@@ -992,13 +1020,6 @@
           "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
           "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera Stealer (aka ACR Steale…",
           "date": "2026-08-24T12:35:36+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-          "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-          "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More d…",
-          "date": "2026-08-24T11:58:00+00:00",
           "source": "The Hacker News"
         },
         {
@@ -1308,27 +1329,6 @@
           "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as p…",
           "date": "2026-08-18T11:20:00+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
-          "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
-          "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wallet maker said all affected customers were notified individually by email on Au…",
-          "date": "2026-08-18T09:10:45+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
-          "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-source, Python-native distributed computing framework designed to scale artifici…",
-          "date": "2026-08-18T06:34:20+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
-          "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
-          "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data. The flaw, tracked as …",
-          "date": "2026-08-17T21:03:04+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1499,6 +1499,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)",
+          "link": "https://isc.sans.edu/diary/rss/33278",
+          "summary": "",
+          "date": "2026-08-25T02:00:03+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "DOUBLECUP's PNG Payload, (Mon, Aug 24th)",
           "link": "https://isc.sans.edu/diary/rss/33274",
           "summary": "New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up. It doesn&#;x26;#;39;t use real steganography:",
@@ -1560,13 +1567,6 @@
           "summary": "Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the region the machine is running in or its MAC and IP addresses. However, the service may also be used to…",
           "date": "2026-08-19T14:24:58+00:00",
           "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Wednesday, August 19th, 2026 https://isc.sans.edu/podcastdetail/10058, (Wed, Aug 19th)",
-          "link": "https://isc.sans.edu/diary/rss/33258",
-          "summary": "",
-          "date": "2026-08-19T02:00:03+00:00",
-          "source": "SANS ISC"
         }
       ]
     },
@@ -1574,6 +1574,13 @@
       "name": "SANS Blog",
       "url": "https://www.sans.org/blog",
       "articles": [
+        {
+          "title": "The Security Autonomy Matrix: Deciding What Your AI Agents May Do on Their Own Blog Artificial Intelligence   24 Aug 2026     Lenny Zeltser",
+          "link": "https://www.sans.org/blog/security-autonomy-matrix-deciding-what-your-ai-agents-may-do-their-own",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
         {
           "title": "From Alerts to Adversaries: A Pragmatic Guide to Launching (and Maturing) Your Threat Hunting Program Blog Cybersecurity Leadership   20 Aug 2026     Jan D'Herdt",
           "link": "https://www.sans.org/blog/from-alerts-to-adversaries-a-pragmatic-guide-to-launching-and-maturing-your-threat-hunting-program",
@@ -1647,13 +1654,6 @@
         {
           "title": "The Models Said No: Inside the Hugging Face Post-Mortem Blog Artificial Intelligence   27 Jul 2026     Rob T. Lee",
           "link": "https://www.sans.org/blog/models-said-no-inside-hugging-face-post-mortem",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "The Sandbox Let It Out. The Guardrails Locked Us Out. Blog Artificial Intelligence   24 Jul 2026     SANS Institute",
-          "link": "https://www.sans.org/blog/sandbox-let-it-out-guardrails-locked-us-out",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
@@ -1741,6 +1741,13 @@
       "url": "https://any.run/cybersecurity-blog/feed/",
       "articles": [
         {
+          "title": "A Single Canadian Tax Lure Spread into a 46-Country, US-First RMM Campaign",
+          "link": "https://any.run/cybersecurity-blog/us-campaign-malware-analysis/",
+          "summary": "As ANY.RUN analysis shows, a campaign that initially appears to target Canadians with fake Canada Revenue Agency (CRA) T4 tax documents is actually part of a much broader remote-access campaign spanning 46 countries, with 45% of observed activity associated with the United States. The attackers impe…",
+          "date": "2026-08-25T10:40:19+00:00",
+          "source": "ANY.RUN Blog"
+        },
+        {
           "title": "North Korean IT Workers Scheme: Detection IOCs and Tactics for Government and Corporate SOCs",
           "link": "https://any.run/cybersecurity-blog/how-to-protect-organization-against-north-korean-it-workers/",
           "summary": "The infiltration of North Korean IT workers into American and European organizations has evolved into a sophisticated operation that bypasses traditional security perimeters. By using forged identities and AI-assisted workflows, these operatives successfully transition from external applicants to tr…",
@@ -1801,13 +1808,6 @@
           "link": "https://any.run/cybersecurity-blog/july-threat-coverage-2026/",
           "summary": "July brought another set of threat coverage updates designed to help security teams work faster and with more confidence. ANY.RUN added 42 behavior signatures, 11 YARA rules, and 703 Suricata rules, giving SOCs broader visibility across files, malware behavior, and network activity. We also publishe…",
           "date": "2026-07-30T06:13:53+00:00",
-          "source": "ANY.RUN Blog"
-        },
-        {
-          "title": "The US CFO’s Playbook: How to Reduce Cyber Risk Without Scaling SOC Team in a Tight Labor Market",
-          "link": "https://any.run/cybersecurity-blog/cfo-cyber-risk-playbook/",
-          "summary": "Cyber risk is increasing, but so is the cost of managing it. More than 514,000 cybersecurity job listings appeared in the US between May 2024 and April 2025, while the mean annual wage for an information security analyst reached $132,510. Even after the budget is approved, hiring can take three to s…",
-          "date": "2026-07-29T09:36:23+00:00",
           "source": "ANY.RUN Blog"
         }
       ]
