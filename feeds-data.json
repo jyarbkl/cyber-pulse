@@ -1,10 +1,59 @@
 {
-  "generated_at": "2026-08-26T11:34:53.716887+00:00",
+  "generated_at": "2026-08-26T16:42:16.587043+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Meta agrees to $18 billion settlement over teen social media harms",
+          "link": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
+          "summary": "Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations that Facebook and Instagram were deliberately designed to encourage compulsive use by children and teenagers. [...]",
+          "date": "2026-08-26T16:41:05+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Boston Scientific says cyberattack disrupted operations globally",
+          "link": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
+          "summary": "Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...]",
+          "date": "2026-08-26T15:19:21+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
+          "summary": "Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]",
+          "date": "2026-08-26T14:47:51+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "FBI disrupts proxy network enabling Chinese espionage operations",
+          "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
+          "summary": "The FBI has disrupted infrastructure associated with a technical \"quartermaster\" that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activities. [...]",
+          "date": "2026-08-26T14:17:59+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Snowflake ends service-account passwords. Now comes the hard part",
+          "link": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
+          "summary": "Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security explains why the harder challenge is identifying what uses each account, who owns it, and how much access it still needs. [...]",
+          "date": "2026-08-26T14:01:11+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Ubiquiti patches three max severity security vulnerabilities",
+          "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
+          "summary": "Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]",
+          "date": "2026-08-26T13:17:54+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+          "summary": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
+          "date": "2026-08-26T12:06:28+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
           "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
@@ -60,55 +109,6 @@
           "summary": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly. [...]",
           "date": "2026-08-25T13:51:58+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
-          "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
-          "summary": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
-          "date": "2026-08-25T13:00:00+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
-          "summary": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
-          "date": "2026-08-25T12:04:02+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Police arrests dozens of suspects in global cybercrime crackdown",
-          "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
-          "summary": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]",
-          "date": "2026-08-25T10:53:20+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-          "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-          "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
-          "date": "2026-08-24T21:14:30+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
-          "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
-          "date": "2026-08-24T19:26:32+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "TikTok reaches $400M settlement with US over COPPA violations",
-          "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
-          "summary": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
-          "date": "2026-08-24T17:56:24+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
-          "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
-          "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
-          "date": "2026-08-24T15:17:16+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -117,9 +117,16 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "'NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month",
+          "link": "https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month",
+          "summary": "The adversary-in-the-middle (AitM) phishing service lowers the barrier to entry for actors to create attacks and steal more than just user credentials.",
+          "date": "2026-08-26T11:33:40+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "Interpol's Jackal IV Disrupts West African Crime Infrastructure",
           "link": "https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure",
-          "summary": "The international law enforcement operation focused on disrupting crime-as-a-service networks and supporting infrastructure behind groups like Black Axe.",
+          "summary": "The international law enforcement operation focused on disrupting crime-as-a-service networks and infrastructure behind groups like Black Axe.",
           "date": "2026-08-26T08:30:00+00:00",
           "source": "Dark Reading"
         },
@@ -140,7 +147,7 @@
         {
           "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
           "link": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
-          "summary": "Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
+          "summary": "Attackers can exploit a security bug in Nvidia's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
           "date": "2026-08-25T19:50:16+00:00",
           "source": "Dark Reading"
         },
@@ -182,7 +189,7 @@
         {
           "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
           "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
-          "summary": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
+          "summary": "AI is discovering more vulnerabilities at a faster pace and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
           "date": "2026-08-24T14:00:00+00:00",
           "source": "Dark Reading"
         },
@@ -320,16 +327,16 @@
           "source": "Dark Reading"
         },
         {
-          "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-          "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-          "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+          "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+          "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
           "date": "2026-08-18T13:00:00+00:00",
           "source": "Dark Reading"
         },
         {
-          "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-          "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
+          "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+          "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+          "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
           "date": "2026-08-18T13:00:00+00:00",
           "source": "Dark Reading"
         },
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa",
           "summary": "The ransomware-as-a-service operation is finding success against critical infrastructure targets with leaked Conti code and old flaws in firewalls and VPN appliances.",
           "date": "2026-08-11T21:16:25+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "'GhostJacking' Exposes Identity Governance Gaps in AI Agents",
-          "link": "https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents",
-          "summary": "New research shows how attackers can use security alerts and blocked events to manipulate and hijack AI agents.",
-          "date": "2026-08-10T21:54:22+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "AI Speeds Up Malware Development, Not Its Success Rate: Analysis",
+          "link": "https://www.securityweek.com/ai-speeds-up-malware-development-not-its-success-rate-analysis/",
+          "summary": "Palo Alto Networks Unit 42 analyzed 405 AI-linked malware samples and found only 12 reached production endpoints. The post AI Speeds Up Malware Development, Not Its Success Rate: Analysis appeared first on SecurityWeek .",
+          "date": "2026-08-26T15:23:45+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Adobe and Nvidia Patch Dozens of Vulnerabilities",
+          "link": "https://www.securityweek.com/adobe-and-nvidia-patch-dozens-of-vulnerabilities/",
+          "summary": "Adobe and Nvidia each published several advisories, including ones that address critical vulnerabilities in their products. The post Adobe and Nvidia Patch Dozens of Vulnerabilities appeared first on SecurityWeek .",
+          "date": "2026-08-26T12:39:38+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks",
           "link": "https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/",
           "summary": "The agency has released guidance on reducing internet exposure in the wake of the recent Iran-linked hacker attacks. The post CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks appeared first on SecurityWeek .",
@@ -959,20 +973,6 @@
           "summary": "CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin. The post WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities appeared first on SecurityWeek .",
           "date": "2026-08-25T13:33:12+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update",
-          "link": "https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/",
-          "summary": "When Android users get a call from a non-contact, they will see more information about the caller, including their country. The post WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update appeared first on SecurityWeek .",
-          "date": "2026-08-25T13:00:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference",
-          "link": "https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/",
-          "summary": "Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville. The post Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference appeared first on SecurityWeek .",
-          "date": "2026-08-25T12:57:59+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,34 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
+          "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
+          "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. In a report shared with The Hacker News ahead of publication,…",
+          "date": "2026-08-26T13:44:31+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
+          "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different defensive outcomes. Bo…",
+          "date": "2026-08-26T13:07:02+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
+          "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
+          "summary": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute code on it. The flaws, tracked as CVE-2026-19913 and CVE-2026-19912, both stem fr…",
+          "date": "2026-08-26T11:55:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+          "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+          "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives; a detection engine assigns a severity score. The issue then…",
+          "date": "2026-08-26T11:36:49+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
           "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
@@ -1002,7 +1030,7 @@
           "source": "The Hacker News"
         },
         {
-          "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+          "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
           "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
           "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own design. The sample is an un…",
           "date": "2026-08-26T07:12:55+00:00",
@@ -1301,34 +1329,6 @@
           "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally. Zimperium zLabs, in a Wednesday report, said the Android malware also features …",
           "date": "2026-08-20T10:38:28+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
-          "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-          "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the extensions are part of a broader set of 77 browser add-ons that share source code …",
-          "date": "2026-08-20T08:42:03+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
-          "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
-          "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of 10.0. It has been described as a case of un…",
-          "date": "2026-08-20T06:04:34+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-          "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-          "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021. The end-to-end e…",
-          "date": "2026-08-19T19:02:40+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
-          "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
-          "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident. \"As models become more capable…",
-          "date": "2026-08-19T18:06:44+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1499,6 +1499,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Who Has Admin Rights in your Entra ID Directory&#x3f;, (Wed, Aug 26th)",
+          "link": "https://isc.sans.edu/diary/rss/33284",
+          "summary": "A common thing that folks should \"worry\" about in Entra (or any platform really) is \"who has rights to administer\"&#;x26;#;x3f;&#;x26;#;xc2;&#;x26;#;xa0; Who can delete or change key things, or modify them in ways that might not be obvious (accidentally or on purpose).&#;x26;#;xc2;&#;x26;#;xa0; Yes,…",
+          "date": "2026-08-26T15:58:15+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)",
           "link": "https://isc.sans.edu/diary/rss/33282",
           "summary": "",
@@ -1559,13 +1566,6 @@
           "link": "https://isc.sans.edu/diary/rss/33266",
           "summary": "Building on the last diary on Using MS Graph and Powershell, let&#;x26;#;39;s look at \"Risky\" logins.",
           "date": "2026-08-20T13:09:50+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)",
-          "link": "https://isc.sans.edu/diary/rss/33264",
-          "summary": "Microsoft Graph is a newer API that is meant to replace several others.&#;x26;#;xc2;&#;x26;#;xa0; OK, it&#;x26;#;39;s at version 2.3.9, so it&#;x26;#;39;s not all that new, but it&#;x26;#;39;s new enough that lots of folks (and commercial tools) aren&#;x26;#;39;t using it yet.&#;x26;#;xc2;&#;x26;#;x…",
-          "date": "2026-08-20T12:45:32+00:00",
           "source": "SANS ISC"
         }
       ]
