@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-08-27T20:56:52.732934+00:00",
+  "generated_at": "2026-08-28T00:41:18.081505+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
+          "link": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+          "summary": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
+          "date": "2026-08-27T21:38:53+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
           "link": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
           "summary": "Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...]",
           "date": "2026-08-26T15:19:21+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
-          "summary": "Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]",
-          "date": "2026-08-26T14:47:51+00:00",
           "source": "BleepingComputer"
         }
       ]
