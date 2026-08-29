@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T15:33:13.763552+00:00",
+  "generated_at": "2026-08-29T19:01:24.292399+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
@@ -981,6 +981,13 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+          "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+          "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patch…",
+          "date": "2026-08-29T16:25:03+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
           "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
           "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found further data outflows in t…",
@@ -1321,13 +1328,6 @@
           "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
           "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and researchers keep finding attacks that sound harder than…",
           "date": "2026-08-24T14:32:10+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
-          "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
-          "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera Stealer (aka ACR Steale…",
-          "date": "2026-08-24T12:35:36+00:00",
           "source": "The Hacker News"
         }
       ]
