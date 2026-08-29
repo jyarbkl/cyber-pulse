@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-08-29T00:16:03.454795+00:00",
+  "generated_at": "2026-08-29T15:33:13.763552+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Brave browser adds email aliases to help users evade tracking",
+          "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+          "summary": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]",
+          "date": "2026-08-29T14:19:23+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
           "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/",
           "summary": "Google is introducing new network security protections in Android 17 to strengthen connection privacy, address cellular vulnerabilities, and protect the privacy of users' home networks. [...]",
           "date": "2026-08-27T14:00:00+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
-          "summary": "Australian authorities have arrested and charged two young men accused of being part of the TeamPCP hacking group linked to a string of far-reaching developer supply chain attacks. [...]",
-          "date": "2026-08-27T13:31:13+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Hasbro Data Breach Exposed Employee Personal Information",
+          "link": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
+          "summary": "A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach. The post Hasbro Data Breach Exposed Employee Personal Information appeared first on SecurityWeek .",
+          "date": "2026-08-29T11:55:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions",
           "link": "https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/",
           "summary": "Noteworthy stories that might have slipped under the radar: Manchester Airports Group cyberattack, Carhartt breach data was partly fake, U.S. Bank responds to ransomware gang’s claims. The post In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions appeared first on SecurityWeek …",
@@ -965,13 +972,6 @@
           "link": "https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/",
           "summary": "New training environments will teach AI models to distrust instructions arriving from other agents outside sanctioned channels. The post OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack appeared first on SecurityWeek .",
           "date": "2026-08-27T11:58:01+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security",
-          "link": "https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/",
-          "summary": "The identity security company beat quarterly expectations and raised its outlook as enterprises face growing pressure to secure AI agents and other non-human identities. The post Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security appeared first on SecurityWeek .",
-          "date": "2026-08-27T11:53:10+00:00",
           "source": "SecurityWeek"
         }
       ]
@@ -1342,6 +1342,13 @@
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
         {
+          "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/",
+          "summary": "Microsoft Threat Intelligence provides analysis of a ClickFix campaign that uses fake CAPTCHA prompts, DLL sideloading, and a reverse tunnel, with detections and hunting guidance. The post TerminalFix campaign deploys a reverse tunnel through multistage intrusion appeared first on Microsoft Security…",
+          "date": "2026-08-29T03:43:27+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
           "title": "​​​​​​What’s new in Microsoft Security: August 2026",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/",
           "summary": "This month’s updates provide new capabilities to help organizations gain insights into agent activity, expand security coverage across supported environments, and enhance security management across their environments. The post ​​​​​​What’s new in Microsoft Security: August 2026 appeared first on Mic…",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/",
           "summary": "A macOS ClickFix campaign shifted tactics from openly serving infostealer lures to hiding them behind a browser-fingerprinting gate. The change makes malicious infrastructure harder to detect while giving defenders new hunting opportunities. The post From open lures to cloaked gates: How a macOS Cli…",
           "date": "2026-08-05T15:48:39+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
-          "summary": "A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation. The post Chain…",
-          "date": "2026-08-04T23:46:41+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
