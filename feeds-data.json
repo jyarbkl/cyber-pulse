@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-08-31T17:57:31.284526+00:00",
+  "generated_at": "2026-08-31T21:13:46.420454+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
+          "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
+          "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
+          "date": "2026-08-31T20:47:54+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
+          "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
+          "date": "2026-08-31T18:51:04+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Microsoft Exchange Online outage causes email failures, auth issues",
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
@@ -95,20 +109,6 @@
           "summary": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]",
           "date": "2026-08-29T14:19:23+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
-          "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
-          "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]",
-          "date": "2026-08-28T22:40:17+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "PaperCut releases second emergency patch for exploited flaws",
-          "link": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
-          "summary": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. [...]",
-          "date": "2026-08-28T19:08:26+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "'TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks",
+          "link": "https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks",
+          "summary": "The ClickFix-style campaign features a sophisticated, multistage attack chain that includes reverse tunnels into victim organizations' networks.",
+          "date": "2026-08-31T20:25:36+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "AI Model Rules Are Not Security Controls",
           "link": "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
           "summary": "Three testing models with the same goal but different directives engaged in \"increasingly aggressive\" territorial attacks on one another, according to Anthropic.",
           "date": "2026-08-17T20:26:34+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Hugging Face Breach Raises Big Questions About AI Security Controls",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
-          "summary": "Adam Shostack, president of Shostack & Associates and an affiliate professor at the University of Washington, talks with the Dark Reading News Desk about why he was \"blown away\" by OpenAI's revelations regarding the Hugging Face attack.",
-          "date": "2026-08-17T19:22:56+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,13 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
+          "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+          "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and the medical professi…",
+          "date": "2026-08-31T17:24:28+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
           "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
           "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional. Elsewher…",
@@ -1322,13 +1329,6 @@
           "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. According to ANY.RUN research, 48% of targeted email addresses…",
           "date": "2026-08-25T11:56:15+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-          "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-          "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn't do…",
-          "date": "2026-08-25T11:52:43+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1499,6 +1499,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "The Coding-Agent Trap: When a \"Free\" LLM Endpoint Is the Adversary, (Mon, Aug 31st)",
+          "link": "https://isc.sans.edu/diary/rss/33298",
+          "summary": "One of my internet-exposed inference honeypots was discovered, relabeled with sought-after model names, and incorporated into infrastructure apparently used to provide \"free\" LLM backends. It then received a real coding-agent session &#;x26;#;xe2;&#;x26;#;x80;&#;x26;#;x94; history, filesystem output…",
+          "date": "2026-08-31T20:00:34+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Monday, August 31st, 2026 https://isc.sans.edu/podcastdetail/10074, (Mon, Aug 31st)",
           "link": "https://isc.sans.edu/diary/rss/33296",
           "summary": "",
@@ -1559,13 +1566,6 @@
           "link": "https://isc.sans.edu/diary/rss/33280",
           "summary": "It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service listening at 169.254.169.254. These scans attempted to exploit Server Side Request …",
           "date": "2026-08-25T15:03:33+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)",
-          "link": "https://isc.sans.edu/diary/rss/33278",
-          "summary": "",
-          "date": "2026-08-25T02:00:03+00:00",
           "source": "SANS ISC"
         }
       ]
