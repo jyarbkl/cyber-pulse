@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-09-01T15:26:01.137102+00:00",
+  "generated_at": "2026-09-01T19:02:11.707316+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
+          "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
+          "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
+          "date": "2026-09-01T17:54:22+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
           "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/",
           "summary": "Microsoft has confirmed that mouse settings are being reverted on Windows 11 systems after installing the KB5120998 August 2026 non-security preview update. [...]",
           "date": "2026-08-31T10:23:46+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Nigerians extradited to US for sextortion, deaths of two teens",
-          "link": "https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/",
-          "summary": "Two Nigerian men extradited to the U.S. on Thursday have been charged with involvement in sextortion schemes that resulted in the deaths of two minor victims in Mississippi and North Carolina. [...]",
-          "date": "2026-08-31T09:22:47+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense",
+          "link": "https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/",
+          "summary": "Sevii has expanded its ADR platform with AI agents designed to investigate, contain, and remediate AI-driven attacks within minutes. The post Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense appeared first on SecurityWeek .",
+          "date": "2026-09-01T18:30:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Coast Guard Establishes Office of Maritime Cybersecurity Policy",
+          "link": "https://www.securityweek.com/coast-guard-establishes-office-of-maritime-cybersecurity-policy/",
+          "summary": "The new office will serve as the central authority for cybersecurity policy covering US ports, vessels, and maritime facilities. The post Coast Guard Establishes Office of Maritime Cybersecurity Policy appeared first on SecurityWeek .",
+          "date": "2026-09-01T18:26:22+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars",
           "link": "https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/",
           "summary": "Forescout researchers used Claude AI to port a remote code execution exploit between WAGO PLC models. The post Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars appeared first on SecurityWeek .",
@@ -959,20 +973,6 @@
           "summary": "CISA has added the vulnerabilities tracked as CVE-2026-82078 and CVE-2026-81578 to its KEV catalog. The post PaperCut Exploitation Escalates to Active Intrusions appeared first on SecurityWeek .",
           "date": "2026-09-01T05:27:18+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit",
-          "link": "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/",
-          "summary": "Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product. The post Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit appeared first on SecurityWeek .",
-          "date": "2026-08-31T14:32:34+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "ServiceNow Patches 3 Critical Code Injection Vulnerabilities",
-          "link": "https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/",
-          "summary": "Attackers could exploit the security defects to execute arbitrary code and access or tamper with data. The post ServiceNow Patches 3 Critical Code Injection Vulnerabilities appeared first on SecurityWeek .",
-          "date": "2026-08-31T13:59:19+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+          "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+          "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in …",
+          "date": "2026-09-01T17:53:11+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+          "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+          "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as \"specializing in manipulating …",
+          "date": "2026-09-01T17:19:24+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
           "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
@@ -1314,20 +1328,6 @@
           "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
           "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. \"The operation, which brought together 22 countries from six continents, is a response to the escalating global threat posed by West African crimina…",
           "date": "2026-08-26T07:54:12+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
-          "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
-          "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own design. The sample is an un…",
-          "date": "2026-08-26T07:12:55+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
-          "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-2026-60004 (CVSS score: 9.8), a case of remote code execution that allows an att…",
-          "date": "2026-08-26T06:27:07+00:00",
           "source": "The Hacker News"
         }
       ]
