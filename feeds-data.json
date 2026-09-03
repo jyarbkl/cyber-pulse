@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-09-03T14:55:58.777286+00:00",
+  "generated_at": "2026-09-03T18:59:05.765409+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+          "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+          "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
+          "date": "2026-09-03T18:28:12+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
+          "summary": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
+          "date": "2026-09-03T15:22:33+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
+          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
+          "summary": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
+          "date": "2026-09-03T15:13:29+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Anthropic confirms Claude is down, multiple models affected",
+          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
+          "summary": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
+          "date": "2026-09-03T15:02:52+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
           "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
@@ -81,34 +109,6 @@
           "summary": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
           "date": "2026-09-02T10:29:39+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "US charges Russian for infecting 80,000 freelancers with malware",
-          "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-          "summary": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
-          "date": "2026-09-02T09:06:48+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Sality botnet infrastructure dismantled in joint global takedown",
-          "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-          "summary": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
-          "date": "2026-09-02T08:00:43+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-          "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-          "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
-          "date": "2026-09-02T06:39:29+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
-          "summary": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
-          "date": "2026-09-01T20:53:23+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -117,6 +117,13 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
+          "summary": "The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers.",
+          "date": "2026-09-03T14:38:49+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems",
           "link": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
           "summary": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket.",
@@ -124,7 +131,7 @@
           "source": "Dark Reading"
         },
         {
-          "title": "AI’s Vulnerability Surge May Be More Manageable Than First Feared",
+          "title": "AI's Vulnerability Surge May Be More Manageable Than First Feared",
           "link": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
           "summary": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.",
           "date": "2026-09-02T21:14:06+00:00",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
           "summary": "Law enforcement training is falling behind the volume and rapid evolution of cybercrimes. Officers really only need to learn the basics, but lack of focus and budget hinder progress.",
           "date": "2026-08-20T17:32:51+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
-          "summary": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
-          "date": "2026-08-20T14:59:22+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
+          "link": "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/",
+          "summary": "Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys. The post Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal appeared first on SecurityWeek .",
+          "date": "2026-09-03T15:35:19+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents",
+          "link": "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/",
+          "summary": "New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-model review. The post Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents appeared first on SecurityWeek .",
+          "date": "2026-09-03T15:15:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "HiddenLayer Raises $100 Million for AI Runtime Security",
           "link": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
           "summary": "The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents. The post HiddenLayer Raises $100 Million for AI Runtime Security appeared first on SecurityWeek .",
@@ -959,20 +973,6 @@
           "summary": "The industrial giant has released advisories for its RSLinx Classic, ArmorStart, ControlFLASH, FactoryTalk, and other products. The post Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products appeared first on SecurityWeek .",
           "date": "2026-09-02T12:39:07+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Exploit Published for Fresh Cleo Harmony Vulnerability",
-          "link": "https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/",
-          "summary": "The security defect allows remote attackers to bypass authentication through argument bearer manipulation. The post Exploit Published for Fresh Cleo Harmony Vulnerability appeared first on SecurityWeek .",
-          "date": "2026-09-02T12:18:15+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards",
-          "link": "https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/",
-          "summary": "Anthropic introduced Enterprise Frontier Safeguards (EFS), a system that combines zero data retention with automated monitoring for misuse. The post Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards appeared first on SecurityWeek .",
-          "date": "2026-09-02T11:48:31+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+          "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+          "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround…",
+          "date": "2026-09-03T15:52:07+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+          "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+          "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the standard infostealer model, BraZetsu is a comprehensive master toolkit that empowe…",
+          "date": "2026-09-03T15:26:47+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+          "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+          "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada. West Publishing said it dis…",
+          "date": "2026-09-03T14:39:05+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
           "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
@@ -1308,27 +1329,6 @@
           "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned the CVE identifier CVE-2026-65643, impacts all supported versions of cPanel & WH…",
           "date": "2026-08-28T09:45:15+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
-          "link": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-          "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an emergency patch for v25 and v26 to address the issue. It said it's \"aware of con…",
-          "date": "2026-08-28T08:25:36+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-          "link": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-          "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026. These campaigns, per Recorded Future Insikt Group, have led to the deployment of a previously undocumente…",
-          "date": "2026-08-28T08:20:59+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-          "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-          "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took place during cybersecurity evaluations of…",
-          "date": "2026-08-27T18:36:19+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
+          "summary": "Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them. The post ASCII smuggling crosses over from AI prompt injection to phishing evasion appeared first on Microsoft Security Blog .",
+          "date": "2026-09-03T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
           "summary": "MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft Security Blog .",
           "date": "2026-08-18T17:08:28+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/",
-          "summary": "Microsoft is named a Leader in the 2026 IDC MarketScape for MDR services. Discover how Microsoft Defender Experts MDR combines AI, threat intelligence, and human expertise. The post Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise appeared first on Microsoft Secur…",
-          "date": "2026-08-10T16:00:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
@@ -1575,6 +1575,13 @@
       "url": "https://www.sans.org/blog",
       "articles": [
         {
+          "title": "Cloud-Native Forensic Imaging Part 2 Blog Digital Forensics and Incident Response   3 Sep 2026     Megan Roddie-Fonseca",
+          "link": "https://www.sans.org/blog/cloud-native-forensic-imaging-part-2",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
           "title": "A Visual Summary of SANS Security Awareness & Culture Summit 2026  Blog Security Awareness   27 Aug 2026     SANS Institute",
           "link": "https://www.sans.org/blog/a-visual-summary-of-sans-security-awareness-culture-summit-2026",
           "summary": "",
@@ -1647,13 +1654,6 @@
         {
           "title": "Mythos: Forget the Model. Follow the Workflow. Blog Digital Forensics and Incident Response   31 Jul 2026     Sean O'Connor & Thomas  Roccia",
           "link": "https://www.sans.org/blog/mythos-forget-model-follow-workflow",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Stay Ahead of Ransomware: The Evolution from Encryption to Extortion Blog Digital Forensics and Incident Response   29 Jul 2026     Mari DeGrazia",
-          "link": "https://www.sans.org/blog/stay-ahead-ransomware-evolution-from-encryption-to-extortion",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
