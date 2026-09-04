@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-09-04T14:53:15.708671+00:00",
+  "generated_at": "2026-09-04T18:43:08.769371+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+          "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+          "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
+          "date": "2026-09-04T16:56:45+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+          "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
+          "date": "2026-09-04T15:25:59+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Microsoft says some users can’t open the Teams desktop client",
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
@@ -95,20 +109,6 @@
           "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond before it leads to account takeover. [...]",
           "date": "2026-09-03T13:50:59+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft says KB5120998 Windows update resets desktop settings",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
-          "summary": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
-          "date": "2026-09-03T12:16:32+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Plex warns users to patch security vulnerabilities immediately",
-          "link": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-          "summary": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
-          "date": "2026-09-03T11:02:22+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Companies Have 6 Months to Prepare for Automated Attacks",
+          "link": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
+          "summary": "Frontier AI models have already demonstrated they can autonomously — and in some cases, inadvertently — conduct end-to-end compromises, but the situation will become more urgent very soon.",
+          "date": "2026-09-04T15:57:31+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?",
           "link": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
@@ -135,6 +142,13 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
           "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated malware.",
           "date": "2026-09-03T19:42:39+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "What the AI Warning Letter Completely Missed",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people",
+          "summary": "The recent AI warning letter is right about the \"window,\" but it omits naming who is coming through it or, critically, who will close it.",
+          "date": "2026-09-03T17:23:14+00:00",
           "source": "Dark Reading"
         },
         {
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
           "summary": "The new AI security controls follow the Hugging Face incident last month, though experts say many of these additions should have been in place prior to the frontier models escaping.",
           "date": "2026-08-21T13:30:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
-          "link": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
-          "summary": "The coming threat of super-powerful computers capable of cracking today's algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
-          "date": "2026-08-21T13:10:33+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
-          "link": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
-          "summary": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.",
-          "date": "2026-08-20T20:42:18+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,27 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
+          "link": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
+          "summary": "Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dropbox accounts, and Guardio is now valued at $1.1 billion. The post In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation ap…",
+          "date": "2026-09-04T16:18:30+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
+          "link": "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/",
+          "summary": "Nearly two dozen issues, tracked collectively as CVE-2026-73749 (CVSS score of 9.8), were addressed with the updates. The post HPE Patches Critical RCE Vulnerabilities in AOS-CX appeared first on SecurityWeek .",
+          "date": "2026-09-04T16:11:06+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders",
+          "link": "https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/",
+          "summary": "The Daybreak initiative will provide subsidized AI cyber capabilities, training and technical assistance, though OpenAI has disclosed few details about costs and eligibility. The post OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders appeared first on SecurityWeek .",
+          "date": "2026-09-04T16:07:22+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
           "link": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
           "summary": "Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution. The post Sangoma Switchvox Vulnerabilities Exploited in the Wild appeared first on SecurityWeek .",
@@ -952,27 +973,6 @@
           "summary": "Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys. The post Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal appeared first on SecurityWeek .",
           "date": "2026-09-03T15:35:19+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents",
-          "link": "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/",
-          "summary": "New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-model review. The post Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents appeared first on SecurityWeek .",
-          "date": "2026-09-03T15:15:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "HiddenLayer Raises $100 Million for AI Runtime Security",
-          "link": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
-          "summary": "The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents. The post HiddenLayer Raises $100 Million for AI Runtime Security appeared first on SecurityWeek .",
-          "date": "2026-09-03T12:17:30+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million",
-          "link": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
-          "summary": "The startup’s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply chain risks. The post AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million appeared first on SecurityWeek .",
-          "date": "2026-09-03T12:00:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+          "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+          "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'fundin…",
+          "date": "2026-09-04T15:57:15+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+          "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+          "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduce…",
+          "date": "2026-09-04T15:20:19+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+          "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+          "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the bina…",
+          "date": "2026-09-04T14:51:13+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
           "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
@@ -1307,27 +1328,6 @@
           "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
           "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulnerability gives an unauthenticated attacker remote control over PaperCut's truste…",
           "date": "2026-08-28T17:12:15+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
-          "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
-          "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks. Topping the list is support for Encrypted Client Hello (ECH), a privacy standard that prevents networks from…",
-          "date": "2026-08-28T16:20:46+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
-          "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weaponized the vulnerability to target a nuclear research body in…",
-          "date": "2026-08-28T15:56:55+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-          "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-          "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capabilities. The extensions, per Socket security researcher Karlo Zanki, share simil…",
-          "date": "2026-08-28T15:27:26+00:00",
           "source": "The Hacker News"
         }
       ]
