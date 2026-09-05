@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-09-04T18:43:08.769371+00:00",
+  "generated_at": "2026-09-05T13:48:19.413958+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
+          "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+          "summary": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rather than a security breach. [...]",
+          "date": "2026-09-05T11:11:50+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "IDScan sued over alleged data breach affecting 153 million drivers",
           "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
@@ -102,13 +109,6 @@
           "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
           "date": "2026-09-03T14:52:20+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
-          "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
-          "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond before it leads to account takeover. [...]",
-          "date": "2026-09-03T13:50:59+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -128,6 +128,13 @@
           "link": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
           "summary": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
           "date": "2026-09-04T13:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Insurers Search for Answers to Rein in Rogue AI",
+          "link": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
+          "summary": "As incidents of unintended harm caused by rogue AI agents mount, CISOs and insurance firms are figuring out how to handle the fallout.",
+          "date": "2026-09-04T12:15:03+00:00",
           "source": "Dark Reading"
         },
         {
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
           "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
           "date": "2026-08-21T14:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "OpenAI Adds Controls That Should've Been There Already",
-          "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
-          "summary": "The new AI security controls follow the Hugging Face incident last month, though experts say many of these additions should have been in place prior to the frontier models escaping.",
-          "date": "2026-08-21T13:30:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
+          "link": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
+          "summary": "Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form submissions. The post Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites appeared first on SecurityWeek .",
+          "date": "2026-09-05T13:00:28+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
           "link": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
           "summary": "Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dropbox accounts, and Guardio is now valued at $1.1 billion. The post In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation ap…",
@@ -966,13 +973,6 @@
           "summary": "The deal highlights Nvidia’s push to champion increasingly popular open-source AI models. The post Nvidia Is Buying AI Platform Hugging Face for $13 Billion appeared first on SecurityWeek .",
           "date": "2026-09-04T10:00:00+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
-          "link": "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/",
-          "summary": "Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys. The post Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal appeared first on SecurityWeek .",
-          "date": "2026-09-03T15:35:19+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+          "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+          "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass around a way out of th…",
+          "date": "2026-09-05T07:55:10+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+          "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+          "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-81578 and CVE-2026-82078 – an authentication bypass …",
+          "date": "2026-09-05T07:31:53+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
           "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
@@ -1315,20 +1329,6 @@
           "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found further data outflows in t…",
           "date": "2026-08-28T21:30:52+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-          "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-          "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rated Critical by Cosmos Labs and was published without a CVE id…",
-          "date": "2026-08-28T20:38:47+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
-          "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
-          "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulnerability gives an unauthenticated attacker remote control over PaperCut's truste…",
-          "date": "2026-08-28T17:12:15+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "How to secure edge AI in customer-owned environments",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
+          "summary": "As AI moves into customer-owned environments, organizations need new ways to verify the systems, software, and AI assets they trust before releasing sensitive data, credentials, and models. The post How to secure edge AI in customer-owned environments appeared first on Microsoft Security Blog .",
+          "date": "2026-09-04T19:10:10+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
           "summary": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026 appeared first on Microso…",
           "date": "2026-08-19T17:30:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
-          "summary": "MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft Security Blog .",
-          "date": "2026-08-18T17:08:28+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
@@ -1499,6 +1499,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "numbat - AI agent observability, (Fri, Sep 4th)",
+          "link": "https://isc.sans.edu/diary/rss/33312",
+          "summary": "",
+          "date": "2026-09-05T03:39:52+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)",
           "link": "https://isc.sans.edu/diary/rss/33310",
           "summary": "",
@@ -1559,13 +1566,6 @@
           "link": "https://isc.sans.edu/diary/rss/33288",
           "summary": "YARA-X&#;x26;#;39;s 1.20.0 release brings 14 improvements and 13 bugfixes.",
           "date": "2026-08-30T07:14:49+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Some Malicious PE Stats, (Thu, Aug 27th)",
-          "link": "https://isc.sans.edu/diary/rss/33292",
-          "summary": "During my last FOR610 session, a student asked me if I had some statistics in mind about the compilers used to generate malicious PE files? A couple of months ago, I shared some stats about the trend in 64bits VS. 32bits malware[1]. Can we go a bit further? I (vibe-)coded a Python script based on th…",
-          "date": "2026-08-28T07:04:13+00:00",
           "source": "SANS ISC"
         }
       ]
