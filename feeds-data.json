@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T17:49:15.992158+00:00",
+  "generated_at": "2026-09-06T14:03:33.777715+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
@@ -981,6 +981,27 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+          "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+          "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's attack warning, published on September 5. Successful attacks date to at least Se…",
+          "date": "2026-09-06T09:32:38+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+          "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+          "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of them switches off Windows Update and Microsoft Defender before running a cryptocur…",
+          "date": "2026-09-06T08:34:20+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+          "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+          "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an advisory published on September 5. Sansec, which discovered the flaw …",
+          "date": "2026-09-05T20:14:47+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
           "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
           "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment. \"Cadence users should immediately revoke or rotate all …",
@@ -1307,27 +1328,6 @@
           "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
           "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security. The two independent analyses are based on exposed infras…",
           "date": "2026-08-31T11:47:24+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-          "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
-          "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet into that activity. They also expose a larger problem: activity logs alone cannot…",
-          "date": "2026-08-31T11:31:47+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
-          "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
-          "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts used to route, authenticate, and manage high-value …",
-          "date": "2026-08-31T09:04:55+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
-          "link": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
-          "summary": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they were among those targeted. Last week, the DoJ said the National Aeronautics and S…",
-          "date": "2026-08-31T07:56:53+00:00",
           "source": "The Hacker News"
         }
       ]
