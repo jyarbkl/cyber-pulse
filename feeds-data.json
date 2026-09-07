@@ -1,10 +1,66 @@
 {
-  "generated_at": "2026-09-06T17:53:55.420627+00:00",
+  "generated_at": "2026-09-07T16:20:44.553977+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+          "link": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
+          "summary": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]",
+          "date": "2026-09-07T15:39:51+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Mathspace discloses data breach affecting over 1 million people",
+          "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+          "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
+          "date": "2026-09-07T13:05:11+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Trezor data breach impact now reaches 81,000 customers",
+          "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+          "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
+          "date": "2026-09-07T12:16:32+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "ChatGPT can now connect to your personal apps to mimic writing style",
+          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+          "summary": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
+          "date": "2026-09-07T10:36:37+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+          "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
+          "date": "2026-09-07T10:32:40+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+          "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+          "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
+          "date": "2026-09-07T10:06:38+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "N-able patches max severity N-central flaw amid ongoing attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+          "summary": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]",
+          "date": "2026-09-07T06:17:41+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
+          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
+          "summary": "OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]",
+          "date": "2026-09-07T01:15:43+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Attackers conceal phishing lures using invisible Unicode characters",
           "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
@@ -52,62 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
           "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cry…",
           "date": "2026-09-04T14:01:11+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-          "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-          "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
-          "date": "2026-09-04T13:22:01+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Exchange Online outage causes email delays, 'Server busy' errors",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
-          "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
-          "date": "2026-09-04T12:22:30+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
-          "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
-          "date": "2026-09-04T11:48:17+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "French hospital fined €500,000 after breach exposes data of 727,000",
-          "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
-          "summary": "France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
-          "date": "2026-09-03T22:01:37+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Coder's registry infrastructure compromised to push malicious modules",
-          "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
-          "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
-          "date": "2026-09-03T20:04:24+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
-          "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
-          "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
-          "date": "2026-09-03T18:28:12+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
-          "summary": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
-          "date": "2026-09-03T15:22:33+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
-          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
-          "summary": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
-          "date": "2026-09-03T15:13:29+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -549,6 +549,13 @@
       "url": "https://risky.biz/feeds/newsletters/",
       "articles": [
         {
+          "title": "Risky Bulletin: BEC campaign steals €35 million from French notaries",
+          "link": "https://risky.biz/risky-bulletin-bec-campaign-steals-eur35-million-from-french-notaries/",
+          "summary": "Hackers have stolen more than €35 million from French notaries in a massive campaign over the past four years. The attackers breached companies via phishing, took over their networks, and slowly and silently modified transaction details to hijack wired payments. According to French newspaper Le Mond…",
+          "date": "2026-09-07T03:42:20+00:00",
+          "source": "Risky Biz Newsletters"
+        },
+        {
           "title": "Risky Bulletin: Russia tells data centers to deploy drone defenses",
           "link": "https://risky.biz/risky-bulletin-russia-tells-data-centers-to-deploy-drone-defenses/",
           "summary": "The Russian government has instructed data center operators to deploy protections against drone strikes and other physical threats as part of a national effort to boost defenses at critical infrastructure organizations. Companies that fail to follow the Kremlin's instructions risk having their opera…",
@@ -890,13 +897,6 @@
           "summary": "The RubyGems package manager has added support for dependency cooldowns as a way to counter a recent spate of supply chain attacks. The move copies similar efforts made in the JavaScript and Python ecosystem this year. Dependency cooldowns are parameters that tell the package manager to install depe…",
           "date": "2026-06-08T02:08:14+00:00",
           "source": "Risky Biz Newsletters"
-        },
-        {
-          "title": "Risky Bulletin: The EU debuts digital sovereignty plan",
-          "link": "https://risky.biz/risky-bulletin-the-eu-debuts-digital-sovereignty-plan/",
-          "summary": "The European Commission unveiled on Wednesday a plan to decouple from American companies and boost the bloc's tech sovereignty. The plan would boost chip production, triple data center capacity, and fund open-source projects as alternatives to US-dominated software. The proposals cut the typical EU …",
-          "date": "2026-06-05T03:52:45+00:00",
-          "source": "Risky Biz Newsletters"
         }
       ]
     },
@@ -904,6 +904,41 @@
       "name": "SecurityWeek",
       "url": "https://www.securityweek.com/feed/",
       "articles": [
+        {
+          "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
+          "link": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
+          "summary": "The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges. The post Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits appeared first on SecurityWeek .",
+          "date": "2026-09-07T12:15:57+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
+          "link": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
+          "summary": "The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance. The post North Korean Hackers Deploy New Linux Espionage Toolkit appeared first on SecurityWeek .",
+          "date": "2026-09-07T12:12:08+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "OpenAI Agents Hijack Another Victim Website",
+          "link": "https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
+          "summary": "OpenAI agents made 15,000–18,000 autonomous edits to a German wiki over three months, evading moderation and echoing tactics seen in the Hugging Face breach. The post OpenAI Agents Hijack Another Victim Website appeared first on SecurityWeek .",
+          "date": "2026-09-07T12:03:04+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+          "link": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
+          "summary": "The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores. The post Adobe Commerce Zero-Day Exploited to Backdoor Online Stores appeared first on SecurityWeek .",
+          "date": "2026-09-07T11:58:37+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
+          "link": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
+          "summary": "The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients. The post Modified ScreenConnect Clients Used in Worm-Like Campaign appeared first on SecurityWeek .",
+          "date": "2026-09-07T11:45:48+00:00",
+          "source": "SecurityWeek"
+        },
         {
           "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
           "link": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
@@ -938,41 +973,6 @@
           "summary": "Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution. The post Sangoma Switchvox Vulnerabilities Exploited in the Wild appeared first on SecurityWeek .",
           "date": "2026-09-04T13:23:12+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
-          "link": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
-          "summary": "Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor. The post 12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover appeared first on SecurityWeek .",
-          "date": "2026-09-04T12:06:13+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Catch Raises $5 Million for AI Executive Assistant With Guardrails",
-          "link": "https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/",
-          "summary": "Catch promises the capabilities of a trusted executive assistant, with built-in controls governing what data and systems it can access. The post Catch Raises $5 Million for AI Executive Assistant With Guardrails appeared first on SecurityWeek .",
-          "date": "2026-09-04T11:55:17+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
-          "link": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
-          "summary": "The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system. The post VMware Workstation and Fusion Updates Patch Critical Vulnerability appeared first on SecurityWeek .",
-          "date": "2026-09-04T11:42:55+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Google Patches 6th Chrome Zero-Day of 2026",
-          "link": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
-          "summary": "Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine. The post Google Patches 6th Chrome Zero-Day of 2026 appeared first on SecurityWeek .",
-          "date": "2026-09-04T11:31:52+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Nvidia Is Buying AI Platform Hugging Face for $13 Billion",
-          "link": "https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/",
-          "summary": "The deal highlights Nvidia’s push to champion increasingly popular open-source AI models. The post Nvidia Is Buying AI Platform Hugging Face for $13 Billion appeared first on SecurityWeek .",
-          "date": "2026-09-04T10:00:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,55 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+          "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+          "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-…",
+          "date": "2026-09-07T15:51:56+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+          "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+          "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were counting on. Elsewhere, a trusted software sourc…",
+          "date": "2026-09-07T14:36:07+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+          "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+          "summary": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud and found that risk profiles across providers have almos…",
+          "date": "2026-09-07T11:45:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+          "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
+          "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntress, three unrelated incidents have been found to use diverse initial access met…",
+          "date": "2026-09-07T11:36:39+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
+          "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+          "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain in July. There are no confirmed reports of exploitation in t…",
+          "date": "2026-09-07T11:20:14+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+          "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+          "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has released its fourth hotfix in five weeks for the N-…",
+          "date": "2026-09-07T08:31:12+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+          "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+          "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javascript-obfuscator, using multiple techniques including RC4-protected strings, con…",
+          "date": "2026-09-07T07:53:04+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
           "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
@@ -1280,55 +1329,6 @@
           "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, an…",
           "date": "2026-09-01T11:30:00+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-          "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
-          "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered \"two notable security incidents\" where external actor…",
-          "date": "2026-09-01T09:05:30+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-          "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
-          "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted analysis. The idea, ESET said in a series of posts on…",
-          "date": "2026-09-01T08:26:24+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-          "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-          "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploi…",
-          "date": "2026-09-01T07:22:30+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
-          "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-          "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and the medical professi…",
-          "date": "2026-08-31T17:24:28+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
-          "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
-          "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional. Elsewher…",
-          "date": "2026-08-31T13:50:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
-          "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
-          "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclusions. Russian cybersecurity vendor Kaspersky said…",
-          "date": "2026-08-31T12:14:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-          "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-          "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security. The two independent analyses are based on exposed infras…",
-          "date": "2026-08-31T11:47:24+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1499,6 +1499,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
+          "link": "https://isc.sans.edu/diary/rss/33314",
+          "summary": "Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been adding new accounts to affected devices to maintain access after a patch is ins…",
+          "date": "2026-09-06T21:43:17+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "numbat - AI agent observability, (Fri, Sep 4th)",
           "link": "https://isc.sans.edu/diary/rss/33312",
           "summary": "",
@@ -1559,13 +1566,6 @@
           "link": "https://isc.sans.edu/diary/rss/33296",
           "summary": "",
           "date": "2026-08-31T02:00:03+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "YARA-X 1.20.0 Release, (Sun, Aug 30th)",
-          "link": "https://isc.sans.edu/diary/rss/33288",
-          "summary": "YARA-X&#;x26;#;39;s 1.20.0 release brings 14 improvements and 13 bugfixes.",
-          "date": "2026-08-30T07:14:49+00:00",
           "source": "SANS ISC"
         }
       ]
