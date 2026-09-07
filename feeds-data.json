@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-09-07T16:20:44.553977+00:00",
+  "generated_at": "2026-09-07T19:30:02.019579+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+          "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
+          "summary": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
+          "date": "2026-09-07T16:50:29+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
           "link": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
           "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
           "date": "2026-09-04T14:30:15+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "39 New Methods That Compromise Passkey Authentication",
-          "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-          "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cry…",
-          "date": "2026-09-04T14:01:11+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -981,6 +981,13 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+          "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+          "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge pr…",
+          "date": "2026-09-07T18:12:09+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
           "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
           "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-…",
@@ -1321,13 +1328,6 @@
           "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
           "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs) dev…",
           "date": "2026-09-01T13:08:58+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
-          "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
-          "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, an…",
-          "date": "2026-09-01T11:30:00+00:00",
           "source": "The Hacker News"
         }
       ]
