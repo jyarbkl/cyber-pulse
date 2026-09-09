@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-09-09T15:03:35.871785+00:00",
+  "generated_at": "2026-09-09T18:57:05.012102+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
+          "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
+          "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
+          "date": "2026-09-09T16:48:33+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
+          "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
+          "summary": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
+          "date": "2026-09-09T15:31:23+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
           "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
@@ -95,20 +109,6 @@
           "summary": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
           "date": "2026-09-08T16:35:47+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "OpenAI says ChatGPT outage causes image generation errors",
-          "link": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
-          "summary": "OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]",
-          "date": "2026-09-08T16:28:42+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
-          "summary": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]",
-          "date": "2026-09-08T15:22:33+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Identity-Based AI Attack Threatens Security of Enterprise Data",
+          "link": "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data",
+          "summary": "\"Workflow identity hijacking\" can bypass standard security controls and hijack an organization's data by sending a basic request through an unauthenticated entry point.",
+          "date": "2026-09-09T14:39:44+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Patch Tuesday Sets Another Record With 974 CVEs",
           "link": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
           "summary": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.",
           "date": "2026-08-24T20:51:27+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
-          "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
-          "summary": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features.",
-          "date": "2026-08-24T15:02:32+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,34 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "HelmGuard Raises $7.3 Million for Agentic GRC and Security",
+          "link": "https://www.securityweek.com/helmguard-raises-7-3-million-for-agentic-grc-and-security/",
+          "summary": "The company will increase its US market presence and will expand its engineering and go-to-market teams. The post HelmGuard Raises $7.3 Million for Agentic GRC and Security appeared first on SecurityWeek .",
+          "date": "2026-09-09T17:23:58+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns",
+          "link": "https://www.securityweek.com/ai-is-giving-lesser-resourced-attackers-nation-state-level-reach-google-warns/",
+          "summary": "Criminal and state-sponsored adversaries are increasingly using AI to automate and scale their attacks, according to GTIG. The post AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns appeared first on SecurityWeek .",
+          "date": "2026-09-09T16:56:25+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Android’s September 2026 Updates Patch 180 Vulnerabilities",
+          "link": "https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/",
+          "summary": "The security updates resolve critical flaws across Android’s Framework, System, and Kernel components. The post Android’s September 2026 Updates Patch 180 Vulnerabilities appeared first on SecurityWeek .",
+          "date": "2026-09-09T16:30:40+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Chipmaker Patch Tuesday: Nvidia, AMD, Arm Issue Security Advisories",
+          "link": "https://www.securityweek.com/chipmaker-patch-tuesday-nvidia-amd-arm-issue-security-advisories/",
+          "summary": "Major chipmakers announced patches for vulnerabilities recently discovered in their products. The post Chipmaker Patch Tuesday: Nvidia, AMD, Arm Issue Security Advisories appeared first on SecurityWeek .",
+          "date": "2026-09-09T16:22:54+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension",
           "link": "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/",
           "summary": "The critical, unauthenticated bugs allow attackers to bypass authentication and proxy a user’s browser traffic. The post Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension appeared first on SecurityWeek .",
@@ -944,34 +972,6 @@
           "link": "https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/",
           "summary": "Every leaked credential should be dead, or dying, within sixty seconds of being found. Here's a proposal to make that the default. The post This Key Will Self-Destruct: An Open Standard for Revocable API Keys appeared first on SecurityWeek .",
           "date": "2026-09-09T10:00:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser",
-          "link": "https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/",
-          "summary": "Attackers are using trusted Microsoft services and blob URLs to generate stealthy phishing pages that leave defenders with no static website to detect or block. The post New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser appeared first on SecurityWeek .",
-          "date": "2026-09-09T10:00:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Chrome 153 Patches Seventh Zero-Day of 2026",
-          "link": "https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/",
-          "summary": "The Chrome update includes 230 security fixes, and users are advised to update their browsers as soon as possible. The post Chrome 153 Patches Seventh Zero-Day of 2026 appeared first on SecurityWeek .",
-          "date": "2026-09-09T09:45:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days",
-          "link": "https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/",
-          "summary": "The record-breaking September security update fixes two exploited privilege-escalation zero-days and 20 potentially wormable vulnerabilities. The post Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days appeared first on SecurityWeek .",
-          "date": "2026-09-08T19:20:06+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day",
-          "link": "https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/",
-          "summary": "Tracked as CVE-2026-75650, the exploited defect allows unauthenticated attackers to execute arbitrary code. The post Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day appeared first on SecurityWeek .",
-          "date": "2026-09-08T18:37:17+00:00",
           "source": "SecurityWeek"
         }
       ]
@@ -1499,6 +1499,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
+          "link": "https://isc.sans.edu/diary/rss/33324",
+          "summary": "About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported for a couple of years now.",
+          "date": "2026-09-09T17:46:24+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdetail/10086, (Wed, Sep 9th)",
           "link": "https://isc.sans.edu/diary/rss/33322",
           "summary": "",
@@ -1559,13 +1566,6 @@
           "link": "https://isc.sans.edu/diary/rss/33304",
           "summary": "",
           "date": "2026-09-02T02:00:02+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
-          "link": "https://isc.sans.edu/diary/rss/33300",
-          "summary": "Introduction",
-          "date": "2026-09-01T21:30:18+00:00",
           "source": "SANS ISC"
         }
       ]
