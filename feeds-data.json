@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-09-10T14:56:04.017927+00:00",
+  "generated_at": "2026-09-10T18:50:22.046828+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+          "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+          "summary": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
+          "date": "2026-09-10T15:55:56+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+          "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+          "summary": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
+          "date": "2026-09-10T15:43:58+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
           "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
@@ -95,20 +109,6 @@
           "summary": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service desk is critical to preventing social engineering attacks from turning account rec…",
           "date": "2026-09-09T14:01:11+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-          "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-          "summary": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
-          "date": "2026-09-09T10:11:29+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-          "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-          "summary": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
-          "date": "2026-09-09T08:44:22+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -117,16 +117,23 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
+          "summary": "The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender.",
+          "date": "2026-09-10T15:29:12+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "EU Cyber Resilience Act to Enforce New Reporting Requirements",
           "link": "https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements",
-          "summary": "Starting Friday, businesses operating in the EU will have just 24 hours to notify the government any time they discover serious product security incidents.",
+          "summary": "Starting Friday, European organizations will have just 24 hours to notify the EU government any time they discover serious product security incidents.",
           "date": "2026-09-10T07:00:00+00:00",
           "source": "Dark Reading"
         },
         {
           "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
           "link": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
-          "summary": "An analysis of Project Glasswing findings shows only a fraction have reached disclosure, and an even smaller number have been fixed.",
+          "summary": "An analysis of Project Glasswing findings shows only a fraction of the bugs it has discovered have reached disclosure, and an even smaller number have been fixed.",
           "date": "2026-09-09T21:19:55+00:00",
           "source": "Dark Reading"
         },
@@ -147,7 +154,7 @@
         {
           "title": "Patch Tuesday Sets Another Record With 974 CVEs",
           "link": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
-          "summary": "Attackers are actively exploiting two of the vulnerabilities and another 58 are more likely to be exploited, according to Microsoft.",
+          "summary": "Attackers are actively exploiting two of the vulnerabilities, and another 58 are more likely to be exploited, according to Microsoft.",
           "date": "2026-09-08T21:26:02+00:00",
           "source": "Dark Reading"
         },
@@ -161,7 +168,7 @@
         {
           "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
-          "summary": "Researchers and OpenAI disagree on whether the earlier incident involving DseWiki, which the company did not disclose, was a “hack.\"",
+          "summary": "Researchers and OpenAI disagree on whether an earlier incident involving DseWiki, which the company did not disclose, was a “hack.\"",
           "date": "2026-09-08T20:36:15+00:00",
           "source": "Dark Reading"
         },
@@ -182,7 +189,7 @@
         {
           "title": "Companies Have 6 Months to Prepare for Automated Attacks",
           "link": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
-          "summary": "Frontier AI models have already demonstrated they can autonomously — and in some cases, inadvertently — conduct end-to-end compromises, but the situation will become more urgent very soon.",
+          "summary": "Frontier AI models have already demonstrated they can autonomously — and in some cases, inadvertently — conduct end-to-end compromises, but researchers warn the situation will become more urgent very soon.",
           "date": "2026-09-04T15:57:31+00:00",
           "source": "Dark Reading"
         },
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries",
           "summary": "With some simple HTML that's invisible to users, attackers can manipulate AI-powered email summarizers into producing malicious information.",
           "date": "2026-08-25T21:08:55+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
-          "link": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
-          "summary": "Attackers can exploit a security bug in Nvidia's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
-          "date": "2026-08-25T19:50:16+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Cybersecurity M&A Roundup: 33 Deals Announced in August 2026",
+          "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
+          "summary": "Significant cybersecurity M&A deals announced by Brinqa, Cribl, Echo, Fortinet, Kiteworks, Palo Alto Networks, and Visa. The post Cybersecurity M&A Roundup: 33 Deals Announced in August 2026 appeared first on SecurityWeek .",
+          "date": "2026-09-10T16:14:58+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Anthropic Researcher Resigns With Warning About the Dangers of AI Development",
           "link": "https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/",
           "summary": "Both Anthropic and OpenAI have seen high-profile resignations in recent years that were tied to safety concerns. The post Anthropic Researcher Resigns With Warning About the Dangers of AI Development appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "The exploit provides full System privileges on Windows machines running the September 2026 patches. The post New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender appeared first on SecurityWeek .",
           "date": "2026-09-10T07:09:36+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks",
-          "link": "https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/",
-          "summary": "The high-severity, unauthenticated vulnerability tracked as CVE-2025-25249 was patched in January 2026. The post Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks appeared first on SecurityWeek .",
-          "date": "2026-09-10T06:33:36+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,13 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+          "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+          "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful …",
+          "date": "2026-09-10T17:47:38+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
           "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
@@ -1322,13 +1329,6 @@
           "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduce…",
           "date": "2026-09-04T15:20:19+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-          "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-          "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the bina…",
-          "date": "2026-09-04T14:51:13+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,20 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/",
+          "summary": "Microsoft examines an AI-assisted business email compromise campaign that used executive impersonation and fake invoices to target finance teams with ACH payment fraud. The post Protecting organizations from AI-assisted executive impersonation and invoice fraud appeared first on Microsoft Security B…",
+          "date": "2026-09-10T17:23:05+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/",
+          "summary": "See how Microsoft Defender detects and disrupts AI-themed phishing, malware, and multi-stage attacks across the attack chain. The post Detect and disrupt AI-themed attacks with Microsoft Defender appeared first on Microsoft Security Blog .",
+          "date": "2026-09-10T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "Threat matrix: Mapping threats across cloud web applications",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/",
@@ -1395,20 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/",
           "summary": "Microsoft Threat Intelligence provides analysis of a ClickFix campaign that uses fake CAPTCHA prompts, DLL sideloading, and a reverse tunnel, with detections and hunting guidance. The post TerminalFix campaign deploys a reverse tunnel through multistage intrusion appeared first on Microsoft Security…",
           "date": "2026-08-29T03:43:27+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "​​​​​​What’s new in Microsoft Security: August 2026",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/",
-          "summary": "This month’s updates provide new capabilities to help organizations gain insights into agent activity, expand security coverage across supported environments, and enhance security management across their environments. The post ​​​​​​What’s new in Microsoft Security: August 2026 appeared first on Mic…",
-          "date": "2026-08-27T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "When AI infrastructure becomes the target: Securing gateways and control points",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/",
-          "summary": "Microsoft Threat Intelligence examines attacks on exposed AI workloads, including LiteLLM gateway exploitation, credential harvesting, persistence, and cryptomining activity. The post When AI infrastructure becomes the target: Securing gateways and control points appeared first on Microsoft Security…",
-          "date": "2026-08-26T16:43:53+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
