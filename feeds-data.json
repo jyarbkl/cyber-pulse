@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-09-11T18:53:19.031170+00:00",
+  "generated_at": "2026-09-12T13:56:53.313567+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+          "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
+          "date": "2026-09-11T20:19:09+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Florida confirms DMV database breached via stolen police account",
+          "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
+          "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
+          "date": "2026-09-11T19:00:29+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
           "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
@@ -95,20 +109,6 @@
           "summary": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
           "date": "2026-09-10T15:43:58+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
-          "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
-          "summary": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million driver's license scans. [...]",
-          "date": "2026-09-10T14:55:33+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
-          "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
-          "summary": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]",
-          "date": "2026-09-10T14:11:34+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
+          "summary": "Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.",
+          "date": "2026-09-11T19:21:08+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
           "link": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal",
           "summary": "GoCaracal is a new modular malware framework that broadens Dark Caracal's capabilities to steal data and maintain access to victims.",
           "date": "2026-08-26T21:33:06+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "'HTTP Terminator' Hunts for Novel Desync Attacks",
-          "link": "https://www.darkreading.com/application-security/http-terminator-hunts-novel-desync-attacks",
-          "summary": "James Kettle of PortSwigger talks with the Dark Reading News Desk about his AI-powered open source tool, which found new HTTP request-smuggling techniques.",
-          "date": "2026-08-26T19:54:34+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
+          "link": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
+          "summary": "Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments. The post BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days appeared first on SecurityWeek .",
+          "date": "2026-09-12T11:10:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says",
+          "link": "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/",
+          "summary": "Anthropic said the users did not succeed in “fielding an operational device” but did carry out a failed test of a guided rocket. The post Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says appeared first on SecurityWeek .",
+          "date": "2026-09-12T01:50:53+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Phishing Research Challenges Conventional Security Awareness Testing",
           "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
           "summary": "Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks. The post Phishing Research Challenges Conventional Security Awareness Testing appeared first on SecurityWeek .",
@@ -959,20 +973,6 @@
           "summary": "A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors. The post Surfshark Systems Targeted by Hackers appeared first on SecurityWeek .",
           "date": "2026-09-11T09:41:03+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
-          "link": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
-          "summary": "Anthropic reveals how criminal groups are increasingly targeting AI vendors' own infrastructure, including to steal a pre-release Claude model. The post Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion appeared first on SecurityWeek .",
-          "date": "2026-09-11T08:47:07+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
-          "link": "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
-          "summary": "A Russian threat actor used AI to build, test, and deploy exploits against hundreds of organizations worldwide. The post PaperCut Flaws Exploited in AI-Powered Attacks appeared first on SecurityWeek .",
-          "date": "2026-09-11T08:18:23+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+          "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
+          "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from dev…",
+          "date": "2026-09-12T10:24:44+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+          "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+          "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend…",
+          "date": "2026-09-12T09:07:56+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
           "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
@@ -1314,20 +1328,6 @@
           "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
           "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has released its fourth hotfix in five weeks for the N-…",
           "date": "2026-09-07T08:31:12+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
-          "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-          "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javascript-obfuscator, using multiple techniques including RC4-protected strings, con…",
-          "date": "2026-09-07T07:53:04+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-          "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-          "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's attack warning, published on September 5. Successful attacks date to at least Se…",
-          "date": "2026-09-06T09:32:38+00:00",
           "source": "The Hacker News"
         }
       ]
