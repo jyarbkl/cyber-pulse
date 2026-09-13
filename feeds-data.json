@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-09-12T17:59:19.085136+00:00",
+  "generated_at": "2026-09-13T14:52:26.708320+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+          "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
+          "date": "2026-09-13T14:26:32+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
           "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
           "summary": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores normal functionality. [...]",
           "date": "2026-09-10T19:07:33+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
-          "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
-          "summary": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
-          "date": "2026-09-10T15:55:56+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up",
+          "link": "https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/",
+          "summary": "Dario Amodei warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire internet. The post Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up appeared first on SecurityWeek .",
+          "date": "2026-09-13T13:27:25+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
           "link": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
           "summary": "Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments. The post BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Financials have not been disclosed, but the estimated cost is in the tens of millions of dollars. The post Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance appeared first on SecurityWeek .",
           "date": "2026-09-11T10:56:16+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Surfshark Systems Targeted by Hackers",
-          "link": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
-          "summary": "A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors. The post Surfshark Systems Targeted by Hackers appeared first on SecurityWeek .",
-          "date": "2026-09-11T09:41:03+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,13 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+          "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+          "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign, per the tech giant, involved sending over…",
+          "date": "2026-09-13T10:11:48+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
           "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
@@ -1321,13 +1328,6 @@
           "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
           "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntress, three unrelated incidents have been found to use diverse initial access met…",
           "date": "2026-09-07T11:36:39+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
-          "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-          "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain in July. There are no confirmed reports of exploitation in t…",
-          "date": "2026-09-07T11:20:14+00:00",
           "source": "The Hacker News"
         }
       ]
