@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-09-14T16:54:01.530610+00:00",
+  "generated_at": "2026-09-14T20:04:18.591274+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+          "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+          "summary": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+          "date": "2026-09-14T19:51:04+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
+          "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+          "summary": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
+          "date": "2026-09-14T19:03:51+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+          "summary": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
+          "date": "2026-09-14T18:34:16+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
           "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
@@ -88,27 +109,6 @@
           "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
           "date": "2026-09-11T17:26:50+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-          "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-          "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
-          "date": "2026-09-11T16:29:44+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-          "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-          "summary": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude Artifacts, shared AI conversations, sponsored search results, and ClickFix-style lures. […",
-          "date": "2026-09-11T14:01:11+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "GitLab urges users to patch max severity path traversal flaw",
-          "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-          "summary": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
-          "date": "2026-09-11T11:15:22+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
+          "link": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
+          "summary": "Dario Amodei says it's time to slow the pace of frontier AI improvements so that security and risk prevention efforts can catch up. What does this mean for enterprises?",
+          "date": "2026-09-14T16:41:10+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026",
           "summary": "This installment of the Reporters' Notebook video series discusses the topics that dominated the cybersecurity conference, such as AI's effects on vulnerability reporting and security research.",
           "date": "2026-08-27T17:25:09+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Russian Hackers Phish EU Officials Over Messaging Apps",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps",
-          "summary": "EU governments are trying to move away from popular messaging apps as nation-state threat groups shift their focus from email to Signal and WhatsApp.",
-          "date": "2026-08-27T11:16:01+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,34 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+          "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+          "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current. The attack requires an attacker who alr…",
+          "date": "2026-09-14T18:02:13+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+          "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+          "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said. The company uncovered the intrusion by examining a serv…",
+          "date": "2026-09-14T18:01:49+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+          "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+          "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12. In Telegram, the message looked ordinary, with a link button, and the script ran only when someone opene…",
+          "date": "2026-09-14T17:58:16+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+          "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+          "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries an…",
+          "date": "2026-09-14T16:56:30+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
           "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
           "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved. \"New plugins are reviewed before they enter the dir…",
@@ -1301,34 +1329,6 @@
           "summary": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says. FreeIPA is the system that determines who may log in across a Linux domain and maintains all identities in a 389 Directory Se…",
           "date": "2026-09-08T11:22:07+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
-          "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-          "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. The vulnerability, now tracked as CVE-2026-75650 (CVSS score: 10.0), has been codenamed StyleSmuggler by Sansec, which di…",
-          "date": "2026-09-08T09:13:47+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
-          "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
-          "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams. The campaign, discovered by the DFIR Report in March 2026, has been codenamed BengalSEO. It has operated out of the In…",
-          "date": "2026-09-08T08:43:51+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
-          "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-          "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties. Grindr, which is the largest LGBTQ+ dating app, was sued in April 2024, accusing it of vi…",
-          "date": "2026-09-08T07:00:43+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
-          "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
-          "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge pr…",
-          "date": "2026-09-07T18:12:09+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1499,6 +1499,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Apple Updates Everything, (Mon, Sep 14th)",
+          "link": "https://isc.sans.edu/diary/rss/33336",
+          "summary": "Today, Apple released its annual update across all its operating systems. With that, Apple not only released new features but also patched 261 different vulnerabilities. This is the most vulnerabilities Apple has ever patched, but the increase is not as significant as other vendors&#;x26;#;39; \"post…",
+          "date": "2026-09-14T18:33:44+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
           "link": "https://isc.sans.edu/diary/rss/33334",
           "summary": "",
@@ -1559,13 +1566,6 @@
           "link": "https://isc.sans.edu/diary/rss/33316",
           "summary": "",
           "date": "2026-09-08T02:00:03+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
-          "link": "https://isc.sans.edu/diary/rss/33314",
-          "summary": "Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been adding new accounts to affected devices to maintain access after a patch is ins…",
-          "date": "2026-09-06T21:43:17+00:00",
           "source": "SANS ISC"
         }
       ]
