@@ -1,10 +1,59 @@
 {
-  "generated_at": "2026-09-13T18:26:01.108352+00:00",
+  "generated_at": "2026-09-14T16:54:01.530610+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+          "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
+          "date": "2026-09-14T16:15:58+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+          "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+          "summary": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching faster without sacrificing control. [...]",
+          "date": "2026-09-14T14:01:11+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+          "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+          "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security controls can help stop them. [...]",
+          "date": "2026-09-14T12:15:23+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft: September updates cause RDS failures on Windows Server",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
+          "summary": "Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]",
+          "date": "2026-09-14T09:50:25+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Revolut discloses data breach exposing financial info, passports",
+          "link": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
+          "summary": "Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]",
+          "date": "2026-09-14T08:48:24+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft: September updates break audio on some Windows PCs",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
+          "summary": "Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]",
+          "date": "2026-09-14T08:08:16+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]",
+          "date": "2026-09-14T07:06:27+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
           "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
@@ -60,55 +109,6 @@
           "summary": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
           "date": "2026-09-11T11:15:22+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
-          "summary": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]",
-          "date": "2026-09-11T09:39:37+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
-          "link": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
-          "summary": "Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]",
-          "date": "2026-09-11T07:55:15+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Conti ransomware gang member sentenced to 4 years in prison",
-          "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
-          "summary": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
-          "date": "2026-09-11T06:48:37+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "New Android malware encrypts files, steals data, and harasses victims",
-          "link": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
-          "summary": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
-          "date": "2026-09-10T21:40:43+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "September Windows Server updates break Remote Desktop Services",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
-          "summary": "Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases, requiring a hard reset to restore functionality. [...]",
-          "date": "2026-09-10T20:34:37+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
-          "link": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
-          "summary": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
-          "date": "2026-09-10T19:15:07+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
-          "summary": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores normal functionality. [...]",
-          "date": "2026-09-10T19:07:33+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -128,6 +128,13 @@
           "link": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
           "summary": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
           "date": "2026-09-11T18:44:03+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "SpiderSilk Hunts External Threats With AI-Based Scanner",
+          "link": "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
+          "summary": "The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities.",
+          "date": "2026-09-11T18:27:28+00:00",
           "source": "Dark Reading"
         },
         {
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps",
           "summary": "EU governments are trying to move away from popular messaging apps as nation-state threat groups shift their focus from email to Signal and WhatsApp.",
           "date": "2026-08-27T11:16:01+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Dark Caracal Adds New Malware to Cyber Espionage Arsenal",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal",
-          "summary": "GoCaracal is a new modular malware framework that broadens Dark Caracal's capabilities to steal data and maintain access to victims.",
-          "date": "2026-08-26T21:33:06+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,73 +905,73 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development",
+          "link": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
+          "summary": "China’s Ministry of Foreign Affairs responded to a question about Amodei’s essay by saying that all parties should work together on AI. The post Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development appeared first on SecurityWeek .",
+          "date": "2026-09-14T14:28:26+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate",
+          "link": "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/",
+          "summary": "Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for misuse by people with criminal aims. The post New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate appeared first on SecurityWeek .",
+          "date": "2026-09-14T13:31:15+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Personal, Financial Info Exposed in Revolut Data Breach",
+          "link": "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/",
+          "summary": "The company unintentionally disclosed users’ information to a third party impersonating a government agency. The post Personal, Financial Info Exposed in Revolut Data Breach appeared first on SecurityWeek .",
+          "date": "2026-09-14T13:03:35+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "The Race to Control AI and Protect What Makes Us Human",
+          "link": "https://www.securityweek.com/the-race-to-control-ai-and-protect-what-makes-us-human/",
+          "summary": "As researchers warn that misaligned AI could threaten human survival, even beneficial systems may erode the critical thinking that defines our humanity. The post The Race to Control AI and Protect What Makes Us Human appeared first on SecurityWeek .",
+          "date": "2026-09-14T13:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution",
+          "link": "https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/",
+          "summary": "The Chinese-language input method editor for Windows can allow attackers to execute arbitrary code remotely. The post Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution appeared first on SecurityWeek .",
+          "date": "2026-09-14T11:51:29+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "CISOs Race to Control AI Agents Without Destroying Their Value",
+          "link": "https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/",
+          "summary": "Security leaders are struggling to modernize cyber hygiene and prevent over-privileged agents from causing unintended harm. The post CISOs Race to Control AI Agents Without Destroying Their Value appeared first on SecurityWeek .",
+          "date": "2026-09-14T10:30:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Telus Warns Customers of Account Breaches",
+          "link": "https://www.securityweek.com/telus-warns-customers-of-account-breaches/",
+          "summary": "Stolen credentials were used in a multi-month campaign to access subscriber personal data and billing records. The post Telus Warns Customers of Account Breaches appeared first on SecurityWeek .",
+          "date": "2026-09-14T09:56:57+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Three JFrog Artifactory Flaws Exploited for Backdoor Deployment",
+          "link": "https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/",
+          "summary": "The vulnerabilities can allow attackers to bypass authentication and elevate their privileges to administrator. The post Three JFrog Artifactory Flaws Exploited for Backdoor Deployment appeared first on SecurityWeek .",
+          "date": "2026-09-14T09:27:29+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks",
+          "link": "https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/",
+          "summary": "The flaw allows attackers to send files and execute them without authorization through an active remote session. The post ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks appeared first on SecurityWeek .",
+          "date": "2026-09-14T08:25:14+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up",
           "link": "https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/",
           "summary": "Dario Amodei warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire internet. The post Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up appeared first on SecurityWeek .",
           "date": "2026-09-13T13:27:25+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
-          "link": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
-          "summary": "Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments. The post BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days appeared first on SecurityWeek .",
-          "date": "2026-09-12T11:10:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says",
-          "link": "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/",
-          "summary": "Anthropic said the users did not succeed in “fielding an operational device” but did carry out a failed test of a guided rocket. The post Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says appeared first on SecurityWeek .",
-          "date": "2026-09-12T01:50:53+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Phishing Research Challenges Conventional Security Awareness Testing",
-          "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
-          "summary": "Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks. The post Phishing Research Challenges Conventional Security Awareness Testing appeared first on SecurityWeek .",
-          "date": "2026-09-11T17:23:36+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "GitLab Vulnerability Exploited One Day After Disclosure",
-          "link": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
-          "summary": "The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server. The post GitLab Vulnerability Exploited One Day After Disclosure appeared first on SecurityWeek .",
-          "date": "2026-09-11T16:11:08+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
-          "link": "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
-          "summary": "Noteworthy stories that might have slipped under the radar: Invisible Unicode slips past phishing filters, US puts $10 million bounty on Iranian cyber official, military ties of Chinese hacking group QTFY. The post In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review ap…",
-          "date": "2026-09-11T14:19:18+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
-          "link": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
-          "summary": "Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking. The post Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack appeared first on SecurityWeek .",
-          "date": "2026-09-11T12:48:04+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
-          "link": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
-          "summary": "Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023. The post Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison appeared first on SecurityWeek .",
-          "date": "2026-09-11T11:29:09+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Check Point Patches Critical VPN Vulnerabilities",
-          "link": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
-          "summary": "Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution. The post Check Point Patches Critical VPN Vulnerabilities appeared first on SecurityWeek .",
-          "date": "2026-09-11T11:10:02+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance",
-          "link": "https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/",
-          "summary": "Financials have not been disclosed, but the estimated cost is in the tens of millions of dollars. The post Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance appeared first on SecurityWeek .",
-          "date": "2026-09-11T10:56:16+00:00",
           "source": "SecurityWeek"
         }
       ]
@@ -980,6 +980,34 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+          "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+          "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved. \"New plugins are reviewed before they enter the dir…",
+          "date": "2026-09-14T16:00:04+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+          "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+          "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is more familiar: old bugs still working, fresh exploit chains, e…",
+          "date": "2026-09-14T14:40:34+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+          "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+          "summary": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which findings actually deserve their action. I…",
+          "date": "2026-09-14T11:58:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+          "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+          "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | JeetBot,\" lists HISHIMIRO/jeetbot.cc as its developer and has the following ident…",
+          "date": "2026-09-14T07:24:39+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
           "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
@@ -1301,34 +1329,6 @@
           "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge pr…",
           "date": "2026-09-07T18:12:09+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
-          "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
-          "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-…",
-          "date": "2026-09-07T15:51:56+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
-          "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
-          "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were counting on. Elsewhere, a trusted software sourc…",
-          "date": "2026-09-07T14:36:07+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
-          "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
-          "summary": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud and found that risk profiles across providers have almos…",
-          "date": "2026-09-07T11:45:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-          "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-          "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntress, three unrelated incidents have been found to use diverse initial access met…",
-          "date": "2026-09-07T11:36:39+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1499,6 +1499,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
+          "link": "https://isc.sans.edu/diary/rss/33334",
+          "summary": "",
+          "date": "2026-09-14T02:00:03+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
           "link": "https://isc.sans.edu/diary/rss/33332",
           "summary": "I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the resulting inference capacity, and aggregating it behind a single gateway of the…",
@@ -1559,13 +1566,6 @@
           "link": "https://isc.sans.edu/diary/rss/33314",
           "summary": "Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been adding new accounts to affected devices to maintain access after a patch is ins…",
           "date": "2026-09-06T21:43:17+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "numbat - AI agent observability, (Fri, Sep 4th)",
-          "link": "https://isc.sans.edu/diary/rss/33312",
-          "summary": "",
-          "date": "2026-09-05T03:39:52+00:00",
           "source": "SANS ISC"
         }
       ]
