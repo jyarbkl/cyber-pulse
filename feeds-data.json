@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-09-15T15:29:55.455397+00:00",
+  "generated_at": "2026-09-15T19:22:48.182930+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+          "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+          "summary": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
+          "date": "2026-09-15T16:40:14+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "BambooToken malware controls Windows and Linux systems via MQTT",
           "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
@@ -102,13 +109,6 @@
           "summary": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching faster without sacrificing control. [...]",
           "date": "2026-09-14T14:01:11+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
-          "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
-          "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security controls can help stop them. [...]",
-          "date": "2026-09-14T12:15:23+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
+          "link": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
+          "summary": "The full-service malware-as-a-service (MaaS) platform offers a Windows implant, command-and-control (C2) infrastructure, and an operator panel for comprehensive remote access.",
+          "date": "2026-09-15T16:45:37+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary",
           "summary": "Proposed legislation could mandate that companies be able to \"throttle, suspend, or shut ... down\" AI agents, but how and when to do that remain open questions.",
           "date": "2026-08-28T13:30:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "The Vulnpocalypse Is Repricing the Bug Bounty Economy",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
-          "summary": "The surge in AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.",
-          "date": "2026-08-28T13:00:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,27 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws",
+          "link": "https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/",
+          "summary": "AI-assisted researchers flooded Vercel with reports, forcing the company to automate vulnerability triage. The post $1 Million Sandbox Challenge Uncovers Linux Kernel Flaws appeared first on SecurityWeek .",
+          "date": "2026-09-15T16:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Exein Secures $270M at $1.7B Valuation for Physical AI Security",
+          "link": "https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/",
+          "summary": "The cybersecurity startup is building a proprietary foundation model and plans to accelerate global expansion. The post Exein Secures $270M at $1.7B Valuation for Physical AI Security appeared first on SecurityWeek .",
+          "date": "2026-09-15T15:45:13+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data",
+          "link": "https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/",
+          "summary": "A hacker claims to have stolen 7.5 million customer records after breaching the company’s systems. The post Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data appeared first on SecurityWeek .",
+          "date": "2026-09-15T15:30:24+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Thai Broadband Provider Hacked via Fortinet Vulnerability",
           "link": "https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/",
           "summary": "The hackers staged numerous scripts for reconnaissance and CVE probing, along with brute-force utilities and privilege escalation tools. The post Thai Broadband Provider Hacked via Fortinet Vulnerability appeared first on SecurityWeek .",
@@ -952,27 +973,6 @@
           "summary": "An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges. The post Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation appeared first on SecurityWeek .",
           "date": "2026-09-15T05:18:51+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development",
-          "link": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
-          "summary": "China’s Ministry of Foreign Affairs responded to a question about Amodei’s essay by saying that all parties should work together on AI. The post Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development appeared first on SecurityWeek .",
-          "date": "2026-09-14T14:28:26+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate",
-          "link": "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/",
-          "summary": "Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for misuse by people with criminal aims. The post New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate appeared first on SecurityWeek .",
-          "date": "2026-09-14T13:31:15+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Personal, Financial Info Exposed in Revolut Data Breach",
-          "link": "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/",
-          "summary": "The company unintentionally disclosed users’ information to a third party impersonating a government agency. The post Personal, Financial Info Exposed in Revolut Data Breach appeared first on SecurityWeek .",
-          "date": "2026-09-14T13:03:35+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+          "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+          "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 2025, the threat actor has used lures that impersonat…",
+          "date": "2026-09-15T18:54:14+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
+          "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
+          "summary": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world. The malware is controlled via the Telegram messaging app and can copy…",
+          "date": "2026-09-15T16:29:51+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+          "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+          "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems. The emerging malware family, codenamed BambooToken, is assessed to be active since at leas…",
+          "date": "2026-09-15T15:23:19+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
           "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
@@ -1307,27 +1328,6 @@
           "link": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
           "summary": "SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiality, integrity, and availability of the application The vulnerability, tracked as CVE-2026-44756 (CVSS…",
           "date": "2026-09-09T06:25:45+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
-          "link": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
-          "summary": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild. These include 723 flaws in Windows, 111 in Office and Office 2016, 62 in SQL, and 22 in D…",
-          "date": "2026-09-09T04:41:29+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
-          "link": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 11, 2026. Th…",
-          "date": "2026-09-09T04:27:51+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
-          "link": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
-          "summary": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026. Cybersecurity company CrowdStrike is tracking the Brazil-based activity cluster under the name Slim Spider. \"The adversary demonstrates deep o…",
-          "date": "2026-09-08T16:20:23+00:00",
           "source": "The Hacker News"
         }
       ]
