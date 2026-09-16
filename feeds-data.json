@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-09-16T15:22:23.139882+00:00",
+  "generated_at": "2026-09-16T19:13:45.537458+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+          "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
+          "summary": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+          "date": "2026-09-16T18:50:53+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Spain's data agency gets first report of AI-powered data breach",
+          "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
+          "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+          "date": "2026-09-16T17:26:41+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "The true cost of a ransomware attack, with and without BCDR",
           "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
@@ -95,20 +109,6 @@
           "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
           "date": "2026-09-15T12:16:32+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
-          "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
-          "summary": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charges. [...]",
-          "date": "2026-09-15T09:50:25+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
-          "summary": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
-          "date": "2026-09-15T08:40:20+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,20 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Fighting Your Dragons Through Tough Tech Times",
+          "link": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
+          "summary": "Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns.",
+          "date": "2026-09-16T18:00:54+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
+          "link": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
+          "summary": "A new type of attack hijacks the AI assistant built directly into various browsers to access sensitive information, execute malicious actions, and exfiltrate data.",
+          "date": "2026-09-16T16:43:37+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Cyber Op Targets South Korean Media &amp; Automotive Sectors",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
@@ -451,20 +465,6 @@
           "summary": "The Hugging Face incident was bigger and worse than previously thought, with approximately 700 agents collaborating on a sophisticated, multistage attack.",
           "date": "2026-08-28T20:19:22+00:00",
           "source": "Dark Reading"
-        },
-        {
-          "title": "Offensive Security Investments Surge as AI Threats Increase",
-          "link": "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase",
-          "summary": "Omdia's Theresa Lanowitz talks with the Dark Reading News Desk about the potential — and risks — of using agentic AI for penetration testing, red teaming, and other practices.",
-          "date": "2026-08-28T18:25:43+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
-          "link": "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026",
-          "summary": "",
-          "date": "",
-          "source": "Dark Reading"
         }
       ]
     },
@@ -472,6 +472,13 @@
       "name": "Krebs on Security",
       "url": "https://krebsonsecurity.com/feed/",
       "articles": [
+        {
+          "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+          "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+          "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides…",
+          "date": "2026-09-16T18:14:22+00:00",
+          "source": "Krebs on Security"
+        },
         {
           "title": "Microsoft Plugs Nearly 1,000 Security Holes",
           "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -533,13 +540,6 @@
           "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
           "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning p…",
           "date": "2026-07-14T19:22:42+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-          "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-          "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Exper…",
-          "date": "2026-07-13T15:03:28+00:00",
           "source": "Krebs on Security"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
+          "link": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
+          "summary": "Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potential milestone for autonomous cyberattacks. The post First Agentic AI Data Breach Reported to Spanish Regulator appeared first on SecurityWeek .",
+          "date": "2026-09-16T16:39:19+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Virtual Event Today: Attack Surface Management Summit",
           "link": "https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/",
           "summary": "Join SecurityWeek today for a virtual summit exploring the strategies and tools organizations need to discover, prioritize, and defend their expanding attack surfaces. The post Virtual Event Today: Attack Surface Management Summit appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Google resolved 42 security defects in Chrome, and Mozilla fixed 73 bugs in Firefox. The post Chrome, Firefox Updates Patch 115 Vulnerabilities appeared first on SecurityWeek .",
           "date": "2026-09-16T10:28:36+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Acronis Patches Exploited Vulnerability in cPanel Backup Plugin",
-          "link": "https://www.securityweek.com/acronis-patches-exploited-vulnerability-in-cpanel-backup-plugin/",
-          "summary": "CVE-2026-87886 is a high-severity insecure file permissions flaw that can lead to local privilege escalation. The post Acronis Patches Exploited Vulnerability in cPanel Backup Plugin appeared first on SecurityWeek .",
-          "date": "2026-09-16T09:52:31+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+          "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+          "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.0 score: 9.3), which can allow an unauthenticated remote att…",
+          "date": "2026-09-16T15:50:59+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+          "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+          "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity vendor said it has identified attacks mounted by NightEagle (aka APT-Q-95), a threat actor known to b…",
+          "date": "2026-09-16T15:27:49+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+          "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+          "summary": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon and the Claude in Chrome extension. Once the extension was inst…",
+          "date": "2026-09-16T14:36:44+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
           "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
@@ -1308,27 +1329,6 @@
           "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cryptocurrency wallets, and deploying the Scam Cente…",
           "date": "2026-09-09T18:26:05+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-          "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-          "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of BlueMoon has been attributed to the China-aligned s…",
-          "date": "2026-09-09T16:34:05+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
-          "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
-          "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others. Information stealers like Lumma Stealer or Vidar are equipped to harvest a wide ran…",
-          "date": "2026-09-09T14:23:55+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-          "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-          "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs, repositories, and application data to build enough…",
-          "date": "2026-09-09T11:57:36+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1499,6 +1499,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Scans Targeting Hospitality Applications, (Wed, Sep 16th)",
+          "link": "https://isc.sans.edu/diary/rss/33344",
+          "summary": "Earlier today, I noted an odd request showing up in our \"First Seen\" report:",
+          "date": "2026-09-16T18:44:04+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Wednesday, September 16th, 2026 https://isc.sans.edu/podcastdetail/10096, (Wed, Sep 16th)",
           "link": "https://isc.sans.edu/diary/rss/33342",
           "summary": "",
@@ -1559,13 +1566,6 @@
           "link": "https://isc.sans.edu/diary/rss/33328",
           "summary": "",
           "date": "2026-09-10T10:10:11+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
-          "link": "https://isc.sans.edu/diary/rss/33324",
-          "summary": "About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported for a couple of years now.",
-          "date": "2026-09-09T17:46:24+00:00",
           "source": "SANS ISC"
         }
       ]
