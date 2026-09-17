@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-09-17T15:29:04.084911+00:00",
+  "generated_at": "2026-09-17T19:25:52.915193+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+          "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+          "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
+          "date": "2026-09-17T18:55:12+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+          "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+          "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
+          "date": "2026-09-17T17:11:34+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
           "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
@@ -95,20 +109,6 @@
           "summary": "Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
           "date": "2026-09-16T12:16:32+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Webinar: What happens in the first hours of a Google Workspace breach",
-          "link": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
-          "summary": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make matters worse. [...]",
-          "date": "2026-09-16T12:11:19+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Critical ScreenConnect flaw now actively exploited in attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
-          "summary": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-          "date": "2026-09-16T11:14:28+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "[Virtual Event] Cybersecurity Outlook 2027",
+          "link": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
+          "summary": "",
+          "date": "",
+          "source": "Dark Reading"
+        },
         {
           "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
           "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyber-risk/the-guardrails-debate-security-researcher-changes-his-mind",
           "summary": "While guardrails are critical, as evidenced by recent high-profile incidents, defenders need help staying ahead of attackers who do not play by the rules.",
           "date": "2026-08-31T20:09:24+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "AI Model Rules Are Not Security Controls",
-          "link": "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control",
-          "summary": "OpenAI's Hugging Face attack postmortem shows agents don't care about rules — they need strong controls.",
-          "date": "2026-08-31T17:34:26+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
+          "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
+          "summary": "The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran. The post Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels appeared first on SecurityWeek .",
+          "date": "2026-09-17T17:09:40+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
+          "link": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
+          "summary": "OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior. The post OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training appeared first on SecurityWeek .",
+          "date": "2026-09-17T15:45:29+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
           "link": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
           "summary": "The decision follows BOD 26-04, which directs federal organizations to prioritize vulnerabilities based on real-world risk. The post CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot appeared first on SecurityWeek .",
@@ -958,20 +972,6 @@
           "link": "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/",
           "summary": "New research from Irregular shows AI agents can retrain and redeploy their own underlying models during routine maintenance tasks. The post AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals appeared first on SecurityWeek .",
           "date": "2026-09-17T07:41:29+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day",
-          "link": "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/",
-          "summary": "Remote, unauthenticated attackers can exploit the vulnerability to bypass authentication via crafted requests. The post Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day appeared first on SecurityWeek .",
-          "date": "2026-09-17T06:19:52+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
-          "link": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
-          "summary": "Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potential milestone for autonomous cyberattacks. The post First Agentic AI Data Breach Reported to Spanish Regulator appeared first on SecurityWeek .",
-          "date": "2026-09-16T16:39:19+00:00",
           "source": "SecurityWeek"
         }
       ]
@@ -1342,6 +1342,20 @@
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
         {
+          "title": "From guidance to action: Security fundamentals that materially reduce risk",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/",
+          "summary": "AI has made fundamental changes to the operating environment for cybersecurity. Explore exposure management guidance on recommended controls and take action and stay ahead of cyberthreats. The post From guidance to action: Security fundamentals that materially reduce risk appeared first on Microsoft…",
+          "date": "2026-09-17T17:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "Improving email security outcomes with real-world Microsoft Defender insights",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/",
+          "summary": "The latest email security benchmarking reports show strong Microsoft Defender performance across pre-delivery and post-delivery scenarios and reveal where threats and defenses continue to evolve. The post Improving email security outcomes with real-world Microsoft Defender insights appeared first on…",
+          "date": "2026-09-17T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
           "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/",
           "summary": "Microsoft examines an AI-assisted business email compromise campaign that used executive impersonation and fake invoices to target finance teams with ACH payment fraud. The post Protecting organizations from AI-assisted executive impersonation and invoice fraud appeared first on Microsoft Security B…",
@@ -1395,20 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/",
           "summary": "An active campaign is impersonating legitimate software vendors to deliver malware through look-alike download pages and regenerated installer archives. Microsoft Defender Experts shares observed attack techniques, Defender XDR detections, indicators of compromise, and practical mitigations to help …",
           "date": "2026-09-01T22:48:28+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Cybersecurity IR Workshop: The workshop you shouldn’t miss",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/",
-          "summary": "Cyber resilience starts before a crisis. Gain practical insights from DART to strengthen readiness and response. The post Cybersecurity IR Workshop: The workshop you shouldn’t miss appeared first on Microsoft Security Blog .",
-          "date": "2026-09-01T18:55:35+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/",
-          "summary": "Microsoft Threat Intelligence provides analysis of a ClickFix campaign that uses fake CAPTCHA prompts, DLL sideloading, and a reverse tunnel, with detections and hunting guidance. The post TerminalFix campaign deploys a reverse tunnel through multistage intrusion appeared first on Microsoft Security…",
-          "date": "2026-08-29T03:43:27+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
