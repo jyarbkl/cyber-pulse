@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-09-18T14:53:20.482382+00:00",
+  "generated_at": "2026-09-18T18:45:08.257080+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+          "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+          "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
+          "date": "2026-09-18T16:00:38+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+          "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+          "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
+          "date": "2026-09-18T15:19:06+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Secure enterprise sharing with access reviews for Microsoft 365",
           "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
           "summary": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
           "date": "2026-09-17T09:00:00+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft shares workaround for Windows domain login issues",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
-          "summary": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
-          "date": "2026-09-17T08:24:48+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-          "summary": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
-          "date": "2026-09-17T07:20:54+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -981,6 +981,20 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+          "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+          "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install. The security firm pwn.ai, whose r…",
+          "date": "2026-09-18T16:56:19+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+          "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+          "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools…",
+          "date": "2026-09-18T15:24:16+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
           "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
           "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The vulnerability, tracked as CVE-2026-85889, carries a CVSS score of 10.0. \"Missing authentication for critical function in …",
@@ -1314,20 +1328,6 @@
           "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
           "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign, per the tech giant, involved sending over…",
           "date": "2026-09-13T10:11:48+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-          "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. Details of the vuln…",
-          "date": "2026-09-12T15:54:45+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-          "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-          "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from dev…",
-          "date": "2026-09-12T10:24:44+00:00",
           "source": "The Hacker News"
         }
       ]
