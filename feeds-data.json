@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-09-19T14:16:34.328567+00:00",
+  "generated_at": "2026-09-19T18:18:19.571600+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+          "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+          "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]",
+          "date": "2026-09-19T14:56:31+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
           "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
@@ -20,8 +27,8 @@
           "source": "BleepingComputer"
         },
         {
-          "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
-          "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+          "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
+          "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
           "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on September 27. We tried it and read the fine p…",
           "date": "2026-09-19T11:38:20+00:00",
           "source": "BleepingComputer"
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
           "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
           "date": "2026-09-17T17:11:34+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-          "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-          "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device requesting access can be trusted. [...]",
-          "date": "2026-09-17T14:01:11+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
+          "link": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
+          "summary": "The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA. The post TigerByte Cyber Emerges From Stealth With $3 Million in Funding appeared first on SecurityWeek .",
+          "date": "2026-09-19T14:30:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
           "link": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
           "summary": "Noteworthy stories that might have slipped under the radar: Mandiant's 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug exploited. The post In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw appeared first on SecurityWeek…",
@@ -966,13 +973,6 @@
           "summary": "Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root privileges. The post Check Point, Kaspersky, Tanium Patch Product Vulnerabilities appeared first on SecurityWeek .",
           "date": "2026-09-18T07:14:04+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
-          "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
-          "summary": "The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran. The post Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels appeared first on SecurityWeek .",
-          "date": "2026-09-17T17:09:40+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -981,10 +981,24 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+          "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+          "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still v…",
+          "date": "2026-09-19T13:28:48+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+          "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+          "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility …",
+          "date": "2026-09-19T13:28:41+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
           "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
           "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum a…",
-          "date": "2026-09-19T10:01:10+00:00",
+          "date": "2026-09-19T13:28:35+00:00",
           "source": "The Hacker News"
         },
         {
@@ -1118,13 +1132,6 @@
           "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
           "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday. An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution. Unbound 1.…",
           "date": "2026-09-17T12:30:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-          "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-          "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still v…",
-          "date": "2026-09-17T11:50:00+00:00",
           "source": "The Hacker News"
         },
         {
@@ -1321,13 +1328,6 @@
           "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
           "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current. The attack requires an attacker who alr…",
           "date": "2026-09-14T18:02:13+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-          "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-          "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said. The company uncovered the intrusion by examining a serv…",
-          "date": "2026-09-14T18:01:49+00:00",
           "source": "The Hacker News"
         }
       ]
