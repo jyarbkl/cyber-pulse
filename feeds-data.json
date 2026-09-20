@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-09-19T18:18:19.571600+00:00",
+  "generated_at": "2026-09-20T14:37:43.609665+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Malicious npm packages evade install-script defenses at runtime",
+          "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+          "summary": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]",
+          "date": "2026-09-20T14:11:21+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+          "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+          "summary": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
+          "date": "2026-09-20T12:00:00+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "BragJack attacks hijack AI browser agents through malicious extensions",
           "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
           "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
           "date": "2026-09-17T21:50:26+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-          "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-          "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
-          "date": "2026-09-17T18:55:12+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-          "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
-          "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
-          "date": "2026-09-17T17:11:34+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -981,6 +981,13 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+          "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+          "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum a…",
+          "date": "2026-09-19T18:36:53+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
           "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
           "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still v…",
@@ -992,13 +999,6 @@
           "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
           "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility …",
           "date": "2026-09-19T13:28:41+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-          "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-          "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum a…",
-          "date": "2026-09-19T13:28:35+00:00",
           "source": "The Hacker News"
         },
         {
