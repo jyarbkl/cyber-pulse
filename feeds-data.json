@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-09-21T16:55:38.756926+00:00",
+  "generated_at": "2026-09-21T20:11:58.582350+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+          "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+          "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
+          "date": "2026-09-21T18:23:11+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft to retire Microsoft 365 Companion apps in December",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
+          "summary": "Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...]",
+          "date": "2026-09-21T17:54:49+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Google fined €403 million over location data privacy violations",
           "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
@@ -95,20 +109,6 @@
           "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
           "date": "2026-09-18T15:19:06+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Secure enterprise sharing with access reviews for Microsoft 365",
-          "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
-          "summary": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold Software explains how centralized access governance and owner-driven reviews can help identify and re…",
-          "date": "2026-09-18T14:00:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft Teams will let admins block custom file extensions",
-          "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
-          "summary": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
-          "date": "2026-09-18T13:58:40+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
+          "summary": "Victims have been identified in Africa, including in Kenya and Uganda.",
+          "date": "2026-09-21T19:11:26+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents",
           "link": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users",
           "summary": "The \"Spring Ring\" operation aims to compromise users of the collaboration suite to remotely access their sessions, spread malware, and even take over infrastructure.",
           "date": "2026-09-02T16:51:21+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
-          "summary": "Threat actors exploited commodity vulnerabilities in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
-          "date": "2026-09-02T01:00:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
+          "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
+          "summary": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data. The post Google Hit With $463 Million Fine for EU Location Data Rule Breach appeared first on SecurityWeek .",
+          "date": "2026-09-21T17:19:53+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer",
           "link": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
           "summary": "The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware. The post Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Google is the latest AI giant to confirm that its models escaped a testing environment and hacked real companies. The post Google Confirms Gemini AI Breached Three Firms appeared first on SecurityWeek .",
           "date": "2026-09-21T07:20:46+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
-          "link": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
-          "summary": "The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA. The post TigerByte Cyber Emerges From Stealth With $3 Million in Funding appeared first on SecurityWeek .",
-          "date": "2026-09-19T14:30:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+          "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+          "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17. Microsoft's own hardware-co…",
+          "date": "2026-09-21T17:31:01+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+          "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+          "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory. The primary targets o…",
+          "date": "2026-09-21T17:19:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
+          "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+          "summary": "Google has been fined €403 million for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020. Ireland's Data Protection Commission (DPC), Google's lead regulator in the EU, also ordered the company to make its …",
+          "date": "2026-09-21T16:57:31+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
           "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
@@ -1308,27 +1329,6 @@
           "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems. The emerging malware family, codenamed BambooToken, is assessed to be active since at leas…",
           "date": "2026-09-15T15:23:19+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-          "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-          "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access. In one instance highlighted by t…",
-          "date": "2026-09-15T11:52:28+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-          "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-          "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And, in more mature organizations, this testing happens continuo…",
-          "date": "2026-09-15T11:26:36+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
-          "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
-          "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers that's designed to steal cloud credentials, configurations from Amazon Web Servic…",
-          "date": "2026-09-15T11:12:32+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1423,6 +1423,13 @@
       "url": "https://projectzero.google/feed.xml",
       "articles": [
         {
+          "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
+          "link": "https://projectzero.google/2026/09/windows-dangling-com.html",
+          "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a dangling COM object reg…",
+          "date": "",
+          "source": "Google Project Zero"
+        },
+        {
           "title": "Testing race conditions with memory access tracing and stack-based delay injection",
           "link": "https://projectzero.google/2026/09/maccconc-race-condition.html",
           "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: A…",
@@ -1482,13 +1489,6 @@
           "title": "A 0-click exploit chain for the Pixel 9 Part 2: Cracking the Sandbox with a Big Wave",
           "link": "https://projectzero.google/2026/01/pixel-0-click-part-2.html",
           "summary": "With the advent of a potential Dolby Unified Decoder RCE exploit, it seemed prudent to see what kind of Linux kernel drivers might be accessible from the resulting userland context, the mediacodec context. As per the AOSP documentation, the mediacodec SELinux context is intended to be a constrained …",
-          "date": "",
-          "source": "Google Project Zero"
-        },
-        {
-          "title": "A 0-click exploit chain for the Pixel 9 Part 1: Decoding Dolby",
-          "link": "https://projectzero.google/2026/01/pixel-0-click-part-1.html",
-          "summary": "Over the past few years, several AI-powered features have been added to mobile phones that allow users to better search and understand their messages. One effect of this change is increased 0-click attack surface, as efficient analysis often requires message media to be decoded before the message is…",
           "date": "",
           "source": "Google Project Zero"
         }
