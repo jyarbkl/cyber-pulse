@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-09-22T15:27:58.969850+00:00",
+  "generated_at": "2026-09-22T19:25:04.172362+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+          "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+          "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
+          "date": "2026-09-22T19:13:29+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+          "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+          "summary": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
+          "date": "2026-09-22T18:04:39+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Reducing shadow IT visibility gaps with Wazuh",
+          "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+          "summary": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centralized analysis can help organizations identify and reduce these visibility gaps. [.…",
+          "date": "2026-09-22T17:17:41+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Check Point warns of Management Server zero-day exploited in attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+          "summary": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
+          "date": "2026-09-22T16:32:47+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
           "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
@@ -81,34 +109,6 @@
           "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
           "date": "2026-09-21T14:42:37+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
-          "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
-          "summary": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how agencies can address password, MFA, and identity requirements as they prepare for upc…",
-          "date": "2026-09-21T14:02:12+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
-          "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
-          "date": "2026-09-21T13:16:20+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft: September updates break File History backup feature",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
-          "summary": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
-          "date": "2026-09-21T11:45:54+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Malicious npm packages evade install-script defenses at runtime",
-          "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
-          "summary": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]",
-          "date": "2026-09-20T14:11:21+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,20 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
+          "summary": "Threat actors stole 170 private repositories using an OAuth token stolen from a former employee's computer through the TanStack npm supply chain attack.",
+          "date": "2026-09-22T17:32:49+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
+          "link": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
+          "summary": "As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure.",
+          "date": "2026-09-22T17:12:26+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
           "link": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
@@ -131,9 +145,9 @@
           "source": "Dark Reading"
         },
         {
-          "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
+          "title": "ShinyHunters Hacked Cl0p. Now What About Cl0p's Victims?",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
-          "summary": "ShinyHunters defaced Clop's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
+          "summary": "ShinyHunters defaced Cl0p's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
           "date": "2026-09-21T20:07:56+00:00",
           "source": "Dark Reading"
         },
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
           "summary": "The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers.",
           "date": "2026-09-03T14:38:49+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems",
-          "link": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
-          "summary": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket.",
-          "date": "2026-09-03T12:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "AI's Vulnerability Surge May Be More Manageable Than First Feared",
-          "link": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
-          "summary": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.",
-          "date": "2026-09-02T21:14:06+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "BigCommerce Data Stolen via Ribon Apps Hack",
+          "link": "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
+          "summary": "The attackers used a compromised BigCommerce application key held by Ribon to access customer data. The post BigCommerce Data Stolen via Ribon Apps Hack appeared first on SecurityWeek .",
+          "date": "2026-09-22T17:58:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Cyera Raises $400 Million at $12+ Billion Valuation",
           "link": "https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/",
           "summary": "The data security company received the new investment from Goldman Sachs Alternatives, extending its Series G funding round. The post Cyera Raises $400 Million at $12+ Billion Valuation appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data. The post Google Hit With $463 Million Fine for EU Location Data Rule Breach appeared first on SecurityWeek .",
           "date": "2026-09-21T17:19:53+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer",
-          "link": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
-          "summary": "The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware. The post Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer appeared first on SecurityWeek .",
-          "date": "2026-09-21T15:46:58+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,48 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+          "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+          "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said. The flaw, CVE-2026-93616, allows an attacker who can access the server's web service to run scripts on it without logging in. Check Point released …",
+          "date": "2026-09-22T18:29:39+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+          "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+          "summary": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to run their own code. The fix shipped on September 22 in WordPress 7.1.2, with fixes…",
+          "date": "2026-09-22T18:03:10+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+          "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+          "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data. The package, named \"tw-pkgprobe-7731,\" was …",
+          "date": "2026-09-22T17:58:15+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+          "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+          "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S. District Court for the Eastern District of Virginia, involved the ef…",
+          "date": "2026-09-22T17:03:31+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+          "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+          "summary": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. The flaw, tracked as CVE-2026-90898 (CVSS score: 9.8), affects all version…",
+          "date": "2026-09-22T16:41:12+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+          "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+          "summary": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19. The tool, called BigDiskBuster, has no patch, no CVE, and no Microsoft advisory. Its author, Abdelhamid Naceri, i…",
+          "date": "2026-09-22T16:14:04+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
           "link": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
@@ -1287,48 +1329,6 @@
           "summary": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It also exposed about 490 million image metadata records, mostly for images from Januar…",
           "date": "2026-09-17T07:30:01+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
-          "link": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
-          "summary": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation. The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an unauthenticated, remote attacker to bypass authentication. \"This vulnerability …",
-          "date": "2026-09-17T06:39:40+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
-          "link": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
-          "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser. The domains in question are: nightmare-stresser[.]com and nightmarestresser[.]org. Visitors t…",
-          "date": "2026-09-17T05:13:46+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-          "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-          "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.0 score: 9.3), which can allow an unauthenticated remote att…",
-          "date": "2026-09-16T15:50:59+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-          "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-          "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity vendor said it has identified attacks mounted by NightEagle (aka APT-Q-95), a threat actor known to b…",
-          "date": "2026-09-16T15:27:49+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-          "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-          "summary": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon and the Claude in Chrome extension. Once the extension was inst…",
-          "date": "2026-09-16T14:36:44+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-          "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-          "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories. Before the repository spread, the assistant recommended software that the attacker had poisoned, and the reco…",
-          "date": "2026-09-16T13:37:07+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "Unmasking EvilTokens: Getting to the root of device code phishing",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
+          "summary": "EvilTokens has quickly become one of the top PhaaS platforms, enabling device code phishing attacks through AI-assisted lures, automated infrastructure, and token theft. In collaboration with partners, Microsoft Digital Crimes Unit (DCU) facilitated a disruption of EvilTokens infrastructure and oper…",
+          "date": "2026-09-22T15:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "From guidance to action: Security fundamentals that materially reduce risk",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/",
           "summary": "Microsoft Threat Intelligence observed a human-operated intrusion campaign that abuses Microsoft Teams external collaboration to impersonate IT support, gain remote access, and deploy a Node.js-based implant. Learn how attackers move from social engineering to lateral movement using legitimate tools…",
           "date": "2026-09-02T22:51:18+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/",
-          "summary": "An active campaign is impersonating legitimate software vendors to deliver malware through look-alike download pages and regenerated installer archives. Microsoft Defender Experts shares observed attack techniques, Defender XDR detections, indicators of compromise, and practical mitigations to help …",
-          "date": "2026-09-01T22:48:28+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
@@ -1502,7 +1502,7 @@
           "title": "The Truth about GET and HTTP Standards, (Tue, Sep 22nd)",
           "link": "https://isc.sans.edu/diary/rss/33358",
           "summary": "On Friday, Xavier talked about the newly introduced HTTP Query method. This new method was introduced to allow \"GET\" requests that include a body. The main reason for this was that GET requests typically do not contain a body. But what if they do?",
-          "date": "2026-09-22T14:48:38+00:00",
+          "date": "2026-09-22T19:06:15+00:00",
           "source": "SANS ISC"
         },
         {
