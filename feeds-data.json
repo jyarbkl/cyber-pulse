@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-09-23T15:22:50.410851+00:00",
+  "generated_at": "2026-09-23T19:20:52.189450+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Hackers start exploiting critical WordPress flaw for code execution",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+          "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+          "date": "2026-09-23T18:31:22+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+          "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+          "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
+          "date": "2026-09-23T16:20:54+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "InfraTrust report warns network management systems under attack",
           "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
           "summary": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
           "date": "2026-09-22T16:32:47+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-          "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-          "summary": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
-          "date": "2026-09-22T15:00:00+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-          "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-          "summary": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security controls and response decisions can make the greatest difference. [...]",
-          "date": "2026-09-22T12:57:07+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
+          "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
+          "summary": "The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts. The post Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios appeared first on SecurityWeek .",
+          "date": "2026-09-23T18:05:58+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare",
           "link": "https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/",
           "summary": "Only 21% of industrial security leaders report a complete OT asset inventory, even as 88% call their programs mature. The post Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information. The post ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report appeared first on SecurityWeek .",
           "date": "2026-09-23T07:13:49+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Check Point Patches Exploited Management Server Zero-Day",
-          "link": "https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/",
-          "summary": "The critical-severity flaw could allow unauthenticated attackers to upload and execute arbitrary scripts. The post Check Point Patches Exploited Management Server Zero-Day appeared first on SecurityWeek .",
-          "date": "2026-09-23T06:14:03+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+          "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+          "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you. GitLab shows each user this address behind a button l…",
+          "date": "2026-09-23T16:53:10+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+          "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+          "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska calls MikroTrick, combines an SSH state-machine flaw (CVE-2026-67279) with an a…",
+          "date": "2026-09-23T16:06:41+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
           "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
@@ -1315,20 +1329,6 @@
           "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, exhibits functional overlaps with two malware strains associated with the Democr…",
           "date": "2026-09-18T10:40:06+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-          "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-          "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the malware using a large language model (LLM), an assessment made with high confide…",
-          "date": "2026-09-18T09:18:03+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-          "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-          "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control compromised devices. \"Distributed primarily via targeted smishing (SMS/text phish…",
-          "date": "2026-09-18T06:17:25+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "Reimagining the SOC for the agentic era in Microsoft Defender",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/",
+          "summary": "We are announcing ISOC in Microsoft Defender: a foundation built for agentic security that brings leading solutions for SIEM and threat protection together. The post Reimagining the SOC for the agentic era in Microsoft Defender appeared first on Microsoft Security Blog .",
+          "date": "2026-09-23T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "Unmasking EvilTokens: Getting to the root of device code phishing",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
           "summary": "Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them. The post ASCII smuggling crosses over from AI prompt injection to phishing evasion appeared first on Microsoft Security Blog .",
           "date": "2026-09-03T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/",
-          "summary": "Microsoft Threat Intelligence observed a human-operated intrusion campaign that abuses Microsoft Teams external collaboration to impersonate IT support, gain remote access, and deploy a Node.js-based implant. Learn how attackers move from social engineering to lateral movement using legitimate tools…",
-          "date": "2026-09-02T22:51:18+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
@@ -1499,17 +1499,17 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
+          "link": "https://isc.sans.edu/diary/rss/33360",
+          "summary": "Introduction",
+          "date": "2026-09-23T16:14:37+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)",
           "link": "https://isc.sans.edu/diary/rss/33362",
           "summary": "",
           "date": "2026-09-23T02:40:13+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
-          "link": "https://isc.sans.edu/diary/rss/33360",
-          "summary": "Introduction",
-          "date": "2026-09-23T00:55:11+00:00",
           "source": "SANS ISC"
         },
         {
