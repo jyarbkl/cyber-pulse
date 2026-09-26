@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-09-26T14:55:59.430484+00:00",
+  "generated_at": "2026-09-26T18:52:44.408296+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+          "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
+          "date": "2026-09-26T16:26:58+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+          "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
+          "date": "2026-09-26T15:50:38+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
           "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
           "summary": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
           "date": "2026-09-25T08:33:44+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
-          "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-          "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
-          "date": "2026-09-24T20:53:35+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-          "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-          "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
-          "date": "2026-09-24T20:10:48+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks",
+          "link": "https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/",
+          "summary": "The US and China agreed to set up a communication mechanism for artificial intelligence-related incidents. The post China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks appeared first on SecurityWeek .",
+          "date": "2026-09-26T18:09:28+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining",
           "link": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
           "summary": "The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions. The post New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining appeared first on SecurityWeek .",
@@ -965,13 +972,6 @@
           "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
           "summary": "Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication. The post Roundcube Webmail Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek .",
           "date": "2026-09-25T06:57:40+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability",
-          "link": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
-          "summary": "The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden. The post Autonomous AI Hacks Raise Thorny Questions of Legal Accountability appeared first on SecurityWeek .",
-          "date": "2026-09-24T20:35:21+00:00",
           "source": "SecurityWeek"
         }
       ]
