@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-09-25T19:43:36.290756+00:00",
+  "generated_at": "2026-09-26T14:55:59.430484+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+          "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+          "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
+          "date": "2026-09-26T14:19:46+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+          "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
+          "date": "2026-09-26T12:28:41+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+          "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
+          "date": "2026-09-25T21:41:07+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+          "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+          "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability. [...]",
+          "date": "2026-09-25T20:57:55+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Elementor WordPress flaw lets attackers create admin accounts",
           "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
@@ -80,34 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
           "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
           "date": "2026-09-24T20:10:48+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Exposed GitLab project email addresses let attackers push code",
-          "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
-          "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
-          "date": "2026-09-24T17:47:44+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-          "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-          "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a broader shift toward continuous, automated complian…",
-          "date": "2026-09-24T14:02:12+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
-          "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
-          "date": "2026-09-24T13:27:57+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
-          "summary": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
-          "date": "2026-09-24T12:16:32+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -473,6 +473,13 @@
       "url": "https://krebsonsecurity.com/feed/",
       "articles": [
         {
+          "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+          "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+          "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
+          "date": "2026-09-25T21:44:40+00:00",
+          "source": "Krebs on Security"
+        },
+        {
           "title": "Data Broker Radaris Loses Domains in Privacy Fight",
           "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
           "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides…",
@@ -533,13 +540,6 @@
           "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
           "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available fo…",
           "date": "2026-07-22T01:10:38+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "Microsoft Patches a Record 570 Security Flaws",
-          "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-          "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning p…",
-          "date": "2026-07-14T19:22:42+00:00",
           "source": "Krebs on Security"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining",
+          "link": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
+          "summary": "The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions. The post New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining appeared first on SecurityWeek .",
+          "date": "2026-09-26T12:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+          "link": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+          "summary": "OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation.” The post OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure appeared first on SecurityWeek .",
+          "date": "2026-09-26T10:15:41+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure",
           "link": "https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/",
           "summary": "Noteworthy stories that might have slipped under the radar: BragJack attack against browser AI assistants, TDengine flaw threatens industrial telemetry uptime, Ubuntu update overhaul. The post In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure appeared first …",
@@ -959,20 +973,6 @@
           "summary": "The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden. The post Autonomous AI Hacks Raise Thorny Questions of Legal Accountability appeared first on SecurityWeek .",
           "date": "2026-09-24T20:35:21+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls",
-          "link": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
-          "summary": "The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions. The post Kontext Security Emerges With $4 Million for AI Agent Runtime Controls appeared first on SecurityWeek .",
-          "date": "2026-09-24T15:52:00+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data",
-          "link": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/",
-          "summary": "Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information. The post OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data appeared first on SecurityWeek .",
-          "date": "2026-09-24T14:43:13+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,41 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+          "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+          "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result…",
+          "date": "2026-09-26T11:46:40+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+          "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+          "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discus…",
+          "date": "2026-09-26T10:30:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+          "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+          "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site. The cross-site request forgery (CSRF) vulnerability, which has yet to b…",
+          "date": "2026-09-26T09:55:22+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+          "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are as follows - CVE-…",
+          "date": "2026-09-26T08:49:53+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+          "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+          "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. \"Kiteworks received credible threat intelligence from federal intelligence authorities indica…",
+          "date": "2026-09-26T07:48:33+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
           "link": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
@@ -1293,41 +1328,6 @@
           "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
           "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and called \"Comment2Shell,\" on Sept…",
           "date": "2026-09-22T06:03:14+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
-          "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-7273 (CVSS score: 8…",
-          "date": "2026-09-22T05:31:59+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
-          "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
-          "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17. Microsoft's own hardware-co…",
-          "date": "2026-09-21T17:31:01+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
-          "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
-          "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory. The primary targets o…",
-          "date": "2026-09-21T17:19:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
-          "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
-          "summary": "Google has been fined €403 million for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020. Ireland's Data Protection Commission (DPC), Google's lead regulator in the EU, also ordered the company to make its …",
-          "date": "2026-09-21T16:57:31+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
-          "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
-          "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak checks, fake fixes, and attack paths that look almost to…",
-          "date": "2026-09-21T14:24:13+00:00",
           "source": "The Hacker News"
         }
       ]
