@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-09-27T15:34:33.044616+00:00",
+  "generated_at": "2026-09-27T19:25:14.114230+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+          "summary": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
+          "date": "2026-09-27T16:02:37+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
           "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
           "summary": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]",
           "date": "2026-09-25T14:51:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft plans to deprecate Windows Deployment Services",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-          "summary": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
-          "date": "2026-09-25T12:40:59+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -983,7 +983,7 @@
         {
           "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
           "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-          "summary": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26. Citrix has not confirmed the flaws or published a fix. Some administrators say …",
+          "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an affected version, inclu…",
           "date": "2026-09-27T07:47:57+00:00",
           "source": "The Hacker News"
         },
