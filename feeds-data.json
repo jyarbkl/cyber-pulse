@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-09-26T18:52:44.408296+00:00",
+  "generated_at": "2026-09-27T15:34:33.044616+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+          "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+          "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
+          "date": "2026-09-27T14:13:31+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+          "summary": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
+          "date": "2026-09-27T13:38:40+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+          "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. [...]",
+          "date": "2026-09-26T19:03:34+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
           "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
@@ -87,27 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
           "summary": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
           "date": "2026-09-25T12:40:59+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-          "link": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-          "summary": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
-          "date": "2026-09-25T11:35:14+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft: Recent Windows updates cause desktop loading issues",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
-          "summary": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
-          "date": "2026-09-25T10:30:38+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
-          "summary": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
-          "date": "2026-09-25T08:33:44+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
+          "link": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
+          "summary": "CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28. The post Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks appeared first on SecurityWeek .",
+          "date": "2026-09-27T09:23:09+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks",
           "link": "https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/",
           "summary": "The US and China agreed to set up a communication mechanism for artificial intelligence-related incidents. The post China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks. The post ‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration appeared first on SecurityWeek .",
           "date": "2026-09-25T09:27:51+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
-          "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
-          "summary": "Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication. The post Roundcube Webmail Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek .",
-          "date": "2026-09-25T06:57:40+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+          "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+          "summary": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26. Citrix has not confirmed the flaws or published a fix. Some administrators say …",
+          "date": "2026-09-27T07:47:57+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+          "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+          "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. The new findings come from Ontinue, which described the activity as a four-stage attack chain aimed…",
+          "date": "2026-09-26T18:22:52+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
           "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
@@ -1315,20 +1329,6 @@
           "summary": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typically initiate through spear-phishing campaigns that leverage the abuse of mshta.exe…",
           "date": "2026-09-22T07:52:03+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
-          "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-          "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21. It works by changing a hidden setting so that when the user taps the microphon…",
-          "date": "2026-09-22T06:33:57+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
-          "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-          "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and called \"Comment2Shell,\" on Sept…",
-          "date": "2026-09-22T06:03:14+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1499,6 +1499,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Wireshark 4.6.9 Released, (Sun, Sep 27th)",
+          "link": "https://isc.sans.edu/diary/rss/33372",
+          "summary": "Wireshark release 4.6.9 fixes 19 vulnerabilities and 16 bugs.",
+          "date": "2026-09-27T15:04:49+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)",
           "link": "https://isc.sans.edu/diary/rss/33368",
           "summary": "Introduction",
@@ -1559,13 +1566,6 @@
           "link": "https://isc.sans.edu/diary/rss/33356",
           "summary": "",
           "date": "2026-09-22T03:50:10+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
-          "link": "https://isc.sans.edu/diary/rss/33318",
-          "summary": "Microsoft Security Research published an interesting blog post \"TerminalFix campaign deploys a reverse tunnel through multistage intrusion\" about a malware campaign. The aspect that I want to take a closer look at, is the fact that the threat actors used PNG files with steganography. I reached out t…",
-          "date": "2026-09-21T10:33:53+00:00",
           "source": "SANS ISC"
         }
       ]
