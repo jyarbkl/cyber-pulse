@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-09-28T18:32:50.289223+00:00",
+  "generated_at": "2026-09-28T21:28:40.558242+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+          "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+          "summary": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some of its business systems. [...]",
+          "date": "2026-09-28T20:56:47+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+          "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+          "summary": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]",
+          "date": "2026-09-28T20:31:16+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+          "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+          "summary": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]",
+          "date": "2026-09-28T19:49:10+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
+          "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+          "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
+          "date": "2026-09-28T18:50:59+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
           "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
@@ -81,34 +109,6 @@
           "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
           "date": "2026-09-26T16:26:58+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft pauses KB5002907 update after Office license deactivations",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
-          "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
-          "date": "2026-09-26T15:50:38+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
-          "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-          "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
-          "date": "2026-09-26T14:19:46+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
-          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
-          "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
-          "date": "2026-09-26T12:28:41+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-          "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
-          "date": "2026-09-25T21:41:07+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,27 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "One Packet Can Crash OT Servers in Industrial Sectors",
+          "link": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
+          "summary": "A high-severity zero-day vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments.",
+          "date": "2026-09-28T21:13:04+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts",
+          "link": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
+          "summary": "The botnet uses the open source Hermes Agent AI framework to execute commands via Telegram and steal AI API keys from exposed Docker hosts.",
+          "date": "2026-09-28T20:23:58+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
+          "summary": "Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats.",
+          "date": "2026-09-28T18:44:22+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
           "link": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
@@ -443,27 +464,6 @@
           "link": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
           "summary": "Dario Amodei says it's time to slow the pace of frontier AI improvements so that security and risk prevention efforts can catch up. What does this mean for enterprises?",
           "date": "2026-09-14T16:41:10+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
-          "summary": "Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.",
-          "date": "2026-09-11T19:21:08+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
-          "link": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
-          "summary": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
-          "date": "2026-09-11T18:44:03+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "SpiderSilk Hunts External Threats With AI-Based Scanner",
-          "link": "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
-          "summary": "The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities.",
-          "date": "2026-09-11T18:27:28+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,20 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+          "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+          "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics component that could lead to …",
+          "date": "2026-09-28T19:18:01+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+          "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+          "summary": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in a technical analysis. The malware has been seen in a small number of targeted intrusions at telecommunications organizations, universities, medical nonprofits, …",
+          "date": "2026-09-28T18:35:42+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "IAM for AI agents: A Practical Enterprise Framework",
           "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
           "summary": "What is IAM for AI agents? AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide covers the limits of conventional provisioning, the components that matter, how to…",
@@ -1314,20 +1328,6 @@
           "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
           "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data. The package, named \"tw-pkgprobe-7731,\" was …",
           "date": "2026-09-22T17:58:15+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-          "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-          "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S. District Court for the Eastern District of Virginia, involved the ef…",
-          "date": "2026-09-22T17:03:31+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-          "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-          "summary": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. The flaw, tracked as CVE-2026-90898 (CVSS score: 9.8), affects all version…",
-          "date": "2026-09-22T16:41:12+00:00",
           "source": "The Hacker News"
         }
       ]
