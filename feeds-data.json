@@ -1,10 +1,45 @@
 {
-  "generated_at": "2026-09-29T16:50:29.820451+00:00",
+  "generated_at": "2026-09-29T20:21:00.709361+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+          "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+          "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
+          "date": "2026-09-29T20:09:55+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
+          "summary": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
+          "date": "2026-09-29T18:37:12+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Former US Air Force members sent to prison over BEC attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+          "summary": "Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of business email compromise (BEC) scams and phishing campaigns. [...]",
+          "date": "2026-09-29T18:09:39+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Windows 11 2026 Update released, here's everything you need to know",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
+          "summary": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
+          "date": "2026-09-29T17:37:40+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
+          "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
+          "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
+          "date": "2026-09-29T17:10:11+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
           "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
@@ -74,41 +109,6 @@
           "summary": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]",
           "date": "2026-09-28T15:49:27+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-          "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-          "summary": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations can identify their exposure. [...]",
-          "date": "2026-09-28T14:00:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
-          "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-          "summary": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
-          "date": "2026-09-28T09:25:29+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
-          "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-          "summary": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
-          "date": "2026-09-28T07:30:15+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-          "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
-          "date": "2026-09-28T06:24:19+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
-          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
-          "summary": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
-          "date": "2026-09-27T23:40:39+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
+          "link": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
+          "summary": "Automated certificates for everyone, built for today, and hardened for the era of quantum computing.",
+          "date": "2026-09-29T17:02:16+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks",
           "link": "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
           "summary": "At Black Hat USA, OpenAI engineers reconstruct the Hugging Face incident and explore lessons learned about AI safeguards and cyber resilience.",
           "date": "2026-09-15T19:27:19+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
-          "link": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
-          "summary": "The full-service malware-as-a-service (MaaS) platform offers a Windows implant, command-and-control (C2) infrastructure, and an operator panel for comprehensive remote access.",
-          "date": "2026-09-15T16:45:37+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,27 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
+          "link": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
+          "summary": "Altman made a slew of product announcements and updates, including the company’s new agents, called Dots. The post OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference appeared first on SecurityWeek .",
+          "date": "2026-09-29T20:14:44+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "DARPA Selects Xint to Use AI in Securing Military Messaging Apps",
+          "link": "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
+          "summary": "The AIxCC competition winner will analyze messaging app code and compiled binaries for vulnerabilities, with technology that could also help commercial customers secure their software. The post DARPA Selects Xint to Use AI in Securing Military Messaging Apps appeared first on SecurityWeek .",
+          "date": "2026-09-29T17:24:04+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks",
+          "link": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
+          "summary": "Branch Target Reuse (BTR) is a new Spectre v2 attack targeting JIT compilers in web browsers, language runtimes, and the operating system kernel The post New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks appeared first on SecurityWeek .",
+          "date": "2026-09-29T17:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "RemoteThreat Launches With $7 Million for Offensive Operations Platform",
           "link": "https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/",
           "summary": "The company emerged from stealth mode with pre-seed funding from Osage University Partners and DataTribe. The post RemoteThreat Launches With $7 Million for Offensive Operations Platform appeared first on SecurityWeek .",
@@ -952,27 +973,6 @@
           "summary": "The GPT-6.1 Astra model was slated to debut in ChatGPT and Codex in October, but it fell short of expectations. The post OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training appeared first on SecurityWeek .",
           "date": "2026-09-29T11:15:59+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation",
-          "link": "https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/",
-          "summary": "Pepijn van der Stap was convicted in 2023 for hacking multiple organizations, stealing their data, and extorting them. The post Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation appeared first on SecurityWeek .",
-          "date": "2026-09-29T11:01:55+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Daemon Tools Hackers’ NeedyMantis Malware Dissected by Microsoft",
-          "link": "https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/",
-          "summary": "The malware framework uses a modular architecture and a custom executable file format for long-term persistence. The post Daemon Tools Hackers’ NeedyMantis Malware Dissected by Microsoft appeared first on SecurityWeek .",
-          "date": "2026-09-29T09:46:13+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Apple Patches Zero-Day Linked to ‘Extremely Sophisticated Attack’",
-          "link": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
-          "summary": "Apple released iOS and macOS updates to patch a zero-day vulnerability (CVE-2026-86950) reported by Meta’s product security team. The post Apple Patches Zero-Day Linked to ‘Extremely Sophisticated Attack’ appeared first on SecurityWeek .",
-          "date": "2026-09-29T06:18:27+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+          "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+          "summary": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July. Neither the tax administration nor France's national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency…",
+          "date": "2026-09-29T17:47:01+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+          "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+          "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. The new Spectre-v2 varian…",
+          "date": "2026-09-29T17:20:17+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+          "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+          "summary": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, according to Microsoft. The campaigns, aimed at people and organizations tied to Ukraine, have affected more than 100 organizations since January…",
+          "date": "2026-09-29T17:20:08+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
           "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
@@ -1308,27 +1329,6 @@
           "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to tell which of them happened. Someone with a securit…",
           "date": "2026-09-23T11:47:19+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-          "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-          "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior. Opus 5.5, per Anthropic, is a \"major step up from Opus 5,\" and \"achieves the best scores of any model to d…",
-          "date": "2026-09-23T11:47:13+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-          "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-          "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22. The flaw, tracked as CVE-2026-80521 (CVSS score: 7.8), was fixed upstream on August 6, but Ubuntu has not shi…",
-          "date": "2026-09-23T11:12:18+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-          "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-          "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw, CVE-2026-94127, affects only systems in which APM serves as an OAuth authorization server, issuing access tokens to applications. F5 dis…",
-          "date": "2026-09-23T08:29:48+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "​​Beyond source code: A path to the keys to the kingdom",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
+          "summary": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post ​​Beyond source code: A path to the keys to the kingdom appeared first on Microsoft Security Blog .",
+          "date": "2026-09-29T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/",
           "summary": "The latest email security benchmarking reports show strong Microsoft Defender performance across pre-delivery and post-delivery scenarios and reveal where threats and defenses continue to evolve. The post Improving email security outcomes with real-world Microsoft Defender insights appeared first on…",
           "date": "2026-09-17T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/",
-          "summary": "Microsoft examines an AI-assisted business email compromise campaign that used executive impersonation and fake invoices to target finance teams with ACH payment fraud. The post Protecting organizations from AI-assisted executive impersonation and invoice fraud appeared first on Microsoft Security B…",
-          "date": "2026-09-10T17:23:05+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
