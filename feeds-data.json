@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-09-30T16:45:05.177526+00:00",
+  "generated_at": "2026-09-30T20:25:10.026878+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+          "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+          "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+          "date": "2026-09-30T19:49:15+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+          "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+          "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
+          "date": "2026-09-30T18:08:34+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
           "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
@@ -95,20 +109,6 @@
           "summary": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
           "date": "2026-09-29T17:37:40+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-          "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-          "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
-          "date": "2026-09-29T17:10:11+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-          "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-          "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
-          "date": "2026-09-29T15:39:19+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
+          "link": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
+          "summary": "New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill development.",
+          "date": "2026-09-30T18:56:56+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
           "link": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
           "summary": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?",
           "date": "2026-09-16T21:26:55+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Fighting Your Dragons Through Tough Tech Times",
-          "link": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
-          "summary": "Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns.",
-          "date": "2026-09-16T18:00:54+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,20 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+          "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+          "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system comma…",
+          "date": "2026-09-30T16:46:29+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+          "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+          "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content. \"Once executed, the legitimate MSP360 installer…",
+          "date": "2026-09-30T16:32:59+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
           "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
           "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30. The flaw, CVE-2026-76504, could allow a remote attacker with no login access to use the Manager's API as …",
@@ -1314,20 +1328,6 @@
           "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
           "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription product with on-chain infrastructure and a state-sponso…",
           "date": "2026-09-24T09:14:21+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-          "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-          "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal publishes aggregate figures, such as spending, and is separate from the systems that handle Medicare claims and pe…",
-          "date": "2026-09-24T07:07:25+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-          "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-          "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It ori…",
-          "date": "2026-09-24T06:32:03+00:00",
           "source": "The Hacker News"
         }
       ]
