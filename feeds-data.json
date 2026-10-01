@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-10-01T17:19:06.193219+00:00",
+  "generated_at": "2026-10-01T20:42:03.557509+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Microsoft says threat actors are ahead in the early AI race",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+          "summary": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]",
+          "date": "2026-10-01T19:32:47+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
           "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
           "summary": "Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
           "date": "2026-09-30T12:25:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Bitget hacked via zero-day in third-party security products",
-          "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
-          "summary": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
-          "date": "2026-09-30T11:11:46+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -471,78 +471,7 @@
     "Krebs on Security": {
       "name": "Krebs on Security",
       "url": "https://krebsonsecurity.com/feed/",
-      "articles": [
-        {
-          "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-          "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-          "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attac…",
-          "date": "2026-09-28T15:08:57+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-          "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-          "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
-          "date": "2026-09-25T21:44:40+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-          "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-          "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides…",
-          "date": "2026-09-16T18:14:22+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-          "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-          "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many o…",
-          "date": "2026-09-08T21:44:22+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-          "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-          "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning i…",
-          "date": "2026-09-01T22:40:28+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-          "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-          "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unname…",
-          "date": "2026-08-27T11:04:15+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "Who’s Tracking You? Use This New Service to Find Out",
-          "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-          "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large…",
-          "date": "2026-08-14T11:24:35+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "Microsoft Plugs Nearly 400 Security Holes",
-          "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-          "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
-          "date": "2026-08-11T21:28:35+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-          "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-          "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontar…",
-          "date": "2026-08-06T17:00:56+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "Read This Before You Buy That TV Streaming Stick",
-          "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-          "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also r…",
-          "date": "2026-07-30T16:49:00+00:00",
-          "source": "Krebs on Security"
-        }
-      ]
+      "articles": []
     },
     "Risky Biz Newsletters": {
       "name": "Risky Biz Newsletters",
@@ -905,6 +834,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks",
+          "link": "https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/",
+          "summary": "Fifteen years after coining the framework, John Kindervag insists zero trust still works in the AI era—if you get the implementation right. The post Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks appeared first on SecurityWeek .",
+          "date": "2026-10-01T18:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains",
           "link": "https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/",
           "summary": "Hybrid risk intelligence company Osavul has raised $10 million in a Series A funding round led by 33N Ventures. The post Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains appeared first on SecurityWeek .",
@@ -965,13 +901,6 @@
           "link": "https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/",
           "summary": "The flaws were chained to hijack sessions, achieve remote code execution, and elevate privileges to root. The post Zammad Zero-Days Exploited in AI-Powered DIVD Hack appeared first on SecurityWeek .",
           "date": "2026-10-01T10:42:49+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "500,000 Active Credentials Left Exposed on GitHub",
-          "link": "https://www.securityweek.com/500000-active-credentials-left-exposed-on-github/",
-          "summary": "Roughly 200,000 of the credentials were exposed after GitHub enabled push protections by default. The post 500,000 Active Credentials Left Exposed on GitHub appeared first on SecurityWeek .",
-          "date": "2026-10-01T09:43:56+00:00",
           "source": "SecurityWeek"
         }
       ]
