@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-10-02T16:34:20.861697+00:00",
+  "generated_at": "2026-10-02T20:15:06.492428+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Frontline Education breach exposes school district employee data",
+          "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+          "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
+          "date": "2026-10-02T19:01:40+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+          "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+          "date": "2026-10-02T18:33:01+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
           "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
@@ -95,20 +109,6 @@
           "summary": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
           "date": "2026-10-01T09:44:28+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Metamask discloses security incident affecting its infrastructure",
-          "link": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
-          "summary": "On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...]",
-          "date": "2026-10-01T07:33:57+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Russian state hackers use new RedFlick technique to push malware",
-          "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-          "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
-          "date": "2026-09-30T20:34:01+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response",
+          "link": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
+          "summary": "One company told customers to power down its data-protection platform during a nine-hour window, while the other remained mum on reported attacks prior to releasing a patch for its product.",
+          "date": "2026-10-02T16:56:30+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "SWIFT Banking &amp; Government Middleware Enables RCE",
           "link": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
           "summary": "Victims have been identified in Africa, including in Kenya and Uganda.",
           "date": "2026-09-21T19:11:26+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents",
-          "link": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
-          "summary": "The AI giant disclosed six examples of concerning model activity and published a new framework for investigating and disclosing such incidents.",
-          "date": "2026-09-21T14:47:19+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,27 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+          "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+          "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory. The gateway is the service that connects a GitLab instance to AI models, and only organizations that host their own gatew…",
+          "date": "2026-10-02T17:33:31+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+          "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+          "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the deploym…",
+          "date": "2026-10-02T17:33:16+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+          "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+          "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems. The vulnerabilities are listed below - CVE-2026-63688 (CVSS score: 10.0) - A missing authentication for criti…",
+          "date": "2026-10-02T17:02:12+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
           "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
           "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported. \"We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information,\" a sp…",
@@ -1307,27 +1328,6 @@
           "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
           "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result…",
           "date": "2026-09-26T11:46:40+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
-          "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
-          "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discus…",
-          "date": "2026-09-26T10:30:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
-          "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
-          "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site. The cross-site request forgery (CSRF) vulnerability, which has yet to b…",
-          "date": "2026-09-26T09:55:22+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
-          "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are as follows - CVE-…",
-          "date": "2026-09-26T08:49:53+00:00",
           "source": "The Hacker News"
         }
       ]
