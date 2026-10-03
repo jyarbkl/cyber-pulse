@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-10-02T20:15:06.492428+00:00",
+  "generated_at": "2026-10-03T15:05:42.739395+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Danish university DTU breach exposes data of up to 200,000 people",
+          "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
+          "summary": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]",
+          "date": "2026-10-03T14:35:20+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Frontline Education breach exposes school district employee data",
           "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
@@ -102,13 +109,6 @@
           "summary": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
           "date": "2026-10-01T11:14:28+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers stole Pentagon personnel records of over 3 million people",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-          "summary": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
-          "date": "2026-10-01T09:44:28+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
+          "link": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
+          "summary": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities.",
+          "date": "2026-10-02T20:18:37+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response",
           "link": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
           "summary": "ShinyHunters defaced Cl0p's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
           "date": "2026-09-21T20:07:56+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
-          "summary": "Victims have been identified in Africa, including in Kenya and Uganda.",
-          "date": "2026-09-21T19:11:26+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
+          "link": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
+          "summary": "doxx.net’s new ADN platform prevents agentic misadventure while the agent is operating under the user’s authority. The post doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures appeared first on SecurityWeek .",
+          "date": "2026-10-03T11:45:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Fortra Patches Critical Vulnerabilities in BoKS",
+          "link": "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
+          "summary": "The bugs could lead to authentication bypass, shell command execution, and memory corruption. The post Fortra Patches Critical Vulnerabilities in BoKS appeared first on SecurityWeek .",
+          "date": "2026-10-03T11:34:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats",
           "link": "https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/",
           "summary": "Noteworthy stories that might have slipped under the radar: Kiteworks patches over 100 vulnerabilities, Microsoft publishes 2026 Digital Defense Report, AI finds 24 Android app flaws. The post In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats appeared f…",
@@ -959,20 +973,6 @@
           "summary": "Fifteen years after coining the framework, John Kindervag insists zero trust still works in the AI era—if you get the implementation right. The post Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks appeared first on SecurityWeek .",
           "date": "2026-10-01T18:00:00+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains",
-          "link": "https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/",
-          "summary": "Hybrid risk intelligence company Osavul has raised $10 million in a Series A funding round led by 33N Ventures. The post Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains appeared first on SecurityWeek .",
-          "date": "2026-10-01T17:16:41+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass",
-          "link": "https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/",
-          "summary": "Rob Juncker is chief product and technology officer at Mimecast. Is he a hacker? “Unequivocally yes,” he says. The post Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass appeared first on SecurityWeek .",
-          "date": "2026-10-01T14:30:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,13 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
+          "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
+          "summary": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, security is shifting toward continuous visibility, …",
+          "date": "2026-10-03T11:00:00+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
           "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
@@ -1322,13 +1329,6 @@
           "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. The new findings come from Ontinue, which described the activity as a four-stage attack chain aimed…",
           "date": "2026-09-26T18:22:52+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
-          "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
-          "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result…",
-          "date": "2026-09-26T11:46:40+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1499,6 +1499,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "YARA-X 1.21.0 Release, (Sat, Oct 3rd)",
+          "link": "https://isc.sans.edu/diary/rss/33392",
+          "summary": "YARA-X&#;x26;#;39;s 1.21.0 release brings 5 improvements and 4 bugfixes.",
+          "date": "2026-10-03T14:40:21+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
           "link": "https://isc.sans.edu/diary/rss/33390",
           "summary": "",
@@ -1559,13 +1566,6 @@
           "link": "https://isc.sans.edu/diary/rss/33372",
           "summary": "Wireshark release 4.6.9 fixes 19 vulnerabilities and 16 bugs.",
           "date": "2026-09-27T15:04:49+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)",
-          "link": "https://isc.sans.edu/diary/rss/33368",
-          "summary": "Introduction",
-          "date": "2026-09-25T12:45:19+00:00",
           "source": "SANS ISC"
         }
       ]
