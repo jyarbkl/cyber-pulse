@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-10-06T17:06:26.397564+00:00",
+  "generated_at": "2026-10-06T20:40:54.956374+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+          "summary": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
+          "date": "2026-10-06T19:21:53+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
+          "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
+          "summary": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
+          "date": "2026-10-06T17:34:59+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "ASOS confirms data breach after “HACKED” in-app notifications",
           "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
@@ -95,20 +109,6 @@
           "summary": "tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate suspicious identity activity. [...]",
           "date": "2026-10-05T13:33:42+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
-          "link": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
-          "summary": "The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]",
-          "date": "2026-10-05T13:01:45+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "OpenAI will show visual ads in ChatGPT while you generate images",
-          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
-          "summary": "OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]",
-          "date": "2026-10-05T10:28:45+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,27 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
+          "link": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
+          "summary": "The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment.",
+          "date": "2026-10-06T17:56:29+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets &amp; Security Teams",
+          "link": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
+          "summary": "In this video interview, Nick Kakolowski, senior director for CISO research at IANS, talks AI: budgets, ROI, and changes inside security teams.",
+          "date": "2026-10-06T17:15:24+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates",
+          "link": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
+          "summary": "Not quite an EDR-killer, but the proof-of-concept cyber technique creates a silent virus detection gap while service runs normally, no exploit required.",
+          "date": "2026-10-06T16:59:24+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
           "link": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
@@ -443,27 +464,6 @@
           "link": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
           "summary": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.",
           "date": "2026-09-22T20:02:02+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Deception by Design: CISA's Guide to Tricking Cybercriminals",
-          "link": "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals",
-          "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is going old school to help organizations with limited resources set traps for hackers.",
-          "date": "2026-09-22T19:59:24+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
-          "link": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
-          "summary": "As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure.",
-          "date": "2026-09-22T17:12:26+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
-          "link": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
-          "summary": "Industrial companies are increasing cybersecurity investment as connected operations, AI adoption, and IT/OT convergence expand operational risk.",
-          "date": "2026-09-22T12:00:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,20 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+          "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+          "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus. The products, which claim to offer campaig…",
+          "date": "2026-10-06T18:38:55+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+          "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+          "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection. Threat actors are known to name their malicious software after a legitimate operating system com…",
+          "date": "2026-10-06T18:24:25+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
           "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
           "summary": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro. The attack works only when the program's Java support is enabl…",
@@ -1315,20 +1329,6 @@
           "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as a memory overflow bug…",
           "date": "2026-09-30T05:30:30+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
-          "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-          "summary": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July. Neither the tax administration nor France's national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency…",
-          "date": "2026-09-29T17:47:01+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-          "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-          "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. The new Spectre v2 varian…",
-          "date": "2026-09-29T17:20:17+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1423,6 +1423,13 @@
       "url": "https://projectzero.google/feed.xml",
       "articles": [
         {
+          "title": "How to fix a bug in a fix",
+          "link": "https://projectzero.google/2026/10/emergency-patching.html",
+          "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vendors express concern about potential scenarios in which they are unable to fix vulnerabilities that are causing immediate user harm, due to l…",
+          "date": "",
+          "source": "Google Project Zero"
+        },
+        {
           "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
           "link": "https://projectzero.google/2026/09/windows-dangling-com.html",
           "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a dangling COM object reg…",
@@ -1482,13 +1489,6 @@
           "title": "A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?",
           "link": "https://projectzero.google/2026/01/pixel-0-click-part-3.html",
           "summary": "While our previous two blog posts provided technical recommendations for increasing the effort required by attackers to develop 0-click exploit chains, our experience finding, reporting and exploiting these vulnerabilities highlighted some broader issues in the Android ecosystem. This post describes…",
-          "date": "",
-          "source": "Google Project Zero"
-        },
-        {
-          "title": "A 0-click exploit chain for the Pixel 9 Part 2: Cracking the Sandbox with a Big Wave",
-          "link": "https://projectzero.google/2026/01/pixel-0-click-part-2.html",
-          "summary": "With the advent of a potential Dolby Unified Decoder RCE exploit, it seemed prudent to see what kind of Linux kernel drivers might be accessible from the resulting userland context, the mediacodec context. As per the AOSP documentation, the mediacodec SELinux context is intended to be a constrained …",
           "date": "",
           "source": "Google Project Zero"
         }
