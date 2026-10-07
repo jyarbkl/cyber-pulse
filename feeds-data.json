@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-10-07T17:43:21.097458+00:00",
+  "generated_at": "2026-10-07T20:54:44.323473+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Hackers hijack Google domains after breaching ccTLD registries",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+          "summary": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authoritative DNS records. [...]",
+          "date": "2026-10-07T20:50:13+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Microsoft Outlook to block MSIX attachments starting November",
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
@@ -102,13 +109,6 @@
           "summary": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
           "date": "2026-10-06T11:31:48+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
-          "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-          "summary": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
-          "date": "2026-10-06T09:25:50+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
+          "summary": "Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.",
+          "date": "2026-10-07T19:34:08+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
           "summary": "Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content.",
           "date": "2026-09-23T14:47:09+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
-          "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
-          "summary": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.",
-          "date": "2026-09-22T21:12:37+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,27 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+          "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
+          "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6. Google's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put at r…",
+          "date": "2026-10-07T18:48:17+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
+          "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
+          "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a l…",
+          "date": "2026-10-07T17:43:20+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
+          "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
+          "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions. SonicWall rate…",
+          "date": "2026-10-07T16:17:44+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
           "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
           "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available. The flaw is in LMCache's multiprocess mode, where the cache runs as a standal…",
@@ -1307,27 +1328,6 @@
           "link": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
           "summary": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure. \"We are actively addressing and remediating the issue internally, in coordination with external partners and security advisors,\" the software cryptocurrency wallet m…",
           "date": "2026-10-01T05:10:09+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-          "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
-          "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data. LevelBlue's Threat Hunt Operations & Research (THOR) team, which analyzed the exploitati…",
-          "date": "2026-10-01T04:35:34+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-          "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-          "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system comma…",
-          "date": "2026-09-30T16:46:29+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-          "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-          "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content. \"Once executed, the legitimate MSP360 installer…",
-          "date": "2026-09-30T16:32:59+00:00",
           "source": "The Hacker News"
         }
       ]
