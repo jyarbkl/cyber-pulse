@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:23:30.652596+00:00",
+  "generated_at": "2026-10-09T20:24:40.486746+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
@@ -117,6 +117,13 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "AI Scramble Drives Cybersecurity M&amp;A Boom",
+          "link": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
+          "summary": "Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms.",
+          "date": "2026-10-09T19:26:26+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "What We Missed: FBI Strikes Back at ShinyHunters",
           "link": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
           "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center.",
@@ -124,9 +131,9 @@
           "source": "Dark Reading"
         },
         {
-          "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training Too",
+          "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
           "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
-          "summary": "Those closest to executives must match their security postures because the weakest link in a family becomes the entry point for attacks.",
+          "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
           "date": "2026-10-09T16:25:05+00:00",
           "source": "Dark Reading"
         },
@@ -138,9 +145,9 @@
           "source": "Dark Reading"
         },
         {
-          "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt",
+          "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
           "link": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
-          "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could've allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
+          "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
           "date": "2026-10-08T20:39:44+00:00",
           "source": "Dark Reading"
         },
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
           "summary": "A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine.",
           "date": "2026-09-25T07:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
-          "link": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
-          "summary": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.",
-          "date": "2026-09-24T21:04:03+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,13 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+          "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+          "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive data on almost all FBI agents and job applicants. The…",
+          "date": "2026-10-09T17:45:26+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
           "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
           "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication…",
@@ -1321,13 +1328,6 @@
           "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
           "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. \"CVE-2026-88779 is a memory overflow vuln…",
           "date": "2026-10-05T06:40:19+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-          "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-          "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name is Saif ‌al-Din Khader, is said to have been brought into cus…",
-          "date": "2026-10-04T07:22:05+00:00",
           "source": "The Hacker News"
         }
       ]
