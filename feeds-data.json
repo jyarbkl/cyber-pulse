@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-10-09T20:24:40.486746+00:00",
+  "generated_at": "2026-10-10T16:08:55.764785+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+          "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+          "summary": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
+          "date": "2026-10-10T15:07:54+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+          "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+          "summary": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
+          "date": "2026-10-10T14:16:17+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+          "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+          "summary": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discovery with investigation, risk prioritization, and response. [...]",
+          "date": "2026-10-10T12:30:39+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+          "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
+          "date": "2026-10-09T20:31:37+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
           "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
@@ -81,34 +109,6 @@
           "summary": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]",
           "date": "2026-10-08T20:09:45+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Low-cost Android phones ship with residential proxy malware",
-          "link": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-          "summary": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residential proxies. [...]",
-          "date": "2026-10-08T19:20:33+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-          "link": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-          "summary": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
-          "date": "2026-10-08T17:10:55+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
-          "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-          "summary": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
-          "date": "2026-10-08T15:26:33+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-          "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-          "summary": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth grants to gain access to corporate data. This article…",
-          "date": "2026-10-08T14:00:10+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
+          "summary": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.",
+          "date": "2026-10-09T20:58:32+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "AI Scramble Drives Cybersecurity M&amp;A Boom",
           "link": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
@@ -458,13 +465,6 @@
           "summary": "Training human-resource managers in the latest tactics and warning signs goes a long way toward blunting the threat, but automated analysis can help even more.",
           "date": "2026-09-25T14:46:13+00:00",
           "source": "Dark Reading"
-        },
-        {
-          "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
-          "link": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
-          "summary": "A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine.",
-          "date": "2026-09-25T07:00:00+00:00",
-          "source": "Dark Reading"
         }
       ]
     },
@@ -472,6 +472,13 @@
       "name": "Krebs on Security",
       "url": "https://krebsonsecurity.com/feed/",
       "articles": [
+        {
+          "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
+          "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+          "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSec…",
+          "date": "2026-10-10T00:17:42+00:00",
+          "source": "Krebs on Security"
+        },
         {
           "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
           "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
@@ -533,13 +540,6 @@
           "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
           "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
           "date": "2026-08-11T21:28:35+00:00",
-          "source": "Krebs on Security"
-        },
-        {
-          "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-          "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-          "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontar…",
-          "date": "2026-08-06T17:00:56+00:00",
           "source": "Krebs on Security"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
+          "link": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
+          "summary": "The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers. The post Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison appeared first on SecurityWeek .",
+          "date": "2026-10-10T11:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
+          "link": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
+          "summary": "The ChatGPT maker said the researchers \"violated clear policies on handling sensitive information.” The post OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks appeared first on SecurityWeek .",
+          "date": "2026-10-09T21:07:46+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
           "link": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
           "summary": "Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, exposed NVIDIA GPU monitors leak telemetry. The post In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years appeared first on Se…",
@@ -959,20 +973,6 @@
           "summary": "$1.2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infrastructure and coding tools. The post Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own appeared first on SecurityWeek .",
           "date": "2026-10-09T06:39:55+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
-          "link": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
-          "summary": "Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted. The post Formula Predicts When AI Chatbots Are at Risk of Turning Bad appeared first on SecurityWeek .",
-          "date": "2026-10-09T04:12:38+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Cisco Patches a Dozen Critical Vulnerabilities",
-          "link": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
-          "summary": "The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution. The post Cisco Patches a Dozen Critical Vulnerabilities appeared first on SecurityWeek .",
-          "date": "2026-10-08T15:28:06+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+          "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+          "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because anyone hid them, but because an identity stack can on…",
+          "date": "2026-10-10T11:00:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+          "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+          "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories …",
+          "date": "2026-10-10T09:18:45+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+          "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+          "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, th…",
+          "date": "2026-10-09T19:14:28+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
           "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
@@ -1308,27 +1329,6 @@
           "summary": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling. \"Cling is notable not because it introduces a new propagation technique, but because it repurposes ordinary…",
           "date": "2026-10-05T11:46:25+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-          "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-          "summary": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents. \"Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their syste…",
-          "date": "2026-10-05T10:38:50+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-          "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-          "summary": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use of a weak pseudo-random number generator (PRNG) tha…",
-          "date": "2026-10-05T08:09:23+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
-          "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-          "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. \"CVE-2026-88779 is a memory overflow vuln…",
-          "date": "2026-10-05T06:40:19+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1570,6 +1570,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
+          "link": "https://isc.sans.edu/diary/rss/33414",
+          "summary": "The Traffic Light Protocol (TLP)[1], which is now in its second incarnation, is a wonderful standard that enables one to easily communicate whether information may be shared further (and if so, how far).",
+          "date": "2026-10-10T09:11:34+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
           "link": "https://isc.sans.edu/diary/rss/33412",
           "summary": "",
@@ -1630,13 +1637,6 @@
           "link": "https://isc.sans.edu/diary/rss/33396",
           "summary": "For an experiment, I created a script [1] that parses and send the TTY logs collected from actors or bots activity that run various commands after they successfully login the DShield sensor. Those TTY logs are sent daily at the end of each day to the DShield SIEM [2] to be correlated with all the da…",
           "date": "2026-10-05T00:15:00+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "User Agent Strings Curiosities, (Sun, Oct 4th)",
-          "link": "https://isc.sans.edu/diary/rss/33394",
-          "summary": "Sometimes I have to smile, or my interest is triggered, when I review new User Agent Strings in the honeypot logs.",
-          "date": "2026-10-04T07:58:51+00:00",
           "source": "SANS ISC"
         }
       ]
