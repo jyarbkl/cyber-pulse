@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-10-12T20:11:37.303053+00:00",
+  "generated_at": "2026-10-12T22:40:04.916874+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+          "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+          "summary": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. [...]",
+          "date": "2026-10-12T20:13:52+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Yandex confirms service outage as users lose access to cloud files",
           "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
@@ -102,13 +109,6 @@
           "summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
           "date": "2026-10-09T17:17:23+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-          "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-          "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
-          "date": "2026-10-09T17:02:29+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,20 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
+          "summary": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.",
+          "date": "2026-10-12T21:42:42+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
+          "link": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
+          "summary": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money.",
+          "date": "2026-10-12T20:00:53+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
           "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
           "summary": "The \"agentic threat actor\" may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases.",
           "date": "2026-09-28T15:33:21+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Why the CISO-CFO Relationship Is a Key to Cybersecurity Success",
-          "link": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
-          "summary": "Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk, and enable business growth are better prepared to face today's threat landscape.",
-          "date": "2026-09-25T20:28:10+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
-          "summary": "When autonomous AI agents \"escape the sandbox,\" the real story isn't rogue machines — it's the same access-control failures we've seen for decades.",
-          "date": "2026-09-25T18:39:32+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -1729,6 +1729,13 @@
       "url": "https://www.secureideas.com/blog/rss.xml",
       "articles": [
         {
+          "title": "Don’t Get Tricked: How to Spot Phishing Before You Take the Bait",
+          "link": "https://www.secureideas.com/blog/dont-get-tricked-how-to-spot-phishing-before-you-take-the-bait",
+          "summary": "October means Fall, arguably the best season of the year, because it means cooler weather, scary movies, Halloween, and more than a few tricks and treats. October also happens to be Cybersecurity Awareness Month, so what better time to talk about one of the oldest tricks on the internet? Working in …",
+          "date": "2026-10-12T20:55:51+00:00",
+          "source": "Secure Ideas"
+        },
+        {
           "title": "How to Prepare for Your External Pentest",
           "link": "https://www.secureideas.com/blog/how-to-prepare-for-your-external-pentest",
           "summary": "Scheduling a penetration test means you are not waiting around for a breach to tell you where security gaps might exist within your environment. However, what a lot of organizations do not realize is that the preparation and communication before a network penetration test is just as important as the…",
@@ -1789,13 +1796,6 @@
           "link": "https://www.secureideas.com/blog/no-hash-no-problem-aserepcatcher",
           "summary": "Intro: Credentials Are Currency In penetration testing, credentials are like currency. It doesn't matter where they come from, it can be from dark web dumps or captured network traffic, we are always chasing that initial foothold. When valid credentials land in our hands, it opens the doors to furth…",
           "date": "2026-06-08T13:23:28+00:00",
-          "source": "Secure Ideas"
-        },
-        {
-          "title": "Teaching a Star Wars Droid to See with AI | Secure Ideas",
-          "link": "https://www.secureideas.com/blog/the-ai-brain-teaching-the-droid-to-see",
-          "summary": "Blog 2 of 4: Vision, Detection and the Pivot That Changed Everything",
-          "date": "2026-06-01T11:30:00+00:00",
           "source": "Secure Ideas"
         }
       ]
