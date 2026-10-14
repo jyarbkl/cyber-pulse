@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-10-14T15:45:25.295048+00:00",
+  "generated_at": "2026-10-14T19:51:41.124941+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
+          "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
+          "summary": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]",
+          "date": "2026-10-14T19:41:43+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
+          "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
+          "summary": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigates device tampering. [...]",
+          "date": "2026-10-14T17:46:50+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
+          "summary": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
+          "date": "2026-10-14T17:29:14+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Microsoft fixes VPN issues caused by September Windows updates",
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
@@ -87,27 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
           "summary": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
           "date": "2026-10-13T19:04:38+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "UK Housing Ombudsman Service investigates 'security incident'",
-          "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-          "summary": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
-          "date": "2026-10-13T18:19:44+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
-          "summary": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
-          "date": "2026-10-13T17:49:38+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
-          "link": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
-          "summary": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]",
-          "date": "2026-10-13T16:44:18+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds",
+          "link": "https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/",
+          "summary": "In Booz Allen’s isolated OT lab, AI models met every objective across eight scenarios and reached an industrial control network from a perimeter compromise in just over 16 minutes. The post AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds appeared first on Sec…",
+          "date": "2026-10-14T16:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw",
           "link": "https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/",
           "summary": "ABB previously published an advisory warning about possible probing of a dynovaPRO vulnerability. The post ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "The bugs could allow attackers to invoke internal operations and execute code, completely compromising the system. The post SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities appeared first on SecurityWeek .",
           "date": "2026-10-14T06:12:10+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
-          "link": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
-          "summary": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say appeared first on SecurityWeek .",
-          "date": "2026-10-13T23:07:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,34 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
+          "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
+          "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday. The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, could then r…",
+          "date": "2026-10-14T18:38:56+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
+          "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
+          "summary": "Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators reported the issue on GitHub, with the first logged attack on September 10. A web shell is a small file that executes any command an attack…",
+          "date": "2026-10-14T17:38:31+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
+          "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
+          "summary": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man Syst…",
+          "date": "2026-10-14T17:09:15+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+          "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
+          "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an IT worker consp…",
+          "date": "2026-10-14T16:34:31+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
           "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
@@ -1300,34 +1328,6 @@
           "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
           "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence. The rest of the week…",
           "date": "2026-10-08T17:58:02+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-          "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-          "summary": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said. The Tokyo-based center, which takes incident reports, based its October 8, 2026 alert on those reports and o…",
-          "date": "2026-10-08T15:45:56+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-          "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-          "summary": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN. According to TrendAI, the malware has been put to use in attacks targeting Ukrainian government personnel. The cybersecurity company i…",
-          "date": "2026-10-08T15:26:56+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-          "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-          "summary": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks. The activity, per CrowdStrike Intelligence, was active from late September to early O…",
-          "date": "2026-10-08T14:12:34+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
-          "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
-          "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page itself. ANY.RUN has identified Wazza, a …",
-          "date": "2026-10-08T10:30:00+00:00",
           "source": "The Hacker News"
         }
       ]
