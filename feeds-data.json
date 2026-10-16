@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-10-16T15:18:43.790348+00:00",
+  "generated_at": "2026-10-16T19:08:49.799935+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Targeted ads installed Candiru spyware in zero-click attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+          "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+          "date": "2026-10-16T17:20:03+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
           "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
@@ -102,13 +109,6 @@
           "summary": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
           "date": "2026-10-15T08:06:47+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-          "summary": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
-          "date": "2026-10-14T22:56:47+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
+          "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
+          "summary": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.",
+          "date": "2026-10-16T18:37:50+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "When Your Ransomware Negotiator Works for the Other Side",
           "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
           "summary": "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places.",
           "date": "2026-10-01T13:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
-          "summary": "In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.",
-          "date": "2026-09-30T21:25:47+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,27 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+          "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+          "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and report…",
+          "date": "2026-10-16T17:48:45+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+          "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+          "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and ru…",
+          "date": "2026-10-16T16:43:39+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+          "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+          "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google accou…",
+          "date": "2026-10-16T16:16:44+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
           "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
           "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from a third-party's wallet without authorization to com…",
@@ -1308,27 +1329,6 @@
           "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activity, which targets Android devices built on MediaTek platforms across several bra…",
           "date": "2026-10-13T06:00:11+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-          "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-          "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it. But speed is only part of the problem. A secure connection didn't always mean …",
-          "date": "2026-10-12T15:16:26+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
-          "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-          "summary": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror stories from pretty much every personal AI agent keep piling up. Regardless, the te…",
-          "date": "2026-10-12T11:55:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
-          "link": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-          "summary": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the company said it was investigating reports of loss of funds from users in Southeast Asia who had purchased product…",
-          "date": "2026-10-12T11:21:48+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "Managing open-weight model risk in enterprise deployments",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
+          "summary": "New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Security Blog .",
+          "date": "2026-10-16T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/",
           "summary": "Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity The post Phishing Abuses RMM Tools for Persistent Access appeared first on Microsoft Security Blog .",
           "date": "2026-09-29T21:39:27+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "​​Beyond source code: A path to the keys to the kingdom",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
-          "summary": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post ​​Beyond source code: A path to the keys to the kingdom appeared first on Microsoft Security Blog .",
-          "date": "2026-09-29T16:00:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
