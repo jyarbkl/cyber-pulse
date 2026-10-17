@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-10-16T19:08:49.799935+00:00",
+  "generated_at": "2026-10-17T14:07:48.861229+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+          "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+          "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+          "date": "2026-10-16T20:00:59+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Targeted ads installed Candiru spyware in zero-click attacks",
           "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
@@ -102,13 +109,6 @@
           "summary": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
           "date": "2026-10-15T09:10:20+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
-          "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
-          "summary": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
-          "date": "2026-10-15T08:06:47+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,34 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
+          "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
+          "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
+          "date": "2026-10-16T20:34:37+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
+          "link": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
+          "summary": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.",
+          "date": "2026-10-16T19:49:30+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
+          "link": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
+          "summary": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.",
+          "date": "2026-10-16T19:22:12+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
+          "link": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
+          "summary": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.",
+          "date": "2026-10-16T19:13:59+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
           "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
@@ -436,34 +464,6 @@
           "link": "https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
           "summary": "\"Rogue AI\" terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic software systems, not sentient beings with malicious intent.",
           "date": "2026-10-02T15:51:33+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Vulnerability Backlogs Are an Ownership Problem",
-          "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
-          "summary": "Organizations don't need better vulnerability scanners; they need to know who owns their assets, and who has the authority and capacity to actually fix them.",
-          "date": "2026-10-02T14:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Malicious Linux Implants Mimic Asian Mail Security Products",
-          "link": "https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
-          "summary": "A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it's hard to tell they're not.",
-          "date": "2026-10-02T13:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
-          "summary": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years.",
-          "date": "2026-10-01T21:37:50+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
-          "summary": "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places.",
-          "date": "2026-10-01T13:00:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
+          "link": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+          "summary": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel appeared first on SecurityWeek .",
+          "date": "2026-10-17T11:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
           "link": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
           "summary": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit appeared first on SecurityWeek…",
@@ -966,13 +973,6 @@
           "summary": "This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies. The post Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand appeared first on SecurityWeek .",
           "date": "2026-10-15T16:51:34+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
-          "link": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
-          "summary": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025. The post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek .",
-          "date": "2026-10-15T14:22:34+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+          "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+          "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloade…",
+          "date": "2026-10-17T11:11:56+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+          "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+          "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments. ConnectWise Cl…",
+          "date": "2026-10-17T06:16:46+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
           "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
@@ -1314,20 +1328,6 @@
           "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
           "summary": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says. Progress published all 31 on October 12 and scored five of them critical. Fixes have been available …",
           "date": "2026-10-13T08:44:01+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
-          "link": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-          "summary": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution. \"GitLab has remediated an issue that, under certain conditions, could have allowed an unauthenticated user to exec…",
-          "date": "2026-10-13T08:43:37+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
-          "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
-          "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activity, which targets Android devices built on MediaTek platforms across several bra…",
-          "date": "2026-10-13T06:00:11+00:00",
           "source": "The Hacker News"
         }
       ]
