@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-10-17T14:07:48.861229+00:00",
+  "generated_at": "2026-10-17T18:03:27.163281+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+          "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+          "date": "2026-10-17T15:18:51+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+          "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+          "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+          "date": "2026-10-17T14:32:48+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
           "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
           "summary": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
           "date": "2026-10-15T13:18:36+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Police arrests 95 suspects in international CSAM crackdown action",
-          "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-          "summary": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
-          "date": "2026-10-15T11:55:38+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
-          "summary": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
-          "date": "2026-10-15T09:10:20+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -997,7 +997,7 @@
         {
           "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
           "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-          "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and report…",
+          "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reporte…",
           "date": "2026-10-16T17:48:45+00:00",
           "source": "The Hacker News"
         },
@@ -1342,41 +1342,6 @@
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
         {
-          "title": "Managing open-weight model risk in enterprise deployments",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
-          "summary": "New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Security Blog .",
-          "date": "2026-10-16T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
-          "summary": "Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies an…",
-          "date": "2026-10-14T13:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
-          "summary": "Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness. The post Post-quantum authentication: Why organizations should start testing certificate ecosystems now appeared first on Microsoft Security Blog…",
-          "date": "2026-10-08T20:44:28+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "3 lessons from frontier AI vulnerability research",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/",
-          "summary": "Read how How Microsoft Security's FORGE Lab is scaling vulnerability research from Windows to the Linux kernel. The post 3 lessons from frontier AI vulnerability research appeared first on Microsoft Security Blog .",
-          "date": "2026-10-07T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "CISO perspectives on managing vulnerability risks in the age of AI",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/",
-          "summary": "Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management. The post CISO perspectives on managing vulnerability risks in the age of AI appeared first on Microsoft Security Blog .",
-          "date": "2026-10-06T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
           "title": "Preparing governments for an era of interconnected cyber risk",
           "link": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/",
           "summary": "According to this year’s Microsoft Digital Defense Report, government agencies and services were the sector most impacted by cyber threats in 2026, accounting for 27% of observed activity, up from 17% in 2025. The post Preparing governments for an era of interconnected cyber risk appeared first on M…",
@@ -1409,6 +1374,41 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/",
           "summary": "Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity The post Phishing Abuses RMM Tools for Persistent Access appeared first on Microsoft Security Blog .",
           "date": "2026-09-29T21:39:27+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "​​Beyond source code: A path to the keys to the kingdom",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
+          "summary": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post ​​Beyond source code: A path to the keys to the kingdom appeared first on Microsoft Security Blog .",
+          "date": "2026-09-29T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
+          "summary": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as “RedFlick”. The post St…",
+          "date": "2026-09-29T15:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operations",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/",
+          "summary": "Microsoft Threat Intelligence identified NeedyMantis, a modular post-compromise malware framework used in targeted intrusions that combines custom loaders, encrypted archives, and extensible components to maintain long-term access and support follow-on operations. The post NeedyMantis: Unpacking a p…",
+          "date": "2026-09-28T15:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+          "summary": "Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders. The post Storm-3168: Agentic-driven cloud attacks using compromised se…",
+          "date": "2026-09-25T15:35:08+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
+          "summary": "Storm-2570 is a ransomware affiliate that uses consistent post-compromise tools and techniques across deployments involving Qilin, DragonForce, Anubis, and BERT ransomware, and provides guidance to help defenders detect and disrupt this activity before ransomware deployment. The post Beyond the rans…",
+          "date": "2026-09-24T16:00:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
