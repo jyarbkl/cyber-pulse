@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T18:03:27.163281+00:00",
+  "generated_at": "2026-10-18T14:25:02.495758+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
+          "link": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+          "summary": "CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag. The post US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars appeared first on SecurityWeek .",
+          "date": "2026-10-18T11:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
           "link": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
           "summary": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on SecurityWeek .",
           "date": "2026-10-15T17:42:50+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand",
-          "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
-          "summary": "This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies. The post Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand appeared first on SecurityWeek .",
-          "date": "2026-10-15T16:51:34+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,13 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+          "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+          "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled identities are listed…",
+          "date": "2026-10-18T08:23:02+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
           "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
@@ -1322,13 +1329,6 @@
           "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached them through the controller that runs all of a store's fridges and freezers, a dev…",
           "date": "2026-10-13T08:48:41+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-          "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-          "summary": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says. Progress published all 31 on October 12 and scored five of them critical. Fixes have been available …",
-          "date": "2026-10-13T08:44:01+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,41 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "Managing open-weight model risk in enterprise deployments",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
+          "summary": "New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Security Blog .",
+          "date": "2026-10-16T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
+          "summary": "Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies an…",
+          "date": "2026-10-14T13:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
+          "summary": "Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness. The post Post-quantum authentication: Why organizations should start testing certificate ecosystems now appeared first on Microsoft Security Blog…",
+          "date": "2026-10-08T20:44:28+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "3 lessons from frontier AI vulnerability research",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/",
+          "summary": "Read how How Microsoft Security's FORGE Lab is scaling vulnerability research from Windows to the Linux kernel. The post 3 lessons from frontier AI vulnerability research appeared first on Microsoft Security Blog .",
+          "date": "2026-10-07T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "CISO perspectives on managing vulnerability risks in the age of AI",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/",
+          "summary": "Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management. The post CISO perspectives on managing vulnerability risks in the age of AI appeared first on Microsoft Security Blog .",
+          "date": "2026-10-06T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "Preparing governments for an era of interconnected cyber risk",
           "link": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/",
@@ -1374,41 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/",
           "summary": "Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity The post Phishing Abuses RMM Tools for Persistent Access appeared first on Microsoft Security Blog .",
           "date": "2026-09-29T21:39:27+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "​​Beyond source code: A path to the keys to the kingdom",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
-          "summary": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post ​​Beyond source code: A path to the keys to the kingdom appeared first on Microsoft Security Blog .",
-          "date": "2026-09-29T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
-          "summary": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as “RedFlick”. The post St…",
-          "date": "2026-09-29T15:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operations",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/",
-          "summary": "Microsoft Threat Intelligence identified NeedyMantis, a modular post-compromise malware framework used in targeted intrusions that combines custom loaders, encrypted archives, and extensible components to maintain long-term access and support follow-on operations. The post NeedyMantis: Unpacking a p…",
-          "date": "2026-09-28T15:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
-          "summary": "Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders. The post Storm-3168: Agentic-driven cloud attacks using compromised se…",
-          "date": "2026-09-25T15:35:08+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
-          "summary": "Storm-2570 is a ransomware affiliate that uses consistent post-compromise tools and techniques across deployments involving Qilin, DragonForce, Anubis, and BERT ransomware, and provides guidance to help defenders detect and disrupt this activity before ransomware deployment. The post Beyond the rans…",
-          "date": "2026-09-24T16:00:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
@@ -1570,6 +1570,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)",
+          "link": "https://isc.sans.edu/diary/rss/33434",
+          "summary": "Here is the YARA rule I used to detect \"Orphaned VBA Projects Inside DWG Files\".",
+          "date": "2026-10-18T12:59:30+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)",
           "link": "https://isc.sans.edu/diary/rss/33432",
           "summary": "",
@@ -1630,13 +1637,6 @@
           "link": "https://isc.sans.edu/diary/rss/33416",
           "summary": "",
           "date": "2026-10-12T02:00:03+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
-          "link": "https://isc.sans.edu/diary/rss/33414",
-          "summary": "The Traffic Light Protocol (TLP)[1], which is now in its second incarnation, is a wonderful standard that enables one to easily communicate whether information may be shared further (and if so, how far).",
-          "date": "2026-10-10T09:11:34+00:00",
           "source": "SANS ISC"
         }
       ]
