@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-10-18T14:25:02.495758+00:00",
+  "generated_at": "2026-10-18T18:22:16.773718+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+          "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+          "date": "2026-10-18T14:23:16+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
           "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
           "summary": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]",
           "date": "2026-10-15T14:01:11+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-          "summary": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
-          "date": "2026-10-15T13:18:36+00:00",
           "source": "BleepingComputer"
         }
       ]
