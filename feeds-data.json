@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-10-19T17:23:27.012666+00:00",
+  "generated_at": "2026-10-19T20:48:03.176198+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+          "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
+          "date": "2026-10-19T19:40:58+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Bullhorn takes staffing platform offline to contain cyberattack",
+          "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+          "summary": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
+          "date": "2026-10-19T18:51:13+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "OpenCode hack exposes API keys amid AI distillation attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
+          "summary": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
+          "date": "2026-10-19T17:27:15+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Microsoft fixes game, app crashes caused by recent Windows update",
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
@@ -88,27 +109,6 @@
           "summary": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
           "date": "2026-10-16T12:01:29+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft: October Windows update may break Smart App Control",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
-          "summary": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
-          "date": "2026-10-16T08:44:22+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "BAE Systems cyberattack disrupts US federal court operations",
-          "link": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-          "summary": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
-          "date": "2026-10-16T07:37:35+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "BeyondTrust patches zero-day exploited in attacks since August",
-          "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
-          "summary": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
-          "date": "2026-10-16T06:18:08+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
+          "link": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
+          "summary": "Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest.",
+          "date": "2026-10-19T19:55:01+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "OnlyFans Copyright Takedowns Expose Compromised Websites",
           "link": "https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
           "summary": "One company told customers to power down its data-protection platform during a nine-hour window, while the other remained mum on reported attacks prior to releasing a patch for its product.",
           "date": "2026-10-02T16:56:30+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "SWIFT Banking &amp; Government Middleware Enables RCE",
-          "link": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
-          "summary": "Patch middleware vulnerabilities now to avoid hardware-based MFA exploits in ultra-sensitive environments.",
-          "date": "2026-10-02T16:27:54+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
+          "link": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
+          "summary": "Attackers paired a genuine, signed copy of Siemens Software Center with malicious DLLs to infect Windows PCs via ClickFix lures. The post Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks appeared first on SecurityWeek .",
+          "date": "2026-10-19T18:15:39+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw",
           "link": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/",
           "summary": "Critical flaws impact the Entity List and Field UI modules, and exploit paths exist with contributed modules. The post Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag. The post US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars appeared first on SecurityWeek .",
           "date": "2026-10-18T11:00:00+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
-          "link": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
-          "summary": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel appeared first on SecurityWeek .",
-          "date": "2026-10-17T11:00:00+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,13 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+          "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+          "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the online alias boredhackerblog, the exploitation activity involves…",
+          "date": "2026-10-19T17:32:13+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
           "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
@@ -1321,13 +1328,6 @@
           "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
           "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that converts a personal accoun…",
           "date": "2026-10-13T18:03:18+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-          "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-          "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" A fix for the third …",
-          "date": "2026-10-13T17:33:11+00:00",
           "source": "The Hacker News"
         }
       ]
