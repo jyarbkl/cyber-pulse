@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-10-20T15:35:44.885482+00:00",
+  "generated_at": "2026-10-20T19:45:21.670429+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Zeabur shutting down after second security breach in two months",
+          "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+          "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]",
+          "date": "2026-10-20T19:33:02+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+          "summary": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
+          "date": "2026-10-20T18:11:03+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "DHS bans DeepSeek products across US federal civilian agencies",
           "link": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
@@ -95,20 +109,6 @@
           "summary": "Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]",
           "date": "2026-10-19T14:55:23+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Inside the Underground Market for Know Your Client Services",
-          "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
-          "summary": "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the techniques used to create and maintain fraudulent verified accounts. [...]",
-          "date": "2026-10-19T14:00:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-          "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-          "summary": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
-          "date": "2026-10-19T13:49:24+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,20 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Ex-OpenAI Engineer Held Over Secret Recorder, Saudi Ties",
+          "link": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
+          "summary": "A judge ordered that Abdulrahman Alfozan be detained after he was arrested earlier this month for allegedly bugging an OpenAI conference room.",
+          "date": "2026-10-20T19:16:49+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Close Identity Gaps in Software Development Before Unleashing AI",
+          "link": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
+          "summary": "Artificial Intelligence is complicating security in the software development lifecycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer CISOs a way ahead.",
+          "date": "2026-10-20T15:35:45+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
           "summary": "Not quite an EDR-killer, but the proof-of-concept cyber technique creates a silent virus detection gap while service runs normally, no exploit required.",
           "date": "2026-10-06T16:59:24+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
-          "link": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
-          "summary": "The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications.",
-          "date": "2026-10-05T21:25:08+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
-          "summary": "An emerging threat group known as TA419 established seemingly legitimate professional relationships with AI policy experts working for US think tanks, universities, and legal organizations.",
-          "date": "2026-10-05T15:52:59+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
+          "link": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
+          "summary": "NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents. The post US Agencies Detail Incident Response Practices for Rogue AI Agents appeared first on SecurityWeek .",
+          "date": "2026-10-20T15:45:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
           "link": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
           "summary": "Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework. The post AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Attackers paired a genuine, signed copy of Siemens Software Center with malicious DLLs to infect Windows PCs via ClickFix lures. The post Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks appeared first on SecurityWeek .",
           "date": "2026-10-19T18:15:39+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw",
-          "link": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/",
-          "summary": "Critical flaws impact the Entity List and Field UI modules, and exploit paths exist with contributed modules. The post Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw appeared first on SecurityWeek .",
-          "date": "2026-10-19T15:47:50+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+          "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+          "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for …",
+          "date": "2026-10-20T17:09:53+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+          "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+          "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that c…",
+          "date": "2026-10-20T15:38:52+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+          "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+          "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by bad actors to set up…",
+          "date": "2026-10-20T15:32:27+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
           "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
@@ -1308,27 +1329,6 @@
           "summary": "Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators reported the issue on GitHub, with the first logged attack on September 10. A web shell is a small file that executes any command an attack…",
           "date": "2026-10-14T17:38:31+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-          "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-          "summary": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man Syst…",
-          "date": "2026-10-14T17:09:15+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-          "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-          "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an…",
-          "date": "2026-10-14T16:34:31+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-          "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability. The security flaw, t…",
-          "date": "2026-10-14T12:30:42+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1646,6 +1646,13 @@
       "url": "https://www.sans.org/blog",
       "articles": [
         {
+          "title": "Why AI Confidence Is Not Validation Blog Artificial Intelligence   20 Oct 2026     Heather Barnhart",
+          "link": "https://www.sans.org/blog/why-ai-confidence-is-not-validation",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
           "title": "A Visual Summary of SANS DFIR Summit 2026  Blog Digital Forensics and Incident Response   16 Oct 2026     SANS Institute",
           "link": "https://www.sans.org/blog/visual-summary-of-sans-dfir-summit-2026",
           "summary": "",
@@ -1711,13 +1718,6 @@
         {
           "title": "Frontier AI:Vulnerability Management's System Revolution  Blog Artificial Intelligence   4 Sep 2026     Kevin Garvey",
           "link": "https://www.sans.org/blog/frontier-aivulnerability-managements-system-revolution",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Cloud-Native Forensic Imaging Part 2 Blog Digital Forensics and Incident Response   3 Sep 2026     Megan Roddie-Fonseca",
-          "link": "https://www.sans.org/blog/cloud-native-forensic-imaging-part-2",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
