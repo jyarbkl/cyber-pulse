@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-10-21T15:53:20.761865+00:00",
+  "generated_at": "2026-10-21T19:48:15.806019+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+          "date": "2026-10-21T18:34:42+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "OpenAI agents disabled safety monitoring, one lied about it",
+          "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+          "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
+          "date": "2026-10-21T16:26:53+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "PHP ships emergency patches for critical PHP2Shell flaws",
           "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
@@ -95,20 +109,6 @@
           "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
           "date": "2026-10-20T13:18:36+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Windows Server 2025 gets support for quick machine recovery",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-          "summary": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
-          "date": "2026-10-20T12:16:32+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
-          "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
-          "summary": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
-          "date": "2026-10-20T11:31:22+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,20 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
+          "summary": "A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users.",
+          "date": "2026-10-21T16:50:15+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program",
+          "link": "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
+          "summary": "Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build more resilient communities.",
+          "date": "2026-10-21T15:44:48+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk",
           "link": "https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable",
@@ -126,7 +140,7 @@
         {
           "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
-          "summary": "The attack uses malicious Google search results related to Amazon and leverages the 'finger' utility to launch a CAPTCHA that installs malware, including the Lumma stealer.",
+          "summary": "The attack uses malicious Google search results related to Amazon and leverages the \"finger\" utility to launch a CAPTCHA that installs malware, including the Lumma stealer.",
           "date": "2026-10-21T13:00:00+00:00",
           "source": "Dark Reading"
         },
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
           "summary": "Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.",
           "date": "2026-10-07T19:34:08+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
-          "summary": "Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages.",
-          "date": "2026-10-06T20:32:58+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Critical Healthcare Systems Aren't Quantum-Ready",
-          "link": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
-          "summary": "A study of 2.5 million devices across 50 healthcare organizations suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
-          "date": "2026-10-06T20:30:27+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,20 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
+          "link": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
+          "summary": "Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis. The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared first on SecurityWeek .",
+          "date": "2026-10-21T17:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
+          "link": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
+          "summary": "Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches. The post PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors appeared first on SecurityWeek .",
+          "date": "2026-10-21T16:50:40+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
           "link": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
           "summary": "Deceptive prompts lure AI agents into decoys and dead ends, cutting attack success by up to 91% in tests and raising the cost of a successful attack 23-fold. The post ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets appeared first on SecurityWeek .",
@@ -959,20 +973,6 @@
           "summary": "Tasked with writing an application for a US defense contractor, the model made the code 19% more likely to be hackable. The post Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor appeared first on SecurityWeek .",
           "date": "2026-10-21T10:03:24+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
-          "link": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
-          "summary": "Tracked as CVE-2026-109618 and CVE-2026-109619, the bugs could potentially lead to unauthenticated remote code execution. The post PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws appeared first on SecurityWeek .",
-          "date": "2026-10-21T07:02:06+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI",
-          "link": "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/",
-          "summary": "Researchers say the developer’s account was compromised in March with a GlassWorm-linked loader. The post Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI appeared first on SecurityWeek .",
-          "date": "2026-10-21T06:02:27+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,20 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+          "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+          "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docke…",
+          "date": "2026-10-21T18:01:57+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+          "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+          "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Ast…",
+          "date": "2026-10-21T16:33:47+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
           "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
@@ -1315,20 +1329,6 @@
           "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted login can hide the w…",
           "date": "2026-10-15T18:49:33+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
-          "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-          "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Citizen Lab said Thursday. The hidden attack code ran the moment an ad loaded on th…",
-          "date": "2026-10-15T16:01:57+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-          "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-          "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabl…",
-          "date": "2026-10-15T16:00:26+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,48 +1341,6 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
-        {
-          "title": "Agents are your newest insiders. Security must move at their speed.",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/",
-          "summary": "New capabilities in Microsoft 365 E7 and Project Perception help organizations contain agent risk and adapt protection continuously. The post Agents are your newest insiders. Security must move at their speed. appeared first on Microsoft Security Blog .",
-          "date": "2026-10-19T13:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Managing open-weight model risk in enterprise deployments",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
-          "summary": "New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Security Blog .",
-          "date": "2026-10-16T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
-          "summary": "Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies an…",
-          "date": "2026-10-14T13:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
-          "summary": "Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness. The post Post-quantum authentication: Why organizations should start testing certificate ecosystems now appeared first on Microsoft Security Blog…",
-          "date": "2026-10-08T20:44:28+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "3 lessons from frontier AI vulnerability research",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/",
-          "summary": "Read how How Microsoft Security's FORGE Lab is scaling vulnerability research from Windows to the Linux kernel. The post 3 lessons from frontier AI vulnerability research appeared first on Microsoft Security Blog .",
-          "date": "2026-10-07T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "CISO perspectives on managing vulnerability risks in the age of AI",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/",
-          "summary": "Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management. The post CISO perspectives on managing vulnerability risks in the age of AI appeared first on Microsoft Security Blog .",
-          "date": "2026-10-06T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
         {
           "title": "Preparing governments for an era of interconnected cyber risk",
           "link": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/",
@@ -1409,6 +1367,48 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/",
           "summary": "Microsoft Threat Intelligence examines CVE-2026-73570 exploitation in Zimbra, including observed attack paths, detection opportunities, and mitigation guidance. The post Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570 appeared first on Microsoft Security Bl…",
           "date": "2026-09-30T14:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "Phishing Abuses RMM Tools for Persistent Access",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/",
+          "summary": "Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity The post Phishing Abuses RMM Tools for Persistent Access appeared first on Microsoft Security Blog .",
+          "date": "2026-09-29T21:39:27+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "​​Beyond source code: A path to the keys to the kingdom",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
+          "summary": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post ​​Beyond source code: A path to the keys to the kingdom appeared first on Microsoft Security Blog .",
+          "date": "2026-09-29T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
+          "summary": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as “RedFlick”. The post St…",
+          "date": "2026-09-29T15:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operations",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/",
+          "summary": "Microsoft Threat Intelligence identified NeedyMantis, a modular post-compromise malware framework used in targeted intrusions that combines custom loaders, encrypted archives, and extensible components to maintain long-term access and support follow-on operations. The post NeedyMantis: Unpacking a p…",
+          "date": "2026-09-28T15:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+          "summary": "Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders. The post Storm-3168: Agentic-driven cloud attacks using compromised se…",
+          "date": "2026-09-25T15:35:08+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
+          "summary": "Storm-2570 is a ransomware affiliate that uses consistent post-compromise tools and techniques across deployments involving Qilin, DragonForce, Anubis, and BERT ransomware, and provides guidance to help defenders detect and disrupt this activity before ransomware deployment. The post Beyond the rans…",
+          "date": "2026-09-24T16:00:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
@@ -1645,6 +1645,13 @@
       "name": "SANS Blog",
       "url": "https://www.sans.org/blog",
       "articles": [
+        {
+          "title": "Putting AI Security into Action: Key Takeaways from the SANS Govern Field Guide  Blog Artificial Intelligence   20 Oct 2026     Chris Edmundson",
+          "link": "https://www.sans.org/blog/putting-ai-security-into-action",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
         {
           "title": "Why AI Confidence Is Not Validation Blog Artificial Intelligence   20 Oct 2026     Heather Barnhart",
           "link": "https://www.sans.org/blog/why-ai-confidence-is-not-validation",
