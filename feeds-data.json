@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-10-23T15:40:52.877312+00:00",
+  "generated_at": "2026-10-23T19:39:09.009842+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+          "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+          "date": "2026-10-23T18:54:41+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+          "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
+          "date": "2026-10-23T17:05:07+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Quest Diagnostics confirms data breach exposed patient records",
+          "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+          "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+          "date": "2026-10-23T16:40:07+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "PHP shares mitigation for new RCE vulnerability with no patch",
           "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
@@ -88,27 +109,6 @@
           "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
           "date": "2026-10-22T08:27:11+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-          "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-          "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
-          "date": "2026-10-21T22:16:26+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-          "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-          "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
-          "date": "2026-10-21T21:43:27+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-          "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-          "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-          "date": "2026-10-21T20:31:48+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "AI Tools Are Generating Massive Attacks for Little Cost",
+          "link": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
+          "summary": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
+          "date": "2026-10-23T17:26:59+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
           "link": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
@@ -133,7 +140,7 @@
         {
           "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
           "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
-          "summary": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk.",
+          "summary": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk.",
           "date": "2026-10-23T11:38:28+00:00",
           "source": "Dark Reading"
         },
@@ -168,7 +175,7 @@
         {
           "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
           "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
-          "summary": "Insurers are split on AI risk: some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
+          "summary": "Some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
           "date": "2026-10-22T14:21:22+00:00",
           "source": "Dark Reading"
         },
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
           "summary": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.",
           "date": "2026-10-12T18:27:25+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
-          "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
-          "summary": "Fahmida Y. Rashid will keep the momentum going as she leads Dark Reading.",
-          "date": "2026-10-12T12:30:58+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,27 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+          "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+          "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a C…",
+          "date": "2026-10-23T18:50:13+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+          "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+          "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while …",
+          "date": "2026-10-23T17:54:08+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+          "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+          "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be …",
+          "date": "2026-10-23T17:50:47+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
           "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
           "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign have obtained access t…",
@@ -988,14 +1009,14 @@
           "source": "The Hacker News"
         },
         {
-          "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+          "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
           "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
           "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project…",
           "date": "2026-10-23T11:25:43+00:00",
           "source": "The Hacker News"
         },
         {
-          "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+          "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
           "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
           "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 20…",
           "date": "2026-10-23T11:11:23+00:00",
@@ -1308,27 +1329,6 @@
           "summary": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauthorized access to application identities associated…",
           "date": "2026-10-20T10:56:08+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
-          "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-          "summary": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets stored on the disk of any machine that runs it, th…",
-          "date": "2026-10-20T08:21:29+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-          "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-          "summary": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL in a directory the a…",
-          "date": "2026-10-20T07:11:45+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-          "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-          "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets. In a new court filing Sunday, prosecutors revealed that A…",
-          "date": "2026-10-20T05:53:16+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
+          "summary": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks appeared first on Micr…",
+          "date": "2026-10-23T18:12:19+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/",
           "summary": "Read highlights from the 2026 Microsoft Digital Defense Report, which reflects a security environment that continues to grow more interconnected. The post Insights from the 2026 Microsoft Digital Defense Report appeared first on Microsoft Security Blog .",
           "date": "2026-10-01T14:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/",
-          "summary": "This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI agents now working alongside your teams. The post ​​Secure what’s next: Your guide to Microsoft Security at Microsoft…",
-          "date": "2026-09-30T19:31:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
@@ -1736,6 +1736,13 @@
       "url": "https://www.secureideas.com/blog/rss.xml",
       "articles": [
         {
+          "title": "Password Vampires: Don't Get Bitten Twice",
+          "link": "https://www.secureideas.com/blog/password-vampires-dont-get-bitten-twice",
+          "summary": "With Halloween right around the corner, let's talk about your dark secret from the distant past that could really come back to haunt you: that password you've been using since 2015. Don't lie... You know the one.",
+          "date": "2026-10-23T18:58:30+00:00",
+          "source": "Secure Ideas"
+        },
+        {
           "title": "Don’t Get Tricked: How to Spot Phishing Before You Take the Bait",
           "link": "https://www.secureideas.com/blog/dont-get-tricked-how-to-spot-phishing-before-you-take-the-bait",
           "summary": "October means Fall, arguably the best season of the year, because it means cooler weather, scary movies, Halloween, and more than a few tricks and treats. October also happens to be Cybersecurity Awareness Month, so what better time to talk about one of the oldest tricks on the internet? Working in …",
@@ -1796,13 +1803,6 @@
           "link": "https://www.secureideas.com/blog/why-the-cybersecurity-community-needs-a-fellowship",
           "summary": "On June 11th, I delivered the keynote at WISCON 2026 , the inaugural Wisconsin Information Security Conference in Madison. It's a brand-new conference, and that matters. New conferences don't come with an established crowd or twenty years of institutional memory. They come with a room full of people…",
           "date": "2026-06-08T15:23:51+00:00",
-          "source": "Secure Ideas"
-        },
-        {
-          "title": "No Hash? No Problem! - ASERepCatcher",
-          "link": "https://www.secureideas.com/blog/no-hash-no-problem-aserepcatcher",
-          "summary": "Intro: Credentials Are Currency In penetration testing, credentials are like currency. It doesn't matter where they come from, it can be from dark web dumps or captured network traffic, we are always chasing that initial foothold. When valid credentials land in our hands, it opens the doors to furth…",
-          "date": "2026-06-08T13:23:28+00:00",
           "source": "Secure Ideas"
         }
       ]
