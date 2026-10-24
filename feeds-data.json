@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-10-23T19:39:09.009842+00:00",
+  "generated_at": "2026-10-24T14:23:19.858995+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+          "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
+          "date": "2026-10-23T20:55:05+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
           "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
@@ -102,13 +109,6 @@
           "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
           "date": "2026-10-22T11:41:48+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-          "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-          "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
-          "date": "2026-10-22T08:27:11+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,20 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+          "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
+          "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
+          "date": "2026-10-23T20:57:56+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
+          "link": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+          "summary": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
+          "date": "2026-10-23T19:41:23+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "AI Tools Are Generating Massive Attacks for Little Cost",
           "link": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
           "summary": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.",
           "date": "2026-10-12T21:42:42+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
-          "link": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
-          "summary": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money.",
-          "date": "2026-10-12T20:00:53+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
-          "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
-          "summary": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.",
-          "date": "2026-10-12T18:27:25+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,41 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+          "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+          "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite pas…",
+          "date": "2026-10-24T11:09:29+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+          "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+          "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM…",
+          "date": "2026-10-24T11:03:33+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+          "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+          "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. \"You may choose to allow certain Google services, in…",
+          "date": "2026-10-24T10:36:33+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+          "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+          "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to Time4Popcorn, an abandoned copy of…",
+          "date": "2026-10-24T09:04:24+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+          "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-s…",
+          "date": "2026-10-24T06:25:57+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
           "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
           "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a C…",
@@ -1294,41 +1329,6 @@
           "summary": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen Lab said on October 19. The finding came six days before Serbia's October 25 snap parliamentary election…",
           "date": "2026-10-20T12:59:44+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-          "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-          "summary": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's own privacy policy for Europe tells users they can complain to one. The text sat…",
-          "date": "2026-10-20T11:41:06+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "What Security Teams Can Do To Tame Wild Code",
-          "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-          "summary": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the team’s daily routine. Across the same organization, employees…",
-          "date": "2026-10-20T11:33:04+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-          "link": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-          "summary": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release will refuse connections to sites and services whose certificates were issued under…",
-          "date": "2026-10-20T11:32:59+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
-          "link": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
-          "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO). The Symantec Threat Hunter Team, which is tracking the activity cluster under …",
-          "date": "2026-10-20T11:06:25+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
-          "link": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
-          "summary": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauthorized access to application identities associated…",
-          "date": "2026-10-20T10:56:08+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1570,6 +1570,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "(Reliable)&#x3f; php2shell exploitability, (Fri, Oct 23rd)",
+          "link": "https://isc.sans.edu/diary/rss/33452",
+          "summary": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.",
+          "date": "2026-10-23T20:04:47+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
           "link": "https://isc.sans.edu/diary/rss/33450",
           "summary": "This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know about it, or you probably never will, so it is time to go back to \"business as usual\".",
@@ -1631,13 +1638,6 @@
           "summary": "I believe the cybersecurity industry may be approaching AI security the wrong way.",
           "date": "2026-10-16T00:46:35+00:00",
           "source": "SANS ISC"
-        },
-        {
-          "title": "Panchan's Mining Island &#x5b;Guest Diary&#x5d;, (Wed, Oct 14th)",
-          "link": "https://isc.sans.edu/diary/rss/33426",
-          "summary": "[This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program]",
-          "date": "2026-10-15T23:03:42+00:00",
-          "source": "SANS ISC"
         }
       ]
     },
@@ -1645,6 +1645,20 @@
       "name": "SANS Blog",
       "url": "https://www.sans.org/blog",
       "articles": [
+        {
+          "title": "The Readiness Gap: Most Organisations Don't Know What AI They're Running Blog Artificial Intelligence   23 Oct 2026     Silvano Sogus",
+          "link": "https://www.sans.org/blog/readiness-gap-most-organisations-dont-know-what-ai-theyre-running",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "The EU AI Act Applies Beyond the AI You Buy Blog Artificial Intelligence   23 Oct 2026     Jan D'Herdt",
+          "link": "https://www.sans.org/blog/eu-ai-act-applies-beyond-ai-you-buy",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
         {
           "title": "The AI Act Is a Security Law in Disguise, Part 1 Blog Artificial Intelligence   22 Oct 2026     Silvano Sogus",
           "link": "https://www.sans.org/blog/ai-act-security-law-disguise-part-1",
@@ -1681,13 +1695,6 @@
           "source": "SANS Blog"
         },
         {
-          "title": "The EU AI Act Applies Beyond the AI You Buy Blog Artificial Intelligence   15 Oct 2026     Jan D'Herdt",
-          "link": "https://www.sans.org/blog/eu-ai-act-applies-beyond-ai-you-buy",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
           "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility Blog Artificial Intelligence   12 Oct 2026     Ismael Valenzuela",
           "link": "https://www.sans.org/blog/zero-trust-ai-agents-starts-fixing-zero-visibility",
           "summary": "",
@@ -1718,13 +1725,6 @@
         {
           "title": "The Questions Critical Infrastructure Leaders Should Be Asking Blog Industrial Control Systems Security   28 Sep 2026     Tim Conway",
           "link": "https://www.sans.org/blog/questions-critical-infrastructure-leaders-should-be-asking",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "The Cybersecurity Claims in “We Must Pace the Frontier” Blog Artificial Intelligence   21 Sep 2026     Rob T. Lee,  Melissa Bischoping,  Viswanath (Vis) Chirravuri   + 12 more",
-          "link": "https://www.sans.org/blog/cybersecurity-claims-we-must-pace-frontier",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
