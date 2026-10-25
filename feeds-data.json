@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T18:27:22.696686+00:00",
+  "generated_at": "2026-10-25T14:54:36.725597+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
+          "link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+          "summary": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on SecurityWeek .",
+          "date": "2026-10-25T11:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
           "link": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
           "summary": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe. The post In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware appeared first on SecurityWeek …",
@@ -966,13 +973,6 @@
           "summary": "After a three-month lull, Prince of Persia hid a Tornado C&C server on US shared hosting, its first US-based server since 2016. The post Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016 appeared first on SecurityWeek .",
           "date": "2026-10-23T06:39:29+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
-          "link": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
-          "summary": "Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t. The post Hacker Conversations: Corey Thuen and the Evil Bit appeared first on SecurityWeek .",
-          "date": "2026-10-22T14:31:34+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,13 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+          "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+          "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet in…",
+          "date": "2026-10-25T06:54:29+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
           "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
@@ -1321,13 +1328,6 @@
           "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
           "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and reached websites belong…",
           "date": "2026-10-20T14:07:17+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-          "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-          "summary": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen Lab said on October 19. The finding came six days before Serbia's October 25 snap parliamentary election…",
-          "date": "2026-10-20T12:59:44+00:00",
           "source": "The Hacker News"
         }
       ]
