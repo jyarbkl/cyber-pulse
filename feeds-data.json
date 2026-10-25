@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-10-25T14:54:36.725597+00:00",
+  "generated_at": "2026-10-25T18:37:49.833568+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+          "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+          "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+          "date": "2026-10-25T15:49:38+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
           "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
           "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical.…",
           "date": "2026-10-22T14:02:12+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-          "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-          "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
-          "date": "2026-10-22T13:09:12+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -981,6 +981,20 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+          "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+          "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls on…",
+          "date": "2026-10-25T17:44:09+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+          "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+          "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in Europe and within two …",
+          "date": "2026-10-25T17:19:46+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
           "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
           "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet in…",
@@ -1315,20 +1329,6 @@
           "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that c…",
           "date": "2026-10-20T15:38:52+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-          "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-          "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by bad actors to set up…",
-          "date": "2026-10-20T15:32:27+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
-          "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
-          "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and reached websites belong…",
-          "date": "2026-10-20T14:07:17+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,41 +1341,6 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
-        {
-          "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
-          "summary": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks appeared first on Micr…",
-          "date": "2026-10-23T18:12:19+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
-          "summary": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on Microsoft Security Blog .",
-          "date": "2026-10-21T18:23:55+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Agents are your newest insiders. Security must move at their speed.",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/",
-          "summary": "New capabilities in Microsoft 365 E7 and Project Perception help organizations contain agent risk and adapt protection continuously. The post Agents are your newest insiders. Security must move at their speed. appeared first on Microsoft Security Blog .",
-          "date": "2026-10-19T13:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Managing open-weight model risk in enterprise deployments",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
-          "summary": "New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Security Blog .",
-          "date": "2026-10-16T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
-          "summary": "Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies an…",
-          "date": "2026-10-14T13:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
         {
           "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
@@ -1409,6 +1374,41 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/",
           "summary": "Read highlights from the 2026 Microsoft Digital Defense Report, which reflects a security environment that continues to grow more interconnected. The post Insights from the 2026 Microsoft Digital Defense Report appeared first on Microsoft Security Blog .",
           "date": "2026-10-01T14:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/",
+          "summary": "This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI agents now working alongside your teams. The post ​​Secure what’s next: Your guide to Microsoft Security at Microsoft…",
+          "date": "2026-09-30T19:31:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/",
+          "summary": "Microsoft Threat Intelligence examines CVE-2026-73570 exploitation in Zimbra, including observed attack paths, detection opportunities, and mitigation guidance. The post Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570 appeared first on Microsoft Security Bl…",
+          "date": "2026-09-30T14:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "Phishing Abuses RMM Tools for Persistent Access",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/",
+          "summary": "Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity The post Phishing Abuses RMM Tools for Persistent Access appeared first on Microsoft Security Blog .",
+          "date": "2026-09-29T21:39:27+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "​​Beyond source code: A path to the keys to the kingdom",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
+          "summary": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post ​​Beyond source code: A path to the keys to the kingdom appeared first on Microsoft Security Blog .",
+          "date": "2026-09-29T16:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
+          "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
+          "summary": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as “RedFlick”. The post St…",
+          "date": "2026-09-29T15:00:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
