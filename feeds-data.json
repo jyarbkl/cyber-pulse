@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-10-26T17:14:00.872984+00:00",
+  "generated_at": "2026-10-26T20:48:41.659206+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+          "summary": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
+          "date": "2026-10-26T20:46:49+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "DreamHost forces password resets in ongoing \"incident\"",
+          "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+          "summary": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
+          "date": "2026-10-26T19:26:20+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
           "link": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
@@ -95,20 +109,6 @@
           "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
           "date": "2026-10-23T15:38:05+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "You gave your AI agent access, but who is giving it orders?",
-          "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-          "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime co…",
-          "date": "2026-10-23T14:00:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-          "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-          "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
-          "date": "2026-10-23T12:48:00+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
+          "summary": "An ongoing supply chain attack is harvesting credentials and sensitive data from thousands of developer repositories.",
+          "date": "2026-10-26T18:01:40+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "10 Software Security Practices Built for the Next 250 Years",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
           "summary": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
           "date": "2026-10-13T21:24:45+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Anthropic Finds Ingredients for Future AI Worms",
-          "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
-          "summary": "Anthropic's latest study combines IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
-          "date": "2026-10-13T20:35:23+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
+          "link": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
+          "summary": "A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful, life-threatening tasks. The post Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI appeared first on SecurityWeek .",
+          "date": "2026-10-26T20:20:56+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities",
           "link": "https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/",
           "summary": "Siemens, Schneider Electric, ABB and others have confirmed that some of their products are affected by the PHP2Shell vulnerabilities. The post Industrial Vendors Check Products for PHP2Shell Vulnerabilities appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on SecurityWeek .",
           "date": "2026-10-25T11:00:00+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
-          "link": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
-          "summary": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe. The post In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware appeared first on SecurityWeek …",
-          "date": "2026-10-23T14:23:37+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,27 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+          "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+          "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by uns…",
+          "date": "2026-10-26T18:12:22+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+          "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+          "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code. PHP says the flaw can be reached through the cURL extension when the…",
+          "date": "2026-10-26T17:45:57+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+          "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+          "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. \"A consistent pattern of attacker beh…",
+          "date": "2026-10-26T15:52:40+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
           "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
@@ -1308,27 +1329,6 @@
           "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix at 14:00 UTC on October 21 for two flaws it rates 9.2 out of…",
           "date": "2026-10-21T10:36:53+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "The Harness Is the Hard Part of Agentic Pentesting",
-          "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-          "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on afterward lives in the harness around the model. The harness i…",
-          "date": "2026-10-21T10:32:40+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-          "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-          "summary": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last hop in a Tor circuit, where traffic leaves the network for its destination. Only a password login to …",
-          "date": "2026-10-21T10:30:27+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-          "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-          "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vuln…",
-          "date": "2026-10-21T09:05:17+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1646,6 +1646,13 @@
       "url": "https://www.sans.org/blog",
       "articles": [
         {
+          "title": "SANS Threat Analysis Rundown in Review: Takedowns Are Not Kills Blog Digital Forensics and Incident Response   26 Oct 2026     Sean O'Connor",
+          "link": "https://www.sans.org/blog/sans-threat-analysis-rundown-review-takedowns-are-not-kills",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
           "title": "The Readiness Gap: Most Organisations Don't Know What AI They're Running Blog Artificial Intelligence   23 Oct 2026     Silvano Sogus",
           "link": "https://www.sans.org/blog/readiness-gap-most-organisations-dont-know-what-ai-theyre-running",
           "summary": "",
@@ -1660,8 +1667,8 @@
           "source": "SANS Blog"
         },
         {
-          "title": "The AI Act Is a Security Law in Disguise, Part 1 Blog Artificial Intelligence   22 Oct 2026     Silvano Sogus",
-          "link": "https://www.sans.org/blog/ai-act-security-law-disguise-part-1",
+          "title": "The EU AI Act Is a Security Law in Disguise Blog Artificial Intelligence   22 Oct 2026     Silvano Sogus",
+          "link": "https://www.sans.org/blog/ai-act-security-law-disguise",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
@@ -1718,13 +1725,6 @@
         {
           "title": "Behavior Change Is Not the Finish Line Blog Security Awareness   29 Sep 2026     SANS Institute",
           "link": "https://www.sans.org/blog/behavior-change-is-not-the-finish-line",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "The Questions Critical Infrastructure Leaders Should Be Asking Blog Industrial Control Systems Security   28 Sep 2026     Tim Conway",
-          "link": "https://www.sans.org/blog/questions-critical-infrastructure-leaders-should-be-asking",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
