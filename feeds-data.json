@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-10-27T16:19:23.899602+00:00",
+  "generated_at": "2026-10-27T20:19:21.403871+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+          "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
+          "date": "2026-10-27T18:20:28+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
           "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
@@ -102,13 +109,6 @@
           "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
           "date": "2026-10-26T13:56:44+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-          "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-          "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
-          "date": "2026-10-26T10:26:52+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,20 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills",
+          "link": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
+          "summary": "Nathan Hamiel outlines potential SecOps horror in the AI midst, as core technical capabilities go the way of reading an atlas or remembering phone numbers.",
+          "date": "2026-10-27T17:43:07+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' &amp; AI Assistants",
+          "link": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
+          "summary": "The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised endpoint.",
+          "date": "2026-10-27T16:47:20+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
           "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
           "summary": "A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide.",
           "date": "2026-10-14T20:57:16+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
-          "link": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
-          "summary": "A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.",
-          "date": "2026-10-14T20:09:42+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Russian Influence Operation Widely Targets Latin America",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
-          "summary": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
-          "date": "2026-10-14T13:00:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,27 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+          "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+          "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three exposed server environments used by threat actors …",
+          "date": "2026-10-27T18:26:46+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+          "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+          "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds that use the OpenSSL backend with mutual-TLS, where the server c…",
+          "date": "2026-10-27T13:59:48+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+          "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+          "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when proc…",
+          "date": "2026-10-27T13:59:09+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
           "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
           "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw as CVE-2026-80097 and fixed it in Authenticator for Android v…",
@@ -1308,27 +1329,6 @@
           "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could run code of …",
           "date": "2026-10-22T07:47:22+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-          "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-          "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the serv…",
-          "date": "2026-10-22T06:38:31+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
-          "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-          "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches. \"The …",
-          "date": "2026-10-22T06:34:10+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-          "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-          "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source i…",
-          "date": "2026-10-22T04:21:26+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1494,6 +1494,13 @@
       "url": "https://projectzero.google/feed.xml",
       "articles": [
         {
+          "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+          "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+          "summary": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep found more vulnerabiliti…",
+          "date": "",
+          "source": "Google Project Zero"
+        },
+        {
           "title": "How to fix a bug in a fix",
           "link": "https://projectzero.google/2026/10/emergency-patching.html",
           "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vendors express concern about potential scenarios in which they are unable to fix vulnerabilities that are causing immediate user harm, due to l…",
@@ -1553,13 +1560,6 @@
           "title": "Bypassing Windows Administrator Protection",
           "link": "https://projectzero.google/2026/26/windows-administrator-protection.html",
           "summary": "A headline feature introduced in the latest release of Windows 11, 25H2 is Administrator Protection. The goal of this feature is to replace User Account Control (UAC) with a more robust and importantly, securable system to allow a local user to access administrator privileges only when necessary. Th…",
-          "date": "",
-          "source": "Google Project Zero"
-        },
-        {
-          "title": "A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?",
-          "link": "https://projectzero.google/2026/01/pixel-0-click-part-3.html",
-          "summary": "While our previous two blog posts provided technical recommendations for increasing the effort required by attackers to develop 0-click exploit chains, our experience finding, reporting and exploiting these vulnerabilities highlighted some broader issues in the Android ecosystem. This post describes…",
           "date": "",
           "source": "Google Project Zero"
         }
