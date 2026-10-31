@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-10-31T15:59:42.209884+00:00",
+  "generated_at": "2026-10-31T19:38:20.394741+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Northflank security breach leads to abuse of customers' AI API keys",
+          "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+          "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+          "date": "2026-10-31T18:01:12+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
           "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
@@ -22,7 +29,7 @@
         {
           "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
           "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-          "summary": "[...]",
+          "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to s…",
           "date": "2026-10-31T13:10:19+00:00",
           "source": "BleepingComputer"
         },
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
           "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
           "date": "2026-10-29T22:45:23+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-          "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-          "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...…",
-          "date": "2026-10-29T22:09:24+00:00",
           "source": "BleepingComputer"
         }
       ]
