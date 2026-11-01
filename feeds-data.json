@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-11-01T17:03:15.655281+00:00",
+  "generated_at": "2026-11-01T19:59:13.316925+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+          "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+          "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+          "date": "2026-11-01T19:57:53+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
           "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
           "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
           "date": "2026-10-30T10:16:07+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-          "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-          "summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
-          "date": "2026-10-30T09:18:13+00:00",
           "source": "BleepingComputer"
         }
       ]
