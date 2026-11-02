@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-11-02T20:41:38.949252+00:00",
+  "generated_at": "2026-11-02T23:15:30.158365+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+          "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+          "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+          "date": "2026-11-02T21:40:14+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
           "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
@@ -102,13 +109,6 @@
           "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
           "date": "2026-10-31T15:35:11+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Reddit to lock content behind logins to fight scrapers",
-          "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-          "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
-          "date": "2026-10-31T14:05:15+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+          "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack paths can turn one breach into systemic loss.",
+          "date": "2026-11-02T22:27:24+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Microsoft's AI Risk Report Misses This Key Detail",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
           "summary": "The attack uses malicious Google search results related to Amazon and leverages the \"finger\" utility to launch a CAPTCHA that installs malware, including the Lumma stealer.",
           "date": "2026-10-21T13:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
-          "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
-          "summary": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.",
-          "date": "2026-10-20T21:45:47+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -1342,6 +1342,13 @@
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
         {
+          "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
+          "summary": "Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius. The post What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks…",
+          "date": "2026-11-02T20:20:59+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
           "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
           "summary": "Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it. The post Inside a malicious Claude Code-branded extension and its persistent SSH backdoor appeared first on Microsoft Security Blog .",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
           "summary": "New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Security Blog .",
           "date": "2026-10-16T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
-          "summary": "Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies an…",
-          "date": "2026-10-14T13:00:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
