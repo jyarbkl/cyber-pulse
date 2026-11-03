@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-11-03T18:19:36.892426+00:00",
+  "generated_at": "2026-11-03T21:22:20.269397+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+          "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+          "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
+          "date": "2026-11-03T20:05:50+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+          "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+          "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
+          "date": "2026-11-03T18:51:04+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Barracuda warns of critical flaws allowing root access to devices",
           "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
@@ -95,20 +109,6 @@
           "summary": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
           "date": "2026-11-02T13:57:29+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
-          "summary": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
-          "date": "2026-11-02T12:47:00+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-          "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
-          "summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
-          "date": "2026-11-02T11:28:42+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -124,7 +124,7 @@
           "source": "Dark Reading"
         },
         {
-          "title": "LLMJacking Emerges as Thriving Cybercriminal Enterprise",
+          "title": "LLMjacking Emerges as Thriving Cybercriminal Enterprise",
           "link": "https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise",
           "summary": "Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked.",
           "date": "2026-11-03T15:35:50+00:00",
@@ -981,6 +981,20 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+          "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+          "summary": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The warning came in an email sent on November 3 in the name of developer mS…",
+          "date": "2026-11-03T18:46:38+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+          "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+          "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part of a large-scale, artificial intelligence (AI)-powered attack campaign …",
+          "date": "2026-11-03T18:16:19+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
           "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
           "summary": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampered Homebrew installation and recruitment-themed social engineering attack targe…",
@@ -1315,20 +1329,6 @@
           "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests and package downloads for signs of malicious activity, acting as an install-time policy gate,\" GitHu…",
           "date": "2026-10-29T10:26:33+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-          "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-          "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a crafted regular exp…",
-          "date": "2026-10-29T09:05:39+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-          "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-          "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for later use, Cisco Talo…",
-          "date": "2026-10-29T08:24:22+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1342,73 +1342,73 @@
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
         {
-          "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
-          "summary": "Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness. The post Post-quantum authentication: Why organizations should start testing certificate ecosystems now appeared first on Microsoft Security Blog…",
-          "date": "2026-10-08T20:44:28+00:00",
+          "title": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/",
+          "summary": "Microsoft Threat Intelligence tracks a fake-download campaign that uses trojanized Inno installers to deliver multiple monetization offers and provides detection and investigation guidance across the complete installer session. The post Fake-download campaign uses trojanized installers to deliver mo…",
+          "date": "2026-11-03T17:32:47+00:00",
           "source": "Microsoft Security Blog"
         },
         {
-          "title": "3 lessons from frontier AI vulnerability research",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/",
-          "summary": "Read how How Microsoft Security's FORGE Lab is scaling vulnerability research from Windows to the Linux kernel. The post 3 lessons from frontier AI vulnerability research appeared first on Microsoft Security Blog .",
-          "date": "2026-10-07T16:00:00+00:00",
+          "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/",
+          "summary": "Read why Gartner named Microsoft a Leader in the inaugural 2026 Magic Quadrant for AI Agent Management Platforms. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms appeared first on Microsoft Security Blog .",
+          "date": "2026-11-03T17:00:00+00:00",
           "source": "Microsoft Security Blog"
         },
         {
-          "title": "CISO perspectives on managing vulnerability risks in the age of AI",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/",
-          "summary": "Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management. The post CISO perspectives on managing vulnerability risks in the age of AI appeared first on Microsoft Security Blog .",
-          "date": "2026-10-06T16:00:00+00:00",
+          "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
+          "summary": "Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius. The post What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks…",
+          "date": "2026-11-02T20:20:59+00:00",
           "source": "Microsoft Security Blog"
         },
         {
-          "title": "Preparing governments for an era of interconnected cyber risk",
-          "link": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/",
-          "summary": "According to this year’s Microsoft Digital Defense Report, government agencies and services were the sector most impacted by cyber threats in 2026, accounting for 27% of observed activity, up from 17% in 2025. The post Preparing governments for an era of interconnected cyber risk appeared first on M…",
-          "date": "2026-10-01T14:00:00+00:00",
+          "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+          "summary": "Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it. The post Inside a malicious Claude Code-branded extension and its persistent SSH backdoor appeared first on Microsoft Security Blog .",
+          "date": "2026-10-31T01:02:57+00:00",
           "source": "Microsoft Security Blog"
         },
         {
-          "title": "Insights from the 2026 Microsoft Digital Defense Report",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/",
-          "summary": "Read highlights from the 2026 Microsoft Digital Defense Report, which reflects a security environment that continues to grow more interconnected. The post Insights from the 2026 Microsoft Digital Defense Report appeared first on Microsoft Security Blog .",
-          "date": "2026-10-01T14:00:00+00:00",
+          "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
+          "summary": "Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos. The post From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths appeared first on Microsoft Security Blog .",
+          "date": "2026-10-30T16:11:44+00:00",
           "source": "Microsoft Security Blog"
         },
         {
-          "title": "​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/",
-          "summary": "This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI agents now working alongside your teams. The post ​​Secure what’s next: Your guide to Microsoft Security at Microsoft…",
-          "date": "2026-09-30T19:31:00+00:00",
+          "title": "Tracking AI adoption in North Korean threat actor tradecraft",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
+          "summary": "As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoption. This blog breaks down how North Korean threat actors are uti…",
+          "date": "2026-10-29T16:00:00+00:00",
           "source": "Microsoft Security Blog"
         },
         {
-          "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/",
-          "summary": "Microsoft Threat Intelligence examines CVE-2026-73570 exploitation in Zimbra, including observed attack paths, detection opportunities, and mitigation guidance. The post Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570 appeared first on Microsoft Security Bl…",
-          "date": "2026-09-30T14:00:00+00:00",
+          "title": "IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/",
+          "summary": "IDC has named Microsoft a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises. The post IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment appeared first on Microsoft Security Blog .",
+          "date": "2026-10-29T16:00:00+00:00",
           "source": "Microsoft Security Blog"
         },
         {
-          "title": "Phishing Abuses RMM Tools for Persistent Access",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/",
-          "summary": "Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity The post Phishing Abuses RMM Tools for Persistent Access appeared first on Microsoft Security Blog .",
-          "date": "2026-09-29T21:39:27+00:00",
+          "title": "The CISO’s evolving role: Protecting and defending in the agentic era",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/",
+          "summary": "As AI and agents reshape the enterprise, CISOs face two critical priorities: enabling innovation with the right identity and data guardrails, and modernizing defense to keep pace with AI-powered threats. Aarti Borkar shares how security leaders can approach both. The post The CISO’s evolving role: P…",
+          "date": "2026-10-28T16:00:00+00:00",
           "source": "Microsoft Security Blog"
         },
         {
-          "title": "​​Beyond source code: A path to the keys to the kingdom",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
-          "summary": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post ​​Beyond source code: A path to the keys to the kingdom appeared first on Microsoft Security Blog .",
-          "date": "2026-09-29T16:00:00+00:00",
+          "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
+          "summary": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks appeared first on Micr…",
+          "date": "2026-10-23T18:12:19+00:00",
           "source": "Microsoft Security Blog"
         },
         {
-          "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
-          "summary": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as “RedFlick”. The post St…",
-          "date": "2026-09-29T15:00:00+00:00",
+          "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
+          "summary": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on Microsoft Security Blog .",
+          "date": "2026-10-21T18:23:55+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
