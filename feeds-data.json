@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-11-04T18:31:53.378032+00:00",
+  "generated_at": "2026-11-04T21:38:00.561905+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Vercel rolls out new protection against stolen session cookie attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+          "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+          "date": "2026-11-04T21:31:18+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+          "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+          "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+          "date": "2026-11-04T20:58:19+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+          "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+          "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+          "date": "2026-11-04T19:05:19+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Cyberattack disrupts blood storage refrigeration systems in France",
           "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
@@ -87,27 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
           "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
           "date": "2026-11-03T18:51:04+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Barracuda warns of critical flaws allowing root access to devices",
-          "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-          "summary": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
-          "date": "2026-11-03T15:06:16+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-          "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-          "summary": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure manageme…",
-          "date": "2026-11-03T15:00:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-          "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-          "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
-          "date": "2026-11-03T14:00:00+00:00",
           "source": "BleepingComputer"
         }
       ]
