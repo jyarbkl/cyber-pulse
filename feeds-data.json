@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-11-06T17:51:53.180258+00:00",
+  "generated_at": "2026-11-06T21:10:02.150989+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+          "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+          "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+          "date": "2026-11-06T20:24:19+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Fake security tools on GitHub push backdoors and infostealers",
+          "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+          "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
+          "date": "2026-11-06T18:46:52+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
           "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
@@ -95,20 +109,6 @@
           "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
           "date": "2026-11-05T16:12:46+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Closing the Identity Gap at the Service Desk",
-          "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-          "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recover…",
-          "date": "2026-11-05T15:00:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-          "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-          "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-          "date": "2026-11-05T09:18:29+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "AI Gave Your Incident Archive a Second Job",
+          "link": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
+          "summary": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
+          "date": "2026-11-06T18:27:30+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
           "link": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
           "summary": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
           "date": "2026-10-23T17:26:59+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
-          "link": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
-          "summary": "The region is demonstrating what happens when exploits accelerate but assurance does not.",
-          "date": "2026-10-23T14:00:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
+          "link": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
+          "summary": "The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan. The post Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks appeared first on SecurityW…",
+          "date": "2026-11-06T18:28:41+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
           "link": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
           "summary": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days appeared first on SecurityWeek .",
@@ -965,13 +972,6 @@
           "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
           "summary": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million appeared first on SecurityWeek .",
           "date": "2026-11-06T03:03:29+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
-          "link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
-          "summary": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first on SecurityWeek .",
-          "date": "2026-11-05T17:32:37+00:00",
           "source": "SecurityWeek"
         }
       ]
