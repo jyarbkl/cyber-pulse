@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-11-07T19:45:11.336218+00:00",
+  "generated_at": "2026-11-08T16:58:24.702343+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+          "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+          "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
+          "date": "2026-11-08T15:43:08+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Hackers pull off $133 million French bank heist via service provider",
           "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
           "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
           "date": "2026-11-05T21:30:30+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-          "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-          "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
-          "date": "2026-11-05T20:15:08+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
+          "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
+          "summary": "Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses. The post Brava Security Emerges From Stealth With $15 Million in Funding appeared first on SecurityWeek .",
+          "date": "2026-11-08T12:14:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
           "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
           "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek .",
@@ -965,13 +972,6 @@
           "link": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
           "summary": "On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass appeared first on SecurityWeek .",
           "date": "2026-11-06T12:07:42+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
-          "link": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
-          "summary": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet. The post OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions appeared first on SecurityWeek .",
-          "date": "2026-11-06T09:33:51+00:00",
           "source": "SecurityWeek"
         }
       ]
@@ -1570,6 +1570,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)",
+          "link": "https://isc.sans.edu/diary/rss/33498",
+          "summary": "Our honeypots use \"Cowrie\" to collect SSH data. With the emergence of the \"sshole\" vulnerability last week, we are now seeing an increase in attempts to exploit the vulnerability. Our data is a bit limited in this respect. Our honeypots collect only the first 255 characters of SSH passwords. Longer …",
+          "date": "2026-11-08T15:44:33+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
           "link": "https://isc.sans.edu/diary/rss/33494",
           "summary": "",
@@ -1630,13 +1637,6 @@
           "link": "https://isc.sans.edu/diary/rss/33478",
           "summary": "Recently, I had to extract embedded files from a set of OneNote files (extension .one).",
           "date": "2026-11-01T09:12:23+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
-          "link": "https://isc.sans.edu/diary/rss/33476",
-          "summary": "Wireshark Release Candidate 5.0.0 was published: soon we can expect a new major version of Wireshark.",
-          "date": "2026-10-31T10:52:53+00:00",
           "source": "SANS ISC"
         }
       ]
