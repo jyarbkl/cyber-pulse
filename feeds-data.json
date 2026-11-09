@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-11-09T21:21:38.896945+00:00",
+  "generated_at": "2026-11-09T23:54:47.479815+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+          "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+          "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
+          "date": "2026-11-09T23:52:12+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+          "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+          "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+          "date": "2026-11-09T22:09:33+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+          "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+          "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
+          "date": "2026-11-09T21:26:25+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "York University breach exposed personal information dating to 2007",
+          "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+          "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+          "date": "2026-11-09T21:22:31+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
           "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
@@ -81,34 +109,6 @@
           "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without deliver…",
           "date": "2026-11-07T14:10:19+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-          "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
-          "date": "2026-11-07T00:00:55+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-          "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-          "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
-          "date": "2026-11-06T22:27:25+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-          "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-          "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
-          "date": "2026-11-06T20:24:19+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Fake security tools on GitHub push backdoors and infostealers",
-          "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-          "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-          "date": "2026-11-06T18:46:52+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,20 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
+          "summary": "New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions.",
+          "date": "2026-11-09T21:38:20+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
+          "link": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
+          "summary": "Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear.",
+          "date": "2026-11-09T21:12:24+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
           "link": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
           "summary": "The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised endpoint.",
           "date": "2026-10-27T16:47:20+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "So Many AI Security Benchmarks, but None Tell the Whole Story",
-          "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
-          "summary": "Measuring artificial intelligence model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
-          "date": "2026-10-27T00:26:50+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Risks &amp; Rewards: How AI Is Redefining the CISO's Role",
-          "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
-          "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
-          "date": "2026-10-26T21:44:33+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -1646,7 +1646,14 @@
       "url": "https://www.sans.org/blog",
       "articles": [
         {
-          "title": "SANS Threat Analysis Rundown in Review: Patched Is Not Evicted Blog Digital Forensics and Incident Response   11 Nov 2026     Sean O'Connor",
+          "title": "The SANS 2026 State of ICS/OT Security Report: Moving From Detection to Resilience Blog Industrial Control Systems Security   10 Nov 2026     Jason Christopher",
+          "link": "https://www.sans.org/blog/sans-2026-state-icsot-security-report-moving-from-detection-to-resilience",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
+          "title": "SANS Threat Analysis Rundown in Review: Patched Is Not Evicted Blog Digital Forensics and Incident Response   9 Nov 2026     Sean O'Connor",
           "link": "https://www.sans.org/blog/sans-threat-analysis-rundown-review-patched-not-evicted",
           "summary": "",
           "date": "",
@@ -1718,13 +1725,6 @@
         {
           "title": "What Happens When AI Gives Us Answers Before We’ve Learned How to Ask the Questions? Blog Artificial Intelligence   5 Oct 2026     Bryan Simon",
           "link": "https://www.sans.org/blog/what-happens-when-ai-gives-us-answers-before-weve-learned-how-ask-questions",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Four Conversations to Have With Your Family This October Blog Security Awareness   1 Oct 2026     Heather Barnhart",
-          "link": "https://www.sans.org/blog/four-conversations-to-have-with-your-family-this-october",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
