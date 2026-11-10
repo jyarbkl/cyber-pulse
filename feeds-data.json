@@ -1,10 +1,45 @@
 {
-  "generated_at": "2026-11-10T18:32:54.100475+00:00",
+  "generated_at": "2026-11-10T21:34:42.141860+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+          "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+          "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
+          "date": "2026-11-10T20:54:55+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+          "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+          "date": "2026-11-10T20:04:36+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+          "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
+          "date": "2026-11-10T19:31:11+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+          "summary": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
+          "date": "2026-11-10T19:07:36+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+          "summary": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+          "date": "2026-11-10T18:33:26+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
           "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
@@ -74,41 +109,6 @@
           "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
           "date": "2026-11-09T22:09:33+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
-          "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
-          "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
-          "date": "2026-11-09T21:26:25+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "York University breach exposed personal information dating to 2007",
-          "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
-          "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
-          "date": "2026-11-09T21:22:31+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
-          "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
-          "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
-          "date": "2026-11-09T18:32:42+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
-          "link": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
-          "summary": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
-          "date": "2026-11-09T17:50:32+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Binance denies data breach after alleged ShinyHunters claims",
-          "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
-          "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
-          "date": "2026-11-09T16:12:39+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -117,10 +117,45 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+          "summary": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.",
+          "date": "2026-11-10T21:01:14+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
+          "link": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
+          "summary": "Sivilya brings deep cybersecurity and technology leadership to Checkmarx as AI transforms software development.",
+          "date": "2026-11-10T20:35:34+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "How to Assess OT Incident Response Preparedness",
+          "link": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
+          "summary": "Cloud Range's free 28-question OT Cyber Readiness Assessment helps organizations identify gaps in operational technology (OT) incident response.",
+          "date": "2026-11-10T20:18:43+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
+          "link": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
+          "summary": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations.",
+          "date": "2026-11-10T18:46:22+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "AI Makes Reverse Engineering Mainstream Software &amp; Malware Far Easier",
           "link": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
-          "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising fresh concerns for defenders.",
+          "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising opportunities and concerns for organizations and cybersecurity analysts.",
           "date": "2026-11-10T13:00:00+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "People Are Getting Weird About AI",
+          "link": "https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai",
+          "summary": "Dark Reading Confidential Episode 22: You can love AI without being blind to cybersecurity being sacrificed for utility.",
+          "date": "2026-11-09T23:06:22+00:00",
           "source": "Dark Reading"
         },
         {
@@ -429,41 +464,6 @@
           "link": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
           "summary": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data.",
           "date": "2026-10-28T14:37:52+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
-          "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
-          "summary": "Interpol's annual Operation Serengeti, now in its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
-          "date": "2026-10-28T06:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "3 Frameworks to Protect CISOs &amp; Orgs Against AI Liability",
-          "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
-          "summary": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.",
-          "date": "2026-10-27T21:15:03+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
-          "link": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-          "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
-          "date": "2026-10-27T20:42:40+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
-          "link": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
-          "summary": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises.",
-          "date": "2026-10-27T19:58:06+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills",
-          "link": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
-          "summary": "Nathan Hamiel outlines potential SecOps horror in the AI midst, as core technical capabilities go the way of reading an atlas or remembering phone numbers.",
-          "date": "2026-10-27T17:43:07+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+          "link": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+          "summary": "CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation. The post Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft appeared first on SecurityWeek .",
+          "date": "2026-11-10T19:19:46+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Adobe Patches 110 Vulnerabilities Across 9 Products",
           "link": "https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/",
           "summary": "Adobe has fixed vulnerabilities in AEM, Premiere, Photoshop, After Effects, Connect, Audition, Dimension, Content Credentials SDK, and Media Encoder. The post Adobe Patches 110 Vulnerabilities Across 9 Products appeared first on SecurityWeek .",
@@ -966,13 +973,6 @@
           "summary": "Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation. The post N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days appeared first on SecurityWeek .",
           "date": "2026-11-10T09:56:28+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
-          "link": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
-          "summary": "CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days. The post IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .",
-          "date": "2026-11-10T09:42:27+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -981,9 +981,37 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+          "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+          "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1. The…",
+          "date": "2026-11-10T19:23:10+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+          "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+          "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company…",
+          "date": "2026-11-10T19:19:39+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+          "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+          "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062. \"REST cookie parsing turns authenticationToke…",
+          "date": "2026-11-10T18:12:21+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+          "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+          "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, and Europe over the …",
+          "date": "2026-11-10T17:43:23+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
           "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-          "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypas…",
+          "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to…",
           "date": "2026-11-10T16:00:55+00:00",
           "source": "The Hacker News"
         },
@@ -995,7 +1023,7 @@
           "source": "The Hacker News"
         },
         {
-          "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+          "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
           "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
           "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice published …",
           "date": "2026-11-10T15:33:59+00:00",
@@ -1301,34 +1329,6 @@
           "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file rea…",
           "date": "2026-11-04T17:00:38+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-          "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-          "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The phenomenon has been codenamed prompt adware by Check Point Research. …",
-          "date": "2026-11-04T16:06:43+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-          "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-          "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaS…",
-          "date": "2026-11-04T14:27:52+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-          "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-          "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1 and 8.0.5.2. The flaw …",
-          "date": "2026-11-04T12:07:04+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-          "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-          "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project sa…",
-          "date": "2026-11-04T11:46:27+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1570,6 +1570,13 @@
       "url": "https://isc.sans.edu/rssfeed.xml",
       "articles": [
         {
+          "title": "Microsoft Patch Tuesday November 2027 , (Tue, Nov 10th)",
+          "link": "https://isc.sans.edu/diary/rss/33508",
+          "summary": "Microsoft continues its AI-induced patch surge, addressing 1,260 different vulnerabilities this month. 68 of these vulnerabilities are considered critical. 167 of the vulnerabilities are Chromium issues affecting Microsoft Edge.",
+          "date": "2026-11-10T19:09:32+00:00",
+          "source": "SANS ISC"
+        },
+        {
           "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
           "link": "https://isc.sans.edu/diary/rss/33506",
           "summary": "",
@@ -1630,13 +1637,6 @@
           "link": "https://isc.sans.edu/diary/rss/33488",
           "summary": "One of the early web application vulnerabilities I remember was CVE-2000-0411 [CVE]. This was a simple vulnerability in a CGI-bin script used to send e-mail. The vulnerability was pretty straightforward: Adding additional parameters to the URL leaked environment variables. Other vulnerabilities allo…",
           "date": "2026-11-04T13:24:13+00:00",
-          "source": "SANS ISC"
-        },
-        {
-          "title": "ISC Stormcast For Wednesday, November 4th, 2026 https://isc.sans.edu/podcastdetail/10164, (Wed, Nov 4th)",
-          "link": "https://isc.sans.edu/diary/rss/33486",
-          "summary": "",
-          "date": "2026-11-04T02:10:02+00:00",
           "source": "SANS ISC"
         }
       ]
