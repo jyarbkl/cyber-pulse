@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-11-11T18:30:16.263829+00:00",
+  "generated_at": "2026-11-11T22:23:00.731650+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+          "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+          "summary": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
+          "date": "2026-11-11T21:27:40+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+          "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+          "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+          "date": "2026-11-11T20:54:20+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
           "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
@@ -95,20 +109,6 @@
           "summary": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
           "date": "2026-11-10T18:33:26+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-          "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-          "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
-          "date": "2026-11-10T16:17:16+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-          "link": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-          "summary": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
-          "date": "2026-11-10T15:59:19+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,27 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
+          "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
+          "summary": "Researchers dubbed an attack chain \"Greeter\" after discovering that attackers deliberately covered their trail by leaving \"hello\" messages in logs.",
+          "date": "2026-11-11T21:44:04+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "AI Raises the Stakes for Cyber Resilience",
+          "link": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
+          "summary": "An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business enablement.",
+          "date": "2026-11-11T21:20:41+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
+          "link": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
+          "summary": "The RMM provider also released a hotfix as one of recommended mitigations to address public exploits for the alleged zero-days that allow for attacker takeover.",
+          "date": "2026-11-11T20:05:18+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
           "link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
@@ -443,27 +464,6 @@
           "link": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
           "summary": "A four-question exercise that CISOs can use to create a threat model that promises results, without a big spend.",
           "date": "2026-10-29T15:44:04+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
-          "link": "https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes",
-          "summary": "The enigmatic service is providing popular AI coding tools to mainland China and other regions where OpenAI and Anthropic products are not officially for sale — but with key security features turned off.",
-          "date": "2026-10-29T10:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
-          "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
-          "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared with everywhere else.",
-          "date": "2026-10-29T08:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
-          "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
-          "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
-          "date": "2026-10-28T19:39:00+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -1342,6 +1342,13 @@
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
         {
+          "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
+          "summary": "Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity. The post The global socket: how threat actors are weaponizing GSocket for stealthy C2 appeared …",
+          "date": "2026-11-11T19:49:57+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
           "title": "Lessons from 59 Linux Kernel Bug Reports",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/",
           "summary": "Microsoft FORGE Lab researchers used codename MDASH to investigate Linux kernel vulnerabilities, resulting in 59 upstream bug reports, 33 assigned CVEs, and 38 merged fixes. The research includes eight demonstrated local root privilege-escalation exploits and examines the challenges of turning AI-ge…",
@@ -1403,13 +1410,6 @@
           "summary": "Microsoft Threat Intelligence tracks a fake-download campaign that uses trojanized Inno installers to deliver multiple monetization offers and provides detection and investigation guidance across the complete installer session. The post Fake-download campaign uses trojanized installers to deliver mo…",
           "date": "2026-11-03T17:32:47+00:00",
           "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/",
-          "summary": "Read why Gartner named Microsoft a Leader in the inaugural 2026 Magic Quadrant for AI Agent Management Platforms. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms appeared first on Microsoft Security Blog .",
-          "date": "2026-11-03T17:00:00+00:00",
-          "source": "Microsoft Security Blog"
         }
       ]
     },
@@ -1417,6 +1417,13 @@
       "name": "Black Hills InfoSec",
       "url": "https://www.blackhillsinfosec.com/blog/feed/",
       "articles": [
+        {
+          "title": "Log Analysis Field Guide: Tips for Spotting Patterns and Red Flags",
+          "link": "https://www.blackhillsinfosec.com/log-analysis-guide/",
+          "summary": "Imagine you’re a detective, but your crime scene is made of timestamps, IP addresses, and login attempts instead of fingerprints and DNA. Log analysis is the art of reading digital breadcrumbs that attackers leave behind—every click, connection, and failed password gets recorded automatically. Here …",
+          "date": "2026-11-11T21:57:25+00:00",
+          "source": "Black Hills InfoSec"
+        },
         {
           "title": "Core Skills in the Age of AI",
           "link": "https://www.blackhillsinfosec.com/core-skills-in-age-of-ai/",
@@ -1478,13 +1485,6 @@
           "link": "https://www.blackhillsinfosec.com/calling-reinforcements/",
           "summary": "Many people ask: At what point do I bring in law enforcement during a cyber incident? When should I get outside help such as another consulting firm to support incident response? The honest answer is simple: before you ever need them. The best time to build reinforcements is not during a crisis. It …",
           "date": "2026-09-02T10:00:40+00:00",
-          "source": "Black Hills InfoSec"
-        },
-        {
-          "title": "AI In SOC",
-          "link": "https://www.blackhillsinfosec.com/ai-in-soc/",
-          "summary": "As AI becomes increasingly utilized throughout the security space, it’s important to consider how it should be used most effectively. We’ve all seen companies adding AI into every offering and function they perform, often as much as possible.",
-          "date": "2026-08-26T10:00:57+00:00",
           "source": "Black Hills InfoSec"
         }
       ]
