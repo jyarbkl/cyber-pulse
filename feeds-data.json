@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-11-12T18:45:47.914447+00:00",
+  "generated_at": "2026-11-12T21:58:22.338803+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+          "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+          "date": "2026-11-12T20:15:16+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+          "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+          "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
+          "date": "2026-11-12T19:51:16+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+          "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+          "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
+          "date": "2026-11-12T19:12:55+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
           "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
@@ -88,27 +109,6 @@
           "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
           "date": "2026-11-11T16:24:18+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-          "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
-          "date": "2026-11-11T15:12:59+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-          "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
-          "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. […",
-          "date": "2026-11-11T15:01:11+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "N-able releases security hotfixes for zero-day vulnerabilities",
-          "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
-          "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
-          "date": "2026-11-11T12:32:27+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,20 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Cyber Experts Weigh In: How to Fight Artex &amp; AntiFox",
+          "link": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
+          "summary": "Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away.",
+          "date": "2026-11-12T21:18:52+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
+          "link": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
+          "summary": "The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens.",
+          "date": "2026-11-12T20:09:41+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Inside an AI Attack Against a US Retailer",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
           "summary": "The \"FrostyNeighbor\" advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives.",
           "date": "2026-10-30T08:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
-          "summary": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products.",
-          "date": "2026-10-29T21:21:56+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Rethinking Cybersecurity Awareness in the AI Era",
-          "link": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
-          "summary": "This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation workforces on modern risks and emerging threats.",
-          "date": "2026-10-29T20:15:37+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
+          "link": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
+          "summary": "Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a cyberattack. The post Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams appeared first on SecurityWeek .",
+          "date": "2026-11-12T20:55:30+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
           "link": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
           "summary": "The mod_http2 race condition, CVE-2026-119618, could let unauthenticated attackers execute code on servers with HTTP/2 enabled. The post Apache Patches Critical HTTP Server RCE Found by Anthropic, Google appeared first on SecurityWeek .",
@@ -965,13 +972,6 @@
           "link": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
           "summary": "The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant’s systems. The post Maersk Confirms Data Theft Amid $5 Million Extortion Attempt appeared first on SecurityWeek .",
           "date": "2026-11-12T08:38:47+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online",
-          "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
-          "summary": "Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise. The post Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online…",
-          "date": "2026-11-11T16:29:42+00:00",
           "source": "SecurityWeek"
         }
       ]
@@ -1342,6 +1342,13 @@
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
         {
+          "title": "Trained to betray: How post-training supply chain attacks hijack coding agents",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/",
+          "summary": "Microsoft Defender Research and the AI Red Team discuss how poisoned datasets and poisoned model checkpoints can trigger remote code execution and other malicious activities. The post Trained to betray: How post-training supply chain attacks hijack coding agents appeared first on Microsoft Security …",
+          "date": "2026-11-12T17:00:00+00:00",
+          "source": "Microsoft Security Blog"
+        },
+        {
           "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
           "summary": "Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity. The post The global socket: how threat actors are weaponizing GSocket for stealthy C2 appeared …",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/",
           "summary": "Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July – September), even as QR code phishing declined, CAPTCHA-gated phishing recovered, and malicious messages spoofing familiar business-service sender domains exposed risks associated with s…",
           "date": "2026-11-05T16:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/",
-          "summary": "Microsoft Threat Intelligence tracks a fake-download campaign that uses trojanized Inno installers to deliver multiple monetization offers and provides detection and investigation guidance across the complete installer session. The post Fake-download campaign uses trojanized installers to deliver mo…",
-          "date": "2026-11-03T17:32:47+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
