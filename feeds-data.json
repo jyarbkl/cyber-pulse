@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-11-13T18:27:52.940771+00:00",
+  "generated_at": "2026-11-13T21:44:12.029690+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+          "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
+          "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
+          "date": "2026-11-13T19:38:36+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "German military drone operations disrupted by cyberattack",
           "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
           "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
           "date": "2026-11-12T15:07:20+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
-          "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-          "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing sensitive endpoint operatio…",
-          "date": "2026-11-12T15:00:10+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
+          "link": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
+          "summary": "Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’ appeared first on SecurityWeek .",
+          "date": "2026-11-13T21:33:27+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
           "link": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
           "summary": "Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors. The post In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach appeared first on SecurityWee…",
@@ -965,13 +972,6 @@
           "link": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
           "summary": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root. The post PHP2Shell Exploited in Destructive Check Point Gateway Attacks appeared first on SecurityWeek .",
           "date": "2026-11-13T07:39:04+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
-          "link": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
-          "summary": "Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges. The post Hackers Exploit New N-central Zero-Day Hours After PoC Publication appeared first on SecurityWeek .",
-          "date": "2026-11-13T07:20:50+00:00",
           "source": "SecurityWeek"
         }
       ]
