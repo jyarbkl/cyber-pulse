@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-11-14T16:54:54.287860+00:00",
+  "generated_at": "2026-11-14T20:14:59.955221+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Cursor confirms security breach led to malicious Claude Code extension",
+          "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+          "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+          "date": "2026-11-14T17:27:25+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "US disrupts North Korean campaign behind $400 million crypto theft",
           "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
           "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
           "date": "2026-11-12T19:12:55+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-          "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-          "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
-          "date": "2026-11-12T16:04:00+00:00",
           "source": "BleepingComputer"
         }
       ]
