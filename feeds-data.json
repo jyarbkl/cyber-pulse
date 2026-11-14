@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-11-13T21:44:12.029690+00:00",
+  "generated_at": "2026-11-14T16:54:54.287860+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+          "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+          "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+          "date": "2026-11-14T15:15:49+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
           "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
@@ -102,13 +109,6 @@
           "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
           "date": "2026-11-12T16:04:00+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-          "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-          "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
-          "date": "2026-11-12T15:07:20+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
+          "link": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
+          "summary": "The Android malware has expanded from focusing on crypto theft to full device control, and the attackers have added advanced analysis of stolen information.",
+          "date": "2026-11-13T20:20:27+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
           "link": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next",
           "summary": "The cybersecurity market is difficult to predict, but a glimpse into the annual DataTribe Challenge shows what's trending and what's not.",
           "date": "2026-10-30T21:08:25+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
-          "summary": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).",
-          "date": "2026-10-30T20:05:58+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,27 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "Is AI Making Us Worse at Cybersecurity?",
+          "link": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+          "summary": "Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook. The post Is AI Making Us Worse at Cybersecurity? appeared first on SecurityWeek .",
+          "date": "2026-11-14T14:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+          "link": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+          "summary": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple Reveals How Secure Exclaves Shield Camera and Microphone Data appeared first on SecurityWeek .",
+          "date": "2026-11-14T11:00:00+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+          "link": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+          "summary": "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update appeared first on SecurityWeek .",
+          "date": "2026-11-14T08:40:22+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
           "link": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
           "summary": "Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’ appeared first on SecurityWeek .",
@@ -952,27 +973,6 @@
           "summary": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on SecurityWeek .",
           "date": "2026-11-13T09:36:56+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
-          "link": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
-          "summary": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools appeared first on SecurityWeek .",
-          "date": "2026-11-13T09:21:01+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
-          "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
-          "summary": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process. The post Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’ appeared first on SecurityWeek .",
-          "date": "2026-11-13T08:50:36+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
-          "link": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
-          "summary": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root. The post PHP2Shell Exploited in Destructive Check Point Gateway Attacks appeared first on SecurityWeek .",
-          "date": "2026-11-13T07:39:04+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,13 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+          "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tra…",
+          "date": "2026-11-14T12:38:35+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
           "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
@@ -1322,13 +1329,6 @@
           "summary": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers \"complete otherwise-infeasible software migrations, designed three worki…",
           "date": "2026-11-10T08:16:14+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-          "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-          "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has been described as a use-after-free bug in the XML component…",
-          "date": "2026-11-10T06:52:54+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1341,6 +1341,13 @@
       "name": "Microsoft Security Blog",
       "url": "https://www.microsoft.com/en-us/security/blog/feed/",
       "articles": [
+        {
+          "title": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/",
+          "summary": "SCKit abuses ScreenConnect to deploy unauthorized remote access and target technicians. Explore the attack chain, mitigations, and Microsoft Defender XDR hunting. The post SCKit abuses ScreenConnect to deploy remote access and target technician sessions appeared first on Microsoft Security Blog .",
+          "date": "2026-11-13T21:31:44+00:00",
+          "source": "Microsoft Security Blog"
+        },
         {
           "title": "Trained to betray: How post-training supply chain attacks hijack coding agents",
           "link": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/",
@@ -1402,13 +1409,6 @@
           "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/",
           "summary": "Microsoft Security’s November 2026 updates strengthen AI agent security, least privilege, threat protection, and exposure management. The post ​​​​What’s new in Microsoft Security: November 2026 appeared first on Microsoft Security Blog .",
           "date": "2026-11-05T17:00:00+00:00",
-          "source": "Microsoft Security Blog"
-        },
-        {
-          "title": "Email threat landscape: Q3 2026 trends and insights",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/",
-          "summary": "Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July – September), even as QR code phishing declined, CAPTCHA-gated phishing recovered, and malicious messages spoofing familiar business-service sender domains exposed risks associated with s…",
-          "date": "2026-11-05T16:00:00+00:00",
           "source": "Microsoft Security Blog"
         }
       ]
