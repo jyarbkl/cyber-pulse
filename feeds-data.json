@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-11-16T20:52:48.695865+00:00",
+  "generated_at": "2026-11-16T23:55:03.483954+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+          "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+          "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
+          "date": "2026-11-16T22:54:00+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+          "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+          "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+          "date": "2026-11-16T21:31:44+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+          "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+          "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organi…",
+          "date": "2026-11-16T20:59:44+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
           "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
@@ -88,27 +109,6 @@
           "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
           "date": "2026-11-15T15:23:48+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "Cursor confirms security breach led to malicious Claude Code extension",
-          "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
-          "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
-          "date": "2026-11-14T17:27:25+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "US disrupts North Korean campaign behind $400 million crypto theft",
-          "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
-          "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
-          "date": "2026-11-14T15:15:49+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-          "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-          "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
-          "date": "2026-11-13T19:38:36+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
+          "summary": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months.",
+          "date": "2026-11-16T22:08:20+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
           "link": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
@@ -457,13 +464,6 @@
           "link": "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
           "summary": "Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation.",
           "date": "2026-11-03T14:00:00+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
-          "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
-          "date": "2026-11-02T22:27:24+00:00",
           "source": "Dark Reading"
         }
       ]
