@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-11-17T19:42:16.527145+00:00",
+  "generated_at": "2026-11-17T23:15:07.805330+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+          "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+          "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
+          "date": "2026-11-17T23:04:21+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+          "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+          "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+          "date": "2026-11-17T21:27:17+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+          "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+          "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+          "date": "2026-11-17T20:51:21+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
           "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
@@ -22,7 +43,7 @@
         {
           "title": "Tor releases emergency update amid ongoing DDoS attack",
           "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-          "summary": "[...]",
+          "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
           "date": "2026-11-17T18:04:15+00:00",
           "source": "BleepingComputer"
         },
@@ -88,27 +109,6 @@
           "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
           "date": "2026-11-16T21:31:44+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-          "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-          "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organi…",
-          "date": "2026-11-16T20:59:44+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-          "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-          "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-          "date": "2026-11-16T19:57:13+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-          "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
-          "date": "2026-11-16T16:43:24+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,20 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+          "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+          "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
+          "date": "2026-11-17T22:34:22+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+          "link": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+          "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
+          "date": "2026-11-17T20:58:13+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
           "link": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
           "summary": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing an important authentication gap. Plus: post-quantum YubiKey beta.",
           "date": "2026-11-04T01:05:40+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
-          "link": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
-          "summary": "Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk.",
-          "date": "2026-11-03T22:16:49+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
-          "link": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
-          "summary": "Authorities seized more than 100 servers and arrested seven as part of a crackdown on a fraud network spanning more than 50 countries.",
-          "date": "2026-11-03T21:57:12+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,13 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+          "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+          "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researche…",
+          "date": "2026-11-17T19:34:20+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
           "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
           "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK. The 11 vulnerabilitie…",
@@ -1322,13 +1329,6 @@
           "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an agent that broke all three by default. This helped us think thr…",
           "date": "2026-11-11T12:01:59+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-          "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-          "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key, which the company uses to sign the certificates it issues. The…",
-          "date": "2026-11-11T12:00:53+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1336,6 +1336,20 @@
       "name": "CISA Advisories",
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
       "articles": [
+        {
+          "title": "Siemens ROS#",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+          "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to updat…",
+          "date": "2026-11-17T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
+        {
+          "title": "Dorsett Controls InfoScan",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
+          "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications. The following versions of Dorsett Contro…",
+          "date": "2026-11-17T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
         {
           "title": "Siemens Mendix Studio Pro",
           "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05",
@@ -1351,30 +1365,9 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "Siemens meta-iot2050",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
-          "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fi…",
-          "date": "2026-11-17T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
-          "title": "Siemens SIMATIC WinCC",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
-          "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products …",
-          "date": "2026-11-17T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
-          "title": "Siemens RUGGEDCOM APE1808",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
-          "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support t…",
-          "date": "2026-11-17T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
-          "title": "Dorsett Controls InfoScan",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
-          "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications. The following versions of Dorsett Contro…",
+          "title": "Critical Java Vulnerability Requires Immediate Patching",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
+          "summary": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938 . This critical memory-corruption vulnerability, known as “Java4Shell,” affects the Base64 decoder of the x86-64 HotSpot Java Virtual Machine (JVM), which is part of the Ja…",
           "date": "2026-11-17T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1386,9 +1379,9 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "Siemens Industrial Automation Software Products",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03",
-          "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remot…",
+          "title": "Siemens Simcenter Femap",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
+          "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and rec…",
           "date": "2026-11-17T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1400,16 +1393,37 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "Siemens ROS#",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
-          "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to updat…",
+          "title": "Siemens Industrial Automation Software Products",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03",
+          "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remot…",
           "date": "2026-11-17T12:00:00+00:00",
           "source": "CISA Advisories"
         },
         {
-          "title": "Siemens Simcenter Femap",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
-          "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and rec…",
+          "title": "Siemens RUGGEDCOM APE1808",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
+          "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support t…",
+          "date": "2026-11-17T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
+        {
+          "title": "Siemens SIMATIC WinCC",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
+          "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products …",
+          "date": "2026-11-17T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber …",
+          "date": "2026-11-17T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
+        {
+          "title": "Siemens meta-iot2050",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
+          "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fi…",
           "date": "2026-11-17T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1418,6 +1432,13 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
           "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permission Assignment for Cri…",
           "date": "2026-11-13T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
+        {
+          "title": "Siemens RUGGEDCOM APE1808",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
+          "summary": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in …",
+          "date": "2026-11-12T12:00:00+00:00",
           "source": "CISA Advisories"
         },
         {
@@ -1435,13 +1456,6 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "Siemens Building Automation and Energy Products",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
-          "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of imp…",
-          "date": "2026-11-12T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
           "title": "Siemens Industrial Edge Management",
           "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
           "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is included in the IEM softwar…",
@@ -1449,9 +1463,9 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "Siemens RUGGEDCOM APE1808",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
-          "summary": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in …",
+          "title": "Siemens Building Automation and Energy Products",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
+          "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of imp…",
           "date": "2026-11-12T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1477,16 +1491,16 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "Post-Quantum Questions to Ask Your Vendors",
-          "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
-          "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As quan…",
+          "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+          "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+          "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of maliciou…",
           "date": "2026-11-05T12:00:00+00:00",
           "source": "CISA Advisories"
         },
         {
-          "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-          "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-          "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of maliciou…",
+          "title": "Post-Quantum Questions to Ask Your Vendors",
+          "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
+          "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As quan…",
           "date": "2026-11-05T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1526,23 +1540,9 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "Hitachi Energy CoreTec Product",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
-          "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of the product. Please…",
-          "date": "2026-10-29T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
           "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
           "link": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
           "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability CVE-2026-76418 Cisco Secure Firewall ASA Software and Ci…",
-          "date": "2026-10-29T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
-          "title": "Hitachi Energy TRO600 series products",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
-          "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive information. Please refer to t…",
           "date": "2026-10-29T12:00:00+00:00",
           "source": "CISA Advisories"
         }
