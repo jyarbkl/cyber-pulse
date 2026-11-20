@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:00:49.503363+00:00",
+  "generated_at": "2026-11-20T22:26:50.204247+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
@@ -117,10 +117,24 @@
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
         {
+          "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+          "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
+          "date": "2026-11-20T21:03:27+00:00",
+          "source": "Dark Reading"
+        },
+        {
           "title": "In Security, Words Matter as Much as Tools, Maybe More",
           "link": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
           "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
           "date": "2026-11-20T18:35:40+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+          "link": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+          "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
+          "date": "2026-11-20T17:04:04+00:00",
           "source": "Dark Reading"
         },
         {
@@ -450,20 +464,6 @@
           "link": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
           "summary": "New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight.",
           "date": "2026-11-09T15:46:10+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
-          "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
-          "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
-          "date": "2026-11-06T21:27:36+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "AI Gave Your Incident Archive a Second Job",
-          "link": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
-          "summary": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
-          "date": "2026-11-06T18:27:30+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -981,6 +981,13 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+          "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+          "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs…",
+          "date": "2026-11-20T17:57:20+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
           "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
           "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 202…",
@@ -1322,13 +1329,6 @@
           "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' phot…",
           "date": "2026-11-15T11:27:31+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-          "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-          "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update…",
-          "date": "2026-11-15T08:22:04+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1336,6 +1336,13 @@
       "name": "CISA Advisories",
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
       "articles": [
+        {
+          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+          "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability CVE-2026-76466 Cisco Expressway Series Use of Hard-coded…",
+          "date": "2026-11-20T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
         {
           "title": "Elecbrakes EB2, VM1, ELBC2000",
           "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
@@ -1428,16 +1435,9 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber …",
-          "date": "2026-11-17T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
-          "title": "Siemens meta-iot2050",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
-          "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fi…",
+          "title": "Siemens RUGGEDCOM APE1808",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
+          "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support t…",
           "date": "2026-11-17T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1449,9 +1449,16 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "Siemens RUGGEDCOM APE1808",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
-          "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support t…",
+          "title": "Siemens meta-iot2050",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
+          "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fi…",
+          "date": "2026-11-17T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber …",
           "date": "2026-11-17T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1463,16 +1470,16 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "Siemens RUGGEDCOM APE1808",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
-          "summary": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in …",
+          "title": "Siemens Building Automation and Energy Products",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
+          "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of imp…",
           "date": "2026-11-12T12:00:00+00:00",
           "source": "CISA Advisories"
         },
         {
-          "title": "Siemens Building Automation and Energy Products",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
-          "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of imp…",
+          "title": "Siemens RUGGEDCOM APE1808",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
+          "summary": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in …",
           "date": "2026-11-12T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1537,13 +1544,6 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
           "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and pos…",
           "date": "2026-11-04T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
-          "title": "Subnet Solutions PowerSYSTEM Center",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01",
-          "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 <=5.29.x (CVE-2026-63017) Pow…",
-          "date": "2026-11-03T12:00:00+00:00",
           "source": "CISA Advisories"
         }
       ]
