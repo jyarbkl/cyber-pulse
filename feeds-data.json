@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-11-21T17:55:00.900325+00:00",
+  "generated_at": "2026-11-21T21:22:14.861286+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+          "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+          "date": "2026-11-21T18:01:58+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
           "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
           "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
           "date": "2026-11-19T18:20:01+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-          "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-          "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
-          "date": "2026-11-19T16:28:23+00:00",
           "source": "BleepingComputer"
         }
       ]
