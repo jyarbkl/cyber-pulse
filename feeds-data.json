@@ -1,10 +1,80 @@
 {
-  "generated_at": "2026-11-24T02:41:09.855145+00:00",
+  "generated_at": "2026-11-24T21:03:08.437031+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "New Inception extortion gang launches large-scale vishing campaign",
+          "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+          "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+          "date": "2026-11-24T20:21:20+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+          "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+          "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+          "date": "2026-11-24T18:59:52+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Radware discloses breach exposing customer cloud access keys",
+          "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+          "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+          "date": "2026-11-24T17:49:05+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+          "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+          "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+          "date": "2026-11-24T16:30:19+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "European Commission confirms data theft in EU Academy breach",
+          "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+          "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+          "date": "2026-11-24T16:22:44+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Hackers compromise Check Point Servers in 22 organizations",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+          "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+          "date": "2026-11-24T16:15:23+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+          "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+          "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
+          "date": "2026-11-24T15:10:10+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+          "link": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+          "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software …",
+          "date": "2026-11-24T15:01:11+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "McDonald's Japan data breach exposes customer location information",
+          "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+          "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
+          "date": "2026-11-24T14:09:37+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+          "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+          "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
+          "date": "2026-11-24T13:34:23+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
           "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
@@ -38,76 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
           "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
           "date": "2026-11-23T16:50:01+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "AI Agents Are Creating a Shared Responsibility Gap",
-          "link": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-          "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]",
-          "date": "2026-11-23T15:00:10+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
-          "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
-          "date": "2026-11-23T13:28:45+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
-          "link": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
-          "summary": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
-          "date": "2026-11-23T12:02:23+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
-          "summary": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
-          "date": "2026-11-23T09:11:15+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-          "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
-          "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
-          "date": "2026-11-23T07:44:19+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-          "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
-          "date": "2026-11-22T18:45:37+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-          "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-          "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
-          "date": "2026-11-22T15:43:04+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
-          "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
-          "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
-          "date": "2026-11-22T15:15:25+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
-          "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
-          "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
-          "date": "2026-11-21T22:59:58+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-          "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
-          "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
-          "date": "2026-11-21T18:01:58+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -154,7 +154,7 @@
         {
           "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
           "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
-          "summary": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice.",
+          "summary": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned jobs. But vendors' approaches vary, so CISOs face a choice.",
           "date": "2026-11-21T01:31:23+00:00",
           "source": "Dark Reading"
         },
@@ -173,7 +173,7 @@
           "source": "Dark Reading"
         },
         {
-          "title": "In Security, Words Matter as Much as Tools, Maybe More",
+          "title": "In Security, Words Matter as Much as Tools — Maybe More",
           "link": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
           "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
           "date": "2026-11-20T18:35:40+00:00",
@@ -189,7 +189,7 @@
         {
           "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
           "link": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
-          "summary": "Microsoft uses its Ignite technical conference to announce new AI agent security tools and transparency standards to protect enterprise systems.",
+          "summary": "At its Ignite technical conference, Microsoft announced AI agent security tools and transparency standards to protect enterprise systems.",
           "date": "2026-11-20T13:51:30+00:00",
           "source": "Dark Reading"
         },
@@ -905,6 +905,62 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
+          "link": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
+          "summary": "The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts. The post VMware Updates Patch Critical ESX, vCenter Vulnerabilities appeared first on SecurityWeek .",
+          "date": "2026-11-24T16:32:56+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "European Commission Uncovers Data Breach in Cyberattack Investigation",
+          "link": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
+          "summary": "Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appeared first on SecurityWeek .",
+          "date": "2026-11-24T14:49:59+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
+          "link": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
+          "summary": "The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries. The post Check Point Security Management Servers Hacked in AI-Assisted Campaign appeared first on SecurityWeek .",
+          "date": "2026-11-24T14:21:56+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
+          "link": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
+          "summary": "EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud. The post Anthropic Expands Enterprise Safeguards for Detecting AI Misuse appeared first on SecurityWeek .",
+          "date": "2026-11-24T13:30:23+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
+          "link": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/",
+          "summary": "OpenAI and Cisco’s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it’s not yet production-ready. The post OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems appeared first on SecurityWeek .",
+          "date": "2026-11-24T12:20:41+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
+          "link": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
+          "summary": "Hackers stole personal information from the company’s customer portal and supplier relationship management platform. The post 1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO appeared first on SecurityWeek .",
+          "date": "2026-11-24T11:50:21+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
+          "link": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
+          "summary": "Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents. The post Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking appeared first on SecurityWeek .",
+          "date": "2026-11-24T10:44:44+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
+          "link": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
+          "summary": "The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations. The post Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine appeared first on SecurityWeek .",
+          "date": "2026-11-24T10:35:04+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
           "link": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
           "summary": "Microsoft closed an Azure API Management flaw exploited to target secrets at Norwegian energy companies, with other sectors also affected. The post Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms appeared first on SecurityWeek .",
@@ -912,66 +968,10 @@
           "source": "SecurityWeek"
         },
         {
-          "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+          "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
           "link": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
-          "summary": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek .",
+          "summary": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek .",
           "date": "2026-11-23T15:06:49+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path",
-          "link": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/",
-          "summary": "If a session overwrite operation is interrupted, an attacker who controls the fresh data could trigger data deserialization and RCE. The post phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path appeared first on SecurityWeek .",
-          "date": "2026-11-23T13:58:07+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw",
-          "link": "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/",
-          "summary": "Attackers abused a flaw in the GoodCloud remote management service to push malware to devices, and cleaning them requires new firmware. The post GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw appeared first on SecurityWeek .",
-          "date": "2026-11-23T13:26:22+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos",
-          "link": "https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/",
-          "summary": "Dragos uncovered undetected intrusions at three AI inference providers using nearly two million prompts sent to AI services. The post AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos appeared first on SecurityWeek .",
-          "date": "2026-11-23T12:16:20+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted",
-          "link": "https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/",
-          "summary": "Backdoors on low-cost consumer devices served modules for ad fraud and for turning devices into residential proxies. The post BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted appeared first on SecurityWeek .",
-          "date": "2026-11-23T11:44:18+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks",
-          "link": "https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/",
-          "summary": "Threat actors could exploit them to leak or modify server information and to execute commands as root. The post SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks appeared first on SecurityWeek .",
-          "date": "2026-11-23T11:35:15+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal",
-          "link": "https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/",
-          "summary": "CrowdStrike expects the combined company to have more than $10 billion in annual recurring revenue. The post CrowdStrike to Acquire Zscaler in $43.9 Billion Deal appeared first on SecurityWeek .",
-          "date": "2026-11-23T11:31:44+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
-          "link": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
-          "summary": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on SecurityWeek .",
-          "date": "2026-11-22T00:53:02+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "President Trump Taps Kirsten Davies as National Cyber Director",
-          "link": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
-          "summary": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first on SecurityWeek .",
-          "date": "2026-11-21T13:00:00+00:00",
           "source": "SecurityWeek"
         }
       ]
@@ -980,6 +980,76 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+          "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+          "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for comman…",
+          "date": "2026-11-24T16:54:07+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+          "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+          "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out of 10.0 on the CVSS…",
+          "date": "2026-11-24T13:28:26+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+          "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+          "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vi…",
+          "date": "2026-11-24T13:28:21+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+          "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+          "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicio…",
+          "date": "2026-11-24T12:42:09+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+          "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+          "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday. The same loading behavior bypassed Oracle VirtualBox's pro…",
+          "date": "2026-11-24T12:02:00+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+          "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+          "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research. That's a significant opportunity as manual …",
+          "date": "2026-11-24T12:01:54+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+          "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+          "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi. \"An unknown actor has been actively looki…",
+          "date": "2026-11-24T10:44:49+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+          "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+          "summary": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's database. No login is needed. The company disclosed th…",
+          "date": "2026-11-24T08:34:20+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+          "link": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+          "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time t…",
+          "date": "2026-11-24T06:02:57+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+          "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The critical vulnerabilities are listed below - CVE-2026-134624 (CVSS s…",
+          "date": "2026-11-24T06:02:45+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
           "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
@@ -1259,76 +1329,6 @@
           "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That leaves short PINs open to guessing. In lab tests, the researchers found a four-digit Hello PIN on an AMD l…",
           "date": "2026-11-18T12:28:30+00:00",
           "source": "The Hacker News"
-        },
-        {
-          "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-          "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-          "summary": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure day. AI pentesting vendors aren't interchangeable. Most look convincing in a demo.…",
-          "date": "2026-11-18T12:15:00+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-          "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-          "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6 and later, and the vulnerable code runs o…",
-          "date": "2026-11-18T11:55:49+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
-          "link": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
-          "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Security testing has to keep up with both. AI pentesting ha…",
-          "date": "2026-11-18T11:03:57+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-          "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities (KEV) catalog, citing reports of active explo…",
-          "date": "2026-11-18T08:24:31+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
-          "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
-          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of out-of-bounds write that can lead to denial-of-ser…",
-          "date": "2026-11-18T08:24:23+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-          "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-          "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on N…",
-          "date": "2026-11-18T06:45:26+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-          "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-          "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Google's Mandiant and Threat Intelligence Group (GTIG) said it …",
-          "date": "2026-11-18T05:58:04+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
-          "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-          "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researche…",
-          "date": "2026-11-17T19:34:20+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-          "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-          "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK. The 11 vulnerabilitie…",
-          "date": "2026-11-17T15:17:36+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-          "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-          "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors, to trick developers i…",
-          "date": "2026-11-17T15:17:28+00:00",
-          "source": "The Hacker News"
         }
       ]
     },
@@ -1336,6 +1336,27 @@
       "name": "CISA Advisories",
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
       "articles": [
+        {
+          "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+          "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection item…",
+          "date": "2026-11-24T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
+        {
+          "title": "Danfoss AK-SM 8xxA Series",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+          "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerab…",
+          "date": "2026-11-24T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
+        {
+          "title": "AutomationDirect C-More EA9 Programming Software",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+          "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA…",
+          "date": "2026-11-24T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
         {
           "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
           "link": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -1358,16 +1379,16 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "libumqtt",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
-          "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8.6 libumqtt libumqtt…",
+          "title": "Autonomy Logic OpenPLC Runtime",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
+          "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime <=4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1 Autonomy Logic OpenPLC Runti…",
           "date": "2026-11-19T12:00:00+00:00",
           "source": "CISA Advisories"
         },
         {
-          "title": "Autonomy Logic OpenPLC Runtime",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
-          "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime <=4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1 Autonomy Logic OpenPLC Runti…",
+          "title": "libumqtt",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
+          "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8.6 libumqtt libumqtt…",
           "date": "2026-11-19T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1379,9 +1400,9 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "Siemens ROS#",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
-          "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to updat…",
+          "title": "Siemens SIMATIC WinCC",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
+          "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products …",
           "date": "2026-11-17T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1421,9 +1442,23 @@
           "source": "CISA Advisories"
         },
         {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber …",
+          "date": "2026-11-17T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
+        {
           "title": "Siemens Simcenter Femap",
           "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
           "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and rec…",
+          "date": "2026-11-17T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
+        {
+          "title": "Siemens ROS#",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+          "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to updat…",
           "date": "2026-11-17T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1449,23 +1484,9 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "Siemens SIMATIC WinCC",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
-          "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products …",
-          "date": "2026-11-17T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
           "title": "Siemens meta-iot2050",
           "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
           "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fi…",
-          "date": "2026-11-17T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber …",
           "date": "2026-11-17T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1485,13 +1506,6 @@
         },
         {
           "title": "Siemens RUGGEDCOM APE1808",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
-          "summary": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in …",
-          "date": "2026-11-12T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
-          "title": "Siemens RUGGEDCOM APE1808",
           "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
           "summary": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult and implement the workarounds provided in …",
           "date": "2026-11-12T12:00:00+00:00",
@@ -1501,6 +1515,13 @@
           "title": "Siemens Desigo, Gridscale",
           "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
           "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remot…",
+          "date": "2026-11-12T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
+        {
+          "title": "Siemens RUGGEDCOM APE1808",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
+          "summary": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in …",
           "date": "2026-11-12T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1523,27 +1544,6 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
           "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-102895 GPUStack Improper Authentication Vulnerability CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability CVE-2026-123158 OpenBSD OpenSSH U…",
           "date": "2026-11-09T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber a…",
-          "date": "2026-11-06T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
-          "title": "Post-Quantum Questions to Ask Your Vendors",
-          "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
-          "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As quan…",
-          "date": "2026-11-05T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
-          "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-          "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-          "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of maliciou…",
-          "date": "2026-11-05T12:00:00+00:00",
           "source": "CISA Advisories"
         }
       ]
@@ -1952,6 +1952,13 @@
       "url": "https://any.run/cybersecurity-blog/feed/",
       "articles": [
         {
+          "title": "LATAM’s Financial Fraud Ecosystem: Key Threats and Strategies for Business Protection",
+          "link": "https://any.run/cybersecurity-blog/latams-financial-fraud/",
+          "summary": "Editor’s note: The current article is authored by Clandestine, threat researcher and threat hunter. You can find Clandestine on X. Taking down a banking Trojan does not necessarily stop financial fraud. Cybercriminals can switch malware families, reuse existing infrastructure, and exploit legitimate…",
+          "date": "2026-11-24T09:44:36+00:00",
+          "source": "ANY.RUN Blog"
+        },
+        {
           "title": "Holiday Lures, Real Threats: 5 Thanksgiving and Black Friday Campaigns from 2026",
           "link": "https://any.run/cybersecurity-blog/thanksgiving-black-friday-cyber-threats-2026/",
           "summary": "The holiday season brings a surge of invitations, promotional offers, and shared documents — all familiar ways for cybercriminals to disguise malicious activity. During the 2026 Thanksgiving and Black Friday season, ANY.RUN analysts investigated five cases involving fake corporate invitations, e-car…",
@@ -2012,13 +2019,6 @@
           "link": "https://any.run/cybersecurity-blog/how-to-close-threat-intelligence-stack-blind-spots/",
           "summary": "Your SOC pays for multiple threat intelligence feeds, yet fresh malicious domains and IPs can still appear in telemetry as unknown. When feeds rely on overlapping sources, more subscriptions may deliver the same indicators while leaving emerging threats uncovered. Analysts must fill these gaps manua…",
           "date": "2026-11-05T09:34:20+00:00",
-          "source": "ANY.RUN Blog"
-        },
-        {
-          "title": "Major Cyber Attacks in October 2026: Fake AI, Account Takeovers, and Remote Access Threaten US and EU",
-          "link": "https://any.run/cybersecurity-blog/major-cyber-attacks-october-2026/",
-          "summary": "October 2026 brought another wave of cyber threats targeting US enterprises, exposing security gaps that could lead to financial losses, data breaches, and business disruption. Attackers exploited trusted platforms, legitimate authentication processes, and growing AI adoption to gain access to corpo…",
-          "date": "2026-11-03T11:52:32+00:00",
           "source": "ANY.RUN Blog"
         }
       ]
