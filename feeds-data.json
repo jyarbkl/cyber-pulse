@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-11-25T20:24:59.184206+00:00",
+  "generated_at": "2026-11-25T23:55:09.293037+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+          "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+          "date": "2026-11-25T22:05:09+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "1Password customer data stolen after employee GitHub account breach",
+          "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+          "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+          "date": "2026-11-25T21:33:33+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
           "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
@@ -94,20 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
           "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
           "date": "2026-11-24T16:30:19+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "European Commission confirms data theft in EU Academy breach",
-          "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-          "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
-          "date": "2026-11-24T16:22:44+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Hackers compromise Check Point Servers in 22 organizations",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-          "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
-          "date": "2026-11-24T16:15:23+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -1337,16 +1337,23 @@
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
       "articles": [
         {
-          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-          "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution Vulnerability CVE-2026-132224 Op…",
+          "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog",
+          "summary": "CISA has added 10 new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-25914 Danfoss AK-SM 800A Series Path Traversal Vulnerability CVE-2023-25915 Danfoss AK-SM 800A Series Improper Input Validation Vulnerability CVE-2025-41450…",
+          "date": "2026-11-25T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
+        {
+          "title": "AutomationDirect C-More EA9 Programming Software",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+          "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA…",
           "date": "2026-11-24T12:00:00+00:00",
           "source": "CISA Advisories"
         },
         {
-          "title": "Danfoss AK-SM 8xxA Series",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
-          "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerab…",
+          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+          "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution Vulnerability CVE-2026-132224 Op…",
           "date": "2026-11-24T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1358,9 +1365,9 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "AutomationDirect C-More EA9 Programming Software",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
-          "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA…",
+          "title": "Danfoss AK-SM 8xxA Series",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+          "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerab…",
           "date": "2026-11-24T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1407,9 +1414,9 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "Siemens RUGGEDCOM APE1808",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
-          "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support t…",
+          "title": "Siemens Industrial Software Products",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
+          "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remot…",
           "date": "2026-11-17T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1449,13 +1456,6 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "Siemens Industrial Software Products",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
-          "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remot…",
-          "date": "2026-11-17T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
           "title": "Siemens meta-iot2050",
           "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
           "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fi…",
@@ -1491,6 +1491,13 @@
           "source": "CISA Advisories"
         },
         {
+          "title": "Siemens RUGGEDCOM APE1808",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
+          "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support t…",
+          "date": "2026-11-17T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
+        {
           "title": "Siemens SIMATIC WinCC",
           "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
           "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products …",
@@ -1508,6 +1515,13 @@
           "title": "Siemens Building Automation and Energy Products",
           "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
           "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of imp…",
+          "date": "2026-11-12T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
+        {
+          "title": "Siemens Industrial Edge Management",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
+          "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is included in the IEM softwar…",
           "date": "2026-11-12T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1530,20 +1544,6 @@
           "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
           "summary": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in …",
           "date": "2026-11-12T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
-          "title": "Siemens Industrial Edge Management",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
-          "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is included in the IEM softwar…",
-          "date": "2026-11-12T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
-          "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-          "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability CVE-2026-111560 Barracuda Networks Multiple Products OS Command …",
-          "date": "2026-11-10T12:00:00+00:00",
           "source": "CISA Advisories"
         }
       ]
