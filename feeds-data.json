@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-11-24T21:03:08.437031+00:00",
+  "generated_at": "2026-11-25T00:14:47.324074+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "Rackspace shuts down Spot cloud platform after security breach",
+          "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+          "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
+          "date": "2026-11-24T21:37:30+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "New Inception extortion gang launches large-scale vishing campaign",
           "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
@@ -102,13 +109,6 @@
           "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
           "date": "2026-11-23T18:38:40+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-          "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-          "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
-          "date": "2026-11-23T16:50:01+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,27 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Satellites Have a Ground-Level Cybersecurity Problem",
+          "link": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
+          "summary": "Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace.",
+          "date": "2026-11-24T22:05:34+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+          "link": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
+          "summary": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
+          "date": "2026-11-24T21:48:06+00:00",
+          "source": "Dark Reading"
+        },
+        {
+          "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+          "summary": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
+          "date": "2026-11-24T21:36:11+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Industrial Serial Gateways Broadcast That They're Insecure",
           "link": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
@@ -443,27 +464,6 @@
           "link": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
           "summary": "New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene.",
           "date": "2026-11-10T20:41:45+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
-          "link": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
-          "summary": "Sivilya brings deep cybersecurity and technology leadership to Checkmarx as AI transforms software development.",
-          "date": "2026-11-10T20:35:34+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "How to Assess OT Incident Response Preparedness",
-          "link": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
-          "summary": "Cloud Range's free 28-question OT Cyber Readiness Assessment helps organizations identify gaps in operational technology (OT) incident response.",
-          "date": "2026-11-10T20:18:43+00:00",
-          "source": "Dark Reading"
-        },
-        {
-          "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
-          "link": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
-          "summary": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations.",
-          "date": "2026-11-10T18:46:22+00:00",
           "source": "Dark Reading"
         }
       ]
@@ -905,6 +905,13 @@
       "url": "https://www.securityweek.com/feed/",
       "articles": [
         {
+          "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+          "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+          "summary": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek .",
+          "date": "2026-11-24T22:41:58+00:00",
+          "source": "SecurityWeek"
+        },
+        {
           "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
           "link": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
           "summary": "The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts. The post VMware Updates Patch Critical ESX, vCenter Vulnerabilities appeared first on SecurityWeek .",
@@ -965,13 +972,6 @@
           "link": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
           "summary": "Microsoft closed an Azure API Management flaw exploited to target secrets at Norwegian energy companies, with other sectors also affected. The post Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms appeared first on SecurityWeek .",
           "date": "2026-11-23T15:47:40+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
-          "link": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
-          "summary": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek .",
-          "date": "2026-11-23T15:06:49+00:00",
           "source": "SecurityWeek"
         }
       ]
@@ -1337,9 +1337,9 @@
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
       "articles": [
         {
-          "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
-          "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection item…",
+          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+          "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution Vulnerability CVE-2026-132224 Op…",
           "date": "2026-11-24T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1347,6 +1347,13 @@
           "title": "Danfoss AK-SM 8xxA Series",
           "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
           "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerab…",
+          "date": "2026-11-24T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
+        {
+          "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+          "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection item…",
           "date": "2026-11-24T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1400,9 +1407,9 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "Siemens SIMATIC WinCC",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
-          "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products …",
+          "title": "Siemens RUGGEDCOM APE1808",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
+          "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support t…",
           "date": "2026-11-17T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1410,6 +1417,13 @@
           "title": "Dorsett Controls InfoScan",
           "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
           "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications. The following versions of Dorsett Contro…",
+          "date": "2026-11-17T12:00:00+00:00",
+          "source": "CISA Advisories"
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber …",
           "date": "2026-11-17T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1442,9 +1456,9 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber …",
+          "title": "Siemens meta-iot2050",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
+          "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fi…",
           "date": "2026-11-17T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1477,16 +1491,9 @@
           "source": "CISA Advisories"
         },
         {
-          "title": "Siemens RUGGEDCOM APE1808",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
-          "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support t…",
-          "date": "2026-11-17T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
-          "title": "Siemens meta-iot2050",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
-          "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fi…",
+          "title": "Siemens SIMATIC WinCC",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
+          "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products …",
           "date": "2026-11-17T12:00:00+00:00",
           "source": "CISA Advisories"
         },
@@ -1537,13 +1544,6 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
           "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability CVE-2026-111560 Barracuda Networks Multiple Products OS Command …",
           "date": "2026-11-10T12:00:00+00:00",
-          "source": "CISA Advisories"
-        },
-        {
-          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-          "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-102895 GPUStack Improper Authentication Vulnerability CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability CVE-2026-123158 OpenBSD OpenSSH U…",
-          "date": "2026-11-09T12:00:00+00:00",
           "source": "CISA Advisories"
         }
       ]
