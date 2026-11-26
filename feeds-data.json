@@ -1,10 +1,38 @@
 {
-  "generated_at": "2026-11-25T23:55:09.293037+00:00",
+  "generated_at": "2026-11-26T20:02:52.325937+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+          "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+          "summary": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+          "date": "2026-11-26T17:58:42+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+          "link": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+          "summary": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]",
+          "date": "2026-11-26T17:15:27+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+          "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+          "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+          "date": "2026-11-26T15:23:28+00:00",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+          "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+          "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
+          "date": "2026-11-26T11:50:17+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
           "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
@@ -81,34 +109,6 @@
           "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
           "date": "2026-11-24T21:37:30+00:00",
           "source": "BleepingComputer"
-        },
-        {
-          "title": "New Inception extortion gang launches large-scale vishing campaign",
-          "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-          "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
-          "date": "2026-11-24T20:21:20+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Turnitin discloses cyberattack affecting customer-facing systems",
-          "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-          "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
-          "date": "2026-11-24T18:59:52+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Radware discloses breach exposing customer cloud access keys",
-          "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-          "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
-          "date": "2026-11-24T17:49:05+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
-          "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
-          "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
-          "date": "2026-11-24T16:30:19+00:00",
-          "source": "BleepingComputer"
         }
       ]
     },
@@ -116,6 +116,13 @@
       "name": "Dark Reading",
       "url": "https://www.darkreading.com/rss.xml",
       "articles": [
+        {
+          "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
+          "summary": "A previously undocumented Iranian threat group called \"Volant Manticore\" is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.",
+          "date": "2026-11-26T08:00:00+00:00",
+          "source": "Dark Reading"
+        },
         {
           "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
           "link": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
@@ -458,13 +465,6 @@
           "summary": "この対策パッケージには、官民合同のサイバー対応チーム、経済省が主導するAI専門チーム、および政府の新たな能動的サイバー防衛権限の行使に関する裁量の拡大が含まれている。",
           "date": "2026-11-11T22:14:44+00:00",
           "source": "Dark Reading"
-        },
-        {
-          "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
-          "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
-          "summary": "Researchers dubbed an attack chain \"Greeter\" after discovering that attackers deliberately covered their trail by leaving \"hello\" messages in logs.",
-          "date": "2026-11-11T21:44:04+00:00",
-          "source": "Dark Reading"
         }
       ]
     },
@@ -548,6 +548,13 @@
       "name": "Risky Biz Newsletters",
       "url": "https://risky.biz/feeds/newsletters/",
       "articles": [
+        {
+          "title": "Srsly Risky Biz: America Needs Homegrown Open-Weight Models",
+          "link": "https://risky.biz/srsly-risky-biz-america-needs-homegrown-open-weight-models/",
+          "summary": "Instead of just throwing sand in the gears of China's open-weight model ecosystem, the US should kickstart its own. Without a good domestic alternative, American firms will keep turning to China. That's one of the key recommendations from a congressional report released last week that examined why A…",
+          "date": "2026-11-26T02:12:13+00:00",
+          "source": "Risky Biz Newsletters"
+        },
         {
           "title": "Risky Bulletin: Card stealer found on 80 major US news sites",
           "link": "https://risky.biz/risky-bulletin-card-stealer-found-on-80-major-us-news-sites/",
@@ -890,13 +897,6 @@
           "summary": "Slovakia's national security service NBU has issued a security alert against the use of NERO R-ONE high-speed traffic cameras. The agency says the cameras contain a backdoor mechanism that grants shell and network access to the devices via an SMS message received from a list of hardcoded Russian pho…",
           "date": "2026-08-19T04:52:14+00:00",
           "source": "Risky Biz Newsletters"
-        },
-        {
-          "title": "Risky Bulletin: The EU publishes its upcoming cybersecurity standards",
-          "link": "https://risky.biz/risky-bulletin-the-eu-publishes-its-upcoming-cybersecurity-standards/",
-          "summary": "The European Telecommunication Standards Institute has released 17 cybersecurity standards that vendors will have to follow to sell products in the EU when the EU Cyber Resilience Act enters into effect in December of 2027. The standards cover 17 core technologies for major product categories such a…",
-          "date": "2026-08-17T05:03:27+00:00",
-          "source": "Risky Biz Newsletters"
         }
       ]
     },
@@ -904,6 +904,41 @@
       "name": "SecurityWeek",
       "url": "https://www.securityweek.com/feed/",
       "articles": [
+        {
+          "title": "FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’",
+          "link": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
+          "summary": "FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information. The post FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’ appeared first on SecurityWeek .",
+          "date": "2026-11-26T17:06:55+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+          "link": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
+          "summary": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in Attacks appeared first on SecurityWeek .",
+          "date": "2026-11-26T13:04:06+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+          "link": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+          "summary": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks appeared first on SecurityWeek .",
+          "date": "2026-11-26T11:35:25+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
+          "link": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
+          "summary": "Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap Attackers Are Already Exploiting appeared first on SecurityWeek .",
+          "date": "2026-11-26T09:12:26+00:00",
+          "source": "SecurityWeek"
+        },
+        {
+          "title": "1Password Breach Exposes Customer Data, Internal Source Code",
+          "link": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
+          "summary": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer Data, Internal Source Code appeared first on SecurityWeek .",
+          "date": "2026-11-26T08:32:10+00:00",
+          "source": "SecurityWeek"
+        },
         {
           "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
           "link": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
@@ -938,41 +973,6 @@
           "summary": "The edtech company says the systems are fully operational and safe to use while it investigates the incident. The post Plagiarism Checker Turnitin Investigating Cyberattack appeared first on SecurityWeek .",
           "date": "2026-11-25T10:40:07+00:00",
           "source": "SecurityWeek"
-        },
-        {
-          "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
-          "link": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
-          "summary": "Attackers can exploit CVE-2026-131914 to achieve remote code execution via a single web request containing specially crafted data. The post Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library appeared first on SecurityWeek .",
-          "date": "2026-11-25T09:05:13+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
-          "link": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/",
-          "summary": "A China-linked hacking group chained PHP2Shell with Fragnesia in AI-assisted attacks that hit 25 servers. The post Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls appeared first on SecurityWeek .",
-          "date": "2026-11-25T08:12:24+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
-          "link": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
-          "summary": "CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days. The post Drupal Flaw Found by Anthropic Scanner Exploited in Attacks appeared first on SecurityWeek .",
-          "date": "2026-11-25T08:01:06+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
-          "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
-          "summary": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek .",
-          "date": "2026-11-24T22:41:58+00:00",
-          "source": "SecurityWeek"
-        },
-        {
-          "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
-          "link": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
-          "summary": "The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts. The post VMware Updates Patch Critical ESX, vCenter Vulnerabilities appeared first on SecurityWeek .",
-          "date": "2026-11-24T16:32:56+00:00",
-          "source": "SecurityWeek"
         }
       ]
     },
@@ -980,6 +980,48 @@
       "name": "The Hacker News",
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
+        {
+          "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+          "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+          "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small utils package or in conftest.py,\" SafeDep said in a report published …",
+          "date": "2026-11-26T15:13:41+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+          "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+          "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push Security, we measure this as breakthrough rate: The share of …",
+          "date": "2026-11-26T10:57:55+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+          "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+          "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps t…",
+          "date": "2026-11-26T10:57:25+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+          "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+          "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to C…",
+          "date": "2026-11-26T07:02:34+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+          "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+          "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week. The Mitel MiCollab vulnerabilities are listed below - CVE…",
+          "date": "2026-11-26T06:44:46+00:00",
+          "source": "The Hacker News"
+        },
+        {
+          "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+          "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+          "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket security researcher K…",
+          "date": "2026-11-26T03:48:52+00:00",
+          "source": "The Hacker News"
+        },
         {
           "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
           "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
@@ -1286,48 +1328,6 @@
           "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
           "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get peo…",
           "date": "2026-11-19T18:47:58+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-          "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-          "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server. Today's PHP …",
-          "date": "2026-11-19T16:59:56+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-          "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-          "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the patch follows an advance notice in which the project maintainers alerted users …",
-          "date": "2026-11-19T15:18:07+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-          "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-          "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter i…",
-          "date": "2026-11-19T15:11:06+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-          "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-          "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon.…",
-          "date": "2026-11-19T14:33:06+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Everything Is a Web Application, Including Your Firewall",
-          "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-          "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both flaws let anyone execut…",
-          "date": "2026-11-19T11:52:23+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-          "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-          "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to harden our services to r…",
-          "date": "2026-11-19T09:31:26+00:00",
           "source": "The Hacker News"
         }
       ]
@@ -1864,6 +1864,13 @@
           "source": "SANS Blog"
         },
         {
+          "title": "サイバー攻撃は、あなたの情報を盗まなくても生活を止める ― サプライチェーンと日本の組織が今すぐ取り組むべきこと Blog Cybersecurity Leadership   17 Nov 2026     Stephen Sims",
+          "link": "https://www.sans.org/blog/what-supply-chains-japanese-organizations-must-address-now",
+          "summary": "",
+          "date": "",
+          "source": "SANS Blog"
+        },
+        {
           "title": "Designing a Malware Analysis Lab With REMnux Blog Digital Forensics and Incident Response   17 Nov 2026     Lenny Zeltser",
           "link": "https://www.sans.org/blog/designing-a-malware-analysis-lab-with-remnux",
           "summary": "",
@@ -1929,13 +1936,6 @@
         {
           "title": "Putting AI Security into Action: Key Takeaways from the SANS Govern Field Guide  Blog Artificial Intelligence   20 Oct 2026     Chris Edmundson",
           "link": "https://www.sans.org/blog/putting-ai-security-into-action",
-          "summary": "",
-          "date": "",
-          "source": "SANS Blog"
-        },
-        {
-          "title": "Why AI Confidence Is Not Validation Blog Artificial Intelligence   20 Oct 2026     Heather Barnhart",
-          "link": "https://www.sans.org/blog/why-ai-confidence-is-not-validation",
           "summary": "",
           "date": "",
           "source": "SANS Blog"
