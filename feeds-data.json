@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-11-26T20:02:52.325937+00:00",
+  "generated_at": "2026-11-27T00:11:59.422116+00:00",
   "feeds": {
     "BleepingComputer": {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "articles": [
+        {
+          "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+          "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+          "summary": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
+          "date": "2026-11-26T21:06:22+00:00",
+          "source": "BleepingComputer"
+        },
         {
           "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
           "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
@@ -101,13 +108,6 @@
           "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
           "summary": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
           "date": "2026-11-25T07:45:03+00:00",
-          "source": "BleepingComputer"
-        },
-        {
-          "title": "Rackspace shuts down Spot cloud platform after security breach",
-          "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-          "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
-          "date": "2026-11-24T21:37:30+00:00",
           "source": "BleepingComputer"
         }
       ]
@@ -981,6 +981,13 @@
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "articles": [
         {
+          "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+          "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+          "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does. Checking whether software works as expected only tel…",
+          "date": "2026-11-26T19:39:57+00:00",
+          "source": "The Hacker News"
+        },
+        {
           "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
           "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
           "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small utils package or in conftest.py,\" SafeDep said in a report published …",
@@ -1321,13 +1328,6 @@
           "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
           "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine. The method was posted yesterday by a researcher wh…",
           "date": "2026-11-20T05:30:01+00:00",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-          "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-          "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get peo…",
-          "date": "2026-11-19T18:47:58+00:00",
           "source": "The Hacker News"
         }
       ]
